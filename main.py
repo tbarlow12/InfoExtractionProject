@@ -1,7 +1,6 @@
-from lxml import html
-import requests
-page = requests.get('https://en.wikipedia.org/wiki/Michael_Jordan')
-tree = html.fromstring(page.content)
-paragraphs = tree.xpath('//p/text()')
-for p in paragraphs:
-    print p
+#hcp 65001
+#set PYTHONIOENCODING=utf-8
+#run these commands in windows console to get utf-8 encoding
+import wikipedia
+stockton = wikipedia.page("John Stockton")
+print stockton.content
