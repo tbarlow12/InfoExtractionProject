@@ -14,13 +14,9 @@ def getSubject(question):
     return subject
 
 def getSections(content):
-    print content
-    regex = '===? (.*) ===?\\n((?:[^(?:===? .* ===)]|\\n| |\.|\(|\)|\:)*)'
+    regex = '===? (.*) ===?\\n((?:[^(?:===? .* ===)]|\\s|\.|\(|\)|\:)*)'
     p = re.compile(regex)
     matches = re.findall(p,content)
-    for m in matches:
-        print ''
-        print m
     return matches
 
 def getAnswer(question):
@@ -29,6 +25,7 @@ def getAnswer(question):
     summary = page.summary
     content = page.content.encode('utf-8')
     sections = getSections(content)
+    print str(len(sections))
     return page.title
 
 def main():
