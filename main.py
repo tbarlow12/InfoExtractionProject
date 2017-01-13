@@ -6,11 +6,30 @@ import fileinput
 import sys
 import re #https://docs.python.org/2/howto/regex.html
 
-def getSubject(question):
-    p = re.compile('Who is (.*)\?')
+summaryRegex = 'Who is (.*)\?'
+ageRegex = 'How old is (.*)\?'
+
+def getSubjectFromRegex(regex,question):
+    p = re.compile(regex)
     m = p.match(question)
-    subject = m.group(1)
-    print 'subject: ' + subject
+    print regex
+    print question
+    if m is not None:
+        subject = m.group(1)
+        return subject
+    return ''
+
+def getSubject(question):
+    subject = getSubjectFromRegex(summaryRegex,question)
+    if(len(subject) == 0):
+        subject = getSubjectFromRegex(ageRegex,question)
+    '''
+    if subject is not None:
+        subject = getSubjectFromRegex(ageRegex,question)
+
+    if subject is None:
+        subject = ''
+        '''
     return subject
 
 def getSections(content):
@@ -21,19 +40,21 @@ def getSections(content):
 
 def getAnswer(question):
     subject = getSubject(question)
-    page = wikipedia.page(subject)
-    summary = page.summary
-    content = page.content.encode('utf-8')
-    sections = getSections(content)
-    print str(len(sections))
-    return page.title
+    if (len(subject) > 0):
+        page = wikipedia.page(subject)
+        summary = page.summary
+        content = page.content.encode('utf-8')
+        sections = getSections(content)
+        return page.title
+    return 'I couldn\'t find an answer to that question'
 
 def main():
     while True:
         question = sys.stdin.readline()
         if(len(question) == 0):
             return
-        getAnswer(question)
+        print 'Question: ' + question
+        print getAnswer(question)
 
 
 if __name__ == '__main__':
