@@ -1,0 +1,27 @@
+
+easy list 1: 58.2338902148
+easy list 2: 64.4329896907
+easy list 3: 44.3127962085
+
+Average easy score: 55.659892038
+
+medium list 1: 0.0
+medium list 2: 2.1164021164
+medium list 3: 0.694444444444
+
+Average medium score: 0.936948853616
+
+hard list 1: 9.4387755102
+hard list 2: 22.4137931034
+hard list 3: 6.37254901961
+
+Average hard score: 12.7417058778
+
+too hard list 1: 0
+too hard list 2: 0
+too hard list 3: 0
+
+Average 'too hard' score: 0.0
+
+Total overall score: 24.8328091192
+
