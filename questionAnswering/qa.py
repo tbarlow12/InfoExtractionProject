@@ -1,3 +1,5 @@
+import re
+
 class trainedModel(object):
     @classmethod
     def train(self,path):
@@ -10,7 +12,13 @@ class answerer(object):
 
     @classmethod
     def answerQuestion(self,question):
-        return 'yes'
+        yesNoWords = '(?:is|did|was|do|are|were|has|have|had|would|will|can)?'
+        yesNoRegex = '(?:' + yesNoWords + ')|(?:' + '.*, ' + yesNoWords + ') ' + '.*\?'
+        p = re.compile(yesNoRegex,re.I)
+        if(p.match(question)):
+            #print question
+            return 'yes'
+        return ''
 
     def __init__(self,trainingData):
         self.model = trainedModel(trainingData)
@@ -49,10 +57,17 @@ class tester(object):
     @classmethod
     def testList(tester,answerList,a):
         correct = 0
+        yesNo = 0
         for x in answerList:
-            actual = a.answerQuestion(x.question)
-            if(actual.lower() == x.answer.lower()):
-                correct += 1
+            if(x.answer.lower() == 'yes' or x.answer.lower() == 'no'):
+                yesNo += 1
+            if x.question != 'Question':
+                actual = a.answerQuestion(x.question)
+                if(actual.lower() == x.answer.lower()):
+                    correct += 1
+                elif(x.answer.lower() == 'yes'):
+                    print x.question
+        print 'yes no ratio: ' + str(float(yesNo) / float(len(answerList)))
         if(len(answerList) == 0):
             return 0
         return (float(correct) / float(len(answerList)) * 100)
@@ -139,8 +154,6 @@ class tester(object):
 def main():
     a = answerer('test')
     tester.testAnswerer(a,0)
-
-
 
 if __name__ == '__main__':
     main()
