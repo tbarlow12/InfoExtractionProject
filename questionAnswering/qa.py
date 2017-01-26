@@ -2,7 +2,7 @@ import re
 import nltk
 from nltk import ne_chunk, pos_tag, word_tokenize
 from nltk.tree import Tree
-from nltk.tokenize import MWETokenizer
+from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import PlaintextCorpusReader
 import hashlib
 import os
@@ -11,7 +11,7 @@ from os.path import isfile, join
 import glob
 import sys
 reload(sys)  # Reload does the trick!
-sys.setdefaultencoding('UTF8')
+sys.setdefaultencoding('latin-1')
 
 class document(object):
 
@@ -29,16 +29,15 @@ class document(object):
     @classmethod
     def getWords(self,sentences):
         allWords = []
-        tokenizer = MWETokenizer()
         for sentence in sentences:
-            words = tokenizer.tokenize(sentence.split())
+            words = word_tokenize(sentence)
+            #words = tokenizer.tokenize(sentence.split())
             allWords.append(words)
         return allWords
 
     @classmethod
     def getSentences(self,content):
-        sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
-        return sent_detector.tokenize(content.strip())
+        return sent_tokenize(content.decode())
 
     def __init__(self,title,content):
         self.title = title
@@ -58,7 +57,6 @@ class trainedModel(object):
         lines = [x.strip() for x in lines]
         if(len(lines) > 1):
             title = lines[0].decode()
-            print path
             print title
             content = lines[1:len(lines)]
             strContent = ''
@@ -67,12 +65,12 @@ class trainedModel(object):
             doc = document(title,strContent)
             self.documents[title] = doc
 
-
     @classmethod
     def train(self,path):
         corpus_root = '.'
         corpus = PlaintextCorpusReader(corpus_root, '.*.txt.clean')
         for path in corpus.fileids():
+            print path
             self.addDocToDictionary(path)
 
         model = 'test'
@@ -80,9 +78,6 @@ class trainedModel(object):
 
     def __init__(self,path):
         self.model = self.train(path)
-
-
-
 class answerer(object):
     @classmethod
     def get_continuous_chunks(self,text):
