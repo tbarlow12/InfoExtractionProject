@@ -51,30 +51,39 @@ class trainedModel(object):
     documents = {}
 
     @classmethod
+    def normalizeTitle(self,title):
+        return title.replace('_',' ')
+
+    @classmethod
     def addDocToDictionary(self,path):
         with open(path) as f:
             lines = f.readlines()
         lines = [x.strip() for x in lines]
         if(len(lines) > 1):
-            title = lines[0].decode()
-            print title
+            title = self.normalizeTitle(lines[0].decode())
             content = lines[1:len(lines)]
             strContent = ''
             for line in content:
                 strContent += line
             doc = document(title,strContent)
-            self.documents[title] = doc
+            if (title in self.documents):
+                self.documents[title].append(doc)
+            else:
+                docList = []
+                docList.append(doc)
+                self.documents[title] = docList
+            print title
+            print len(self.documents[title])
+
 
     @classmethod
     def train(self,path):
         corpus_root = '.'
         corpus = PlaintextCorpusReader(corpus_root, '.*.txt.clean')
         for path in corpus.fileids():
-            print path
             self.addDocToDictionary(path)
 
-        model = 'test'
-        return model
+        return 'model'
 
     def __init__(self,path):
         self.model = self.train(path)
