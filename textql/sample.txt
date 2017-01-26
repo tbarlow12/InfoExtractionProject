@@ -1,7 +1,0 @@
-Consider a healthcare database. For every person, we need to record, the person’s SSN, birthdate,
-gender, height and weight. For male records, the users also want to know the percent of body muscle
-mass, while for female records they want to know the the testosterone level. Moreover, our database
-should be able to store or deduce the biological mother, father and children of each person. Finally,
-there are different tests (with unique names, like ’red-blood-cell-count’, ’cholesterole-level’), which may
-be administered zero or more times on each person. For each administered test, our users need to know
-the name of the test, the date, the person and the result (assuming this is always numerical) of the test.

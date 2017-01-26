@@ -1,0 +1,6 @@
+
+yes no ratio: 0.317201166181
+yes no ratio: 0.374092009685
+yes no ratio: 0.228238519534
+Total overall score: 24.8328091192
+

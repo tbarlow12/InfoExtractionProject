@@ -1,17 +1,130 @@
 import re
+import nltk
+from nltk import ne_chunk, pos_tag, word_tokenize
+from nltk.tree import Tree
+from nltk.tokenize import MWETokenizer
+from nltk.corpus import PlaintextCorpusReader
+import hashlib
+import os
+from os import listdir
+from os.path import isfile, join
+import glob
+import sys
+reload(sys)  # Reload does the trick!
+sys.setdefaultencoding('UTF8')
+
+class document(object):
+
+    @classmethod
+    def hashWords(self,allWords):
+        allHashes = []
+        for sentence in allWords:
+            hashes = []
+            for word in sentence:
+                hash_object = hashlib.md5(word.encode())
+                hashes.append(hash_object)
+            allHashes.append(hashes)
+        return allHashes
+
+    @classmethod
+    def getWords(self,sentences):
+        allWords = []
+        tokenizer = MWETokenizer()
+        for sentence in sentences:
+            words = tokenizer.tokenize(sentence.split())
+            allWords.append(words)
+        return allWords
+
+    @classmethod
+    def getSentences(self,content):
+        sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
+        return sent_detector.tokenize(content.strip())
+
+    def __init__(self,title,content):
+        self.title = title
+        self.content = content
+        self.sentences = self.getSentences(self.content)
+        self.words = self.getWords(self.sentences)
+        #self.hashes = self.hashWords(self.words)
+        #self.hashSentences(self.sentences)
 
 class trainedModel(object):
+    documents = {}
+
+    @classmethod
+    def addDocToDictionary(self,path):
+        with open(path) as f:
+            lines = f.readlines()
+        lines = [x.strip() for x in lines]
+        if(len(lines) > 1):
+            title = lines[0].decode()
+            print path
+            print title
+            content = lines[1:len(lines)]
+            strContent = ''
+            for line in content:
+                strContent += line
+            doc = document(title,strContent)
+            self.documents[title] = doc
+
+
     @classmethod
     def train(self,path):
+        corpus_root = '.'
+        corpus = PlaintextCorpusReader(corpus_root, '.*.txt.clean')
+        for path in corpus.fileids():
+            self.addDocToDictionary(path)
+
         model = 'test'
         return model
 
     def __init__(self,path):
         self.model = self.train(path)
+
+
+
 class answerer(object):
+    @classmethod
+    def get_continuous_chunks(self,text):
+         chunked = ne_chunk(pos_tag(word_tokenize(text)))
+         prev = None
+         current_chunk = []
+         continuous_chunk = []
+         for i in chunked:
+             if type(i) == Tree:
+                 current_chunk.append(" ".join([token for token, pos in i.leaves()]))
+             elif current_chunk:
+                 named_entity = " ".join(current_chunk)
+                 if named_entity not in continuous_chunk:
+                         continuous_chunk.append(named_entity)
+                         current_chunk = []
+             else:
+                 continue
+         return continuous_chunk
+
+    @classmethod
+    def getTaggedString(self,text):
+        return nltk.pos_tag(nltk.word_tokenize(text))
+
+    @classmethod
+    def classifyQuestion(self,question):
+        return 0
+        #Answers for 4W1H questions may classified into
+        #two groups. First group is the answers for how and
+        #consists of numerical expressions like distance, time,
+        #and so on. Second group corresponds to the answers
+        #for 4W, and consists of proper names like person name
+        #and time expressions like date.
+
+        #TODO analyze sentence similarity. Hash each word and use Jaccard
+
 
     @classmethod
     def answerQuestion(self,question):
+        qType = self.classifyQuestion(question)
+
+
+        #print str(self.get_continuous_chunks(question)) + '\t' + question + '\t' + str(self.getTaggedString(question))
         yesNoWords = '(?:is|did|was|do|are|were|has|have|had|would|will|can)?'
         yesNoRegex = '(?:' + yesNoWords + ')|(?:' + '.*, ' + yesNoWords + ') ' + '.*\?'
         p = re.compile(yesNoRegex,re.I)
