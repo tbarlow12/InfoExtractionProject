@@ -10,10 +10,17 @@ from os import listdir
 from os.path import isfile, join
 import glob
 import sys
-reload(sys)  # Reload does the trick!
+reload(sys)
 sys.setdefaultencoding('latin-1')
 
-class document(object):
+class helpers(object):
+    @classmethod
+    def getWords(self,sentences):
+        allWords = []
+        for sentence in sentences:
+            words = word_tokenize(sentence.lower())
+            allWords.append(words)
+        return allWords
 
     @classmethod
     def hashWords(self,allWords):
@@ -27,26 +34,19 @@ class document(object):
         return allHashes
 
     @classmethod
-    def getWords(self,sentences):
-        allWords = []
-        for sentence in sentences:
-            words = word_tokenize(sentence)
-            #words = tokenizer.tokenize(sentence.split())
-            allWords.append(words)
-        return allWords
-
-    @classmethod
     def getSentences(self,content):
         return sent_tokenize(content.decode())
+
+
+class document(object):
 
     def __init__(self,title,content):
         self.title = title
         self.content = content
-        self.sentences = self.getSentences(self.content)
-        self.words = self.getWords(self.sentences)
+        self.sentences = helpers.getSentences(self.content)
+        self.words = helpers.getWords(self.sentences)
         #self.hashes = self.hashWords(self.words)
         #self.hashSentences(self.sentences)
-
 class trainedModel(object):
     documents = {}
 
@@ -72,22 +72,30 @@ class trainedModel(object):
                 docList = []
                 docList.append(doc)
                 self.documents[title] = docList
-            print title
-            print len(self.documents[title])
 
+    def findArticles(self,topic):
+        if(topic in self.documents):
+            docsList = self.documents[topic]
+            return docsList
+        else:
+            return None
 
     @classmethod
     def train(self,path):
         corpus_root = '.'
         corpus = PlaintextCorpusReader(corpus_root, '.*.txt.clean')
+        docCount = 0
         for path in corpus.fileids():
             self.addDocToDictionary(path)
-
-        return 'model'
+            docCount += 1
+        print 'doc count: ' + str(docCount)
+        return self.documents
 
     def __init__(self,path):
-        self.model = self.train(path)
+        self.train(path)
+
 class answerer(object):
+
     @classmethod
     def get_continuous_chunks(self,text):
          chunked = ne_chunk(pos_tag(word_tokenize(text)))
@@ -121,24 +129,25 @@ class answerer(object):
         #and time expressions like date.
 
         #TODO analyze sentence similarity. Hash each word and use Jaccard
-
-
-    @classmethod
-    def answerQuestion(self,question):
-        qType = self.classifyQuestion(question)
-
-
-        #print str(self.get_continuous_chunks(question)) + '\t' + question + '\t' + str(self.getTaggedString(question))
         yesNoWords = '(?:is|did|was|do|are|were|has|have|had|would|will|can)?'
         yesNoRegex = '(?:' + yesNoWords + ')|(?:' + '.*, ' + yesNoWords + ') ' + '.*\?'
         p = re.compile(yesNoRegex,re.I)
         if(p.match(question)):
-            #print question
-            return 'yes'
+            return 0
+        return 1
+
+    def answerQuestion(self,question):
+        qType = self.classifyQuestion(question)
+        named_entities = self.get_continuous_chunks(question)
+        for n in named_entities:
+            articles = self.model.findArticles(n)
+            '''if(articles is not None):
+                print len(articles)'''
         return ''
 
     def __init__(self,trainingData):
         self.model = trainedModel(trainingData)
+
 class testAnswerPair(object):
     def __init__(self,tup):
         self.title = tup[0].strip()
@@ -182,9 +191,10 @@ class tester(object):
                 actual = a.answerQuestion(x.question)
                 if(actual.lower() == x.answer.lower()):
                     correct += 1
-                elif(x.answer.lower() == 'yes'):
-                    print x.question
-        print 'yes no ratio: ' + str(float(yesNo) / float(len(answerList)))
+                #elif(x.answer.lower() == 'yes'):
+                    #print x.question
+
+        #print 'yes no ratio: ' + str(float(yesNo) / float(len(answerList)))
         if(len(answerList) == 0):
             return 0
         return (float(correct) / float(len(answerList)) * 100)
