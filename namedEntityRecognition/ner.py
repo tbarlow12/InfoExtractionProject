@@ -6,9 +6,18 @@ tags = set()
 
 def readFile(path):
     with open(path) as f:
-        lines = f.readlines()
-    tups = [x.strip().split() for x in lines]
-    return tups
+        text = f.read()
+    sentences = text.strip().split("\n\n")
+    instances = [s.strip().split("\n") for s in sentences]
+    splitInstances = []
+    for i in instances:
+        tups = [x.strip().split() for x in i]
+        if(len(tups) > 0):
+            splitInstances.append(tups)
+    for s in splitInstances:
+        print 'split instance:'
+        print s
+    return splitInstances
 
 def test(testData):
     tups = readFile(testData)
@@ -21,44 +30,46 @@ def findWordsAndTags(tups):
             words.add(t[2])
 
 
-def wordFeatureType(word):
+def wordFeatureVector(word):
     return 0
-def wordCapFeatureType(word):
+def wordCapFeatureVector(word):
     return 0
-def posconFeatureType(word):
+def posconFeatureVector(word):
     return 0
-def lexconFeatureType(word):
+def lexconFeatureVector(word):
     return 0
-def bothconFeatureType(word):
+def bothconFeatureVector(word):
     return 0
 
 
-def createFeatureTypes(word,fType):
+def createFeatureVectors(word,fType):
     return {
-        'word': wordFeatureType(word),
-        'wordcap': wordCapFeatureType(word),
-        'poscon': posconFeatureType(word),
-        'lexcon': lexconFeatureType(word),
-        'bothcon': bothconFeatureType(word)
+        'word': wordFeatureVector(word),
+        'wordcap': wordCapFeatureVector(word),
+        'poscon': posconFeatureVector(word),
+        'lexcon': lexconFeatureVector(word),
+        'bothcon': bothconFeatureVector(word)
     }[fType]
 
-def createAllFeatureTypes(fType):
+def createAllFeatureVectors(fType):
     for word in words:
-        createFeatureTypes(word,fType)
+        createFeatureVectors(word,fType)
 
 def train(trainingData,fType):
-    tups = readFile(trainingData)
-    findWordsAndTags(tups)
-    createAllFeatureTypes(fType)
+    trainingInstances = readFile(trainingData)
+    findWordsAndTags(trainingInstances)
+    createAllFeatureVectors(fType)
     print bios
     print len(words)
 
 def main():
-    trainingData = sys.argv[1]
-    testData = sys.argv[2]
-    fType = sys.argv[3]
-
+    trainingData = sys.argv[1].strip()
+    testData = sys.argv[2].strip()
+    fType = sys.argv[3].strip()
     train(trainingData,fType)
+
+    trainOutput = trainingData + '.' + fType
+    testOutput = testData + '.' + fType
 
 
 if __name__ == '__main__':
