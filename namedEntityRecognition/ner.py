@@ -89,6 +89,11 @@ def bothconFeatureIds(instance):
 
     return featureIds
 
+def addWordFeature(featureIds,features,word):
+    key = 'curr-' + word
+    if(key in featureIds):
+        features.append(featureIds[key])
+
 def addCapFeature(featureIds,features,word):
     if(getIsCap(word)):
         capFeatureId = featureIds['capitalized']
@@ -145,10 +150,12 @@ def bothconLineVector(featureIds,instance,index):
     vector.append(bioLabel)
 
     features = []
-
+    addWordFeature(featureIds,features,word)
     addCapFeature(featureIds,features,word)
     addConFeature(featureIds,features,instance,index,POSCON)
     addConFeature(featureIds,features,instance,index,LEXCON)
+
+    features.sort()
     vector.extend(features)
 
 
