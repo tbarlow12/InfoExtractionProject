@@ -4,6 +4,9 @@ bios = set()
 words = set()
 tags = set()
 
+POSCON = 1
+LEXCON = 2
+
 def readFile(path):
     with open(path) as f:
         text = f.read()
@@ -30,6 +33,9 @@ def getBioLabel(bio):
         'I-ORG': 6
     }[bio]
 
+def getIsCap(word):
+    return word[0].isupper()
+
 def wordFeatureVector(instance):
     vector = []
     vector.append(instance[0])
@@ -45,26 +51,124 @@ def lexconFeatureVector(instance):
     return vector
 
 
-def addToDictionary(d,s):
+def addToDictionarySizeValue(d,s):
     if(s not in d):
         d[s] = len(d) + 1
-        print s + ': ' + str(d[s])
 
-def bothconFeatureVector(instance):
+def addAllThreeToDictionary(d,s):
+    curr = 'curr-' + s
+    prev = 'prev-' + s
+    next = 'next-' + s
+    addToDictionarySizeValue(d,curr)
+    addToDictionarySizeValue(d,prev)
+    addToDictionarySizeValue(d,next)
+
+def addTwoToDictionary(d,s):
+    prev = 'prev-' + s
+    next = 'next-' + s
+    addToDictionarySizeValue(d,prev)
+    addToDictionarySizeValue(d,next)
+
+def bothconFeatureIds(instance):
     featureIds = {}
     for line in instance:
-        word = line[2]
-        curr = 'curr-' + word
-        prev = 'prev-' + word
-        next = 'next-' + word
-        addToDictionary(featureIds,curr)
-        addToDictionary(featureIds,prev)
-        addToDictionary(featureIds,next)
+        addAllThreeToDictionary(featureIds,line[2])
 
+    addAllThreeToDictionary(featureIds,'PHI')
+    addAllThreeToDictionary(featureIds,'OMEGA')
+    addAllThreeToDictionary(featureIds,'UNKWORD')
+
+    for line in instance:
+        addTwoToDictionary(featureIds,line[1])
+
+    addTwoToDictionary(featureIds,'PHIPOS')
+    addTwoToDictionary(featureIds,'OMEGAPOS')
+    addTwoToDictionary(featureIds,'UNKPOS')
+
+    addToDictionarySizeValue(featureIds,'capitalized')
+
+    return featureIds
+
+def addCapFeature(featureIds,features,word):
+    if(getIsCap(word)):
+        capFeatureId = featureIds['capitalized']
+        features.append(capFeatureId)
+
+def addFeature(featureIds,features,posLex,prefix,word):
+    key = prefix + word
+    if key in featureIds:
+        featureId = featureIds[key]
+    elif (posLex == POSCON):
+        featureId = featureIds[prefix + 'UNKPOS']
+    else:
+        featureId = featureIds[prefix + 'UNKWORD']
+    if(featureId not in features):
+        features.append(featureId)
+
+def addNext(featureIds,features,instance,index,posLex):
+
+        if(index < len(instance) - 1):
+            next = instance[index+1][posLex]
+        elif (posLex == POSCON):
+            next = 'OMEGAPOS'
+        else:
+            next = 'OMEGA'
+
+        addFeature(featureIds,features,posLex,'next-',next)
+
+def addPrevious(featureIds,features,instance,index,posLex):
+    line = instance[index]
+
+    if(index > 0):
+        prev = instance[index-1][posLex]
+    elif (posLex == POSCON):
+        prev = 'PHIPOS'
+    else:
+        prev = 'PHI'
+
+    addFeature(featureIds,features,posLex,'prev-',prev)
+
+
+def addConFeature(featureIds,features,instance,index,posLex):
+    addPrevious(featureIds,features,instance,index,posLex)
+    addNext(featureIds,features,instance,index,posLex)
+
+
+def bothconLineVector(featureIds,instance,index):
+    line = instance[index]
 
     vector = []
+    tag = line[1]
+    word = line[2]
+
+    bioLabel = getBioLabel(line[0])
+    vector.append(bioLabel)
+
+    features = []
+
+    addCapFeature(featureIds,features,word)
+    addConFeature(featureIds,features,instance,index,POSCON)
+    addConFeature(featureIds,features,instance,index,LEXCON)
+    vector.extend(features)
 
 
+
+
+
+    return vector
+
+
+
+def bothconFeatureVector(instance):
+    featureIds = bothconFeatureIds(instance)
+    vector = []
+    index = 0
+    while(index < len(instance)):
+        v = bothconLineVector(featureIds,instance,index)
+        print v
+        vector.append(v)
+
+        index += 1
 
     return vector
 
