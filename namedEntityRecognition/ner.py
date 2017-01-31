@@ -12,44 +12,84 @@ def readFile(path):
     splitInstances = []
     for i in instances:
         tups = [x.strip().split() for x in i]
-        if(len(tups) > 0):
-            splitInstances.append(tups)
-    for s in splitInstances:
-        print 'split instance:'
-        print s
+        splitInstances.append(tups)
     return splitInstances
 
 def test(testData):
     tups = readFile(testData)
 
-def findWordsAndTags(tups):
-    for t in tups:
-        if(len(t) > 0):
-            bios.add(t[0])
-            tags.add(t[1])
-            words.add(t[2])
 
-
-def wordFeatureVector(word):
-    return 0
-def wordCapFeatureVector(word):
-    return 0
-def posconFeatureVector(word):
-    return 0
-def lexconFeatureVector(word):
-    return 0
-def bothconFeatureVector(word):
-    return 0
-
-
-def createFeatureVectors(word,fType):
+def getBioLabel(bio):
     return {
-        'word': wordFeatureVector(word),
-        'wordcap': wordCapFeatureVector(word),
-        'poscon': posconFeatureVector(word),
-        'lexcon': lexconFeatureVector(word),
-        'bothcon': bothconFeatureVector(word)
+        'O': 0,
+        'B-PER': 1,
+        'I-PER': 2,
+        'B-LOC': 3,
+        'I-LOC': 4,
+        'B-ORG': 5,
+        'I-ORG': 6
+    }[bio]
+
+def wordFeatureVector(instance):
+    vector = []
+    vector.append(instance[0])
+    #return vector
+def wordCapFeatureVector(instance):
+    vector = []
+    return vector
+def posconFeatureVector(instance):
+    vector = []
+    return vector
+def lexconFeatureVector(instance):
+    vector = []
+    return vector
+
+
+def addToDictionary(d,s):
+    if(s not in d):
+        d[s] = len(d) + 1
+        print s + ': ' + str(d[s])
+
+def bothconFeatureVector(instance):
+    featureIds = {}
+    for line in instance:
+        word = line[2]
+        curr = 'curr-' + word
+        prev = 'prev-' + word
+        next = 'next-' + word
+        addToDictionary(featureIds,curr)
+        addToDictionary(featureIds,prev)
+        addToDictionary(featureIds,next)
+
+
+    vector = []
+
+
+
+    return vector
+
+
+def createFeatureVector(instance,fType):
+    return {
+        'word': wordFeatureVector(instance),
+        'wordcap': wordCapFeatureVector(instance),
+        'poscon': posconFeatureVector(instance),
+        'lexcon': lexconFeatureVector(instance),
+        'bothcon': bothconFeatureVector(instance)
     }[fType]
+
+
+def processTrainingInstances(instances,fType):
+    for instance in instances:
+        v = createFeatureVector(instance,fType)
+
+
+
+            #print t
+            #print '\n'
+            #bios.add(t[0])
+            #tags.add(t[1])
+            #words.add(t[2])
 
 def createAllFeatureVectors(fType):
     for word in words:
@@ -57,10 +97,8 @@ def createAllFeatureVectors(fType):
 
 def train(trainingData,fType):
     trainingInstances = readFile(trainingData)
-    findWordsAndTags(trainingInstances)
+    processTrainingInstances(trainingInstances,fType)
     createAllFeatureVectors(fType)
-    print bios
-    print len(words)
 
 def main():
     trainingData = sys.argv[1].strip()
