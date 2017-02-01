@@ -122,14 +122,13 @@ def addPrevious(featureIds,features,instance,index,posLex):
 
 def getLineVector(featureIds,instance,index,mode):
     line = instance[index]
-
     vector = []
     bioLabel = getBioLabel(line[0])
     vector.append(bioLabel)
 
     features = []
     addWordFeature(featureIds,features,line[2])
-    if(mode > 1):
+    if(mode > 0):
         addWordCapFeature(featureIds,features,line[2])
     if(mode == 2 or mode == 4):
         addConFeature(featureIds,features,instance,index,POSCON)
@@ -137,6 +136,7 @@ def getLineVector(featureIds,instance,index,mode):
         addConFeature(featureIds,features,instance,index,LEXCON)
 
     addFeaturesToVector(vector,features)
+    return vector
 
 def addConFeature(featureIds,features,instance,index,posLex):
     addPrevious(featureIds,features,instance,index,posLex)
@@ -149,7 +149,9 @@ def addFeaturesToVector(vector,features):
 
 def wordFeatureIds(instance):
     featureIds = {}
-    addWordsToFeatureIds(featureIds,instance,True)
+    addWordsToFeatureIds(featureIds,instance,False)
+    return featureIds
+
 def wordFeatureVector(instance):
     featureIds = wordFeatureIds(instance)
     vector = []
@@ -159,56 +161,59 @@ def wordFeatureVector(instance):
         vector.append(v)
         index += 1
     return vector
-
+def wordCapFeatureIds(instance):
+    featureIds = {}
+    addWordsToFeatureIds(featureIds,instance,False)
+    addToDictionarySizeValue(featureIds,'capitalized')
+    return featureIds
 def wordCapFeatureVector(instance):
+    featureIds = wordCapFeatureIds(instance)
     vector = []
+    index = 0
+    while(index < len(instance)):
+        v = getLineVector(featureIds,instance,index,1)
+        vector.append(v)
+        index += 1
     return vector
 def posconFeatureVector(instance):
+    featureIds = posconFeatureIds(instance)
     vector = []
+    index = 0
+    while(index < len(instance)):
+        v = getLineVector(featureIds,instance,index,2)
+        vector.append(v)
+        index += 1
     return vector
-def lexconLineVector(featureIds,instance,index):
-    line = instance[index]
+def posconFeatureIds(instance):
+    featureIds = {}
+    #True if you want prev and next
+    addPosToFeatureIds(featureIds,instance)
+    addToDictionarySizeValue(featureIds,'capitalized')
+    return featureIds
 
-    vector = []
-    bioLabel = getBioLabel(line[0])
-    vector.append(bioLabel)
+def lexconFeatureIds(instance):
+    featureIds = {}
+    #True if you want prev and next
+    addWordsToFeatureIds(featureIds,instance,True)
+    addToDictionarySizeValue(featureIds,'capitalized')
+    return featureIds
 
-    features = []
-
-    addWordFeature(featureIds,features,line[2])
-    addWordCapFeature(featureIds,features,line[2])
-    addConFeature(featureIds,features,instance,index,LEXCON)
-
-    addFeaturesToVector(vector,features)
-
-    return vector
 def lexconFeatureVector(instance):
+    featureIds = lexconFeatureIds(instance)
     vector = []
+    index = 0
+    while(index < len(instance)):
+        v = getLineVector(featureIds,instance,index,3)
+        vector.append(v)
+        index += 1
     return vector
-def bothconLineVector(featureIds,instance,index):
-    line = instance[index]
 
-    vector = []
-    bioLabel = getBioLabel(line[0])
-    vector.append(bioLabel)
-
-    features = []
-
-    addWordFeature(featureIds,features,line[2])
-    addWordCapFeature(featureIds,features,line[2])
-    addConFeature(featureIds,features,instance,index,POSCON)
-    addConFeature(featureIds,features,instance,index,LEXCON)
-
-    addFeaturesToVector(vector,features)
-
-    return vector
 def bothconFeatureIds(instance):
     featureIds = {}
     #True if you want prev and next
     addWordsToFeatureIds(featureIds,instance,True)
     addPosToFeatureIds(featureIds,instance)
     addToDictionarySizeValue(featureIds,'capitalized')
-
     return featureIds
 def bothconFeatureVector(instance):
     featureIds = bothconFeatureIds(instance)
@@ -218,34 +223,57 @@ def bothconFeatureVector(instance):
         v = getLineVector(featureIds,instance,index,4)
         vector.append(v)
         index += 1
-
     return vector
 
 def createFeatureVector(instance,fType):
-    return {
-        'word': wordFeatureVector(instance),
-        'wordcap': wordCapFeatureVector(instance),
-        'poscon': posconFeatureVector(instance),
-        'lexcon': lexconFeatureVector(instance),
-        'bothcon': bothconFeatureVector(instance)
-    }[fType]
+    if(fType == 'word'):
+        return wordFeatureVector(instance)
+    elif(fType == 'wordcap'):
+        return wordCapFeatureVector(instance)
+    elif(fType == 'poscon'):
+        return posconFeatureVector(instance)
+    elif(fType == 'lexcon'):
+        return lexconFeatureVector(instance)
+    elif(fType == 'bothcon'):
+        return bothconFeatureVector(instance)
 
-def processTrainingInstances(instances,fType):
+def processInstances(instances,fType):
+    results = []
     for instance in instances:
         v = createFeatureVector(instance,fType)
+        results.append(v)
+    return results
 
-def train(trainingData,fType):
-    trainingInstances = readFile(trainingData)
-    processTrainingInstances(trainingInstances,fType)
+def process(data,fType):
+    instances = readFile(data)
+    return processInstances(instances,fType)
+
+def getString(result):
+    finalString = ''
+    for i in result:
+        for j in i:
+            line = ''
+            for k in j:
+                line += str(k) + ' '
+            line = line[:-1]
+            finalString += line + '\n'
+    return finalString
 
 def main():
     trainingData = sys.argv[1].strip()
     testData = sys.argv[2].strip()
     fType = sys.argv[3].strip()
-    train(trainingData,fType)
+    trainResult = process(trainingData,fType)
+    testResult = process(testData,fType)
 
-    trainOutput = trainingData + '.' + fType
-    testOutput = testData + '.' + fType
+    print getString(trainResult)
+    print getString(testResult)
+
+
+    trainOutputFile = trainingData + '.' + fType
+    testOutputFile = testData + '.' + fType
+
+
 
 
 if __name__ == '__main__':
