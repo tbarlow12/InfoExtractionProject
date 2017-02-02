@@ -1,8 +1,14 @@
 import sys
+import operator
 
 POSCON = 1
 LEXCON = 2
 featureIds = {}
+
+def printSortedFeatureIds():
+    sorted_x = sorted(featureIds.items(), key=operator.itemgetter(1))
+    for i in sorted_x:
+        print str(i[1]) + '\t' + i[0]
 
 
 def readFile(path):
@@ -97,7 +103,7 @@ def getLineVector(featureIds,instance,index,mode):
         addConFeature(featureIds,features,instance,index,LEXCON)
     addFeaturesToVector(vector,features)
     return vector
-    
+
 def addFeature(featureIds,features,posLex,prefix,word):
     key = prefix + word
     if key in featureIds:
@@ -162,6 +168,7 @@ def wordCapFeatureVector(instance):
         vector.append(v)
         index += 1
     return vector
+
 def posconFeatureVector(instance):
     featureIds = posconFeatureIds(instance)
     vector = []
@@ -173,6 +180,7 @@ def posconFeatureVector(instance):
     return vector
 def posconFeatureIds(instance):
     #True if you want prev and next
+    addWordsToFeatureIds(featureIds,instance,False)
     addPosToFeatureIds(featureIds,instance)
     addToDictionarySizeValue(featureIds,'capitalized')
     return featureIds
@@ -250,9 +258,10 @@ def main():
     trainResult = process(trainingData,fType)
     testResult = process(testData,fType)
 
-    print
-    print getString(testResult)
+    printSortedFeatureIds()
 
+
+    print getString(testResult)
 
     trainOutputFile = trainingData + '.' + fType
     testOutputFile = testData + '.' + fType
