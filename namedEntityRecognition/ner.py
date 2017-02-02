@@ -82,12 +82,6 @@ def addWordCapFeature(featureIds,features,word):
         capFeatureId = featureIds['capitalized']
         features.append(capFeatureId)
 
-
-
-
-
-
-
 def getLineVector(featureIds,instance,index,mode):
     line = instance[index]
     vector = []
@@ -103,6 +97,7 @@ def getLineVector(featureIds,instance,index,mode):
         addConFeature(featureIds,features,instance,index,LEXCON)
     addFeaturesToVector(vector,features)
     return vector
+    
 def addFeature(featureIds,features,posLex,prefix,word):
     key = prefix + word
     if key in featureIds:

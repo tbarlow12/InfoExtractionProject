@@ -8,8 +8,14 @@
 ./predict test.txt.poscon model.poscon? predictions.txt > accuracyPoscon.txt
 ./predict test.txt.lexcon model.lexcon? predictions.txt > accuracyLexcon.txt
 ./predict test.txt.bothcon model.bothcon? predictions.txt > accuracyBothcon.txt
+
+echo word
 cat accuracyWord.txt
+echo wordcap
 cat accuracyWordCap.txt
+echo poscon
 cat accuracyPoscon.txt
+echo lexcon
 cat accuracyLexcon.txt
+echo bothcon
 cat accuracyBothcon.txt
