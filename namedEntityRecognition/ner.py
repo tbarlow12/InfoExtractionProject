@@ -2,6 +2,8 @@ import sys
 
 POSCON = 1
 LEXCON = 2
+featureIds = {}
+
 
 def readFile(path):
     with open(path) as f:
@@ -13,10 +15,6 @@ def readFile(path):
         tups = [x.strip().split() for x in i]
         splitInstances.append(tups)
     return splitInstances
-
-def test(testData):
-    tups = readFile(testData)
-
 
 def getBioLabel(bio):
     return {
@@ -36,9 +34,6 @@ def getIsCap(word):
 def addToDictionarySizeValue(d,s):
     if(s not in d):
         d[s] = len(d) + 1
-
-
-
 
 def addAllThreeToDictionary(d,s):
     curr = 'curr-' + s
@@ -87,6 +82,27 @@ def addWordCapFeature(featureIds,features,word):
         capFeatureId = featureIds['capitalized']
         features.append(capFeatureId)
 
+
+
+
+
+
+
+def getLineVector(featureIds,instance,index,mode):
+    line = instance[index]
+    vector = []
+    bioLabel = getBioLabel(line[0])
+    vector.append(bioLabel)
+    features = []
+    addWordFeature(featureIds,features,line[2])
+    if(mode > 0):
+        addWordCapFeature(featureIds,features,line[2])
+    if(mode == 2 or mode == 4):
+        addConFeature(featureIds,features,instance,index,POSCON)
+    if(mode == 3 or mode == 4):
+        addConFeature(featureIds,features,instance,index,LEXCON)
+    addFeaturesToVector(vector,features)
+    return vector
 def addFeature(featureIds,features,posLex,prefix,word):
     key = prefix + word
     if key in featureIds:
@@ -97,7 +113,6 @@ def addFeature(featureIds,features,posLex,prefix,word):
         featureId = featureIds[prefix + 'UNKWORD']
     if(featureId not in features):
         features.append(featureId)
-
 def addNext(featureIds,features,instance,index,posLex):
 
         if(index < len(instance) - 1):
@@ -108,10 +123,8 @@ def addNext(featureIds,features,instance,index,posLex):
             next = 'OMEGA'
 
         addFeature(featureIds,features,posLex,'next-',next)
-
 def addPrevious(featureIds,features,instance,index,posLex):
     line = instance[index]
-
     if(index > 0):
         prev = instance[index-1][posLex]
     elif (posLex == POSCON):
@@ -119,25 +132,6 @@ def addPrevious(featureIds,features,instance,index,posLex):
     else:
         prev = 'PHI'
     addFeature(featureIds,features,posLex,'prev-',prev)
-
-def getLineVector(featureIds,instance,index,mode):
-    line = instance[index]
-    vector = []
-    bioLabel = getBioLabel(line[0])
-    vector.append(bioLabel)
-
-    features = []
-    addWordFeature(featureIds,features,line[2])
-    if(mode > 0):
-        addWordCapFeature(featureIds,features,line[2])
-    if(mode == 2 or mode == 4):
-        addConFeature(featureIds,features,instance,index,POSCON)
-    if(mode == 3 or mode == 4):
-        addConFeature(featureIds,features,instance,index,LEXCON)
-
-    addFeaturesToVector(vector,features)
-    return vector
-
 def addConFeature(featureIds,features,instance,index,posLex):
     addPrevious(featureIds,features,instance,index,posLex)
     addNext(featureIds,features,instance,index,posLex)
@@ -148,7 +142,6 @@ def addFeaturesToVector(vector,features):
         vector.append(str(f) + ':1')
 
 def wordFeatureIds(instance):
-    featureIds = {}
     addWordsToFeatureIds(featureIds,instance,False)
     return featureIds
 
@@ -162,7 +155,6 @@ def wordFeatureVector(instance):
         index += 1
     return vector
 def wordCapFeatureIds(instance):
-    featureIds = {}
     addWordsToFeatureIds(featureIds,instance,False)
     addToDictionarySizeValue(featureIds,'capitalized')
     return featureIds
@@ -185,14 +177,12 @@ def posconFeatureVector(instance):
         index += 1
     return vector
 def posconFeatureIds(instance):
-    featureIds = {}
     #True if you want prev and next
     addPosToFeatureIds(featureIds,instance)
     addToDictionarySizeValue(featureIds,'capitalized')
     return featureIds
 
 def lexconFeatureIds(instance):
-    featureIds = {}
     #True if you want prev and next
     addWordsToFeatureIds(featureIds,instance,True)
     addToDictionarySizeValue(featureIds,'capitalized')
@@ -209,7 +199,6 @@ def lexconFeatureVector(instance):
     return vector
 
 def bothconFeatureIds(instance):
-    featureIds = {}
     #True if you want prev and next
     addWordsToFeatureIds(featureIds,instance,True)
     addPosToFeatureIds(featureIds,instance)
@@ -266,13 +255,20 @@ def main():
     trainResult = process(trainingData,fType)
     testResult = process(testData,fType)
 
-    print getString(trainResult)
+    print
     print getString(testResult)
 
 
     trainOutputFile = trainingData + '.' + fType
     testOutputFile = testData + '.' + fType
 
+    text_file = open(trainOutputFile, "w")
+    text_file.write(getString(trainResult))
+    text_file.close()
+
+    text_file = open(testOutputFile, "w")
+    text_file.write(getString(testResult))
+    text_file.close()
 
 
 
