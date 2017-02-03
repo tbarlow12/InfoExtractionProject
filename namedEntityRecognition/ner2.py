@@ -8,6 +8,10 @@ WORDCAP = 1
 POSCON = 2
 LEXCON = 3
 BOTHCON = 4
+if (len(sys.argv) > 4) and (sys.argv[4] == '-d'):
+    debug = True
+else:
+    debug = False
 def getBioLabel(bio):
     return {
         'O': 0,
@@ -91,7 +95,8 @@ def process(data,fType,training):
     sentences = readFile(data)
     mode = getMode(fType)
     getUniqueWordsTags(sentences,mode,training)
-    #printSortedFeatureIds()
+    if(debug):
+        printSortedFeatureIds()
     allFeatureVectors = []
     for sentence in sentences:
         allFeatureVectors.append(processSentence(sentence,mode))
@@ -168,12 +173,13 @@ def main():
     trainingData = sys.argv[1].strip()
     testData = sys.argv[2].strip()
     fType = sys.argv[3].strip()
+
     trainResult = process(trainingData,fType,True)
     testResult = process(testData,fType,False)
     trainOutputFile = trainingData + '.' + fType
     testOutputFile = testData + '.' + fType
-
-    #print getString(trainResult)
+    if(debug):
+        print getString(trainResult)
     text_file = open(trainOutputFile, "w")
     text_file.write(getString(trainResult))
     text_file.close()
