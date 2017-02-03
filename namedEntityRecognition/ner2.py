@@ -89,6 +89,7 @@ def process(data,fType,training):
     sentences = readFile(data)
     mode = getMode(fType)
     getUniqueWordsTags(sentences,mode,training)
+    #printSortedFeatureIds()
     allFeatureVectors = []
     for sentence in sentences:
         allFeatureVectors.append(processSentence(sentence,mode))
@@ -96,9 +97,11 @@ def process(data,fType,training):
 
 def addFeature(features,key,default):
     if key in featureIds:
-        features.append(featureIds[key])
+        f = featureIds[key]
     else:
-        features.append(featureIds[default])
+        f = featureIds[default]
+    if f not in features:
+        features.append(f)
 
 def processSentence(sentence,mode):
     i = 0
@@ -116,10 +119,12 @@ def processSentence(sentence,mode):
             wordId = featureIds[key]
         else:
             wordId = featureIds['curr-UNKWORD']
-        features.append(wordId)
+        if wordId not in features:
+            features.append(wordId)
         if(mode > WORD):
             if word[0].isupper():
-                features.append(featureIds['capitalized'])
+                c = featureIds['capitalized']
+                features.append(c)
         if(mode > WORDCAP):
             if(i > 0):
                 prevLine = sentence[i-1]
@@ -166,6 +171,7 @@ def main():
     trainOutputFile = trainingData + '.' + fType
     testOutputFile = testData + '.' + fType
 
+    #print getString(trainResult)
     text_file = open(trainOutputFile, "w")
     text_file.write(getString(trainResult))
     text_file.close()
