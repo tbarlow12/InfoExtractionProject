@@ -41,16 +41,18 @@ def printSortedFeatureIds():
     for i in sorted_x:
         print str(i[1]) + '\t' + i[0]
 def getUniqueWordsTags(sentences,mode,training):
+    instances = 0
     for sentence in sentences:
         for line in sentence:
             if line[2] not in words:
                 words.append(line[2])
             if line[1] not in tags:
                 tags.append(line[1])
+            instances += 1
     if(training):
-        print 'Found ' + str(len(sentences)) + ' training instances with ' + str(len(words)) + ' distinct words and ' + str(len(tags)) + ' distinct POS tags'
+        print 'Found ' + str(instances) + ' training instances with ' + str(len(words)) + ' distinct words and ' + str(len(tags)) + ' distinct POS tags'
     else:
-        print 'Found ' + str(len(sentences)) + ' test instances'
+        print 'Found ' + str(instances) + ' test instances'
 
     for word in words:
         addToDictionarySizeValue('curr-' + word)

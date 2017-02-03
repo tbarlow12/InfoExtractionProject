@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-python ner.py train.txt test.txt word
-python ner.py train.txt test.txt wordcap
-python ner.py train.txt test.txt poscon
-python ner.py train.txt test.txt lexcon
-python ner.py train.txt test.txt bothcon
-=======
 rm liblinear-1.93/test.txt.*
 rm liblinear-1.93/train.txt.*
 rm liblinear-1.93/model.*
@@ -36,4 +29,3 @@ echo lexcon
 cat accuracyLexcon.txt
 echo bothcon
 cat accuracyBothcon.txt
->>>>>>> bd113b4fe3295505438702ff3276e4c7d0aff52d
