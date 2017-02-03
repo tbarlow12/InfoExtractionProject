@@ -1,0 +1,204 @@
+word
+1	curr-Israel
+2	curr-television
+3	curr-rejected
+4	curr-the
+5	curr-skit
+6	curr-by
+7	curr-comedian
+8	curr-Tuvia
+9	curr-Tzafir
+10	curr-PHI
+11	curr-OMEGA
+12	curr-UNKWORD
+3 1:1
+0 2:1
+0 3:1
+0 4:1
+0 5:1
+0 6:1
+0 4:1
+0 7:1
+1 8:1
+2 9:1
+
+wordcap
+1	curr-Israel
+2	curr-television
+3	curr-rejected
+4	curr-the
+5	curr-skit
+6	curr-by
+7	curr-comedian
+8	curr-Tuvia
+9	curr-Tzafir
+10	curr-PHI
+11	curr-OMEGA
+12	curr-UNKWORD
+13	capitalized
+3 1:1 13:1
+0 2:1
+0 3:1
+0 4:1
+0 5:1
+0 6:1
+0 4:1
+0 7:1
+1 8:1 13:1
+2 9:1 13:1
+
+poscon
+1	curr-Israel
+2	curr-television
+3	curr-rejected
+4	curr-the
+5	curr-skit
+6	curr-by
+7	curr-comedian
+8	curr-Tuvia
+9	curr-Tzafir
+10	curr-PHI
+11	curr-OMEGA
+12	curr-UNKWORD
+13	prev-NNP
+14	next-NNP
+15	prev-NN
+16	next-NN
+17	prev-VBD
+18	next-VBD
+19	prev-DT
+20	next-DT
+21	prev-IN
+22	next-IN
+23	prev-PHIPOS
+24	next-PHIPOS
+25	prev-OMEGAPOS
+26	next-OMEGAPOS
+27	prev-UNKPOS
+28	next-UNKPOS
+29	capitalized
+3 1:1 16:1 23:1 29:1
+0 2:1 13:1 18:1
+0 3:1 15:1 20:1
+0 4:1 16:1 17:1
+0 5:1 19:1 22:1
+0 6:1 15:1 20:1
+0 4:1 16:1 21:1
+0 7:1 14:1 19:1
+1 8:1 14:1 15:1 29:1
+2 9:1 13:1 26:1 29:1
+
+lexcon
+1	curr-Israel
+2	prev-Israel
+3	next-Israel
+4	curr-television
+5	prev-television
+6	next-television
+7	curr-rejected
+8	prev-rejected
+9	next-rejected
+10	curr-the
+11	prev-the
+12	next-the
+13	curr-skit
+14	prev-skit
+15	next-skit
+16	curr-by
+17	prev-by
+18	next-by
+19	curr-comedian
+20	prev-comedian
+21	next-comedian
+22	curr-Tuvia
+23	prev-Tuvia
+24	next-Tuvia
+25	curr-Tzafir
+26	prev-Tzafir
+27	next-Tzafir
+28	curr-PHI
+29	prev-PHI
+30	next-PHI
+31	curr-OMEGA
+32	prev-OMEGA
+33	next-OMEGA
+34	curr-UNKWORD
+35	prev-UNKWORD
+36	next-UNKWORD
+37	capitalized
+3 1:1 6:1 29:1 37:1
+0 2:1 4:1 9:1
+0 5:1 7:1 12:1
+0 8:1 10:1 15:1
+0 11:1 13:1 18:1
+0 12:1 14:1 16:1
+0 10:1 17:1 21:1
+0 11:1 19:1 24:1
+1 20:1 22:1 27:1 37:1
+2 23:1 25:1 33:1 37:1
+
+bothcon
+1	curr-Israel
+2	prev-Israel
+3	next-Israel
+4	curr-television
+5	prev-television
+6	next-television
+7	curr-rejected
+8	prev-rejected
+9	next-rejected
+10	curr-the
+11	prev-the
+12	next-the
+13	curr-skit
+14	prev-skit
+15	next-skit
+16	curr-by
+17	prev-by
+18	next-by
+19	curr-comedian
+20	prev-comedian
+21	next-comedian
+22	curr-Tuvia
+23	prev-Tuvia
+24	next-Tuvia
+25	curr-Tzafir
+26	prev-Tzafir
+27	next-Tzafir
+28	curr-PHI
+29	prev-PHI
+30	next-PHI
+31	curr-OMEGA
+32	prev-OMEGA
+33	next-OMEGA
+34	curr-UNKWORD
+35	prev-UNKWORD
+36	next-UNKWORD
+37	prev-NNP
+38	next-NNP
+39	prev-NN
+40	next-NN
+41	prev-VBD
+42	next-VBD
+43	prev-DT
+44	next-DT
+45	prev-IN
+46	next-IN
+47	prev-PHIPOS
+48	next-PHIPOS
+49	prev-OMEGAPOS
+50	next-OMEGAPOS
+51	prev-UNKPOS
+52	next-UNKPOS
+53	capitalized
+3 1:1 6:1 29:1 40:1 47:1 53:1
+0 2:1 4:1 9:1 37:1 42:1
+0 5:1 7:1 12:1 39:1 44:1
+0 8:1 10:1 15:1 40:1 41:1
+0 11:1 13:1 18:1 43:1 46:1
+0 12:1 14:1 16:1 39:1 44:1
+0 10:1 17:1 21:1 40:1 45:1
+0 11:1 19:1 24:1 38:1 43:1
+1 20:1 22:1 27:1 38:1 39:1 53:1
+2 23:1 25:1 33:1 37:1 50:1 53:1
+
