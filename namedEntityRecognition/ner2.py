@@ -77,17 +77,16 @@ def getUniqueWordsTags(sentences,mode,training):
         addToDictionarySizeValue('next-UNKWORD')
     if(mode == POSCON or mode == BOTHCON):
         for tag in tags:
-            addToDictionarySizeValue('prev-' + tag)
-            addToDictionarySizeValue('next-' + tag)
-        addToDictionarySizeValue('prev-PHIPOS')
-        addToDictionarySizeValue('next-PHIPOS')
-        addToDictionarySizeValue('prev-OMEGAPOS')
-        addToDictionarySizeValue('next-OMEGAPOS')
-        addToDictionarySizeValue('prev-UNKPOS')
-        addToDictionarySizeValue('next-UNKPOS')
+            addToDictionarySizeValue('prev-POSTAG-' + tag)
+            addToDictionarySizeValue('next-POSTAG-' + tag)
+        addToDictionarySizeValue('prev-POSTAG-PHIPOS')
+        addToDictionarySizeValue('next-POSTAG-PHIPOS')
+        addToDictionarySizeValue('prev-POSTAG-OMEGAPOS')
+        addToDictionarySizeValue('next-POSTAG-OMEGAPOS')
+        addToDictionarySizeValue('prev-POSTAG-UNKPOS')
+        addToDictionarySizeValue('next-POSTAG-UNKPOS')
     if(mode > WORD):
         addToDictionarySizeValue('capitalized')
-
 def addToDictionarySizeValue(s):
     if(s not in featureIds):
         featureIds[s] = len(featureIds) + 1
@@ -101,7 +100,6 @@ def process(data,fType,training):
     for sentence in sentences:
         allFeatureVectors.append(processSentence(sentence,mode))
     return allFeatureVectors
-
 def addFeature(features,key,default):
     if key in featureIds:
         f = featureIds[key]
@@ -109,7 +107,6 @@ def addFeature(features,key,default):
         f = featureIds[default]
     if f not in features:
         features.append(f)
-
 def processSentence(sentence,mode):
     i = 0
     featureVector = []
@@ -148,8 +145,8 @@ def processSentence(sentence,mode):
                 nextWord = 'OMEGA'
                 nextPos = 'OMEGAPOS'
             if mode == POSCON or mode == BOTHCON:
-                addFeature(features,'prev-'+prevPos,'prev-UNKPOS')
-                addFeature(features,'next-'+nextPos,'next-UNKPOS')
+                addFeature(features,'prev-POSTAG-'+prevPos,'prev-POSTAG-UNKPOS')
+                addFeature(features,'next-POSTAG-'+nextPos,'next-POSTAG-UNKPOS')
             if mode == LEXCON or mode == BOTHCON:
                 addFeature(features,'prev-'+prevWord,'prev-UNKWORD')
                 addFeature(features,'next-'+nextWord,'next-UNKWORD')
@@ -178,8 +175,10 @@ def main():
     testResult = process(testData,fType,False)
     trainOutputFile = trainingData + '.' + fType
     testOutputFile = testData + '.' + fType
+
     if(debug):
         print getString(trainResult)
+
     text_file = open(trainOutputFile, "w")
     text_file.write(getString(trainResult))
     text_file.close()
