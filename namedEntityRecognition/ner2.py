@@ -99,6 +99,7 @@ def addFeature(features,key,default):
         features.append(featureIds[key])
     else:
         features.append(featureIds[default])
+
 def processSentence(sentence,mode):
     i = 0
     featureVector = []
@@ -110,7 +111,11 @@ def processSentence(sentence,mode):
         lineVector = []
         lineVector.append(bio)
         features = []
-        wordId = featureIds['curr-' + word]
+        key = 'curr-' + word
+        if key in featureIds:
+            wordId = featureIds[key]
+        else:
+            wordId = featureIds['curr-UNKWORD']
         features.append(wordId)
         if(mode > WORD):
             if word[0].isupper():
