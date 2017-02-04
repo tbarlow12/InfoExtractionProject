@@ -3,7 +3,7 @@
 #echo wordcap
 #python ner2.py example.txt example.txt wordcap
 echo poscon
-python ner2.py example2.txt example2.txt poscon -d
+python ner2.py example.txt example.txt bothcon -d
 #echo lexcon
 #python ner2.py example.txt example.txt lexcon
 #echo bothcon
