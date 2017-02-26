@@ -1,5 +1,5 @@
-import questionAnswering as qa
-import helpers as h
+from questionAnswering import answerer as qa
+from helpers import helpers as h
 root = 'datasets/'
 trainRoot = root + 'train/'
 testRoot = root + 'test/'
