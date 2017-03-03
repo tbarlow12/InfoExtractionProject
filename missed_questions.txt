@@ -1,1392 +1,2082 @@
-Was Abraham Lincoln the sixteenth President of the United States?
-EXPECTED: Yes.	ACTUAL: yes
-
-Did Lincoln sign the National Banking Act of 1863?
+Did Volta have a passion for the study of electricity?
 EXPECTED: yes	ACTUAL: no
 
-Did Lincoln sign the National Banking Act of 1863?
-EXPECTED: Yes.	ACTUAL: no
-
-Did his mother die of pneumonia?
-EXPECTED: No.	ACTUAL: no
-
-How many long was Lincoln's formal education?
-EXPECTED: 18 months	ACTUAL: yes
-
-How many long was Lincoln's formal education?
-EXPECTED: 18 months.	ACTUAL: yes
-
-When did Lincoln begin his political career?
-EXPECTED: 1832	ACTUAL: yes
-
-When did Lincoln begin his political career?
-EXPECTED: 1832.	ACTUAL: yes
-
-What did The Legal Tender Act of 1862 establish?
-EXPECTED: the United States Note, the first paper currency in United States history	ACTUAL: yes
-
-What did The Legal Tender Act of 1862 establish?
-EXPECTED: The United States Note, the first paper currency in United States history.	ACTUAL: yes
-
-Who suggested Lincoln grow a beard?
-EXPECTED: 11-year-old Grace Bedell	ACTUAL: yes
-
-Who suggested Lincoln grow a beard?
-EXPECTED: Grace Bedell.	ACTUAL: yes
-
-When did the Gettysburg address argue that America was born?
-EXPECTED: 1776	ACTUAL: yes
-
-When did the Gettysburg address argue that America was born?
-EXPECTED: 1776.	ACTUAL: yes
-
-Did Lincoln beat John C. Breckinridge in the 1860 election?
+Did Volta have a passion for the study of electricity?
 EXPECTED: yes	ACTUAL: no
 
-Did Lincoln beat John C. Breckinridge in the 1860 election?
-EXPECTED: Yes.	ACTUAL: no
+What is the battery made by Volta credited to be?
+EXPECTED: the first cell	ACTUAL: yes
 
-Did Lincoln start his political career in 1832?
-EXPECTED: Yes	ACTUAL: no
+What is the battery made by Volta credited to be?
+EXPECTED: the first cell	ACTUAL: yes
 
-Did Lincoln start his political career in 1832?
-EXPECTED: Yes	ACTUAL: no
+What important electrical unit was named in honor of Volta?
+EXPECTED: the volt	ACTUAL: yes
 
-Did Lincoln ever represent Alton & Sangamon Railroad?
-EXPECTED: Yes	ACTUAL: no
+What important electrical unit was named in honor of Volta?
+EXPECTED: volt	ACTUAL: yes
 
-Did Lincoln ever represent Alton & Sangamon Railroad?
-EXPECTED: Yes	ACTUAL: no
+Where did Volta enter retirement?
+EXPECTED: Spain	ACTUAL: yes
 
-Which county was Lincoln born in?
-EXPECTED: Hardin County	ACTUAL: yes
+Where did Volta enter retirement?
+EXPECTED: Spain	ACTUAL: yes
 
-Which county was Lincoln born in?
-EXPECTED: Southeast Hardin County, Kentucky	ACTUAL: yes
+Is it a disadvantage for something to be unsafe to handle?
+EXPECTED: yes	ACTUAL: no
 
-When did Lincoln first serve as President?
-EXPECTED: March 4, 1861	ACTUAL: yes
+Is it a disadvantage for something to be unsafe to handle?
+EXPECTED: yes	ACTUAL: no
 
-When did Lincoln first serve as President?
-EXPECTED: March 4, 1861	ACTUAL: yes
+Was Lombardy under Napoleon's rule in 1800?
+EXPECTED: yes	ACTUAL: no
 
-Who assassinated Lincoln?
-EXPECTED: John Wilkes Booth	ACTUAL: yes
+Was Lombardy under Napoleon's rule in 1800?
+EXPECTED: yes	ACTUAL: no
 
-Who assassinated Lincoln?
-EXPECTED: John Wilkes Booth	ACTUAL: yes
+Was the Italian 10.000 lira banknote created before the euro?
+EXPECTED: yes	ACTUAL: no
 
-Did Lincoln win the election of 1860?
-EXPECTED: Yes	ACTUAL: no
+Was the Italian 10.000 lira banknote created before the euro?
+EXPECTED: yes	ACTUAL: no
 
-Did Lincoln win the election of 1860?
-EXPECTED: Yes	ACTUAL: no
+For how many years did Alessandro Volta live?
+EXPECTED: 53	ACTUAL: yes
 
-Who was the general in charge at the Battle of Antietam?
-EXPECTED: General McClellan	ACTUAL: yes
+What was Alessandro Volta`s profession?
+EXPECTED: physisist	ACTUAL: yes
 
-Who was the general in charge at the Battle of Antietam?
-EXPECTED: John Alexander McClernand	ACTUAL: yes
+How old was Alessandro Volta when he died?
+EXPECTED:  82	ACTUAL: yes
 
-Why did Lincoln issue the Emancipation Proclamation?
-EXPECTED: To free slaves 	ACTUAL: yes
-
-Why did Lincoln issue the Emancipation Proclamation?
-EXPECTED: The goal was to weaken the rebellion, which was led and controlled by slave owners.	ACTUAL: yes
-
-Do scholars rank lincoln among the top three presidents?
-EXPECTED: NULL	ACTUAL: no
-
-Do scholars rank lincoln among the top three presidents?
-EXPECTED: Yes	ACTUAL: no
-
-Did lincoln have 18 months of schooling?
-EXPECTED: NULL	ACTUAL: no
-
-Did lincoln have 18 months of schooling?
-EXPECTED: Yes	ACTUAL: no
-
-Was Lincoln chosen as a presidential candidate in 1860?
-EXPECTED: NULL	ACTUAL: no
-
-Was Lincoln chosen as a presidential candidate in 1860?
-EXPECTED: Yes	ACTUAL: no
-
-How old was Lincoln in 1816?
-EXPECTED: NULL	ACTUAL: yes
-
-How old was Lincoln in 1816?
-EXPECTED: seven	ACTUAL: yes
-
-When was the first photgraph of lincoln taken?
-EXPECTED: NULL	ACTUAL: yes
-
-When was the first photgraph of lincoln taken?
-EXPECTED: 1846	ACTUAL: yes
-
-How long was Lincoln's legal Career?
-EXPECTED: NULL	ACTUAL: yes
-
-How long was Lincoln's legal Career?
-EXPECTED: 23 years	ACTUAL: yes
-
-What trail did Lincoln use a Farmers' Almanac in? 
-EXPECTED: NULL	ACTUAL: yes
-
-What trail did Lincoln use a Farmers' Almanac in? 
-EXPECTED: he defended William "Duff" Armstrong	ACTUAL: yes
-
-Did Abraham Lincoln live in the Frontier?
-EXPECTED: NULL	ACTUAL: no
-
-Did Abraham Lincoln live in the Frontier?
-EXPECTED: Yes	ACTUAL: no
-
-Did Lincoln's Wife's Family support slavery?
-EXPECTED: NULL	ACTUAL: no
-
-Did Lincoln's Wife's Family support slavery?
-EXPECTED: Yes	ACTUAL: no
-
-Volta became professor of physics in the Como high school in what year?
-EXPECTED: NULL	ACTUAL: yes
-
-What ac phaenomenis inde pendentibus?
-EXPECTED: NULL	ACTUAL: yes
-
-What may be called Volta's Law of the electrochemical series?
-EXPECTED: NULL	ACTUAL: yes
-
-Is it true that volta became professor of physics?
-EXPECTED: NULL	ACTUAL: no
-
-Is it true that volta entered retirement in spain?
-EXPECTED: NULL	ACTUAL: no
-
-When did he become professor?
-EXPECTED: NULL	ACTUAL: yes
-
-What did Alessandro Volta publish in 1800?
-EXPECTED: NULL	ACTUAL: yes
-
-Is Volta buried in the city of Como?
-EXPECTED: NULL	ACTUAL: yes
+How many years ago was it when Volta married the daughter of Count Ludovico Peregrini , Teresa , with whom he raised three sons?
+EXPECTED: 215	ACTUAL: yes
 
 Is the electrolyte sulphuric acid?
-EXPECTED: NULL	ACTUAL: no
+EXPECTED: Yes	ACTUAL: no
 
+Is volta buried in the city  of Como?
+EXPECTED: Yes	ACTUAL: no
 
-EXPECTED: NULL	ACTUAL: 
+Was his 1800  paper written in French?
+EXPECTED: Yes	ACTUAL: no
 
+Did he receive the Society`s 1794 Copley Medal?
+EXPECTED: Yes	ACTUAL: no
 
-EXPECTED: NULL	ACTUAL: 
+When did lombardy come under Napoleon`s rule?
+EXPECTED: From 1796 to 1815	ACTUAL: yes
 
+Where did he publish his invention of the Voltaic pile battery?
+EXPECTED: the Philosophical Transactions of the Royal Society	ACTUAL: yes
 
-EXPECTED: NULL	ACTUAL: 
+Is it true that his passion been always the study of electricity?
+EXPECTED: Yes	ACTUAL: no
 
-NOTTTT  FOUND
-EXPECTED: NULL	ACTUAL: yes
+His passion been always the study of what?
+EXPECTED: Electricity	ACTUAL: yes
 
+Is it true that Volta married the daughter of Count Ludovico Peregrini?
+EXPECTED: Yes	ACTUAL: no
 
-EXPECTED: NULL	ACTUAL: 
+Is it true that he published his invention of the Voltaic pile battery?
+EXPECTED: Yes	ACTUAL: no
 
+Where was Avogadro a professor of physics?
+EXPECTED: University of Turin	ACTUAL: yes
 
-EXPECTED: NULL	ACTUAL: 
+Where was Avogadro a professor of physics?
+EXPECTED: University of Turin	ACTUAL: yes
 
-Are Count Volta 's original instruments and papers on display there ?
-EXPECTED: NULL	ACTUAL: yes
+How many children did Avogadro have?
+EXPECTED: six	ACTUAL: yes
 
-Is Volta buried in the city of Como ?
-EXPECTED: NULL	ACTUAL: yes
+How many children did Avogadro have?
+EXPECTED: six	ACTUAL: yes
 
-Was his 1800 paper written in French ?
-EXPECTED: NULL	ACTUAL: no
+What is Avogadro most noted for?
+EXPECTED: contributions to the theory of molarity and molecular weight	ACTUAL: yes
 
-Are Count Volta 's original instruments and papers on display there ?
-EXPECTED: NULL	ACTUAL: yes
+What is Avogadro most noted for?
+EXPECTED: contributions to the theory of molarity and molecular weight	ACTUAL: yes
 
-Did he not realize that the frog 's leg served as both a conductor of electricity -LRB- we would now call it an electrolyte -RRB- and as a detector of electricity ?
-EXPECTED: NULL	ACTUAL: no
+What is Avogadro's number?
+EXPECTED: 6.02214199x10 23	ACTUAL: yes
 
-Does this not make the zinc rod the negative electrode and the copper rod the positive electrode ?
-EXPECTED: NULL	ACTUAL: no
+What is Avogadro's number?
+EXPECTED: 6.02214199x10 23	ACTUAL: yes
 
-What happened with $ its invention?
-EXPECTED: NULL	ACTUAL: yes
+In what year did Avogadro stop teaching at Turin University?
+EXPECTED: 1853	ACTUAL: yes
 
-HWhat happened at the electromotive force -LRB- emf -RRB- of a galvanic cell?
-EXPECTED: NULL	ACTUAL: yes
+In what year did Avogadro stop teaching at Turin University?
+EXPECTED: 1823	ACTUAL: yes
 
-What happened in 1800?
-EXPECTED: NULL	ACTUAL: yes
+What subject did Avogadro study first?
+EXPECTED: ecclesiastical law	ACTUAL: yes
 
-What was an Italian savant?
-EXPECTED: NULL	ACTUAL: yes
+What subject did Avogadro study first?
+EXPECTED: ecclesiastical law	ACTUAL: yes
 
-What was an Italian savant?
-EXPECTED: NULL	ACTUAL: yes
+What was Amedeo Avogadro`s birthplace?
+EXPECTED: Turin	ACTUAL: yes
 
-Who is most noted for his contributions to the theory of molarity and molecular weight?
-EXPECTED: Amedeo Avogadro	ACTUAL: yes
+What was Amedeo Avogadro`s profession?
+EXPECTED: professor of physics	ACTUAL: yes
 
-Who is most noted for his contributions to the theory of molarity and molecular weight?
-EXPECTED: NULL	ACTUAL: yes
+How many years ago was it when he became a professor of physics at the University of Turin?
+EXPECTED: 189	ACTUAL: yes
 
-Who is most noted for his contributions to the theory of molarity and molecular weight?
-EXPECTED: NULL	ACTUAL: yes
+What is Amedeo Avogadro`s first name?
+EXPECTED: Amedeo	ACTUAL: yes
 
-Who graduated in ecclesiastical law at the early age of 20 and began to practice?
-EXPECTED: Amedeo Avogadro	ACTUAL: yes
+What is Amedeo Avogadro`s last name?
+EXPECTED: Avogadro	ACTUAL: yes
 
-Who graduated in ecclesiastical law at the early age of 20 and began to practice?
-EXPECTED: blah	ACTUAL: yes
+Is avogadro `s  number commonly used to compute  the results  of chemical reactions?
+EXPECTED: Yes	ACTUAL: no
 
-Who graduated in ecclesiastical law at the early age of 20 and began to practice?
-EXPECTED: NULL	ACTUAL: yes
+Did he publish his work?
+EXPECTED: Yes	ACTUAL: no
 
-When did he publish another memoria?
-EXPECTED: 1821	ACTUAL: yes
+Did Avogadro submit his poem?
+EXPECTED: Yes.	ACTUAL: yes
 
-When did he publish another memoria?
-EXPECTED: NULL	ACTUAL: yes
+Is it true that loschmidt calculated first the value of Avogadro number?
+EXPECTED: Yes	ACTUAL: no
 
-When did he publish another memoria?
-EXPECTED: NULL	ACTUAL: yes
+Loschmidt calculated first the value of what?
+EXPECTED: Avogadro's number	ACTUAL: yes
 
-When did he become a professor?
-EXPECTED: 1820	ACTUAL: yes
+Can the title of this famous 1811 paper be roughly translated into English as "essay on determining the Relative Masses of the Elementary Molecules of Bodies" ?
+EXPECTED: Yes.	ACTUAL: no
 
-When did he become a professor?
-EXPECTED: NULL	ACTUAL: yes
+What is Amedeo Avogadro?
+EXPECTED: A person.	ACTUAL: yes
 
-When did he become a professor?
-EXPECTED: NULL	ACTUAL: yes
+Where is Amedeo Avogadro from?
+EXPECTED: Italy.	ACTUAL: yes
 
-Is it true that he became a professor in 1820?
-EXPECTED: yes	ACTUAL: no
-
-Is it true that he became a professor in 1820?
-EXPECTED: NULL	ACTUAL: no
-
-Is it true that he became a professor in 1820?
-EXPECTED: NULL	ACTUAL: no
-
-Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?
-EXPECTED: NULL	ACTUAL: yes
-
-Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?
-EXPECTED: NULL	ACTUAL: yes
-
-Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
-EXPECTED: yes	ACTUAL: no
-
-Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
-EXPECTED: NULL	ACTUAL: no
-
-Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
-EXPECTED: NULL	ACTUAL: no
-
-Is he most noted for his contributions to the theory of molarity and molecular weight?
-EXPECTED: yes	ACTUAL: no
-
-Is he most noted for his contributions to the theory of molarity and molecular weight?
-EXPECTED: NULL	ACTUAL: no
-
-Is he most noted for his contributions to the theory of molarity and molecular weight?
-EXPECTED: NULL	ACTUAL: no
-
-
-EXPECTED: NULL	ACTUAL: 
-
-
-EXPECTED: NULL	ACTUAL: 
-
-
-EXPECTED: NULL	ACTUAL: 
-
-
-EXPECTED: NULL	ACTUAL: 
-
-
-EXPECTED: NULL	ACTUAL: 
-
-
-EXPECTED: NULL	ACTUAL: 
-
-Who confirm that he sponsored and helped some Sardinian plotters who were organising a revolution in that island , stopped at the very last moment by the concession of Charles Albert 's statute ?
-EXPECTED: NULL	ACTUAL: yes
-
-Who confirm that he sponsored and helped some Sardinian plotters who were organising a revolution in that island , stopped at the very last moment by the concession of Charles Albert 's statute ?
-EXPECTED: NULL	ACTUAL: yes
-
-He is what?
-EXPECTED: NULL	ACTUAL: yes
-
-He is what?
-EXPECTED: NULL	ACTUAL: yes
-
-The unification of Italy did what?
-EXPECTED: NULL	ACTUAL: yes
-
-Was King Victor Emmanuel III there to pay homage to Avogadro ?
-EXPECTED: NULL	ACTUAL: yes
-
-Was King Victor Emmanuel III there to pay homage to Avogadro ?
-EXPECTED: NULL	ACTUAL: yes
-
-Is Avogadro 's number commonly used to compute the results of chemical reactions ?
-EXPECTED: yes	ACTUAL: no
-
-Is Avogadro 's number commonly used to compute the results of chemical reactions ?
-EXPECTED: NULL	ACTUAL: no
-
-Is Avogadro 's number commonly used to compute the results of chemical reactions ?
-EXPECTED: NULL	ACTUAL: no
-
-Is it approximately 6.0221415 10 23 ?
-EXPECTED: NULL	ACTUAL: no
-
-Is it approximately 6.0221415 10 23 ?
-EXPECTED: NULL	ACTUAL: no
-
-Did the scientific community not reserve great attention to his theory ?
-EXPECTED: yes	ACTUAL: no
-
-Did the scientific community not reserve great attention to his theory ?
-EXPECTED: NULL	ACTUAL: no
-
-Did the scientific community not reserve great attention to his theory ?
-EXPECTED: NULL	ACTUAL: no
-
-Does it not allow chemists to determine the exact amounts of substances produced in a given reaction ?
-EXPECTED: NULL	ACTUAL: no
-
-Does it not allow chemists to determine the exact amounts of substances produced in a given reaction ?
-EXPECTED: NULL	ACTUAL: no
-
-Was King Victor Emmanuel III there to pay homage to Avogadro ?
-EXPECTED: NULL	ACTUAL: yes
-
-Was King Victor Emmanuel III there to pay homage to Avogadro ?
-EXPECTED: NULL	ACTUAL: yes
-
-Can the title of this famous 1811 paper be roughly translated into english?
-EXPECTED: yes	ACTUAL: no
-
-Can the title of this famous 1811 paper be roughly translated into english?
-EXPECTED: NULL	ACTUAL: no
-
-Can the title of this famous 1811 paper be roughly translated into english?
-EXPECTED: 	ACTUAL: no
-
-What happened in french?
-EXPECTED: NULL	ACTUAL: yes
-
-What happened in french?
-EXPECTED: 	ACTUAL: yes
-
-What happened in 1833?
-EXPECTED: Avogadro had been recalled to Turin university	ACTUAL: yes
-
-What happened in 1833?
-EXPECTED: NULL	ACTUAL: yes
-
-What happened in 1833?
-EXPECTED: blah blah blah	ACTUAL: yes
-
-Who determined the dependence of the boiling of water with atmospheric pressure?
-EXPECTED: Anders Celsius	ACTUAL: yes
-
-What is named after him?
-EXPECTED: The Celsius crater on the Moon	ACTUAL: yes
-
-When did he publish a collection?
+When did Anders Celcius publish his observations on the aurora borealis?
 EXPECTED: 1733	ACTUAL: yes
 
-Is it true that thermometer had 100 for the freezing point?
-EXPECTED: Yes	ACTUAL: no
+When did Anders Celcius publish his observations on the aurora borealis?
+EXPECTED: 1733 	ACTUAL: yes
 
-Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?
-EXPECTED: Yes	ACTUAL: no
+What did Anders Celsius determine about the boiling of water?
+EXPECTED: He determined the dependence of the boiling of water with atmospheric pressure.	ACTUAL: yes
 
-Is The Celsius crater on the Moon named after him?
-EXPECTED: Yes	ACTUAL: no
+What did Anders Celsius determine about the boiling of water?
+EXPECTED: dependence with atmospheric pressure	ACTUAL: yes
 
-Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?
-EXPECTED: Anders Celsius	ACTUAL: yes
+Which temperature scale did Celsius propose?
+EXPECTED: Celcius	ACTUAL: yes
 
-The Celsius crater on the Moon is what?
-EXPECTED: named after him	ACTUAL: yes
+Which temperature scale did Celsius propose?
+EXPECTED:  the Celsius temperature scale 	ACTUAL: yes
 
-Is the Celsius crater on the Moon named after him ?
-EXPECTED: Yes	ACTUAL: no
+What is the boiling point of water dependent on?
+EXPECTED: atmospheric pressure	ACTUAL: yes
 
-Had his thermometer 100 for the freezing point of water and 0 for the boiling point ?
-EXPECTED: Yes it had	ACTUAL: no
+What is the boiling point of water dependent on?
+EXPECTED: atmospheric pressure	ACTUAL: yes
 
-Is the Celsius crater on the Moon named after him ?
-EXPECTED: Yes	ACTUAL: no
+Where was Celsius born?
+EXPECTED: Uppsala in Sweden	ACTUAL: yes
 
-Did he not determine the dependence of the boiling of water with atmospheric pressure -LRB- in excellent agreement with modern data -RRB- ?
-EXPECTED: Yes he did	ACTUAL: no
+Where was Celsius born?
+EXPECTED: Uppsala, Sweden	ACTUAL: yes
 
-What happened from 1730 to 1744?
-EXPECTED: He was professor of astronomy at Uppsala University	ACTUAL: yes
+Whad did Celsius report in his paper "Observations of two persistent degrees on a thermometer"?
+EXPECTED: the freezing point is independent of latitude	ACTUAL: yes
 
-What happened in 1745?
-EXPECTED: The scale was reversed	ACTUAL: yes
+How old was Celsius when he died?
+EXPECTED: 42	ACTUAL: yes
 
-Do beetles antennae function primarily as organs of smell?
-EXPECTED: Yes	ACTUAL: no
+How old was Celsius when he died?
+EXPECTED: 42	ACTUAL: yes
 
-Do beetles antennae function primarily as organs of smell?
-EXPECTED: Yes	ACTUAL: no
+What is temperature would water have to be to be halfway between its standard boiling and freezing point?
+EXPECTED: 50	ACTUAL: yes
 
-What are the three sections of a beetle?
-EXPECTED: the head, the thorax, and the abdomen	ACTUAL: yes
+What is the difference between Celsius' original temperature scale and the one we use today?
+EXPECTED: The scale was reversed by Carolus Linnaeus. 	ACTUAL: yes
 
-What are the three sections of a beetle?
-EXPECTED: The head, the thorax, and the abdomen	ACTUAL: yes
+What is the difference between Celsius' original temperature scale and the one we use today?
+EXPECTED: scale was reversed 	ACTUAL: yes
 
-Which defense mechanism uses colour or shape to deceive potential enemies?
-EXPECTED: mimicry	ACTUAL: yes
+What was Anders Celsius`s profession?
+EXPECTED: professor of astronomy	ACTUAL: yes
 
-Which defense mechanism uses colour or shape to deceive potential enemies?
-EXPECTED: Mimicry	ACTUAL: yes
+How old was Anders Celsius when he died?
+EXPECTED: 42	ACTUAL: yes
 
-Which type of beetle is a pest of potato plants?
-EXPECTED: Colorado potato beetle	ACTUAL: yes
+What is Anders Celsius`s last name?
+EXPECTED: Celsius	ACTUAL: yes
 
-Which type of beetle is a pest of potato plants?
-EXPECTED: Colorado potato beetle	ACTUAL: yes
-
-How can beetle larvae be differentiated from other insect larvae?
-EXPECTED: their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body	ACTUAL: yes
-
-How can beetle larvae be differentiated from other insect larvae?
-EXPECTED: By their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body	ACTUAL: yes
-
-What do beetles eat?
-EXPECTED: Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.	ACTUAL: yes
-
-What do beetles eat?
-EXPECTED: They often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates	ACTUAL: yes
-
-What are the similarities between beetles and grasshoppers?
-EXPECTED: mouthparts	ACTUAL: yes
-
-What are the similarities between beetles and grasshoppers?
-EXPECTED: Beetles have mouthparts similar to those of grasshoppers	ACTUAL: yes
-
-Is a beetle's general anatomy uniform?
-EXPECTED: Yes	ACTUAL: no
-
-Is a beetle's general anatomy uniform?
+Was celsius born in Uppsala  in Sweden?
 EXPECTED: yes	ACTUAL: no
 
-How many species of beetles are there?
-EXPECTED: 350,000	ACTUAL: yes
-
-How many species of beetles are there?
-EXPECTED: about 350,000	ACTUAL: yes
-
-When are sperm cells transferred to the female?
-EXPECTED: during pairing	ACTUAL: yes
-
-When are sperm cells transferred to the female?
-EXPECTED: During pairing	ACTUAL: yes
-
-What is the study of beetles called?
-EXPECTED: coleopterology	ACTUAL: yes
-
-What is the study of beetles called?
-EXPECTED: coleopterology	ACTUAL: yes
-
-Is it possible that there are more than 350,000 species of beetles?
+Is The Celsius  crater  on the Moon named after him?
 EXPECTED: yes	ACTUAL: no
 
-Is it possible that there are more than 350,000 species of beetles?
+Was Anders Celsius  ( November 27 ,  1701  April 25 ,  1744  ) a Swedish  astronomer?
 EXPECTED: yes	ACTUAL: no
 
-Is the Adephaga suborder larger than the Polyphaga suborder?
+Was he professor at Uppsala University?
 EXPECTED: yes	ACTUAL: no
 
-What are prey of various animals including birds and mammals?
-EXPECTED: Beetles.	ACTUAL: yes
-
-What was given by Aristotle for the hardened shield like forewings?
-EXPECTED: The name "Coleoptera".	ACTUAL: yes
-
-Who or what vary greatly in form within the coleoptera?
-EXPECTED: Antennae.	ACTUAL: yes
-
-Are many beetles territorial?
-EXPECTED: Yes.	ACTUAL: yes
-
-Are beetles endopterygotes with complete metamorphosis?
-EXPECTED: Yes.	ACTUAL: yes
-
-Oxygen is what?
-EXPECTED: One kind of gas obtained via a tracheal system.	ACTUAL: yes
-
-Is there a thriving industry in the collection of beetle specimens for amateur and professional collectors ?
-EXPECTED: Yes.	ACTUAL: no
-
-Have coleopterists formed organisations to facilitate the study of beetles ?
-EXPECTED: Yes.	ACTUAL: no
-
-Is the study of beetles called coleopterology , and its practitioners are coleopterists ?
-EXPECTED: Yes.	ACTUAL: no
-
-May a single female lay from several dozen to several thousand eggs during her lifetime ?
-EXPECTED: Yes.	ACTUAL: yes
-
-Can beetles be found in almost all habitats?
-EXPECTED: Yes.	ACTUAL: no
-
-What happened on plants and fungi?
-EXPECTED: They are food to beetles.	ACTUAL: yes
-
-Was Calvin Coolidge the twenty-ninth vice president?
-EXPECTED: Yes	ACTUAL: no
-
-Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?
+Is it true that he published a collection of 316 observations?
 EXPECTED: yes	ACTUAL: no
 
-Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?
-EXPECTED: Yes	ACTUAL: no
+He published a collection of what?
+EXPECTED: observations	ACTUAL: yes
 
-Did Coolidge graduate from Black River Academy?
-EXPECTED: yes	ACTUAL: no
-
-Did Coolidge graduate from Black River Academy?
-EXPECTED: Yes	ACTUAL: no
-
-When did he drop John from his name?
-EXPECTED: upon graduating from college	ACTUAL: yes
-
-When did he drop John from his name?
-EXPECTED: Upon graduating from college	ACTUAL: yes
-
-When did Coolidge meet and marry Grace Anna Goodhue?
-EXPECTED: 1905	ACTUAL: yes
-
-When did Coolidge meet and marry Grace Anna Goodhue?
-EXPECTED: In 1905	ACTUAL: yes
-
-What period of rapid economic growth did the United States experience during Coolidge's presidency?
-EXPECTED: the Roaring Twenties	ACTUAL: yes
-
-What period of rapid economic growth did the United States experience during Coolidge's presidency?
-EXPECTED: the "Roaring Twenties"	ACTUAL: yes
-
-What did Coolidge do after graduating from Amherst?
-EXPECTED: Coolidge moved to Northampton, Massachusetts	ACTUAL: yes
-
-What did Coolidge do after graduating from Amherst?
-EXPECTED: Coolidge moved to Northampton, Massachusetts to take up the practice of law	ACTUAL: yes
-
-Of what state was Coolidge governor?
-EXPECTED: Massachusetts	ACTUAL: yes
-
-Who appointed Harlan Fiske Stone to the Supreme Court?
-EXPECTED: Coolidge	ACTUAL: yes
-
-Who appointed Harlan Fiske Stone to the Supreme Court?
-EXPECTED: Coolidge	ACTUAL: yes
-
-Was Coolidge the thirteenth President of the United States?
-EXPECTED: Yes	ACTUAL: no
-
-Was Calvin Coolidge a governor of Massachusetts?
-EXPECTED: Yes	ACTUAL: no
-
-Was Calvin Coolidge a governor of Massachusetts?
-EXPECTED: Yes	ACTUAL: no
-
-When was Coolidge born?
-EXPECTED: July 4 1872	ACTUAL: yes
-
-When was Coolidge born?
-EXPECTED: Plymouth, Windsor County, Vermont	ACTUAL: yes
-
-Where did Coolidge's grandfather had government offices?
-EXPECTED: Plymouth	ACTUAL: yes
-
-Where did Coolidge's grandfather had government offices?
-EXPECTED: The town of Plymouth Notch	ACTUAL: yes
-
-Which state were Coolidge born in?
-EXPECTED: Plymouth, Windsor County, Vermont	ACTUAL: yes
-
-Which state were Coolidge born in?
-EXPECTED: Vermont	ACTUAL: yes
-
-Did Coolidge get in Amherst College?
-EXPECTED: Yes	ACTUAL: no
-
-Did Coolidge get in Amherst College?
-EXPECTED: Yes	ACTUAL: no
-
-What caused Calvin Jr.'s death?
-EXPECTED: heart attack	ACTUAL: yes
-
-What caused Calvin Jr.'s death?
-EXPECTED: Heart attack	ACTUAL: yes
-
-Was Coolidge opposed in the Republican nomination for Governor of Massachusetts in 1918?
-EXPECTED: Yes	ACTUAL: no
-
-Did Coolidge meet and marry Grace Anna Goodhue?
-EXPECTED: Yes	ACTUAL: no
-
-Did Coolidge meet and marry Grace Anna Goodhue?
-EXPECTED: yes	ACTUAL: no
-
-What year did Coolidge open his own law office?
-EXPECTED: 1898	ACTUAL: yes
-
-What year did Coolidge open his own law office?
-EXPECTED: 1898	ACTUAL: yes
-
-What fraternity was Coolidge a member of?
-EXPECTED: Phi Gamma Delta	ACTUAL: yes
-
-What fraternity was Coolidge a member of?
-EXPECTED: phi gamma delta	ACTUAL: yes
-
-In 1905 Coolidge met and married whom?
-EXPECTED: Grace Anna Goodhue	ACTUAL: yes
-
-In 1905 Coolidge met and married whom?
-EXPECTED: Grace Anna Goodhue	ACTUAL: yes
-
-Why did Coolidge not attend law school?
-EXPECTED: It was too expensive	ACTUAL: yes
-
-Why did Coolidge not attend law school?
-EXPECTED: cost	ACTUAL: yes
-
-What years were Coolidge's two sons born in?
-EXPECTED: 1906 and 1908	ACTUAL: yes
-
-What years were Coolidge's two sons born in?
-EXPECTED: 1906 and 1908	ACTUAL: yes
-
-What thrust him into the national spotlight?
+Pronouns in which location are marked for person , number and gender?
 EXPECTED: NULL	ACTUAL: yes
 
-What to be born on the fourth of July?
-EXPECTED: NULL	ACTUAL: yes
+Have many European languages borrowed numerous words from it?
+EXPECTED: yes	ACTUAL: no
 
-Who was the elder of two children of John Calvin Sr and Victoria Coolidge?
-EXPECTED: NULL	ACTUAL: yes
+Are the most active in Damascus and Cairo?
+EXPECTED: (bad question)	ACTUAL: yes
 
-Who or what placed as high as sixth in the voting?
-EXPECTED: NULL	ACTUAL: yes
+Do arabs consider literary Arabic?
+EXPECTED: (bad question)	ACTUAL: no
 
-Is it true that he appointed stone to the supreme court?
+Was Arabic vehicle in science?
 EXPECTED: NULL	ACTUAL: no
 
-What do well - received and he have in common?
-EXPECTED: NULL	ACTUAL: yes
-
-What did Coolidge address in 1924?
-EXPECTED: NULL	ACTUAL: yes
-
-Was Coolidge more outspoken?
-EXPECTED: NULL	ACTUAL: yes
-
-Was Coolidge admitted to the bar?
-EXPECTED: NULL	ACTUAL: yes
-
-What emigrated from Cambridge?
-EXPECTED: NULL	ACTUAL: yes
-
-What graduated from Black?
-EXPECTED: NULL	ACTUAL: yes
-
-What Retrieved on May?
-EXPECTED: NULL	ACTUAL: yes
-
-He later what?
-EXPECTED: NULL	ACTUAL: yes
-
-They were what?
-EXPECTED: NULL	ACTUAL: yes
-
-The Republicans retained what?
-EXPECTED: NULL	ACTUAL: yes
-
-(NNP Harding #)(NNP Death )))(PP (IN in )(NP (NP (NN office ))(PP (IN for )(NP (DT a )(JJ full )(NN description )(NNP Vice )(NNP President )(person (NNP Coolidge ))))))))(VP (VP (VBD was )(VP (VBG visiting )(NP (PRP$ his )(NN family )(NN home ))))(, , )(SBAR (WHNP (WDT which ))(S (VP (VBD did )(RB not )(VP (VB have )(NP (NP (NN electricity ))(CC or )(NP (DT a )(NN telephone )))(, , )(PP (IN in )(NP (location (NNP Vermont ))))(SBAR (WHADVP (WRB when ))(S (NP (PRP he ))(VP (VBD received )(NP (NP (NN word ))(PP (IN of )(NP (NP (NNP Harding )(POS 's ))(NN death ))))))))))))))(. . )))
-EXPECTED: NULL	ACTUAL: yes
-
-
-EXPECTED: NULL	ACTUAL: 
-
-
-EXPECTED: NULL	ACTUAL: 
-
-Was 364 Stone later appointed Chief Justice by President Franklin D. Roosevelt ?
+Is it true that the sociolinguistic situation of Arabic provides a prime example of the linguistic phenomenon?
 EXPECTED: NULL	ACTUAL: no
 
-Did Coolidge not publish his autobiography in 1929 and write a syndicated newspaper column , `` Calvin Coolidge Says , '' from 1930 -- 1931 ?
+The sociolinguistic situation of Arabic provides a prime example of what?
+EXPECTED: the linguistic phenomenon of diglossia	ACTUAL: yes
+
+Is arabic source of vocabulary?
 EXPECTED: NULL	ACTUAL: no
 
-Were the more well-known Coolidges , such as architect Charles Allerton Coolidge , and diplomat Archibald Cary Coolidge , descended from other branches of the family that had stayed in Massachusetts ?
-EXPECTED: NULL	ACTUAL: yes
-
-Is the genius of the average the most convincing proof of $ his strength?
+Is arabic language of the Qur an?
 EXPECTED: NULL	ACTUAL: no
 
-What happened from tuberculosis?
-EXPECTED: NULL	ACTUAL: yes
+Is it true that most speak Arabic as their native language?
+EXPECTED: NULL	ACTUAL: no
 
-What happened from black river academy , vermont?
-EXPECTED: NULL	ACTUAL: yes
-
-Did France cede nearly all of its colonies in Europe in 1763?
-EXPECTED: Yes.	ACTUAL: no
-
-Did France cede nearly all of its colonies in Europe in 1763?
+Is a bee an insect?
 EXPECTED: yes	ACTUAL: no
 
-Did France cede nearly all of its colonies in Europe in 1763?
-EXPECTED: NULL	ACTUAL: no
-
-Is Canada a member of the OECD?
-EXPECTED: Yes.	ACTUAL: no
-
-Is Canada a member of the OECD?
+Have managed populations of European honey bees experienced substantial declines?
 EXPECTED: yes	ACTUAL: no
 
-Is Canada a member of the OECD?
+Where do bees live?
+EXPECTED: in colonies	ACTUAL: yes
+
+When do bumblebee colonies reach peak population?
+EXPECTED: mid to late summer	ACTUAL: yes
+
+What do people commonly call cleptoparasitic bees?
+EXPECTED: cuckoo bees	ACTUAL: yes
+
+How did vespoid wasps evolve?
+EXPECTED: from predatory ancestors	ACTUAL: yes
+
+What do humans use bees for?
+EXPECTED: honey	ACTUAL: yes
+
+Why do honey bee queens continue to lay eggs during the foraging season?
+EXPECTED: to replace daily casualties	ACTUAL: yes
+
+Does Beijing mean "northern capital"?
+EXPECTED: yes	ACTUAL: no
+
+When did Beijing host the Olympic Games?
+EXPECTED: 2008	ACTUAL: yes
+
+When was the An Shi Rebellion launched?
+EXPECTED: in 755 AD	ACTUAL: yes
+
+In 1949, where did Communist forces enter without a fight?
+EXPECTED: Beiping	ACTUAL: yes
+
+When did Yuan Shikai die?
+EXPECTED: 1916	ACTUAL: yes
+
+Where does air pollution in Beijing come from?
+EXPECTED: surrounding cities and provinces	ACTUAL: yes
+
+As of August 1st, 2006, how many trains stop daily at the Beijing Railway Station or the Beijing West Railway Station?
+EXPECTED: 167	ACTUAL: yes
+
+What is the name of a university (or similar institution for imparting higher education) in Beijing?
+EXPECTED: Tsinghua University	ACTUAL: yes
+
+Could Blaise Pascal move without crutches?
+EXPECTED: He could move without crutches until a paralytic attack in 1647.	ACTUAL: yes
+
+Could Blaise Pascal move without crutches?
+EXPECTED: no	ACTUAL: yes
+
+Has the name Pascal been given to the SI unit of pressure?
+EXPECTED: yes	ACTUAL: no
+
+Has the name Pascal been given to the SI unit of pressure?
+EXPECTED: yes	ACTUAL: no
+
+From what did Pascal suffer throughout his life?
+EXPECTED: ill health	ACTUAL: yes
+
+From what did Pascal suffer throughout his life?
+EXPECTED: poor health	ACTUAL: yes
+
+What did Pascal argue was as perfect as possible?
+EXPECTED: the procedure used in geometry 	ACTUAL: yes
+
+What did Pascal argue was as perfect as possible?
+EXPECTED: the procedure used in geometry	ACTUAL: yes
+
+What is the best physician?
+EXPECTED: Time	ACTUAL: yes
+
+Who was the eldest sibling?
+EXPECTED: Gilberte	ACTUAL: yes
+
+Of whose continual poor health was the cause never precisely determined?
+EXPECTED: Blaise Pascal	ACTUAL: yes
+
+Is the violin cello a bowed string instrument?
+EXPECTED: Yes	ACTUAL: no
+
+Is the violin cello a bowed string instrument?
+EXPECTED: yes	ACTUAL: no
+
+Are the z-holes used as access points to the interior of the cello? 
+EXPECTED: No	ACTUAL: yes
+
+Are the z-holes used as access points to the interior of the cello? 
+EXPECTED: No	ACTUAL: yes
+
+What does violincello mean?
+EXPECTED: Violincello means "little violene".	ACTUAL: yes
+
+What are the two materials that bows are made of traditionally? 
+EXPECTED: Traditionally, bows are made from pernambuco or brazilwood.	ACTUAL: yes
+
+What is used to tune a cello?
+EXPECTED: Pegs are used to tune a cello.	ACTUAL: yes
+
+What is used to tune a cello?
+EXPECTED: the pegs	ACTUAL: yes
+
+Which harmonics can produce any notes above middle C? 
+EXPECTED: Artificial harmonics can produce any notes above middle C.	ACTUAL: yes
+
+Which harmonics can produce any notes above middle C? 
+EXPECTED: Artificial harmonics	ACTUAL: yes
+
+Who referred to the cello as basso de viola da braccio"?
+EXPECTED: Monteverdi referred to the cello as "basso de viola da braccio".	ACTUAL: yes
+
+Who referred to the cello as basso de viola da braccio"?
+EXPECTED: Monteverdi	ACTUAL: yes
+
+Where is the violincello held?
+EXPECTED: The violincello is held on the shoulder.	ACTUAL: yes
+
+Where is the violincello held?
+EXPECTED: on the shoulder	ACTUAL: yes
+
+Is there cello in performances by Rihanna?
+EXPECTED: yes	ACTUAL: no
+
+Is there cello in performances by Rihanna?
+EXPECTED: Yes	ACTUAL: no
+
+Is the cello a stringed instrument?
+EXPECTED: yes	ACTUAL: no
+
+Is the cello a stringed instrument?
+EXPECTED: yes	ACTUAL: no
+
+What is cello an abbreviation of?
+EXPECTED: violoncello	ACTUAL: yes
+
+What is cello an abbreviation of?
+EXPECTED: violoncello	ACTUAL: yes
+
+What position is used to play the cello?
+EXPECTED: a gamba	ACTUAL: yes
+
+What position is used to play the cello?
+EXPECTED: seated	ACTUAL: yes
+
+What is a person who plays the cello called?
+EXPECTED: cellist	ACTUAL: yes
+
+What is a person who plays the cello called?
+EXPECTED: cellist	ACTUAL: yes
+
+Why is there purling on a cello?
+EXPECTED: to stop cracks from forming ****misspelled****	ACTUAL: yes
+
+When did the first educational works appear for the cello?
+EXPECTED: the 18th century	ACTUAL: yes
+
+When did the first educational works appear for the cello?
+EXPECTED: 18th century	ACTUAL: yes
+
+What cello manufacturer should I buy from if I want to play outside?
+EXPECTED: Luis & Clark	ACTUAL: yes
+
+What cello manufacturer should I buy from if I want to play outside?
+EXPECTED: Luis & Clark	ACTUAL: yes
+
+Was Charles-Augustin de Coulomb a member of the National Institute?
+EXPECTED: Yes	ACTUAL: no
+
+Was Charles-Augustin de Coulomb a member of the National Institute?
+EXPECTED: Yes	ACTUAL: no
+
+Was Charles-Augustin de Coulomb's father's family in Montpellier? 
+EXPECTED: Yes	ACTUAL: no
+
+Was Charles-Augustin de Coulomb's father's family in Montpellier? 
+EXPECTED: Yes	ACTUAL: no
+
+Where did Charles-Augustin de Coulomb die?
+EXPECTED: Charles-Augustin de Coulomb died in Paris.	ACTUAL: yes
+
+Where did Charles-Augustin de Coulomb die?
+EXPECTED: Paris, France	ACTUAL: yes
+
+When was Charles-Augustin de Coulomb permanently stationed in Paris?
+EXPECTED: Charles-Augustin de Coulomb was permanently stationed in Paris in 1781.	ACTUAL: yes
+
+What contribution did Charles-Augustin de Coulomb make to the field of geotechnical engineering?
+EXPECTED: Retaining wall design	ACTUAL: yes
+
+Where did the construction of Fort Bourbon take place?
+EXPECTED: The construction of Fort Bourbon took place in Martinique.	ACTUAL: yes
+
+Where did the construction of Fort Bourbon take place?
+EXPECTED: Martinique 	ACTUAL: yes
+
+What is the definition of the electrostatic force of attraction and repulsion? 
+EXPECTED: Coulomb's law is the definition of the electrostatic force of attraction and repulsion.	ACTUAL: yes
+
+What is the definition of the electrostatic force of attraction and repulsion? 
+EXPECTED: Coulomb's Law	ACTUAL: yes
+
+When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?
+EXPECTED: Charles-Augustin de Coulomb retired to a small estate he possessed at Blois on the outbreak of the revolution in 1789.	ACTUAL: yes
+
+When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?
+EXPECTED: 1789	ACTUAL: yes
+
+If Charles-Augustin de Coulomb was alive today, how old would he have been?
+EXPECTED: 273	ACTUAL: yes
+
+For how many years did Charles-Augustin de Coulomb live?
+EXPECTED: 70	ACTUAL: yes
+
+How old was Charles-Augustin de Coulomb when he died?
+EXPECTED: 1806	ACTUAL: yes
+
+How many years ago did he resign his appointment as intendant de eaux et fontaine ?
+EXPECTED: 220	ACTUAL: yes
+
+How many years ago did Charles-Augustin de Coulomb die?
+EXPECTED: 203	ACTUAL: yes
+
+Was The SI  unit  of charge , the  coulomb , named after him?
+EXPECTED: yes	ACTUAL: no
+
+Was coulomb born in AngoulÃªme,  France ,  to a well  to do  family?
+EXPECTED: yes	ACTUAL: no
+
+Was his father ,  Henri  Coulomb , inspector of the Royal  Fields  in Montpellier?
+EXPECTED: Yes	ACTUAL: no
+
+Is coulomb distinguished in the history  of mechanics  and  of electricity and  magnetism?
+EXPECTED: yes	ACTUAL: no
+
+Was Charles Augustin  de Coulomb  ( born  June  14 ,  1736 ,  AngoulÃªme ,  France  -  died August 23 ,  1806 ,  Paris ,  France  ) a French  physicist?
+EXPECTED: yes	ACTUAL: no
+
+Does Coulomb leave a legacy?
+EXPECTED: yes	ACTUAL: no
+
+When was Charles-Augustin de Coulomb born?
+EXPECTED: June 14, 1736	ACTUAL: yes
+
+Was Coulomb born in AngoulÃªme, France, to a well to do family?
+EXPECTED: yes	ACTUAL: no
+
+Was his father inspector of the Royal Fields?
+EXPECTED: yes	ACTUAL: no
+
+He discovered an inverse relationship of what?
+EXPECTED: distance and electric force	ACTUAL: yes
+
+Is it true that coulomb leaves a legacy as a hero?
+EXPECTED: yes	ACTUAL: no
+
+Where is Charles-Augustin de Coulomb from?
+EXPECTED: France	ACTUAL: yes
+
+What was Chinese language`s profession?
+EXPECTED: NULL	ACTUAL: yes
+
+What is Chinese language`s first name?
+EXPECTED: NULL	ACTUAL: yes
+
+What is Chinese language`s last name?
+EXPECTED: NULL	ACTUAL: yes
+
+How many offspring did Chinese language have?
+EXPECTED: NULL	ACTUAL: yes
+
+The Mandarin dialects in which location have experienced a dramatic decrease in sounds and so have far more multisyllabic words than most other spoken varieties?
+EXPECTED: NULL	ACTUAL: yes
+
+Was Old Chinese wholly uninflected?
+EXPECTED: no	ACTUAL: yes
+
+In North Korea, has Hanja been discontinued?
+EXPECTED: NULL	ACTUAL: yes
+
+The most  widespread is the Palladius  system?
+EXPECTED: NULL	ACTUAL: yes
+
+Is the Vietnamese  term  for Chinese writing HÃ¡n t?
 EXPECTED: NULL	ACTUAL: no
 
-Is Canada's official language Zulu?
-EXPECTED: No.	ACTUAL: no
-
-Is Canada's official language Zulu?
+Did the Empire have little success?
 EXPECTED: NULL	ACTUAL: no
 
-What is one significant non-official language?
-EXPECTED: Chinese.	ACTUAL: yes
+When are most of these groups mutually unintelligible?
+EXPECTED: NULL	ACTUAL: yes
 
-What is one significant non-official language?
+What is the population of Chinese language?
+EXPECTED: NULL	ACTUAL: yes
+
+Is the most widespread the Palladius system?
+EXPECTED: NULL	ACTUAL: no
+
+Are most of these groups mutually unintelligible?
+EXPECTED: NULL	ACTUAL: yes
+
+In what country is Chinese language located?
+EXPECTED: NULL	ACTUAL: yes
+
+Is it true that one-fifth of world population speak some form of Chinese?
+EXPECTED: yes	ACTUAL: no
+
+One-fifth of world population speak some form of what?
 EXPECTED: Chinese	ACTUAL: yes
 
-What is one significant non-official language?
+Is mandarin spoken Chinese distinguished by its high level?
+EXPECTED: no, it's distinguished by diversity	ACTUAL: no
+
+Is standard Mandarin language of People Republic?
+EXPECTED: NULL	ACTUAL: no
+
+Are there many systems of romanization for the chinese languages due to the Chinese`s own lack of phonetic transcription until modern times ?
 EXPECTED: NULL	ACTUAL: yes
 
-In addition to Port Royal, where else did Samuel de Champlain establish a settlement?
-EXPECTED: Quebec City	ACTUAL: yes
-
-In addition to Port Royal, where else did Samuel de Champlain establish a settlement?
+May the idea of Chinese as a language family suggest that the chinese identity is much more fragmentary and disunified than Chinese language actually is and as such is often looked upon as culturally and politically provocative ?
 EXPECTED: NULL	ACTUAL: yes
 
-What was the Consitution Act formerly called?
-EXPECTED: The British North America Act.	ACTUAL: yes
-
-What was the Consitution Act formerly called?
-EXPECTED: British North America Act	ACTUAL: yes
-
-What was the Consitution Act formerly called?
+Are most chinese words formed out of native chinese morphemes , including words describing imported objects and ideas ?
 EXPECTED: NULL	ACTUAL: yes
 
-Which countries established colonies in Canada?
-EXPECTED: France and Britain.	ACTUAL: yes
-
-Which countries established colonies in Canada?
-EXPECTED: Fance and Britain	ACTUAL: yes
-
-Which countries established colonies in Canada?
+May a native of Guangzhou speak Standard Cantonese and putonghua , a resident of Taiwan , both taiwanese and putonghua/guoyu ?
 EXPECTED: NULL	ACTUAL: yes
 
-How has Canada helped UN peacekeeping efforts?
-EXPECTED: During the Suez Crisis of 1956, Lester B. Pearson eased tensions by proposing the inception of the United Nations Peacekeeping Force. Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989	ACTUAL: yes
-
-How has Canada helped UN peacekeeping efforts?
-EXPECTED: Canada has played a leading role in UN peacekeeping efforts. During the Suez Crisis of 1956, Lester B. Pearson eased tensions by proposing the inception of the United Nations Peacekeeping Force. Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989	ACTUAL: yes
-
-How has Canada helped UN peacekeeping efforts?
+Refer most chinese and chinese linguists to chinese as a single language and Chinese language`s subdivisions dialects , while others call chinese a language family ?
 EXPECTED: NULL	ACTUAL: yes
 
-What percentage of the population don't speak English or French at home?
-EXPECTED: 28%	ACTUAL: yes
-
-What percentage of the population don't speak English or French at home?
-EXPECTED: 1.5%	ACTUAL: yes
-
-What percentage of the population don't speak English or French at home?
+Are there between 7 and 13 main regional groups of Chinese , of which the most spoken , by far , is about 850 million , followed by 90 million , 70 million and 70 million ?
 EXPECTED: NULL	ACTUAL: yes
 
-Is Canada bilingual?
-EXPECTED: Yes.	ACTUAL: yes
+Copenhagen is the capital of what country?
+EXPECTED: Denmark	ACTUAL: yes
 
-Is Canada bilingual?
-EXPECTED: Yes, it is.	ACTUAL: yes
+Copenhagen is the capital of what country?
+EXPECTED: Denmark	ACTUAL: yes
 
-Did Canadian soldiers win the Battle of Vimy Ridge in 1917?
+What is the population of Copenhagen?
+EXPECTED: 1,161,063	ACTUAL: yes
+
+What is the population of Copenhagen?
+EXPECTED: 1,153,615	ACTUAL: yes
+
+What transnational bridge was completed in 2000?
+EXPECTED: Oresund Bridge	ACTUAL: yes
+
+What transnational bridge was completed in 2000?
+EXPECTED: Oresund Bridge	ACTUAL: yes
+
+Why is Copenhagen a regional hub?
+EXPECTED: Its strategic location and excellent infrastructure	ACTUAL: yes
+
+Why is Copenhagen a regional hub?
+EXPECTED: Its strategic location and excellent infrastructure with the largest airport in Scandinavia[6] located 14 minutes by train from the city centre	ACTUAL: yes
+
+What happened to Copenhagen between 1251 and 1255?
+EXPECTED: a bunch of things	ACTUAL: yes
+
+Copenhagen is ranked number one worldwide for which things?
+EXPECTED: Most Livable City in the World, 	ACTUAL: yes
+
+Copenhagen is ranked number one worldwide for which things?
+EXPECTED: Most Livable City, Location Ranking Survey	ACTUAL: yes
+
+Why did German troops occupy Copenhagen?
+EXPECTED: Because it was WW2	ACTUAL: yes
+
+Have cymbals been used historically to suggest bacchanal?
 EXPECTED: Yes	ACTUAL: no
 
-Did Canadian soldiers win the Battle of Vimy Ridge in 1917?
-EXPECTED: No, it did not.	ACTUAL: no
-
-Is an official language of Canada German?
-EXPECTED: No.	ACTUAL: no
-
-Is an official language of Canada German?
-EXPECTED: No, it is not.	ACTUAL: no
-
-How many provinces and territories does Canada have?
-EXPECTED: A federation now comprising ten provinces and three territories	ACTUAL: yes
-
-How many provinces and territories does Canada have?
-EXPECTED: Ten provinces and three territories	ACTUAL: yes
-
-What is Canada's national unemployment rate?
-EXPECTED: While as of October 2007, Canada's national unemployment rate of 5.9% is its lowest in 33 years. Provincial unemployment rates vary from a low of 3.6% in Alberta to a high of 14.6% in Newfoundland and Labrador. 	ACTUAL: yes
-
-What is Canada's national unemployment rate?
-EXPECTED: In October 2007, Canada's national unemployment rate is 5.9%.	ACTUAL: yes
-
-Where is the most densely populated part of Canada?
-EXPECTED: The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast.	ACTUAL: yes
-
-Where is the most densely populated part of Canada?
-EXPECTED: The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast.	ACTUAL: yes
-
-What is the largest country in the world?
-EXPECTED: Canada is the second largest country in the world, after Russia, and largest on the continent.	ACTUAL: yes
-
-What is the largest country in the world?
-EXPECTED: Russia.	ACTUAL: yes
-
-What is the largest religious group in Canada?
-EXPECTED: According to 2001 census, 77.1% of Canadians identified as being Christians; of this, Catholics make up the largest group (43.6% of Canadians). The largest Protestant denomination is the United Church of Canada; about 16.5% of Canadians declare no religious affiliation, and the remaining 6.3% were affiliated with religions other than Christianity, of which the largest is Islam numbering 1.9%, followed by Judaism: 1.1%. 	ACTUAL: yes
-
-What is the largest religious group in Canada?
-EXPECTED: Christian	ACTUAL: yes
-
-When did Canada have one of the largest armed forces in the world?
-EXPECTED: 1944.	ACTUAL: yes
-
-When did Canada have one of the largest armed forces in the world?
-EXPECTED: World War II.	ACTUAL: yes
-
-What have been inhabited for millennia by aboriginal peoples?
-EXPECTED: The lands	ACTUAL: yes
-
-European books and maps began referring to this region as Canada in what year?
-EXPECTED: 1545	ACTUAL: yes
-
-What was Canada's most important industry until the 1800s?
-EXPECTED: The fur trade	ACTUAL: yes
-
-Is it true that it angered many residents of the thirteen colonies?
-EXPECTED: yes	ACTUAL: no
-
-How do cuba and declining participation relate?
-EXPECTED: Canada maintains full relations with both.	ACTUAL: yes
-
-Is it true that provinces have a large degree of autonomy?
-EXPECTED: yes	ACTUAL: no
-
-What did Canada adopt in 1965?
-EXPECTED: The Maple Leaf Flag	ACTUAL: yes
-
-What arrived in Britain?
-EXPECTED: The first Canadian Army units in WW II	ACTUAL: yes
-
-Did Mainland Nova Scotia not come under British rule with the Treaty of Utrecht    (: ; ?
-EXPECTED: no!	ACTUAL: no
-
-Did Cartier not use the word ` Canada ' to refer to not only that village , but the entire area subject to Donnacona , Chief at Stadacona ?
-EXPECTED: yes	ACTUAL: no
-
-Is it the world 's second largest country by total area?
-EXPECTED: yes	ACTUAL: no
-
-What happened in 1867?
-EXPECTED: Canada was formed as a federal, semi-autonomous polity	ACTUAL: yes
-
-Are ducks in the Arctic Northern Hemisphere migratory?
-EXPECTED: Some are	ACTUAL: yes
-
-Is a drake a male?
+Have cymbals been used historically to suggest bacchanal?
 EXPECTED: Yes	ACTUAL: no
 
-Is a drake a male?
-EXPECTED: yes	ACTUAL: no
-
-What is the name of a specialized species of duck adapted to catch large fish?
-EXPECTED: the smew	ACTUAL: yes
-
-What animal attracts the most humor and silliness?
-EXPECTED: The duck	ACTUAL: yes
-
-What animal attracts the most humor and silliness?
-EXPECTED: the duck	ACTUAL: yes
-
-What is an economic use of a duck?
-EXPECTED: Meat	ACTUAL: yes
-
-What is an economic use of a duck?
-EXPECTED: being farmed for their meat	ACTUAL: yes
-
-Who is Daffy Duck?
-EXPECTED: A silly cartoon character	ACTUAL: yes
-
-Who is Daffy Duck?
-EXPECTED: a silly cartoon character	ACTUAL: yes
-
-What makes it more difficult for a diving duck to fly?
-EXPECTED: They are heavier	ACTUAL: yes
-
-What makes it more difficult for a diving duck to fly?
-EXPECTED: they are heavier	ACTUAL: yes
-
-What are the reasons for hunting wild ducks?
-EXPECTED: Meat, eggs, and feathers	ACTUAL: yes
-
-Do ducks forage underwater?
-EXPECTED: yes	ACTUAL: no
-
-Do ducks forage underwater?
-EXPECTED: Diving ducks and sea ducks forage underwater	ACTUAL: no
-
-Is foie gras often made from ducks?
-EXPECTED: yes	ACTUAL: no
-
-Is foie gras often made from ducks?
+Can the origins of cymbals be traced to prehistoric times?
 EXPECTED: Yes	ACTUAL: no
 
-What economic uses to ducks have?
-EXPECTED: They are farmed for their meat, eggs and feathers. They are also kept and bred by aviculturists and often displayed in zoos.	ACTUAL: yes
-
-What economic uses to ducks have?
-EXPECTED: They can be farmed for meat, eggs, and feathers	ACTUAL: yes
-
-What kind of ducks feed on land?
-EXPECTED: Dabbling ducks	ACTUAL: yes
-
-What kind of ducks feed on land?
-EXPECTED: Dabbling ducks feed on land	ACTUAL: yes
-
-What unrelated water birds are ducks sometimes confused with?
-EXPECTED: loons or divers, grebes, gallinules, and coots	ACTUAL: yes
-
-What unrelated water birds are ducks sometimes confused with?
-EXPECTED: loons or divers, grebes, gallinules, and coots	ACTUAL: yes
-
-What does the word duck mean?
-EXPECTED: It is the common name for a number of species in the Anatidae family of birds.	ACTUAL: yes
-
-What does the word duck mean?
-EXPECTED: to bend down low as if to get under something	ACTUAL: yes
-
-What are some common predators of ducks?
-EXPECTED: Pike, crocodilians, herons, hawks and eagles.	ACTUAL: yes
-
-What are some common predators of ducks?
-EXPECTED: pike, crocodilians, and other aquatic hunters	ACTUAL: yes
-
-How does a Mallard's tongue work?
-EXPECTED: It's tongue is a flat plate, and on the tongue's back end is a short liftable flap with about 18 short spikes for pushing struggling prey and other food down its throat	ACTUAL: yes
-
-How does a Mallard's tongue work?
-EXPECTED: It uses short spikes to push struggling prey and other food down its throat	ACTUAL: yes
-
-What types of unrelated water birds with similar forms are ducks sometimes confused with?
-EXPECTED: loons or divers, grebes, gallinules, and coots	ACTUAL: yes
-
-What types of unrelated water birds with similar forms are ducks sometimes confused with?
-EXPECTED: loons or divers, grebes, gallinules, and coots	ACTUAL: yes
-
-Why are ducklings particularly vulnerable?
-EXPECTED: Their inability to fly.	ACTUAL: yes
-
-Why are ducklings particularly vulnerable?
-EXPECTED: their inability to fly makes them easy prey	ACTUAL: yes
-
-What are some economic uses for duck?
-EXPECTED: Meat,eggs,feathers	ACTUAL: yes
-
-What are some economic uses for duck?
-EXPECTED: being farmed for their meat, eggs, feathers, (particularly their down)	ACTUAL: yes
-
-What allows a duck to filter water out of the side of their beaks and keep food inside?
-EXPECTED: Tiny rows of plates called lamellae	ACTUAL: yes
-
-What allows a duck to filter water out of the side of their beaks and keep food inside?
-EXPECTED: tiny rows of plates called lamellae like a whale's baleen	ACTUAL: yes
-
-What expression is part of a conceptual framework for testing computer systems?
-EXPECTED: Quacks like a duck	ACTUAL: yes
-
-What expression is part of a conceptual framework for testing computer systems?
-EXPECTED: Quacks like a duck	ACTUAL: yes
-
-Where did the expression "a sitting duck" come from?
-EXPECTED: In many areas, wild duckof various species (including ducks farmed and released into the wild) are hunted for food or sport, by shooting, or formerly by decoys.	ACTUAL: yes
-
-Where did the expression "a sitting duck" come from?
-EXPECTED: In many areas, wild ducks of various species (including ducks farmed and released into the wild) are hunted for food or sport, by shooting, or formerly by decoys.	ACTUAL: yes
-
-Is Egypt bordered by the Gaza Strip?
-EXPECTED: yes	ACTUAL: no
-
-Is Egypt bordered by the Gaza Strip?
+Can the origins of cymbals be traced to prehistoric times?
 EXPECTED: Yes	ACTUAL: no
 
-Does Egypt have political influence in the Middle East?
+What are the most common Cymbals?
+EXPECTED:  The most common Cymbals are the Hi-Hats, Crash, Splash, Ride, and China.	ACTUAL: yes
+
+What are the most common Cymbals?
+EXPECTED: Hi-Hats, Crash, Splash, Ride, and China	ACTUAL: yes
+
+What is the second main orchestral use of cymbals?
+EXPECTED: The suspended cymbal is the second main orchestral use of symbals.	ACTUAL: yes
+
+What is the second main orchestral use of cymbals?
+EXPECTED: The suspended cymbal	ACTUAL: yes
+
+What have clash cymbals traditionally been accompanied by?
+EXPECTED: Clash cymbals have traditionally been accompanied by the bass drum playing an identical part.	ACTUAL: yes
+
+What have clash cymbals traditionally been accompanied by?
+EXPECTED: The bass drum playing an identical part	ACTUAL: yes
+
+What happens when the center of a Cymbal is hit?
+EXPECTED: It causes a sound which is in a higher register than the rest of the symbal.	ACTUAL: yes
+
+What happens when the center of a Cymbal is hit?
+EXPECTED: It causes a sound which is in a higher register than the rest of the cymbal	ACTUAL: yes
+
+What is an effective way to accentuate a note?
+EXPECTED: Playing a bass drum playing an identical part is an effective way to accentuate a note.	ACTUAL: yes
+
+What is an effective way to accentuate a note?
+EXPECTED: The combination of a clash cymbol being accompanied by a bass drum playing an identical part, played loudly	ACTUAL: yes
+
+From what type of Cymbals can a expert player obtain an enormous dynamic range?
+EXPECTED: An expert player can obtain an enormous dynamic range from crash cymbals.	ACTUAL: yes
+
+From what type of Cymbals can a expert player obtain an enormous dynamic range?
+EXPECTED: Crash cymbals	ACTUAL: yes
+
+Can the origins of cymbals be traced back to prehistoric times?
 EXPECTED: yes	ACTUAL: no
 
-Does Egypt have political influence in the Middle East?
+Can the origins of cymbals be traced back to prehistoric times?
 EXPECTED: Yes	ACTUAL: no
 
-When was the Six Day War?
-EXPECTED: 1967	ACTUAL: yes
+Did the modern hi-hat evolve from clash cymbals?
+EXPECTED: yes	ACTUAL: no
 
-When was the Six Day War?
-EXPECTED: 1967	ACTUAL: yes
+Did the modern hi-hat evolve from clash cymbals?
+EXPECTED: Yes	ACTUAL: no
 
-What religions has Egypt outlawed?
-EXPECTED: All but Christianity, Islam, and Judaism	ACTUAL: yes
+What is the center of a cymbal called?
+EXPECTED: Bell	ACTUAL: yes
 
-What religions has Egypt outlawed?
-EXPECTED: all religions and belief except Islam, Christianity and Judaism	ACTUAL: yes
+What is the center of a cymbal called?
+EXPECTED: bell	ACTUAL: yes
 
-What is the poulation of Egypt?
-EXPECTED: more than 78 million	ACTUAL: yes
+What part of the cymbal gets the best "crash"?
+EXPECTED: Edge or rim	ACTUAL: yes
 
-What is the poulation of Egypt?
-EXPECTED: 78 million people	ACTUAL: yes
+What part of the cymbal gets the best "crash"?
+EXPECTED: edge or rim	ACTUAL: yes
 
-Why does most of Egypt's population live near the Nile?
-EXPECTED: the only arable agricultural land is found there,	ACTUAL: yes
+What is the second main orchestral use of cymbals?
+EXPECTED: the suspended cymbal	ACTUAL: yes
 
-Why does most of Egypt's population live near the Nile?
-EXPECTED: The only arable agricultural land is found there	ACTUAL: yes
+What is the second main orchestral use of cymbals?
+EXPECTED: the suspended cymbal	ACTUAL: yes
 
-Are there a large number of Jews living in Egypt today?
-EXPECTED: no	ACTUAL: yes
+What two instruments form the modern drum kit?
+EXPECTED: the cymbals and the drum	ACTUAL: yes
 
-Are there a large number of Jews living in Egypt today?
-EXPECTED: No	ACTUAL: yes
+What Greek mythical creatures were depicted holding cymbals?
+EXPECTED: fauns and satyrs	ACTUAL: yes
 
-During what period was Akhenaten a Pharaoh?
-EXPECTED: The New Kingdom (c.1550&#8722;1070 BC) 	ACTUAL: yes
+What Greek mythical creatures were depicted holding cymbals?
+EXPECTED: fauns and satyrs	ACTUAL: yes
 
-During what period was Akhenaten a Pharaoh?
-EXPECTED: The New Kingdom	ACTUAL: yes
+What are orchestral crash cymbals technically called?
+EXPECTED: a pair of clash cymbals	ACTUAL: yes
 
-Is Egypt in Asia?
-EXPECTED: No.	ACTUAL: no
+What are orchestral crash cymbals technically called?
+EXPECTED: clash cymbals	ACTUAL: yes
 
-Does Egypt receive the least rainfall in the world?
+Is Dhaka located on the eastern banks of the Buriganga River?
+EXPECTED: Yes	ACTUAL: no
+
+Is University of Dhaka the largest public university in Dhaka?
+EXPECTED: Yes	ACTUAL: no
+
+How much area does Dhaka cover?
+EXPECTED: 1462.60 square kilometers	ACTUAL: yes
+
+How many people did the 1970 Bhola cyclone kill?
+EXPECTED: 500,000	ACTUAL: yes
+
+When is the end of the independence war of Bangladesh?
+EXPECTED: December 16, 1971	ACTUAL: yes
+
+Did the Mughals arrive in Dhaka?
+EXPECTED: Yes	ACTUAL: no
+
+What is given for the number of native speakers?
+EXPECTED: No figure is given for the number of native speakers.	ACTUAL: yes
+
+Is english an intonation  language?
+EXPECTED: Yes	ACTUAL: no
+
+Is the stressed  syllable called the nuclear  syllable?
+EXPECTED: yes	ACTUAL: no
+
+Does english grammar have minimal inflection?
+EXPECTED: Yes	ACTUAL: no
+
+Did old English develop into Middle English?
+EXPECTED: Yes	ACTUAL: no
+
+Is the syntax of German different with different rules?
+EXPECTED: yes	ACTUAL: no
+
+Is it true that semantics causes a number of false friends?
+EXPECTED: true	ACTUAL: no
+
+Is the flute a musical instrument?
 EXPECTED: Yes.	ACTUAL: no
 
-Does Egypt receive the least rainfall in the world?
+Is the flute a musical instrument?
 EXPECTED: Yes	ACTUAL: no
 
-Does Egypt's foreign policy operates along moderate lines?
-EXPECTED: Yes.	ACTUAL: yes
-
-Since when has Egypt been a republic?
-EXPECTED: June 18 1953.	ACTUAL: yes
-
-Since when has Egypt been a republic?
-EXPECTED: June 18 1953	ACTUAL: yes
-
-When were the Great Sphinx and the Pyramids of Giza built?
-EXPECTED: During the Old Kingdom.	ACTUAL: yes
-
-When were the Great Sphinx and the Pyramids of Giza built?
-EXPECTED: During the Old Kingdom	ACTUAL: yes
-
-What countries border Egypt?
-EXPECTED: Libya, Sudan, the Gaza Strip and Israel.	ACTUAL: yes
-
-What countries border Egypt?
-EXPECTED: Libya, Sudan, the Gaza Strip and Israel	ACTUAL: yes
-
-What is the estimated population of Egypt?
-EXPECTED: More than 78 million.	ACTUAL: yes
-
-What is the estimated population of Egypt?
-EXPECTED: 78 million	ACTUAL: yes
-
-Does snow fall in Egypt?
+Is it possible to open flutes at one or both ends?
 EXPECTED: Yes.	ACTUAL: no
 
-Does snow fall in Egypt?
+Is it possible to open flutes at one or both ends?
 EXPECTED: Yes	ACTUAL: no
 
-When did organized agriculture appear in the Nile Valley?
-EXPECTED: 6000 BC.	ACTUAL: yes
+Are Indian concert flutes available in standard pitches?
+EXPECTED: Yes.	ACTUAL: yes
 
-When did organized agriculture appear in the Nile Valley?
-EXPECTED: About 6000 BC	ACTUAL: yes
+What do we refer musicians who play flute?
+EXPECTED: A flute player, a flautist or a flutist. 	ACTUAL: yes
 
-Can an elephant kill a rhinoceros?
-EXPECTED: yes	ACTUAL: no
+What do we refer musicians who play flute?
+EXPECTED: A flute player, a flautist, or a flutist	ACTUAL: yes
 
-Can an elephant kill a rhinoceros?
-EXPECTED: yes	ACTUAL: no
+When was a three-holed flute made from a mammoth tusk discovered?
+EXPECTED: 2004.	ACTUAL: yes
 
-How many living species of African Elephants are there?
-EXPECTED: 2	ACTUAL: yes
+When was a three-holed flute made from a mammoth tusk discovered?
+EXPECTED: In 2004	ACTUAL: yes
 
-How many living species of African Elephants are there?
-EXPECTED: The African Elephant genus contains two (or, arguably, three) living species.	ACTUAL: yes
+When did the tin whistle first appear?
+EXPECTED: 12th century.	ACTUAL: yes
 
-How long may elephants live?
-EXPECTED: 70 years	ACTUAL: yes
+When did the tin whistle first appear?
+EXPECTED: In the 12th century	ACTUAL: yes
 
-How long may elephants live?
-EXPECTED: As long as 70 years, sometimes longer.	ACTUAL: yes
+What are the oldest known musical instruments?
+EXPECTED: A three holed-flute made from a mammoth tusk and two flutes made from swan's bones.	ACTUAL: yes
 
-Why does the phrase 'elephants never forget' have no metaphorical meaning?
-EXPECTED: it refers literally to elephants supposedly having an excellent memory	ACTUAL: yes
+What are the oldest known musical instruments?
+EXPECTED: A three-holed flute made from a mammoth tusk and two flutes made from swans' bones are among the oldest known musical instruments	ACTUAL: yes
 
-Why does the phrase 'elephants never forget' have no metaphorical meaning?
-EXPECTED: Because it refers literally to elephants supposedly having an excellent memory.	ACTUAL: yes
+When was the pan flute spread to other parts of Europe?
+EXPECTED: 7th century BC.	ACTUAL: yes
 
-How many living species of Asian Elephants are there?
-EXPECTED: 1	ACTUAL: yes
+When was the pan flute spread to other parts of Europe?
+EXPECTED: After the 7th century BC	ACTUAL: yes
 
-How many living species of Asian Elephants are there?
-EXPECTED: one	ACTUAL: yes
+What does the air stream across this hole create?
+EXPECTED: A Bernoulli, or siphon.	ACTUAL: yes
 
-How much do elephants weight at birth?
-EXPECTED: 120 kilograms	ACTUAL: yes
-
-How much do elephants weight at birth?
-EXPECTED: At birth it is common for an elephant calf to weigh 120 kilograms (265 lb).	ACTUAL: yes
-
-What did Aristotle say about elephants?
-EXPECTED: the beast which passeth all others in wit and mind	ACTUAL: yes
-
-What did Aristotle say about elephants?
-EXPECTED: Aristotle once said the elephant was "the beast which passeth all others in wit and mind."	ACTUAL: yes
-
-Is the Asian elephant larger than the African?
-EXPECTED: Sometimes	ACTUAL: no
-
-Is an elephant's skin tough?
-EXPECTED: yes	ACTUAL: no
-
-Is an elephant's skin tough?
-EXPECTED: Yes	ACTUAL: no
-
-How do elephants communicate over long distances?
-EXPECTED: by producing and receiving low frequency sound	ACTUAL: yes
-
-How do elephants communicate over long distances?
-EXPECTED: By producing and receiving low-frequency sound (infrasound)	ACTUAL: yes
-
-When do African elephants lie down?
-EXPECTED: when they are sick or wounded	ACTUAL: yes
-
-How long is the elephant's gestation period?
-EXPECTED: 22 months	ACTUAL: yes
-
-How long is the elephant's gestation period?
-EXPECTED: 22 months	ACTUAL: yes
-
-How many species of African elephants have been proposed?
-EXPECTED: three	ACTUAL: yes
-
-How many species of African elephants have been proposed?
-EXPECTED: three	ACTUAL: yes
-
-What are the elephant's ears important for?
-EXPECTED: temperature regulation	ACTUAL: yes
-
-What are the elephant's ears important for?
-EXPECTED: temperature regulation	ACTUAL: yes
-
-What land animal has the largest brain?
-EXPECTED: elephant	ACTUAL: yes
-
-What land animal has the largest brain?
-EXPECTED: The elephant	ACTUAL: yes
-
-Have elephants been used as working animals?
-EXPECTED: yes	ACTUAL: no
-
-Have elephants been used as working animals?
-EXPECTED: Yes	ACTUAL: no
-
-Do they prefer forested areas?
-EXPECTED: Yes	ACTUAL: no
-
-Do they prefer forested areas?
-EXPECTED: Yes	ACTUAL: no
-
-What is the world population of Asian elephants?
-EXPECTED: 60000	ACTUAL: yes
-
-What is the world population of Asian elephants?
-EXPECTED: The world population of Asian elephants – also called Indian Elephants or Elephas maximus – is estimated to be around 60,000	ACTUAL: yes
-
-What part of an elephant is very important for temperature regulation?
-EXPECTED: Ears	ACTUAL: yes
-
-What part of an elephant is very important for temperature regulation?
-EXPECTED: The large flapping ears of an elephant are also very important for temperature regulation.	ACTUAL: yes
-
-Where was the largest elephant ever recorded shot?
-EXPECTED: Angola	ACTUAL: yes
-
-Where was the largest elephant ever recorded shot?
-EXPECTED: The largest elephant ever recorded was shot in Angola in 1956.	ACTUAL: yes
-
-Is an Asian elephant smaller than an African elephant?
-EXPECTED: yes	ACTUAL: no
-
-Is an Asian elephant smaller than an African elephant?
-EXPECTED: Yes	ACTUAL: no
-
-What land animal is larger than an elephant?
-EXPECTED: None	ACTUAL: yes
-
-What land animal is larger than an elephant?
-EXPECTED: None, the elephant is the largest land animal.	ACTUAL: yes
-
-Has tusklessness become a rare abnormality?
-EXPECTED: No, tusklessness has become a widespread hereditary trait. 	ACTUAL: no
-
-Were the treaties signed in 1947 and 1948 with the Ukraine?
+Are fennec foxes endangered?
 EXPECTED: no	ACTUAL: yes
 
-Were the treaties signed in 1947 and 1948 with the Ukraine?
+Are fennec foxes endangered?
 EXPECTED: No	ACTUAL: yes
 
-Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?
+Does the diet of foxes include reptiles?
 EXPECTED: yes	ACTUAL: no
 
-Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?
+Does the diet of foxes include reptiles?
 EXPECTED: Yes	ACTUAL: no
 
-Which Russian army general conquered Finland in 1809?
-EXPECTED: Alexander I	ACTUAL: yes
+How long do most foxes live?
+EXPECTED: Most foxes live 2 to 3 years, but they can survive for up to 10 years or even longer in captivity.	ACTUAL: yes
 
-Which Russian army general conquered Finland in 1809?
-EXPECTED: Alexander I	ACTUAL: yes
+How long do most foxes live?
+EXPECTED: 2 to 3 years	ACTUAL: yes
 
-What is the life expectancy for men in Finland?
-EXPECTED: 75 years	ACTUAL: yes
+In what country did fox hunting originate?
+EXPECTED: the United Kingdom	ACTUAL: yes
 
-What is the life expectancy for men in Finland?
-EXPECTED: 75 years	ACTUAL: yes
+In what country did fox hunting originate?
+EXPECTED: in the United Kingdom	ACTUAL: yes
 
-In what year were the "Games of the XV Olympiad" held?
-EXPECTED: 1952	ACTUAL: yes
+What is the smallest species of fox?
+EXPECTED: The Fennec Fox is the smallest species of fox. 	ACTUAL: yes
 
-In what year were the "Games of the XV Olympiad" held?
-EXPECTED: 1952	ACTUAL: yes
+What is the smallest species of fox?
+EXPECTED: the Fennec Fox	ACTUAL: yes
 
-What body of water lies to the south of Finland?
-EXPECTED: the Gulf of Finland	ACTUAL: yes
+What are female foxes called?
+EXPECTED: vixens	ACTUAL: yes
 
-What body of water lies to the south of Finland?
-EXPECTED: Archipelago Sea	ACTUAL: yes
+What are female foxes called?
+EXPECTED: vixens	ACTUAL: yes
 
-Name an animal that is growing in number due to recent conservation efforts
-EXPECTED: Golden Eagle, Brown Bear, or Eurasian Lynx (Change imperative to interrogative)	ACTUAL: yes
+What is caching food?
+EXPECTED: Caching is burying it for later consumption, usually under leaves, snow, or soil.	ACTUAL: yes
 
-Name an animal that is growing in number due to recent conservation efforts
-EXPECTED: Golden Eagle	ACTUAL: yes
+What is caching food?
+EXPECTED: burying it for later consumption	ACTUAL: yes
 
-Is Matti Vanhanen the Prime Minister of Finland?
+How many years ago did African people spread across 31 francophone African countries can speak French either as a first or second language?
+EXPECTED: 2 years ago	ACTUAL: yes
+
+Is catalan the only  official  language  of Andorra?
+EXPECTED: Yes	ACTUAL: no
+
+Where is it an official language?
+EXPECTED: NULL	ACTUAL: yes
+
+Is french taught in many schools as a primary language along with Arabic?
+EXPECTED: Yes	ACTUAL: no
+
+What is widely used by the Lebanese, especially for administrative purposes?
+EXPECTED: French	ACTUAL: yes
+
+Is french descendant of the Latin language?
+EXPECTED: Yes	ACTUAL: no
+
+Is it true that france signed the European Charter for Regional Languages?
+EXPECTED: Yes	ACTUAL: no
+
+France signed the European Charter for what?
+EXPECTED: NULL	ACTUAL: yes
+
+Is french language of 20  %?
+EXPECTED: NULL	ACTUAL: no
+
+Is French language of Wallonia?
+EXPECTED: NULL	ACTUAL: no
+
+Are French and German not official languages nor recognised minority languages in the flemish region , although there are a dozen municipalities with language facilities for French-speakers ?
+EXPECTED: NULL	ACTUAL: yes
+
+Can the palatal nasal occur in word initial position ( e.g ?
+EXPECTED: NULL	ACTUAL: no
+
+How many years ago was the Luther Bible by Martin Luther printed?
+EXPECTED: 475	ACTUAL: yes
+
+Is german an inflected  language?
 EXPECTED: yes	ACTUAL: no
 
-Is Matti Vanhanen the Prime Minister of Finland?
+In Switzerland, is Ã used at all?
+EXPECTED: no	ACTUAL: yes
+
+Are feminines declined in the singular?
+EXPECTED: no	ACTUAL: yes
+
+Is german written using the Latin  alphabet?
 EXPECTED: Yes	ACTUAL: no
 
-Does it have a border with Norway?
+Was the Luther Bible by Martin Luther printed?
+EXPECTED: Yes	ACTUAL: no
+
+Have adverbs of time to appear in the third place in the sentence , just after the predicate ?
+EXPECTED: Yes	ACTUAL: no
+
+Do both sexes of giraffe have horns?
+EXPECTED: Yes	ACTUAL: no
+
+Do both sexes of giraffe have horns?
 EXPECTED: yes	ACTUAL: no
 
-Does it have a border with Norway?
+Do giraffes give birth standing up?
 EXPECTED: Yes	ACTUAL: no
 
-What is the life expectancy for men?
-EXPECTED: 75 years	ACTUAL: yes
+Do giraffes give birth standing up?
+EXPECTED: yes	ACTUAL: no
 
-What is the life expectancy for men?
-EXPECTED: 75 years	ACTUAL: yes
+What areas can giraffes inhabit?
+EXPECTED: savannas, grasslands, or open woodlands	ACTUAL: yes
 
-What is the biggest city in Finland?
-EXPECTED: Greater Helsinki	ACTUAL: yes
+What areas can giraffes inhabit?
+EXPECTED: inhabit savannas, grasslands, or open woodlands	ACTUAL: yes
 
-What is the biggest city in Finland?
-EXPECTED: the cities of the Greater Helsinki metropolitan area	ACTUAL: yes
+What will a giraffe use to clean off any bugs that appear on its face?
+EXPECTED: extremely long tongue 	ACTUAL: yes
 
-Who is the most popular rock group in Finland?
-EXPECTED: CMX	ACTUAL: yes
+What will a giraffe use to clean off any bugs that appear on its face?
+EXPECTED: It's extremely long tongue	ACTUAL: yes
 
-Who is the most popular rock group in Finland?
-EXPECTED: CMX	ACTUAL: yes
+How do giraffes defend themselves?
+EXPECTED: with a powerful kick	ACTUAL: yes
 
-What is Finland's economy like?
-EXPECTED: a highly industrialised, free-market economy	ACTUAL: yes
+How do giraffes defend themselves?
+EXPECTED: With powerful kicks	ACTUAL: yes
 
-Where is Finland located?
-EXPECTED: Northern Europe	ACTUAL: yes
-
-Where is Finland located?
-EXPECTED: Northern Europe	ACTUAL: yes
-
-What is the weather like in summer?
-EXPECTED: relatively warm	ACTUAL: yes
-
-What is the weather like in summer?
-EXPECTED: relatively warm	ACTUAL: yes
-
-Does salmon remain the favorite of fly rod enthusiasts?
+Do male giraffes weigh more than female giraffes?
 EXPECTED: Yes	ACTUAL: no
 
-Does salmon remain the favorite of fly rod enthusiasts?
+Do male giraffes weigh more than female giraffes?
+EXPECTED: yes	ACTUAL: no
+
+Do male giraffes have larger horns than female giraffes?
 EXPECTED: Yes	ACTUAL: no
 
-When did the first verifiable written documents appear?
-EXPECTED: Twelfth Century	ACTUAL: yes
-
-When did the first verifiable written documents appear?
-EXPECTED:  The first verifiable written documents appeared in the twelfth century. 	ACTUAL: yes
-
-What is the capital city?
-EXPECTED: Helsinki	ACTUAL: yes
-
-What is the capital city?
-EXPECTED: The capital city is Helsinki. 	ACTUAL: yes
-
-What is the most extensively celebrated holiday?
-EXPECTED: Christmas	ACTUAL: yes
-
-What is the most extensively celebrated holiday?
-EXPECTED: Christmas is the most extensively celebrated holiday.	ACTUAL: yes
-
-Do women live longer than men?
+Do male giraffes have larger horns than female giraffes?
 EXPECTED: Yes	ACTUAL: no
 
-Do women live longer than men?
+Is the SI unit for radioactivity named after him?
 EXPECTED: Yes	ACTUAL: no
 
-What is a country with which Finland is involved in an international conflict?
-EXPECTED: None	ACTUAL: yes
+Is the SI unit for radioactivity named after him?
+EXPECTED: Yes	ACTUAL: no
 
-What is a country with which Finland is involved in an international conflict?
-EXPECTED: Finland is not involved in international conflicts or border disputes. 	ACTUAL: yes
+In what year did Henri Becquerel die?
+EXPECTED: 1908	ACTUAL: yes
 
-What is Helsinki?
+In what year did Henri Becquerel die?
+EXPECTED: August 24, 1908	ACTUAL: yes
+
+Where was Henri Becquerel born?
+EXPECTED:  Paris 	ACTUAL: yes
+
+Where was Henri Becquerel born?
+EXPECTED: Paris	ACTUAL: yes
+
+In what year did Henri Becquerel win the Nobel Prize in Physics?
+EXPECTED: 1903	ACTUAL: yes
+
+In what year did Henri Becquerel win the Nobel Prize in Physics?
+EXPECTED: 1903	ACTUAL: yes
+
+Did Henri Becquerel intentionally discover radioactivity?
+EXPECTED: He discovered it accidentally	ACTUAL: no
+
+If Henri Becquerel was alive today, how old would he have been?
+EXPECTED: 157	ACTUAL: yes
+
+For how many years did Henri Becquerel live?
+EXPECTED: 56	ACTUAL: yes
+
+What was Henri Becquerel`s profession?
+EXPECTED: physisist	ACTUAL: yes
+
+How old was Henri Becquerel when he died?
+EXPECTED: 53	ACTUAL: yes
+
+How many years ago was it when he became the third in his family to occupy the physics chair at the Musum National d`Histoire Naturelle?
+EXPECTED: 117	ACTUAL: yes
+
+When was Henri Becquerel born?
+EXPECTED: December 15, 1852	ACTUAL: yes
+
+Did he share the Nobel Prize in Physics?
+EXPECTED: Yes	ACTUAL: no
+
+Is it true that Becquerel wrapped a fluorescent substance in photographic plates?
+EXPECTED: Yes	ACTUAL: no
+
+Becquerel wrapped a fluorescent substance in what?
+EXPECTED: photographic plates and black material	ACTUAL: yes
+
+Is there a Becquerel crater on the Moon for radioactivity?
+EXPECTED: Yes	ACTUAL: no
+
+What is Henri Becquerel?
+EXPECTED: Henri Becquerel was a famous physicist.	ACTUAL: yes
+
+Where is Henri Becquerel from?
+EXPECTED: Paris	ACTUAL: yes
+
+What does Henri Becquerel do?
+EXPECTED: was a physisist	ACTUAL: yes
+
+What does Henri Becquerel do?
+EXPECTED: Henri Becquerel was a physicist.	ACTUAL: yes
+
+Was Newton a English physicist?
+EXPECTED: Yes.	ACTUAL: no
+
+Was Newton a English physicist?
+EXPECTED: Yes	ACTUAL: no
+
+Did Newton reject the church's doctrine of the Trinity?
+EXPECTED: Newton may have rejected the church's doctrine of the Trinity.	ACTUAL: no
+
+Did Newton reject the church's doctrine of the Trinity?
+EXPECTED: Maybe	ACTUAL: no
+
+Was Newton admitted into Havard College?
+EXPECTED: No.	ACTUAL: no
+
+Was Newton admitted into Havard College?
+EXPECTED: Maybe, but it doesn't say so in the article	ACTUAL: no
+
+When was Newton's date of birth recorded?
+EXPECTED: Christmas Day, Decembeer 25, 1642.	ACTUAL: yes
+
+When was Newton's date of birth recorded?
+EXPECTED: his date of birth was recorded as Christmas Day, December 25, 1642	ACTUAL: yes
+
+How many laws of motion did Netwon have?
+EXPECTED: Three	ACTUAL: yes
+
+How many laws of motion did Netwon have?
+EXPECTED: Three	ACTUAL: yes
+
+Who did Newton see as the master creator?
+EXPECTED: God	ACTUAL: yes
+
+Who did Newton see as the master creator?
+EXPECTED: Newton saw God as the master creator whose existence could not be denied in the face of the grandeur of all creation	ACTUAL: yes
+
+When did Netwon investigate the refraction of light
+EXPECTED: From 1670 to 1672	ACTUAL: yes
+
+When did Netwon investigate the refraction of light
+EXPECTED: 1670-1672	ACTUAL: yes
+
+What principles did Newton explain for mechanics?
+EXPECTED: The principles of conservation of momentum and angular momentum	ACTUAL: yes
+
+What principles did Newton explain for mechanics?
+EXPECTED: In mechanics, Newton enunciated the principles of conservation of momentum and angular momentum	ACTUAL: yes
+
+Interaction with what man stirred up Newton's interest in alchemy?
+EXPECTED: Henry More	ACTUAL: yes
+
+Interaction with what man stirred up Newton's interest in alchemy?
+EXPECTED: The contact with the theosophist Henry More, revived his interest in alchemy	ACTUAL: yes
+
+What was Italian language`s profession?
 EXPECTED: NULL	ACTUAL: yes
 
-What is concentrated in the southern part of the country?
+What is Italian language`s first name?
 EXPECTED: NULL	ACTUAL: yes
 
-What is spoken natively by a 5.5 percent minority?
+What is Italian language`s last name?
 EXPECTED: NULL	ACTUAL: yes
+
+How many offspring did Italian language have?
+EXPECTED: NULL	ACTUAL: yes
+
+Where did Italian language die?
+EXPECTED: NULL	ACTUAL: yes
+
+Are geminate plosives and affricates realised as lengthened closures?
+EXPECTED: NULL	ACTUAL: yes
+
+Where is this letter silent?
+EXPECTED: NULL	ACTUAL: yes
+
+Is Italian one of official four languages?
+EXPECTED: NULL	ACTUAL: no
+
+Is it true that legge sulle fonti del diritto of 7?
+EXPECTED: NULL	ACTUAL: no
+
+Legge sulle fonti del diritto of what?
+EXPECTED: NULL	ACTUAL: yes
+
+Is it true that Italian retained the contrast between short consonants?
+EXPECTED: NULL	ACTUAL: no
+
+Italian retained the contrast between what?
+EXPECTED: NULL	ACTUAL: yes
+
+Is stress distinctive in most Romance languages?
+EXPECTED: NULL	ACTUAL: no
+
+Are the speakers who use italian as a second or cultural language estimated at around 110-120 million ?
+EXPECTED: NULL	ACTUAL: yes
+
+Are front/back vowel rules for C and G similar in French , Romanian , Spanish , and to some extent English ?
+EXPECTED: NULL	ACTUAL: yes
+
+So can Italian language hear "istÃ nbul " or "Ãstanbul" ?
+EXPECTED: NULL	ACTUAL: yes
+
+Will , the vowel sounds be pronounced separately) ?
+EXPECTED: NULL	ACTUAL: no
+
+Can Regional differences be recognized by various factors : the openness of vowels , the length of the consonants , and influence of the local dialect ?
+EXPECTED: NULL	ACTUAL: no
+
+Give dictionaries the latter as an alternative pronunciation ?
+EXPECTED: NULL	ACTUAL: yes
+
+James Watt's improvements of what were fundamental to the changes wrought by the Industrial Revolution?
+EXPECTED: The steam engine.	ACTUAL: yes
+
+James Watt's improvements of what were fundamental to the changes wrought by the Industrial Revolution?
+EXPECTED: steam engine	ACTUAL: yes
+
+James Watt was born where?
+EXPECTED: Greenock, a seaport on the Firth of Clyde	ACTUAL: yes
+
+What was the name of James Watt's mother?
+EXPECTED: Agnus Muirhead	ACTUAL: yes
+
+What was the name of James Watt's mother?
+EXPECTED: Agnes Muirhead	ACTUAL: yes
+
+How many of James Watt's children did not live to adulthood?
+EXPECTED: 3	ACTUAL: yes
+
+How many of James Watt's children did not live to adulthood?
+EXPECTED: 3	ACTUAL: yes
+
+James Watt ranked first among how many people in Charles Murray's survey of historiometry?
+EXPECTED: 229	ACTUAL: yes
+
+James Watt ranked first among how many people in Charles Murray's survey of historiometry?
+EXPECTED: 229	ACTUAL: yes
+
+In what year did James travel to Lodon to study instrument-making?
+EXPECTED: 1753	ACTUAL: yes
+
+For how many years of James Watt's life was his mother alive?
+EXPECTED: 17 years	ACTUAL: yes
+
+What is James Watt most famous for?
+EXPECTED: Steam engine.	ACTUAL: yes
+
+What was Japanese language`s profession?
+EXPECTED: NULL	ACTUAL: yes
+
+What is Japanese language`s first name?
+EXPECTED: NULL	ACTUAL: yes
+
+Is the basic sentence structure topic-comment?
+EXPECTED: NULL	ACTUAL: no
+
+Where are the circumstances complicated?
+EXPECTED: NULL	ACTUAL: yes
+
+Does the   form indicate a perfect tense?
+EXPECTED: NULL	ACTUAL: no
+
+Is or a conception that forms the counterpart of dialect?
+EXPECTED: NULL	ACTUAL: no
+
+Do most Japanese people employ politeness?
+EXPECTED: yes	ACTUAL: no
+
+Is it true that Japanese borrowed a considerable number of words?
+EXPECTED: yes	ACTUAL: no
+
+Japanese borrowed a considerable number of what?
+EXPECTED: NULL	ACTUAL: yes
+
+Is japanese language in the island?
+EXPECTED: NULL	ACTUAL: no
+
+Is there a form of the language?
+EXPECTED: NULL	ACTUAL: no
+
+I.e "yamato words ") , which in scholarly contexts is sometimes referred to as ( or rarely , i.e "yamato words " -rrb- , which in scholarly contexts is sometimes referred to as -lrb- or rarely , vp ? ?
+EXPECTED: NULL	ACTUAL: yes
+
+Are japanese personal pronouns generally used only in situations requiring special emphasis as to who is doing what to whom ?
+EXPECTED: NULL	ACTUAL: yes
+
+: give "please Japanese language to Mr ?
+EXPECTED: NULL	ACTUAL: yes
+
+Will a japanese person use vocabulary and inflections of the honorific register to refer to the in-group superior and Japanese language`s or Japanese language`s speech and actions ?
+EXPECTED: NULL	ACTUAL: no
+
+Thus , can polite korean speech sound very presumptuous when translated verbatim into Japanese , as in korean Japanese language is acceptable and normal to say things like "our Mr ?
+EXPECTED: NULL	ACTUAL: yes
+
+Is Lima the capital of Peru?
+EXPECTED: Yes.	ACTUAL: no
+
+Is the Museum of Gold in Lima?
+EXPECTED: Yes.	ACTUAL: no
+
+Does Lima have volleyball venues?
+EXPECTED: Yes.	ACTUAL: no
+
+When was Lima founded?
+EXPECTED: January 18,1535.	ACTUAL: yes
+
+Where is the Park of the Reserve located?
+EXPECTED: Near the downtown area.	ACTUAL: yes
+
+What is a colectivo?
+EXPECTED: Automobiles that renders express service on some major roads of the Lima Metropolitan Area.	ACTUAL: yes
+
+Is the National University of San Marcos in Lima?
+EXPECTED: Yes.	ACTUAL: no
+
+Has the San Lorenzo Megaport Project been completed?
+EXPECTED: No.	ACTUAL: no
+
+How many years ago was the Lima Stock Exchange the most profitable in the world?
+EXPECTED: Three	ACTUAL: yes
+
+Is rainfall very low?
+EXPECTED: Yes.	ACTUAL: no
+
+Is lima the capital  and  largest  city  of Peru?
+EXPECTED: Yes.	ACTUAL: no
+
+Is The GDP  per capita in Lima $ 7,600  /  ref )?
+EXPECTED: Yes.	ACTUAL: no
+
+The Spanish Crown named Pizarro governor of what?
+EXPECTED: Hemming.	ACTUAL: yes
+
+Is it true that the ideas of the Enlightenment shaped the development of the city?
+EXPECTED: Yes.	ACTUAL: no
+
+The ideas of the Enlightenment shaped the development of what?
+EXPECTED: the city, Lima	ACTUAL: yes
+
+Is London the capital of the United Kingdom?
+EXPECTED: Yes	ACTUAL: no
+
+Is London the capital of the United Kingdom?
+EXPECTED: Yes	ACTUAL: no
+
+Does London's population draw from a wide range of religions?
+EXPECTED: Yes	ACTUAL: no
+
+Does London's population draw from a wide range of religions?
+EXPECTED: Yes	ACTUAL: no
+
+Did Caunte take control of the English throne in 101?
+EXPECTED: No	ACTUAL: yes
+
+Over how many languages are spoken in London?
+EXPECTED: Over 300 languages are spoken in london	ACTUAL: yes
+
+Over how many languages are spoken in London?
+EXPECTED: Over 300	ACTUAL: yes
+
+What had the Anglo-Saxons created by the 600s?
+EXPECTED: By the 600s, the Anglo-Saxons had created a new settlement called Lundenwic.	ACTUAL: yes
+
+What had the Anglo-Saxons created by the 600s?
+EXPECTED: a new settlement called Lundenwic	ACTUAL: yes
+
+What city in the UK has been subjected to bouts of terrorism?
+EXPECTED: London has been subjected to bouts of terrorism.	ACTUAL: yes
+
+What city in the UK has been subjected to bouts of terrorism?
+EXPECTED: London	ACTUAL: yes
+
+What countries did James VI of Scotland unite?
+EXPECTED: James VI of Scotland united Scotland and England.	ACTUAL: yes
+
+What countries did James VI of Scotland unite?
+EXPECTED: England and Scotland	ACTUAL: yes
+
+How did civil wars affect England during the Middle Ages?
+EXPECTED: London remained relatively untouched	ACTUAL: yes
+
+Does a classical lyre have a sound-chest?
+EXPECTED: Yes	ACTUAL: no
+
+Which part of the strings does the left hand touch?
+EXPECTED: The lower strings	ACTUAL: yes
+
+In which place is lyre still played?
+EXPECTED: North-eastern parts of Africa	ACTUAL: yes
+
+Does a classical lyre have a fingerboard?
+EXPECTED: Yes	ACTUAL: no
+
+Is a guitar played with a plectrum like a lyre?
+EXPECTED: Yes	ACTUAL: no
+
+Was Faraday considered a gentleman?
+EXPECTED: no	ACTUAL: yes
+
+Was Faraday considered a gentleman?
+EXPECTED: no	ACTUAL: yes
+
+Who was a member of the Sandemanian sect of Christianity?
+EXPECTED: Faraday	ACTUAL: yes
+
+What did Joseph Henry likely discover?
+EXPECTED: self-induction	ACTUAL: yes
+
+What did Joseph Henry likely discover?
+EXPECTED: self-induction	ACTUAL: yes
+
+What did the University of Oxford grant Faraday?
+EXPECTED: a Doctor of Civil Law degree (honorary)	ACTUAL: yes
+
+What did the University of Oxford grant Faraday?
+EXPECTED: Doctor of Civil Law degree (honorary)	ACTUAL: yes
+
+Who was made to travel outside the coach?
+EXPECTED: Faraday	ACTUAL: yes
+
+Did Faraday construct the ancestor of modern power generators?
+EXPECTED: yes	ACTUAL: no
+
+Did Faraday construct the ancestor of modern power generators?
+EXPECTED: yes	ACTUAL: no
+
+Did Faraday lecture on education in 1854?
+EXPECTED: yes	ACTUAL: no
+
+Did Faraday lecture on education in 1854?
+EXPECTED: yes	ACTUAL: no
+
+Did Faraday discover the chemical substance benzene?
+EXPECTED: yes	ACTUAL: no
+
+Did Faraday discover the chemical substance benzene?
+EXPECTED: yes	ACTUAL: no
+
+Was Faraday born in England?
+EXPECTED: yes	ACTUAL: no
+
+Was Faraday born in England?
+EXPECTED: yes	ACTUAL: no
+
+What do some historians of science refer to Faraday as?
+EXPECTED: the best experimentalist in the history of science	ACTUAL: yes
+
+What do some historians of science refer to Faraday as?
+EXPECTED: best experimentalist in the history of science	ACTUAL: yes
+
+Who was the sponsor and mentor of Faraday?
+EXPECTED: John 'Mad Jack' Fuller	ACTUAL: yes
+
+Who was the sponsor and mentor of Faraday?
+EXPECTED: John 'Mad Jack' Fuller	ACTUAL: yes
+
+What did Faraday invent that is used almost universally in science laboratories?
+EXPECTED: the Bunsen burner	ACTUAL: yes
+
+What did Faraday invent that is used almost universally in science laboratories?
+EXPECTED: Bunsen burner	ACTUAL: yes
+
+Does the production of chemical weapons raise an ethical issue?
+EXPECTED: yes	ACTUAL: no
+
+What was the Faraday effect first called?
+EXPECTED: diamagnetism	ACTUAL: yes
+
+What was the Faraday effect first called?
+EXPECTED: diamagnetism	ACTUAL: yes
+
+Can you meet someone through attending a church?
+EXPECTED: yes	ACTUAL: no
+
+What was Michael Faraday`s birthplace?
+EXPECTED: Newington Butts	ACTUAL: yes
+
+What was Michael Faraday`s profession?
+EXPECTED: chemist and physicist	ACTUAL: yes
+
+How many years ago did Faraday report on the first synthesis of compound make from carbon and chlorine , c 2 h 6 and c 2 h 4 ?
+EXPECTED: 189	ACTUAL: yes
+
+How many years ago was it when he discovered the phenomenon that he named diamagnetism , and what is now called the Faraday effect?
+EXPECTED: 164	ACTUAL: yes
+
+How many years ago was it when Faraday wrote a letter to The Times on the subject of the foul condition of the River Thames , which resulted in an oft-reprinted cartoon in Punch?
+EXPECTED: 154	ACTUAL: yes
+
+How many years ago was it when he discovered that the optical properties of gold colloids differed from those of the corresponding bulk metal?
+EXPECTED: 162	ACTUAL: yes
+
+Was education another area  of service  for Faraday?
+EXPECTED: yes	ACTUAL: no
+
+Was faraday `s  earliest  chemical  work as an assistant  to Davy?
+EXPECTED: Yes	ACTUAL: no
+
+Who died at his house at Hampton Court on August 25, 1867?
+EXPECTED: Faraday	ACTUAL: yes
+
+When was Michael Faraday born?
+EXPECTED: September 22, 1791	ACTUAL: yes
+
+Where did he serve two terms?
+EXPECTED: the Church of Scotland	ACTUAL: yes
+
+Who was born in Newington Butts, near present-day South London, England?
+EXPECTED: Michael Faraday	ACTUAL: yes
+
+Institution formed the foundation of what?
+EXPECTED: modern electromagnetic technology	ACTUAL: yes
+
+Was his father member of the Sandemanian sect?
+EXPECTED: yes	ACTUAL: no
+
+Was faraday Christian of the small Sandemanian denomination?
+EXPECTED: yes	ACTUAL: no
+
+Who was Fort Nassau built by?
+EXPECTED: the Dutch	ACTUAL: yes
+
+What is Nassau Coliseum?
+EXPECTED: an arena in Uniondale, New York, USA	ACTUAL: yes
+
+What was the Dead or Alive 4 fighting arena modeled after?
+EXPECTED: a Magnetic Accelerator Cannon station from Halo 2	ACTUAL: yes
+
+Is Nassau County named after a German town?
+EXPECTED: yes	ACTUAL: no
+
+Does the United States have a base near Glasgow?
+EXPECTED: yes	ACTUAL: no
+
+Was Tesla hired by Edison?
+EXPECTED: Yes	ACTUAL: no
+
+Was Tesla hired by Edison?
+EXPECTED: yes	ACTUAL: no
+
+When did Tesla demonstrate wireless communication (radio)?
+EXPECTED: 1893	ACTUAL: yes
+
+When did Tesla demonstrate wireless communication (radio)?
+EXPECTED: 1893	ACTUAL: yes
+
+What is the SI unit measuring magnetic flux density or magnetic induction?
+EXPECTED: the tesla	ACTUAL: yes
+
+What is the SI unit measuring magnetic flux density or magnetic induction?
+EXPECTED: the tesla	ACTUAL: yes
+
+What type of current did Tesla invent?
+EXPECTED: AC	ACTUAL: yes
+
+Who was the victor of the "War of Currents"?
+EXPECTED: Tesla	ACTUAL: yes
+
+Who was the victor of the "War of Currents"?
+EXPECTED: Nikola Tesla	ACTUAL: yes
+
+Where did Tesla study electrical engineering?
+EXPECTED: the Austrian Polytechnic in Graz 	ACTUAL: yes
+
+Where did Tesla study electrical engineering?
+EXPECTED: Austrian Polytechnic in Graz	ACTUAL: yes
+
+Does Ottawa sit on the Ottowa River?
+EXPECTED: Yes	ACTUAL: no
+
+Do small tremors occur in Ottawa?
+EXPECTED: Yes	ACTUAL: no
+
+What is Ottawa's population?
+EXPECTED: 1,190,982	ACTUAL: yes
+
+What are Ottawa's primary industries?
+EXPECTED: Logging and lumber	ACTUAL: yes
+
+What is Ottawa's junior ice hockey team?
+EXPECTED: the Ottawa 67's	ACTUAL: yes
+
+What is Ottawa's major league hockey team?
+EXPECTED: the Ottawa Senators	ACTUAL: yes
+
+What are Carleton University's athletic teams called?
+EXPECTED: Carleton Ravens	ACTUAL: yes
+
+Is Ottawa colder than Moscow in January?
+EXPECTED: Yes	ACTUAL: no
+
+Is Ottawa on a river?
+EXPECTED: yes	ACTUAL: no
+
+Is Ottawa on a river?
+EXPECTED: yes	ACTUAL: no
+
+Does it snow in Ottawa?
+EXPECTED: yes	ACTUAL: no
+
+Does it snow in Ottawa?
+EXPECTED: yes	ACTUAL: no
+
+Was there a cholera outbreak in 1832?
+EXPECTED: yes	ACTUAL: no
+
+Was there a cholera outbreak in 1832?
+EXPECTED: yes	ACTUAL: no
+
+Who is the mayor of Ottawa?
+EXPECTED: Larry O'Brien	ACTUAL: yes
+
+Who is the mayor of Ottawa?
+EXPECTED: Larry O'Brien	ACTUAL: yes
+
+How many townships are in Ottawa?
+EXPECTED: eleven	ACTUAL: yes
+
+How many townships are in Ottawa?
+EXPECTED: eleven	ACTUAL: yes
+
+What's the main highway in Ottawa?
+EXPECTED: Highway 417, The Queensway	ACTUAL: yes
+
+What's the main highway in Ottawa?
+EXPECTED: provinical Highway 417	ACTUAL: yes
+
+What was Ottawa's name in 1850?
+EXPECTED: Bytown	ACTUAL: yes
+
+What was Ottawa's name in 1850?
+EXPECTED: Bytown	ACTUAL: yes
+
+Based on the average, in what year will the next small tremor occur in Ottawa?
+EXPECTED: 2009	ACTUAL: yes
+
+Based on the average, in what year will the next small tremor occur in Ottawa?
+EXPECTED: 2009	ACTUAL: yes
+
+Where were immigrants from in the 1800s?
+EXPECTED: Irish	ACTUAL: yes
+
+Where were immigrants from in the 1800s?
+EXPECTED: Ireland	ACTUAL: yes
+
+Are there also discussions of having OC Transpo Light Rail and STO Transitway networks linking on the Gatineau side of the Ottawa River ?
+EXPECTED: Yes.	ACTUAL: yes
+
+Does the giant otter live in South America?
+EXPECTED: Yes	ACTUAL: no
+
+Does the giant otter live in South America?
+EXPECTED: yes	ACTUAL: no
+
+Do otters have claws?
+EXPECTED: Yes	ACTUAL: no
+
+Do otters have claws?
+EXPECTED: yes	ACTUAL: no
+
+Do otters eat fish?
+EXPECTED: Yes	ACTUAL: no
+
+Do otters eat fish?
+EXPECTED: yes	ACTUAL: no
+
+What is an otter's den called?
+EXPECTED: A holt	ACTUAL: yes
+
+What is an otter's den called?
+EXPECTED: holt	ACTUAL: yes
+
+Where do sea otters live?
+EXPECTED: Beside water	ACTUAL: yes
+
+Where do sea otters live?
+EXPECTED: Pacific coast of North America	ACTUAL: yes
+
+Why are otters vulnerable to prey depletion?
+EXPECTED: Prey-dependence	ACTUAL: yes
+
+Why are otters vulnerable to prey depletion?
+EXPECTED: prey-dependency	ACTUAL: yes
+
+Do otters enjoy playing?
+EXPECTED: Yes	ACTUAL: no
+
+Do otters enjoy playing?
+EXPECTED: yes	ACTUAL: no
+
+Is the otter in the same family as the badger?
+EXPECTED: Yes	ACTUAL: no
+
+Is the otter in the same family as the badger?
+EXPECTED: yes	ACTUAL: no
+
+Was Santiago the name of an indie/punk band?
+EXPECTED: yes	ACTUAL: no
+
+Was Santiago the name of an indie/punk band?
+EXPECTED: Yes	ACTUAL: no
+
+Is Santiago a name in Spanish?
+EXPECTED: yes	ACTUAL: no
+
+Is Santiago a name in Spanish?
+EXPECTED: Yes	ACTUAL: no
+
+What is the origin of the name Santiago?
+EXPECTED: Spanish for St. James	ACTUAL: yes
+
+What is the origin of the name Santiago?
+EXPECTED: sanit + iago, James	ACTUAL: yes
+
+Who has released an album or song named Santiago?
+EXPECTED: The Chieftains; Loreena McKennitt	ACTUAL: yes
+
+Who has released an album or song named Santiago?
+EXPECTED: The Chieftains and Loreena McKennitt	ACTUAL: yes
+
+What is the Order of Santiago?
+EXPECTED: a Spanish knightly order	ACTUAL: yes
+
+What is the Order of Santiago?
+EXPECTED: a Spanish Knightly order	ACTUAL: yes
+
+What notable people have been named Santiago?
+EXPECTED: Benito Santiago, Hugo Santiago, Joey Santiago, Liliana Santiago, Rafael Santiago Maria, Santiago Caballero, Santiago Cabrera; James, son of Zebedee	ACTUAL: yes
+
+What notable people have been named Santiago?
+EXPECTED: Benito, Hugo, and others	ACTUAL: yes
+
+What fictional stories include a main character named Santiago?
+EXPECTED: Gears of War, Rainbow Six: Covert Operations Essentials, Death Foretold by Gabriel GarcÃ­a MÃ¡rquez, Ernest Hemingway's The Old Man and the Sea, the television series Babylon 5, Anne Rice's novel Interview with the Vampire, aulo Coelho's The Alchemist (novel), the television show Friday Night Lights	ACTUAL: yes
+
+What fictional stories include a main character named Santiago?
+EXPECTED: Interview with the Vampire, The Alchemist, and others	ACTUAL: yes
+
+Is Santiago the national capital of a country?
+EXPECTED: Yes	ACTUAL: no
+
+Is santiago Spanish for St. James  ( from santo ,  saint  +  iago ,  James  )?
+EXPECTED: Yes	ACTUAL: no
+
+Is santiago Spanish for St. James?
+EXPECTED: Yes	ACTUAL: no
+
+What is Santiago?
+EXPECTED: Santiago is Spanish for St. James. It is also the name of places in Argentina, Brazil, Cape Verde, Chile, Colombia, Costa Rica, Cuba, the Dominican Republic, Ecuador, Guatemala, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, the Philippines, Portugal, Spain, the United States, Venezuela, and the Amazon. It is also the name of a baseball catcher, a film director, a guitarist, an economist, a footballer, a DJ, an actor, and James, son of Zebedee. Fictional people with this name include a character from Gears of War, a character from Chronicle of a Death Foretold, a character in Old Man and the Sea, a character in Babylon 5, a character in Interview with the Vampire, the main character of The Alchemist, and a character on Friday Night Lights. There has also been a battle of Santiago de Cuba, a couple of bands named Santiago, an Order of Santiago, and "Santiago" as a shortened form of the Reconquista battle cry.	ACTUAL: yes
+
+Are countries without in red?
+EXPECTED: NULL	ACTUAL: yes
+
+However, is English the official  language?
+EXPECTED: NULL	ACTUAL: yes
+
+Are most Spanish  speakers in Latin America?
+EXPECTED: NULL	ACTUAL: yes
+
+Are countries where is a regionalism in green?
+EXPECTED: NULL	ACTUAL: yes
+
+The deeper  the blue  is, is the more  predominant?
+EXPECTED: NULL	ACTUAL: yes
+
+Are these marked with an asterisk  ( *  )?
+EXPECTED: NULL	ACTUAL: yes
+
+Did the language lose its official status?
+EXPECTED: NULL	ACTUAL: yes
+
+Where do about 400 million people speak Spanish?
+EXPECTED: NULL	ACTUAL: yes
+
+What kind of instrument is the spanish language?
+EXPECTED: NULL	ACTUAL: yes
+
+Is the lexical similarity with Italian estimated at 82%?
+EXPECTED: NULL	ACTUAL: no
+
+Is spanish an official language of the European Union?
+EXPECTED: NULL	ACTUAL: no
+
+What is an official language of the European Union?
+EXPECTED: NULL	ACTUAL: yes
+
+Is it true that mexico contains the largest population of Spanish speakers?
+EXPECTED: NULL	ACTUAL: no
+
+Mexico contains the largest population of what?
+EXPECTED: NULL	ACTUAL: yes
+
+Is this phenomenon notable in Brazil?
+EXPECTED: NULL	ACTUAL: no
+
+Is spanish one of the official languages?
+EXPECTED: NULL	ACTUAL: no
+
+Is universidad de MÃ©xico Instituto Cervantes Spanish language of Spain?
+EXPECTED: NULL	ACTUAL: no
+
+Is spanish language of the European Union?
+EXPECTED: NULL	ACTUAL: no
+
+Pasan en consecuencia , las palabras que comienzan por estas dos letras , o que las contienen , a alfabetizarse en los lugares que les corresponden dentro de la c y de la l , respectivamente ?
+EXPECTED: NULL	ACTUAL: yes
+
+Allow the common features of the writing systems of the Romance languages for a greater amount of interlingual reading comprehension than oral communication would ?
+EXPECTED: NULL	ACTUAL: yes
+
+What was Swahili language`s profession?
+EXPECTED: NULL	ACTUAL: yes
+
+How many years ago was an interterritorial conference held at Mombasa ?
+EXPECTED: NULL	ACTUAL: yes
+
+What is Swahili language`s last name?
+EXPECTED: NULL	ACTUAL: yes
+
+How many years ago was it when the rulers of Zanzibar organized trading expeditions into the interior of the mainland , up to the various lakes in the continent `s Great Rift Valley?
+EXPECTED: NULL	ACTUAL: yes
+
+What is Swahili language`s first name?
+EXPECTED: NULL	ACTUAL: yes
+
+Where did Swahili language die?
+EXPECTED: NULL	ACTUAL: yes
+
+Is a third  prefix the object  prefix?
+EXPECTED: Yes	ACTUAL: no
+
+When is /ref>
+EXPECTED: NULL	ACTUAL: yes
+
+Swahili unusual?
+EXPECTED: NULL	ACTUAL: yes
+
+Where does swahili grammar arrange nouns?
+EXPECTED: NULL	ACTUAL: yes
+
+What was the only good candidate in these two colonies?
+EXPECTED: NULL	ACTUAL: yes
+
+Do some writers mark aspirated consonants?
+EXPECTED: NULL	ACTUAL: no
+
+Was one key step in spreading Swahili to create a standard written language?
+EXPECTED: NULL	ACTUAL: no
+
+Are there today more speakers in Kenya of the Somali coast?
+EXPECTED: NULL	ACTUAL: yes
+
+Is      / ref Swahili unusual among sub-Saharan languages?
+EXPECTED: Yes	ACTUAL: no
+
+The pronunciation of the phoneme / u / stands between what?
+EXPECTED: NULL	ACTUAL: yes
+
+Does the Australian Black Swan have white feathers on its wings?
+EXPECTED: yes	ACTUAL: no
+
+Does the Australian Black Swan have white feathers on its wings?
+EXPECTED: Yes	ACTUAL: no
+
+Do swans belong to the family Anatidae?
+EXPECTED: yes	ACTUAL: no
+
+Do swans belong to the family Anatidae?
+EXPECTED: Yes	ACTUAL: no
+
+Can black swans swim with only one leg?
+EXPECTED: yes	ACTUAL: no
+
+Can black swans swim with only one leg?
+EXPECTED: Yes	ACTUAL: no
+
+What are young swans known as?
+EXPECTED: cygnets	ACTUAL: yes
+
+What are young swans known as?
+EXPECTED: Cygnets	ACTUAL: yes
+
+What is the Irish legend of the Children of Lir about?
+EXPECTED: a stepmother transforming her children into swans for 900 years	ACTUAL: yes
+
+What is the Irish legend of the Children of Lir about?
+EXPECTED: A stepmother transforming her children into swans for 900 years	ACTUAL: yes
+
+What is the Sanskrit word for swan?
+EXPECTED: hamsa or hansa	ACTUAL: yes
+
+What is the Sanskrit word for swan?
+EXPECTED: Hamsa or hansa	ACTUAL: yes
+
+Which album was the song "The Bonny Swans" from?
+EXPECTED: The Mask and Mirror	ACTUAL: yes
+
+Which album was the song "The Bonny Swans" from?
+EXPECTED: The Mask and Mirror	ACTUAL: yes
+
+What is the Polish word for swan?
+EXPECTED: &#321;ab&#281;d&#378;	ACTUAL: yes
+
+What is the Polish word for swan?
+EXPECTED: ÅabÄdÅº	ACTUAL: yes
+
+Which ballet by Pyotr Tchaikovsky is partially based on an Ancient German legend about a princess who was turned into a swan?
+EXPECTED: Swan Lake	ACTUAL: yes
+
+Which ballet by Pyotr Tchaikovsky is partially based on an Ancient German legend about a princess who was turned into a swan?
+EXPECTED: Swan Lake	ACTUAL: yes
+
+Are swan birds of the family Anatidae?
+EXPECTED: Yes.	ACTUAL: yes
+
+Do swans feature strongly in mythology?
+EXPECTED: Yes.	ACTUAL: no
+
+Do swans feature strongly in mythology?
+EXPECTED: Yes	ACTUAL: no
+
+Is the Trumpeter Swan the largest bird?
+EXPECTED: It is the largest bird of North America.	ACTUAL: no
+
+Is the Trumpeter Swan the largest bird?
+EXPECTED: The Trumpeter Swan is the largest bird of North America	ACTUAL: no
+
+What is the name of young swans?
+EXPECTED: Cygnets.	ACTUAL: yes
+
+What is the name of young swans?
+EXPECTED: Cygnets	ACTUAL: yes
+
+Where is the word "swan" derived from?
+EXPECTED: Old English swan.	ACTUAL: yes
+
+Where is the word "swan" derived from?
+EXPECTED: The Old English word "swan," derived from the Indo-European root "*swen", meaning to sound or to sing	ACTUAL: yes
+
+What is the best known story about a swan?
+EXPECTED: The Ugly Duckling fable.	ACTUAL: yes
+
+What is the best known story about a swan?
+EXPECTED: The Ugly Duckling	ACTUAL: yes
+
+Are swans and ducks birds of the same family?
+EXPECTED: Yes.	ACTUAL: yes
+
+What is the name of an adult female?
+EXPECTED: Pen.	ACTUAL: yes
+
+What is the name of an adult female?
+EXPECTED: An adult female swan is called a pen.	ACTUAL: yes
+
+What is the color of the Australian Black Swan?
+EXPECTED: Completely black except for the white flight feathers on its wings.	ACTUAL: yes
+
+What is the color of the Australian Black Swan?
+EXPECTED: Completely black except for the white feathers on its wings	ACTUAL: yes
+
+Is the Tiger a member of the Felidar family?
+EXPECTED: No.	ACTUAL: no
+
+Are tigers solitary animals?
+EXPECTED: Yes.	ACTUAL: yes
+
+Are panthers a type of tiger?
+EXPECTED: No.	ACTUAL: yes
+
+Are panthers a type of tiger?
+EXPECTED: No	ACTUAL: yes
+
+What do tigers' powerfully built legs and shoulders allow tigers to do?
+EXPECTED: They have the ability to pull down prey substantially heavier than themselves.	ACTUAL: yes
+
+What do tigers' powerfully built legs and shoulders allow tigers to do?
+EXPECTED: have the ability to pull down prey substantially heavier than themselves	ACTUAL: yes
+
+What would a tiger do when seized by a crocodile?
+EXPECTED: A tiger will strike at the reptile's eyes with its paws.	ACTUAL: yes
+
+What would a tiger do when seized by a crocodile?
+EXPECTED: strike at the reptile's eyes with its paws	ACTUAL: yes
+
+What are the typical features of a tiger country?
+EXPECTED: It will always have good cover, it will always be close to water and plenty of prey.	ACTUAL: yes
+
+What are the typical features of a tiger country?
+EXPECTED: Good cover, close to water, and plenty of prey 	ACTUAL: yes
+
+Would it be common for tigers to mate in January?
+EXPECTED: Yes.	ACTUAL: yes
+
+About how many square kilometers would be needed to house 3 female tigers?
+EXPECTED: 60 square kilometers	ACTUAL: yes
+
+About how many square kilometers would be needed to house 3 female tigers?
+EXPECTED: 60	ACTUAL: yes
+
+What musical styles is the trumpet used in?
+EXPECTED: Ska, ska punk, classical, jazz, Rock, Blues, pop, polka, cuban music, mariachi and funk.	ACTUAL: yes
+
+What is the most common type of trumpet?
+EXPECTED: The B trumpet.	ACTUAL: yes
+
+How does a trumpet produce sound?
+EXPECTED: By blowing air through closed lips.	ACTUAL: yes
+
+How do trumpets compensate for wolf tones?
+EXPECTED: Somce trumpetes have a slide mechanism built in to compensate.	ACTUAL: yes
+
+Did Miles Davis play the trumpet?
+EXPECTED: Yes	ACTUAL: no
+
+Is the name of the upper shell of a turtle called the plastron?
+EXPECTED: No.	ACTUAL: no
+
+Do scutes fall away from the turtle's shell?
+EXPECTED: Some of the scutes eventually fall away from the shell.	ACTUAL: no
+
+Do scutes fall away from the turtle's shell?
+EXPECTED: yes, eventually	ACTUAL: no
+
+Do Terrestrial tortoises have short feet?
+EXPECTED: Yes.	ACTUAL: no
+
+Do Terrestrial tortoises have short feet?
+EXPECTED: yes	ACTUAL: no
+
+How many groups are turtles broken down into?
+EXPECTED: Two	ACTUAL: yes
+
+How many groups are turtles broken down into?
+EXPECTED: two	ACTUAL: yes
+
+Where are the only surviving giant tortoises?
+EXPECTED: They are on the Seychelles and GalÃ¡pagos Islands.	ACTUAL: yes
+
+Where are the only surviving giant tortoises?
+EXPECTED: Seychelles and Galápagos Islands	ACTUAL: yes
+
+How do turtles chew food?
+EXPECTED: Turtles use their jaws to cut and chew food.	ACTUAL: yes
+
+How do turtles chew food?
+EXPECTED: Turtles use their jaws to cut and chew food	ACTUAL: yes
+
+Are tortoises land based?
+EXPECTED: Yes.	ACTUAL: yes
+
+Where are turtle eggs layed?
+EXPECTED: Turtles lay eggs on land.	ACTUAL: yes
+
+Where are turtle eggs layed?
+EXPECTED: on land	ACTUAL: yes
+
+Is turtle soup considered a delicacy?
+EXPECTED: No.	ACTUAL: no
+
+Is turtle soup considered a delicacy?
+EXPECTED: yes	ACTUAL: no
+
+Do turtles breathe air?
+EXPECTED: yes	ACTUAL: no
+
+Do turtles breathe air?
+EXPECTED: Yes	ACTUAL: no
+
+Approximately how many species of Testudines are alive today?
+EXPECTED: 300	ACTUAL: yes
+
+Approximately how many species of Testudines are alive today?
+EXPECTED: 300	ACTUAL: yes
+
+Where is harvesting wild turtles legal?
+EXPECTED: Florida	ACTUAL: yes
+
+Where is harvesting wild turtles legal?
+EXPECTED: Florida	ACTUAL: yes
+
+What was the largest ever chelonian?
+EXPECTED: Archelon ischyros	ACTUAL: yes
+
+What was the largest ever chelonian?
+EXPECTED: The great letherback sea tutrtle	ACTUAL: yes
+
+Is there a way to approximate the age of a turtle?
+EXPECTED: yes	ACTUAL: no
+
+Is there a way to approximate the age of a turtle?
+EXPECTED: Yes	ACTUAL: no
+
+Are violins a single size?
+EXPECTED: no	ACTUAL: yes
+
+Are violins a single size?
+EXPECTED: No	ACTUAL: yes
+
+Where does the word "violin" come from?
+EXPECTED: the Middle Latin word vitula, meaning "stringed instrument"	ACTUAL: yes
+
+Where does the word "violin" come from?
+EXPECTED: the Middle Latin word vitula	ACTUAL: yes
+
+What is someone who makes violins called?
+EXPECTED: a luthier, or simply a violin maker	ACTUAL: yes
+
+What is someone who makes violins called?
+EXPECTED: a luthier	ACTUAL: yes
+
+How many strings does a violin usually have?
+EXPECTED: four	ACTUAL: yes
+
+How many strings does a violin usually have?
+EXPECTED: 4	ACTUAL: yes
+
+What are violins made of?
+EXPECTED: different types of wood	ACTUAL: yes
+
+What are violins made of?
+EXPECTED: maple, ebony, sheep gut	ACTUAL: yes
+
+How long have people been making instruments like violins?
+EXPECTED: since ancient times	ACTUAL: yes
+
+How long have people been making instruments like violins?
+EXPECTED: since 1555	ACTUAL: yes
+
+Whate is the usual pitch range of a violin?
+EXPECTED: from G3 to C8	ACTUAL: yes
+
+Whate is the usual pitch range of a violin?
+EXPECTED: from G3 to C8	ACTUAL: yes
+
+Is the xylophone a precursor to the vibraphone?
+EXPECTED: yes	ACTUAL: no
+
+Were ancient mallets made of copper?
+EXPECTED: no	ACTUAL: yes
+
+Where did the xylophone originate?
+EXPECTED: Indonesia	ACTUAL: yes
+
+What is the earliest historical reference in Europe?
+EXPECTED: Arnold Schlick's Spiegel der Orgelmacher und Organisten	ACTUAL: yes
+
+How are western-style xylophones characterised?
+EXPECTED: by a bright, sharp tone and high register	ACTUAL: yes
+
+Can a xylophone be 3 octaves?
+EXPECTED: yes	ACTUAL: no
+
+Did vibraphones exist in 1930?
+EXPECTED: yes	ACTUAL: no
 

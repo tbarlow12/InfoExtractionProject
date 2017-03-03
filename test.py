@@ -11,10 +11,15 @@ answerer = qa.answerer(root)
 def write_missed(missed_questions):
     with io.open('missed_questions.txt','wb') as f:
         for q in missed_questions:
-            s1 = u''.join(q[0] + '\n').encode('latin-1')
-            s2 = u''.join('EXPECTED: ' + q[1] + '\t' 'ACTUAL: ' + q[2] + '\n\n').encode('latin-1')
-            f.write(s1)
-            f.write(s2)
+            try:
+                f.write(q[0] + '\n')
+            except UnicodeDecodeError:
+                print 'Could not decode'
+            try:
+                s = ('EXPECTED: ' + q[1] + '\t' + 'ACTUAL: ' + q[2] + '\n\n').encode('utf-8')
+                f.write(s)
+            except UnicodeEncodeError:
+                print 'Could not encode'
 
 
 def testAnswerer(setRoot):
