@@ -1,11 +1,12 @@
 import os
+import io
 import nltk
 from nltk import ne_chunk, pos_tag, word_tokenize
 from nltk.tree import Tree
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import PlaintextCorpusReader
 import hashlib
-def getNamedEntities(text):
+def getChunks(text):
     chunked = ne_chunk(pos_tag(word_tokenize(text)))
     prev = None
     current_chunk = []
@@ -23,10 +24,36 @@ def getNamedEntities(text):
     return continuous_chunk
 def getSentences(content):
     return sent_tokenize(content)
+
 def getTaggedString(text):
     return nltk.pos_tag(nltk.word_tokenize(text))
+
+def append_spaced_words(word_list):
+    result = ''
+    for word in word_list:
+        result += word + ' '
+    return result[:-1]
+
+def find(s, ch):
+    return [i for i, ltr in enumerate(s) if ltr == ch]
+
+
+def get_key(path):
+    slash_indxs = find(path,'/')
+    return path[slash_indxs[1]+1:-10]
+
+
+def clean_content(strContent):
+    s = strContent.replace('[','')
+    s = s.replace(']','')
+    return get_encoded(s)
+
+
+def get_encoded(string):
+    return u''.join(string).encode('utf-8')
+
 def addDocToDictionary(docs, path):
-    with open(path,encoding='latin-1') as f:
+    with io.open(path,encoding='latin-1') as f:
         lines = f.readlines()
     lines = [x.strip() for x in lines]
     if(len(lines) > 1):
@@ -35,20 +62,15 @@ def addDocToDictionary(docs, path):
         strContent = ''
         for line in content:
             strContent += line
-        if title in docs:
-            docs[title].append(strContent)
-        else:
-            docs[title] = [strContent]
+        key = get_key(path)
+        docs[key] = clean_content(strContent)
 def addDocsToDictionary(docs,root):
     corpus = PlaintextCorpusReader(root,'.*.txt.clean')
     for path in corpus.fileids():
-        addDocToDictionary(docs,root + '/' + path)
-
-
+        addDocToDictionary(docs,root + path)
 def getAnswerSet(root):
-    directories = os.listdir(root)
-    answerSet = []
-    for d in directories:
-        with open(root + d + '/question_answer_pairs.txt',encoding='latin-1') as f:
-            answerSet.append([line.strip().split('\t') for line in f.readlines()])
-    return answerSet
+    with io.open(root + '/question_answer_pairs.txt',encoding='latin-1') as f:
+        return [line.strip().split('\t') for line in f.readlines()[1:]]
+
+#        with open(root + d + '/question_answer_pairs.txt',encoding='latin-1') as f:
+#            answerSet.append([line.strip().split('\t') for line in f.readlines()[1:]])
