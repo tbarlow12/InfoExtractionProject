@@ -1,0 +1,1392 @@
+Was Abraham Lincoln the sixteenth President of the United States?
+EXPECTED: Yes.	ACTUAL: yes
+
+Did Lincoln sign the National Banking Act of 1863?
+EXPECTED: yes	ACTUAL: no
+
+Did Lincoln sign the National Banking Act of 1863?
+EXPECTED: Yes.	ACTUAL: no
+
+Did his mother die of pneumonia?
+EXPECTED: No.	ACTUAL: no
+
+How many long was Lincoln's formal education?
+EXPECTED: 18 months	ACTUAL: yes
+
+How many long was Lincoln's formal education?
+EXPECTED: 18 months.	ACTUAL: yes
+
+When did Lincoln begin his political career?
+EXPECTED: 1832	ACTUAL: yes
+
+When did Lincoln begin his political career?
+EXPECTED: 1832.	ACTUAL: yes
+
+What did The Legal Tender Act of 1862 establish?
+EXPECTED: the United States Note, the first paper currency in United States history	ACTUAL: yes
+
+What did The Legal Tender Act of 1862 establish?
+EXPECTED: The United States Note, the first paper currency in United States history.	ACTUAL: yes
+
+Who suggested Lincoln grow a beard?
+EXPECTED: 11-year-old Grace Bedell	ACTUAL: yes
+
+Who suggested Lincoln grow a beard?
+EXPECTED: Grace Bedell.	ACTUAL: yes
+
+When did the Gettysburg address argue that America was born?
+EXPECTED: 1776	ACTUAL: yes
+
+When did the Gettysburg address argue that America was born?
+EXPECTED: 1776.	ACTUAL: yes
+
+Did Lincoln beat John C. Breckinridge in the 1860 election?
+EXPECTED: yes	ACTUAL: no
+
+Did Lincoln beat John C. Breckinridge in the 1860 election?
+EXPECTED: Yes.	ACTUAL: no
+
+Did Lincoln start his political career in 1832?
+EXPECTED: Yes	ACTUAL: no
+
+Did Lincoln start his political career in 1832?
+EXPECTED: Yes	ACTUAL: no
+
+Did Lincoln ever represent Alton & Sangamon Railroad?
+EXPECTED: Yes	ACTUAL: no
+
+Did Lincoln ever represent Alton & Sangamon Railroad?
+EXPECTED: Yes	ACTUAL: no
+
+Which county was Lincoln born in?
+EXPECTED: Hardin County	ACTUAL: yes
+
+Which county was Lincoln born in?
+EXPECTED: Southeast Hardin County, Kentucky	ACTUAL: yes
+
+When did Lincoln first serve as President?
+EXPECTED: March 4, 1861	ACTUAL: yes
+
+When did Lincoln first serve as President?
+EXPECTED: March 4, 1861	ACTUAL: yes
+
+Who assassinated Lincoln?
+EXPECTED: John Wilkes Booth	ACTUAL: yes
+
+Who assassinated Lincoln?
+EXPECTED: John Wilkes Booth	ACTUAL: yes
+
+Did Lincoln win the election of 1860?
+EXPECTED: Yes	ACTUAL: no
+
+Did Lincoln win the election of 1860?
+EXPECTED: Yes	ACTUAL: no
+
+Who was the general in charge at the Battle of Antietam?
+EXPECTED: General McClellan	ACTUAL: yes
+
+Who was the general in charge at the Battle of Antietam?
+EXPECTED: John Alexander McClernand	ACTUAL: yes
+
+Why did Lincoln issue the Emancipation Proclamation?
+EXPECTED: To free slaves 	ACTUAL: yes
+
+Why did Lincoln issue the Emancipation Proclamation?
+EXPECTED: The goal was to weaken the rebellion, which was led and controlled by slave owners.	ACTUAL: yes
+
+Do scholars rank lincoln among the top three presidents?
+EXPECTED: NULL	ACTUAL: no
+
+Do scholars rank lincoln among the top three presidents?
+EXPECTED: Yes	ACTUAL: no
+
+Did lincoln have 18 months of schooling?
+EXPECTED: NULL	ACTUAL: no
+
+Did lincoln have 18 months of schooling?
+EXPECTED: Yes	ACTUAL: no
+
+Was Lincoln chosen as a presidential candidate in 1860?
+EXPECTED: NULL	ACTUAL: no
+
+Was Lincoln chosen as a presidential candidate in 1860?
+EXPECTED: Yes	ACTUAL: no
+
+How old was Lincoln in 1816?
+EXPECTED: NULL	ACTUAL: yes
+
+How old was Lincoln in 1816?
+EXPECTED: seven	ACTUAL: yes
+
+When was the first photgraph of lincoln taken?
+EXPECTED: NULL	ACTUAL: yes
+
+When was the first photgraph of lincoln taken?
+EXPECTED: 1846	ACTUAL: yes
+
+How long was Lincoln's legal Career?
+EXPECTED: NULL	ACTUAL: yes
+
+How long was Lincoln's legal Career?
+EXPECTED: 23 years	ACTUAL: yes
+
+What trail did Lincoln use a Farmers' Almanac in? 
+EXPECTED: NULL	ACTUAL: yes
+
+What trail did Lincoln use a Farmers' Almanac in? 
+EXPECTED: he defended William "Duff" Armstrong	ACTUAL: yes
+
+Did Abraham Lincoln live in the Frontier?
+EXPECTED: NULL	ACTUAL: no
+
+Did Abraham Lincoln live in the Frontier?
+EXPECTED: Yes	ACTUAL: no
+
+Did Lincoln's Wife's Family support slavery?
+EXPECTED: NULL	ACTUAL: no
+
+Did Lincoln's Wife's Family support slavery?
+EXPECTED: Yes	ACTUAL: no
+
+Volta became professor of physics in the Como high school in what year?
+EXPECTED: NULL	ACTUAL: yes
+
+What ac phaenomenis inde pendentibus?
+EXPECTED: NULL	ACTUAL: yes
+
+What may be called Volta's Law of the electrochemical series?
+EXPECTED: NULL	ACTUAL: yes
+
+Is it true that volta became professor of physics?
+EXPECTED: NULL	ACTUAL: no
+
+Is it true that volta entered retirement in spain?
+EXPECTED: NULL	ACTUAL: no
+
+When did he become professor?
+EXPECTED: NULL	ACTUAL: yes
+
+What did Alessandro Volta publish in 1800?
+EXPECTED: NULL	ACTUAL: yes
+
+Is Volta buried in the city of Como?
+EXPECTED: NULL	ACTUAL: yes
+
+Is the electrolyte sulphuric acid?
+EXPECTED: NULL	ACTUAL: no
+
+
+EXPECTED: NULL	ACTUAL: 
+
+
+EXPECTED: NULL	ACTUAL: 
+
+
+EXPECTED: NULL	ACTUAL: 
+
+NOTTTT  FOUND
+EXPECTED: NULL	ACTUAL: yes
+
+
+EXPECTED: NULL	ACTUAL: 
+
+
+EXPECTED: NULL	ACTUAL: 
+
+Are Count Volta 's original instruments and papers on display there ?
+EXPECTED: NULL	ACTUAL: yes
+
+Is Volta buried in the city of Como ?
+EXPECTED: NULL	ACTUAL: yes
+
+Was his 1800 paper written in French ?
+EXPECTED: NULL	ACTUAL: no
+
+Are Count Volta 's original instruments and papers on display there ?
+EXPECTED: NULL	ACTUAL: yes
+
+Did he not realize that the frog 's leg served as both a conductor of electricity -LRB- we would now call it an electrolyte -RRB- and as a detector of electricity ?
+EXPECTED: NULL	ACTUAL: no
+
+Does this not make the zinc rod the negative electrode and the copper rod the positive electrode ?
+EXPECTED: NULL	ACTUAL: no
+
+What happened with $ its invention?
+EXPECTED: NULL	ACTUAL: yes
+
+HWhat happened at the electromotive force -LRB- emf -RRB- of a galvanic cell?
+EXPECTED: NULL	ACTUAL: yes
+
+What happened in 1800?
+EXPECTED: NULL	ACTUAL: yes
+
+What was an Italian savant?
+EXPECTED: NULL	ACTUAL: yes
+
+What was an Italian savant?
+EXPECTED: NULL	ACTUAL: yes
+
+Who is most noted for his contributions to the theory of molarity and molecular weight?
+EXPECTED: Amedeo Avogadro	ACTUAL: yes
+
+Who is most noted for his contributions to the theory of molarity and molecular weight?
+EXPECTED: NULL	ACTUAL: yes
+
+Who is most noted for his contributions to the theory of molarity and molecular weight?
+EXPECTED: NULL	ACTUAL: yes
+
+Who graduated in ecclesiastical law at the early age of 20 and began to practice?
+EXPECTED: Amedeo Avogadro	ACTUAL: yes
+
+Who graduated in ecclesiastical law at the early age of 20 and began to practice?
+EXPECTED: blah	ACTUAL: yes
+
+Who graduated in ecclesiastical law at the early age of 20 and began to practice?
+EXPECTED: NULL	ACTUAL: yes
+
+When did he publish another memoria?
+EXPECTED: 1821	ACTUAL: yes
+
+When did he publish another memoria?
+EXPECTED: NULL	ACTUAL: yes
+
+When did he publish another memoria?
+EXPECTED: NULL	ACTUAL: yes
+
+When did he become a professor?
+EXPECTED: 1820	ACTUAL: yes
+
+When did he become a professor?
+EXPECTED: NULL	ACTUAL: yes
+
+When did he become a professor?
+EXPECTED: NULL	ACTUAL: yes
+
+Is it true that he became a professor in 1820?
+EXPECTED: yes	ACTUAL: no
+
+Is it true that he became a professor in 1820?
+EXPECTED: NULL	ACTUAL: no
+
+Is it true that he became a professor in 1820?
+EXPECTED: NULL	ACTUAL: no
+
+Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?
+EXPECTED: NULL	ACTUAL: yes
+
+Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?
+EXPECTED: NULL	ACTUAL: yes
+
+Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
+EXPECTED: yes	ACTUAL: no
+
+Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
+EXPECTED: NULL	ACTUAL: no
+
+Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
+EXPECTED: NULL	ACTUAL: no
+
+Is he most noted for his contributions to the theory of molarity and molecular weight?
+EXPECTED: yes	ACTUAL: no
+
+Is he most noted for his contributions to the theory of molarity and molecular weight?
+EXPECTED: NULL	ACTUAL: no
+
+Is he most noted for his contributions to the theory of molarity and molecular weight?
+EXPECTED: NULL	ACTUAL: no
+
+
+EXPECTED: NULL	ACTUAL: 
+
+
+EXPECTED: NULL	ACTUAL: 
+
+
+EXPECTED: NULL	ACTUAL: 
+
+
+EXPECTED: NULL	ACTUAL: 
+
+
+EXPECTED: NULL	ACTUAL: 
+
+
+EXPECTED: NULL	ACTUAL: 
+
+Who confirm that he sponsored and helped some Sardinian plotters who were organising a revolution in that island , stopped at the very last moment by the concession of Charles Albert 's statute ?
+EXPECTED: NULL	ACTUAL: yes
+
+Who confirm that he sponsored and helped some Sardinian plotters who were organising a revolution in that island , stopped at the very last moment by the concession of Charles Albert 's statute ?
+EXPECTED: NULL	ACTUAL: yes
+
+He is what?
+EXPECTED: NULL	ACTUAL: yes
+
+He is what?
+EXPECTED: NULL	ACTUAL: yes
+
+The unification of Italy did what?
+EXPECTED: NULL	ACTUAL: yes
+
+Was King Victor Emmanuel III there to pay homage to Avogadro ?
+EXPECTED: NULL	ACTUAL: yes
+
+Was King Victor Emmanuel III there to pay homage to Avogadro ?
+EXPECTED: NULL	ACTUAL: yes
+
+Is Avogadro 's number commonly used to compute the results of chemical reactions ?
+EXPECTED: yes	ACTUAL: no
+
+Is Avogadro 's number commonly used to compute the results of chemical reactions ?
+EXPECTED: NULL	ACTUAL: no
+
+Is Avogadro 's number commonly used to compute the results of chemical reactions ?
+EXPECTED: NULL	ACTUAL: no
+
+Is it approximately 6.0221415 10 23 ?
+EXPECTED: NULL	ACTUAL: no
+
+Is it approximately 6.0221415 10 23 ?
+EXPECTED: NULL	ACTUAL: no
+
+Did the scientific community not reserve great attention to his theory ?
+EXPECTED: yes	ACTUAL: no
+
+Did the scientific community not reserve great attention to his theory ?
+EXPECTED: NULL	ACTUAL: no
+
+Did the scientific community not reserve great attention to his theory ?
+EXPECTED: NULL	ACTUAL: no
+
+Does it not allow chemists to determine the exact amounts of substances produced in a given reaction ?
+EXPECTED: NULL	ACTUAL: no
+
+Does it not allow chemists to determine the exact amounts of substances produced in a given reaction ?
+EXPECTED: NULL	ACTUAL: no
+
+Was King Victor Emmanuel III there to pay homage to Avogadro ?
+EXPECTED: NULL	ACTUAL: yes
+
+Was King Victor Emmanuel III there to pay homage to Avogadro ?
+EXPECTED: NULL	ACTUAL: yes
+
+Can the title of this famous 1811 paper be roughly translated into english?
+EXPECTED: yes	ACTUAL: no
+
+Can the title of this famous 1811 paper be roughly translated into english?
+EXPECTED: NULL	ACTUAL: no
+
+Can the title of this famous 1811 paper be roughly translated into english?
+EXPECTED: 	ACTUAL: no
+
+What happened in french?
+EXPECTED: NULL	ACTUAL: yes
+
+What happened in french?
+EXPECTED: 	ACTUAL: yes
+
+What happened in 1833?
+EXPECTED: Avogadro had been recalled to Turin university	ACTUAL: yes
+
+What happened in 1833?
+EXPECTED: NULL	ACTUAL: yes
+
+What happened in 1833?
+EXPECTED: blah blah blah	ACTUAL: yes
+
+Who determined the dependence of the boiling of water with atmospheric pressure?
+EXPECTED: Anders Celsius	ACTUAL: yes
+
+What is named after him?
+EXPECTED: The Celsius crater on the Moon	ACTUAL: yes
+
+When did he publish a collection?
+EXPECTED: 1733	ACTUAL: yes
+
+Is it true that thermometer had 100 for the freezing point?
+EXPECTED: Yes	ACTUAL: no
+
+Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?
+EXPECTED: Yes	ACTUAL: no
+
+Is The Celsius crater on the Moon named after him?
+EXPECTED: Yes	ACTUAL: no
+
+Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?
+EXPECTED: Anders Celsius	ACTUAL: yes
+
+The Celsius crater on the Moon is what?
+EXPECTED: named after him	ACTUAL: yes
+
+Is the Celsius crater on the Moon named after him ?
+EXPECTED: Yes	ACTUAL: no
+
+Had his thermometer 100 for the freezing point of water and 0 for the boiling point ?
+EXPECTED: Yes it had	ACTUAL: no
+
+Is the Celsius crater on the Moon named after him ?
+EXPECTED: Yes	ACTUAL: no
+
+Did he not determine the dependence of the boiling of water with atmospheric pressure -LRB- in excellent agreement with modern data -RRB- ?
+EXPECTED: Yes he did	ACTUAL: no
+
+What happened from 1730 to 1744?
+EXPECTED: He was professor of astronomy at Uppsala University	ACTUAL: yes
+
+What happened in 1745?
+EXPECTED: The scale was reversed	ACTUAL: yes
+
+Do beetles antennae function primarily as organs of smell?
+EXPECTED: Yes	ACTUAL: no
+
+Do beetles antennae function primarily as organs of smell?
+EXPECTED: Yes	ACTUAL: no
+
+What are the three sections of a beetle?
+EXPECTED: the head, the thorax, and the abdomen	ACTUAL: yes
+
+What are the three sections of a beetle?
+EXPECTED: The head, the thorax, and the abdomen	ACTUAL: yes
+
+Which defense mechanism uses colour or shape to deceive potential enemies?
+EXPECTED: mimicry	ACTUAL: yes
+
+Which defense mechanism uses colour or shape to deceive potential enemies?
+EXPECTED: Mimicry	ACTUAL: yes
+
+Which type of beetle is a pest of potato plants?
+EXPECTED: Colorado potato beetle	ACTUAL: yes
+
+Which type of beetle is a pest of potato plants?
+EXPECTED: Colorado potato beetle	ACTUAL: yes
+
+How can beetle larvae be differentiated from other insect larvae?
+EXPECTED: their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body	ACTUAL: yes
+
+How can beetle larvae be differentiated from other insect larvae?
+EXPECTED: By their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body	ACTUAL: yes
+
+What do beetles eat?
+EXPECTED: Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.	ACTUAL: yes
+
+What do beetles eat?
+EXPECTED: They often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates	ACTUAL: yes
+
+What are the similarities between beetles and grasshoppers?
+EXPECTED: mouthparts	ACTUAL: yes
+
+What are the similarities between beetles and grasshoppers?
+EXPECTED: Beetles have mouthparts similar to those of grasshoppers	ACTUAL: yes
+
+Is a beetle's general anatomy uniform?
+EXPECTED: Yes	ACTUAL: no
+
+Is a beetle's general anatomy uniform?
+EXPECTED: yes	ACTUAL: no
+
+How many species of beetles are there?
+EXPECTED: 350,000	ACTUAL: yes
+
+How many species of beetles are there?
+EXPECTED: about 350,000	ACTUAL: yes
+
+When are sperm cells transferred to the female?
+EXPECTED: during pairing	ACTUAL: yes
+
+When are sperm cells transferred to the female?
+EXPECTED: During pairing	ACTUAL: yes
+
+What is the study of beetles called?
+EXPECTED: coleopterology	ACTUAL: yes
+
+What is the study of beetles called?
+EXPECTED: coleopterology	ACTUAL: yes
+
+Is it possible that there are more than 350,000 species of beetles?
+EXPECTED: yes	ACTUAL: no
+
+Is it possible that there are more than 350,000 species of beetles?
+EXPECTED: yes	ACTUAL: no
+
+Is the Adephaga suborder larger than the Polyphaga suborder?
+EXPECTED: yes	ACTUAL: no
+
+What are prey of various animals including birds and mammals?
+EXPECTED: Beetles.	ACTUAL: yes
+
+What was given by Aristotle for the hardened shield like forewings?
+EXPECTED: The name "Coleoptera".	ACTUAL: yes
+
+Who or what vary greatly in form within the coleoptera?
+EXPECTED: Antennae.	ACTUAL: yes
+
+Are many beetles territorial?
+EXPECTED: Yes.	ACTUAL: yes
+
+Are beetles endopterygotes with complete metamorphosis?
+EXPECTED: Yes.	ACTUAL: yes
+
+Oxygen is what?
+EXPECTED: One kind of gas obtained via a tracheal system.	ACTUAL: yes
+
+Is there a thriving industry in the collection of beetle specimens for amateur and professional collectors ?
+EXPECTED: Yes.	ACTUAL: no
+
+Have coleopterists formed organisations to facilitate the study of beetles ?
+EXPECTED: Yes.	ACTUAL: no
+
+Is the study of beetles called coleopterology , and its practitioners are coleopterists ?
+EXPECTED: Yes.	ACTUAL: no
+
+May a single female lay from several dozen to several thousand eggs during her lifetime ?
+EXPECTED: Yes.	ACTUAL: yes
+
+Can beetles be found in almost all habitats?
+EXPECTED: Yes.	ACTUAL: no
+
+What happened on plants and fungi?
+EXPECTED: They are food to beetles.	ACTUAL: yes
+
+Was Calvin Coolidge the twenty-ninth vice president?
+EXPECTED: Yes	ACTUAL: no
+
+Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?
+EXPECTED: yes	ACTUAL: no
+
+Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?
+EXPECTED: Yes	ACTUAL: no
+
+Did Coolidge graduate from Black River Academy?
+EXPECTED: yes	ACTUAL: no
+
+Did Coolidge graduate from Black River Academy?
+EXPECTED: Yes	ACTUAL: no
+
+When did he drop John from his name?
+EXPECTED: upon graduating from college	ACTUAL: yes
+
+When did he drop John from his name?
+EXPECTED: Upon graduating from college	ACTUAL: yes
+
+When did Coolidge meet and marry Grace Anna Goodhue?
+EXPECTED: 1905	ACTUAL: yes
+
+When did Coolidge meet and marry Grace Anna Goodhue?
+EXPECTED: In 1905	ACTUAL: yes
+
+What period of rapid economic growth did the United States experience during Coolidge's presidency?
+EXPECTED: the Roaring Twenties	ACTUAL: yes
+
+What period of rapid economic growth did the United States experience during Coolidge's presidency?
+EXPECTED: the "Roaring Twenties"	ACTUAL: yes
+
+What did Coolidge do after graduating from Amherst?
+EXPECTED: Coolidge moved to Northampton, Massachusetts	ACTUAL: yes
+
+What did Coolidge do after graduating from Amherst?
+EXPECTED: Coolidge moved to Northampton, Massachusetts to take up the practice of law	ACTUAL: yes
+
+Of what state was Coolidge governor?
+EXPECTED: Massachusetts	ACTUAL: yes
+
+Who appointed Harlan Fiske Stone to the Supreme Court?
+EXPECTED: Coolidge	ACTUAL: yes
+
+Who appointed Harlan Fiske Stone to the Supreme Court?
+EXPECTED: Coolidge	ACTUAL: yes
+
+Was Coolidge the thirteenth President of the United States?
+EXPECTED: Yes	ACTUAL: no
+
+Was Calvin Coolidge a governor of Massachusetts?
+EXPECTED: Yes	ACTUAL: no
+
+Was Calvin Coolidge a governor of Massachusetts?
+EXPECTED: Yes	ACTUAL: no
+
+When was Coolidge born?
+EXPECTED: July 4 1872	ACTUAL: yes
+
+When was Coolidge born?
+EXPECTED: Plymouth, Windsor County, Vermont	ACTUAL: yes
+
+Where did Coolidge's grandfather had government offices?
+EXPECTED: Plymouth	ACTUAL: yes
+
+Where did Coolidge's grandfather had government offices?
+EXPECTED: The town of Plymouth Notch	ACTUAL: yes
+
+Which state were Coolidge born in?
+EXPECTED: Plymouth, Windsor County, Vermont	ACTUAL: yes
+
+Which state were Coolidge born in?
+EXPECTED: Vermont	ACTUAL: yes
+
+Did Coolidge get in Amherst College?
+EXPECTED: Yes	ACTUAL: no
+
+Did Coolidge get in Amherst College?
+EXPECTED: Yes	ACTUAL: no
+
+What caused Calvin Jr.'s death?
+EXPECTED: heart attack	ACTUAL: yes
+
+What caused Calvin Jr.'s death?
+EXPECTED: Heart attack	ACTUAL: yes
+
+Was Coolidge opposed in the Republican nomination for Governor of Massachusetts in 1918?
+EXPECTED: Yes	ACTUAL: no
+
+Did Coolidge meet and marry Grace Anna Goodhue?
+EXPECTED: Yes	ACTUAL: no
+
+Did Coolidge meet and marry Grace Anna Goodhue?
+EXPECTED: yes	ACTUAL: no
+
+What year did Coolidge open his own law office?
+EXPECTED: 1898	ACTUAL: yes
+
+What year did Coolidge open his own law office?
+EXPECTED: 1898	ACTUAL: yes
+
+What fraternity was Coolidge a member of?
+EXPECTED: Phi Gamma Delta	ACTUAL: yes
+
+What fraternity was Coolidge a member of?
+EXPECTED: phi gamma delta	ACTUAL: yes
+
+In 1905 Coolidge met and married whom?
+EXPECTED: Grace Anna Goodhue	ACTUAL: yes
+
+In 1905 Coolidge met and married whom?
+EXPECTED: Grace Anna Goodhue	ACTUAL: yes
+
+Why did Coolidge not attend law school?
+EXPECTED: It was too expensive	ACTUAL: yes
+
+Why did Coolidge not attend law school?
+EXPECTED: cost	ACTUAL: yes
+
+What years were Coolidge's two sons born in?
+EXPECTED: 1906 and 1908	ACTUAL: yes
+
+What years were Coolidge's two sons born in?
+EXPECTED: 1906 and 1908	ACTUAL: yes
+
+What thrust him into the national spotlight?
+EXPECTED: NULL	ACTUAL: yes
+
+What to be born on the fourth of July?
+EXPECTED: NULL	ACTUAL: yes
+
+Who was the elder of two children of John Calvin Sr and Victoria Coolidge?
+EXPECTED: NULL	ACTUAL: yes
+
+Who or what placed as high as sixth in the voting?
+EXPECTED: NULL	ACTUAL: yes
+
+Is it true that he appointed stone to the supreme court?
+EXPECTED: NULL	ACTUAL: no
+
+What do well - received and he have in common?
+EXPECTED: NULL	ACTUAL: yes
+
+What did Coolidge address in 1924?
+EXPECTED: NULL	ACTUAL: yes
+
+Was Coolidge more outspoken?
+EXPECTED: NULL	ACTUAL: yes
+
+Was Coolidge admitted to the bar?
+EXPECTED: NULL	ACTUAL: yes
+
+What emigrated from Cambridge?
+EXPECTED: NULL	ACTUAL: yes
+
+What graduated from Black?
+EXPECTED: NULL	ACTUAL: yes
+
+What Retrieved on May?
+EXPECTED: NULL	ACTUAL: yes
+
+He later what?
+EXPECTED: NULL	ACTUAL: yes
+
+They were what?
+EXPECTED: NULL	ACTUAL: yes
+
+The Republicans retained what?
+EXPECTED: NULL	ACTUAL: yes
+
+(NNP Harding #)(NNP Death )))(PP (IN in )(NP (NP (NN office ))(PP (IN for )(NP (DT a )(JJ full )(NN description )(NNP Vice )(NNP President )(person (NNP Coolidge ))))))))(VP (VP (VBD was )(VP (VBG visiting )(NP (PRP$ his )(NN family )(NN home ))))(, , )(SBAR (WHNP (WDT which ))(S (VP (VBD did )(RB not )(VP (VB have )(NP (NP (NN electricity ))(CC or )(NP (DT a )(NN telephone )))(, , )(PP (IN in )(NP (location (NNP Vermont ))))(SBAR (WHADVP (WRB when ))(S (NP (PRP he ))(VP (VBD received )(NP (NP (NN word ))(PP (IN of )(NP (NP (NNP Harding )(POS 's ))(NN death ))))))))))))))(. . )))
+EXPECTED: NULL	ACTUAL: yes
+
+
+EXPECTED: NULL	ACTUAL: 
+
+
+EXPECTED: NULL	ACTUAL: 
+
+Was 364 Stone later appointed Chief Justice by President Franklin D. Roosevelt ?
+EXPECTED: NULL	ACTUAL: no
+
+Did Coolidge not publish his autobiography in 1929 and write a syndicated newspaper column , `` Calvin Coolidge Says , '' from 1930 -- 1931 ?
+EXPECTED: NULL	ACTUAL: no
+
+Were the more well-known Coolidges , such as architect Charles Allerton Coolidge , and diplomat Archibald Cary Coolidge , descended from other branches of the family that had stayed in Massachusetts ?
+EXPECTED: NULL	ACTUAL: yes
+
+Is the genius of the average the most convincing proof of $ his strength?
+EXPECTED: NULL	ACTUAL: no
+
+What happened from tuberculosis?
+EXPECTED: NULL	ACTUAL: yes
+
+What happened from black river academy , vermont?
+EXPECTED: NULL	ACTUAL: yes
+
+Did France cede nearly all of its colonies in Europe in 1763?
+EXPECTED: Yes.	ACTUAL: no
+
+Did France cede nearly all of its colonies in Europe in 1763?
+EXPECTED: yes	ACTUAL: no
+
+Did France cede nearly all of its colonies in Europe in 1763?
+EXPECTED: NULL	ACTUAL: no
+
+Is Canada a member of the OECD?
+EXPECTED: Yes.	ACTUAL: no
+
+Is Canada a member of the OECD?
+EXPECTED: yes	ACTUAL: no
+
+Is Canada a member of the OECD?
+EXPECTED: NULL	ACTUAL: no
+
+Is Canada's official language Zulu?
+EXPECTED: No.	ACTUAL: no
+
+Is Canada's official language Zulu?
+EXPECTED: NULL	ACTUAL: no
+
+What is one significant non-official language?
+EXPECTED: Chinese.	ACTUAL: yes
+
+What is one significant non-official language?
+EXPECTED: Chinese	ACTUAL: yes
+
+What is one significant non-official language?
+EXPECTED: NULL	ACTUAL: yes
+
+In addition to Port Royal, where else did Samuel de Champlain establish a settlement?
+EXPECTED: Quebec City	ACTUAL: yes
+
+In addition to Port Royal, where else did Samuel de Champlain establish a settlement?
+EXPECTED: NULL	ACTUAL: yes
+
+What was the Consitution Act formerly called?
+EXPECTED: The British North America Act.	ACTUAL: yes
+
+What was the Consitution Act formerly called?
+EXPECTED: British North America Act	ACTUAL: yes
+
+What was the Consitution Act formerly called?
+EXPECTED: NULL	ACTUAL: yes
+
+Which countries established colonies in Canada?
+EXPECTED: France and Britain.	ACTUAL: yes
+
+Which countries established colonies in Canada?
+EXPECTED: Fance and Britain	ACTUAL: yes
+
+Which countries established colonies in Canada?
+EXPECTED: NULL	ACTUAL: yes
+
+How has Canada helped UN peacekeeping efforts?
+EXPECTED: During the Suez Crisis of 1956, Lester B. Pearson eased tensions by proposing the inception of the United Nations Peacekeeping Force. Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989	ACTUAL: yes
+
+How has Canada helped UN peacekeeping efforts?
+EXPECTED: Canada has played a leading role in UN peacekeeping efforts. During the Suez Crisis of 1956, Lester B. Pearson eased tensions by proposing the inception of the United Nations Peacekeeping Force. Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989	ACTUAL: yes
+
+How has Canada helped UN peacekeeping efforts?
+EXPECTED: NULL	ACTUAL: yes
+
+What percentage of the population don't speak English or French at home?
+EXPECTED: 28%	ACTUAL: yes
+
+What percentage of the population don't speak English or French at home?
+EXPECTED: 1.5%	ACTUAL: yes
+
+What percentage of the population don't speak English or French at home?
+EXPECTED: NULL	ACTUAL: yes
+
+Is Canada bilingual?
+EXPECTED: Yes.	ACTUAL: yes
+
+Is Canada bilingual?
+EXPECTED: Yes, it is.	ACTUAL: yes
+
+Did Canadian soldiers win the Battle of Vimy Ridge in 1917?
+EXPECTED: Yes	ACTUAL: no
+
+Did Canadian soldiers win the Battle of Vimy Ridge in 1917?
+EXPECTED: No, it did not.	ACTUAL: no
+
+Is an official language of Canada German?
+EXPECTED: No.	ACTUAL: no
+
+Is an official language of Canada German?
+EXPECTED: No, it is not.	ACTUAL: no
+
+How many provinces and territories does Canada have?
+EXPECTED: A federation now comprising ten provinces and three territories	ACTUAL: yes
+
+How many provinces and territories does Canada have?
+EXPECTED: Ten provinces and three territories	ACTUAL: yes
+
+What is Canada's national unemployment rate?
+EXPECTED: While as of October 2007, Canada's national unemployment rate of 5.9% is its lowest in 33 years. Provincial unemployment rates vary from a low of 3.6% in Alberta to a high of 14.6% in Newfoundland and Labrador. 	ACTUAL: yes
+
+What is Canada's national unemployment rate?
+EXPECTED: In October 2007, Canada's national unemployment rate is 5.9%.	ACTUAL: yes
+
+Where is the most densely populated part of Canada?
+EXPECTED: The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast.	ACTUAL: yes
+
+Where is the most densely populated part of Canada?
+EXPECTED: The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast.	ACTUAL: yes
+
+What is the largest country in the world?
+EXPECTED: Canada is the second largest country in the world, after Russia, and largest on the continent.	ACTUAL: yes
+
+What is the largest country in the world?
+EXPECTED: Russia.	ACTUAL: yes
+
+What is the largest religious group in Canada?
+EXPECTED: According to 2001 census, 77.1% of Canadians identified as being Christians; of this, Catholics make up the largest group (43.6% of Canadians). The largest Protestant denomination is the United Church of Canada; about 16.5% of Canadians declare no religious affiliation, and the remaining 6.3% were affiliated with religions other than Christianity, of which the largest is Islam numbering 1.9%, followed by Judaism: 1.1%. 	ACTUAL: yes
+
+What is the largest religious group in Canada?
+EXPECTED: Christian	ACTUAL: yes
+
+When did Canada have one of the largest armed forces in the world?
+EXPECTED: 1944.	ACTUAL: yes
+
+When did Canada have one of the largest armed forces in the world?
+EXPECTED: World War II.	ACTUAL: yes
+
+What have been inhabited for millennia by aboriginal peoples?
+EXPECTED: The lands	ACTUAL: yes
+
+European books and maps began referring to this region as Canada in what year?
+EXPECTED: 1545	ACTUAL: yes
+
+What was Canada's most important industry until the 1800s?
+EXPECTED: The fur trade	ACTUAL: yes
+
+Is it true that it angered many residents of the thirteen colonies?
+EXPECTED: yes	ACTUAL: no
+
+How do cuba and declining participation relate?
+EXPECTED: Canada maintains full relations with both.	ACTUAL: yes
+
+Is it true that provinces have a large degree of autonomy?
+EXPECTED: yes	ACTUAL: no
+
+What did Canada adopt in 1965?
+EXPECTED: The Maple Leaf Flag	ACTUAL: yes
+
+What arrived in Britain?
+EXPECTED: The first Canadian Army units in WW II	ACTUAL: yes
+
+Did Mainland Nova Scotia not come under British rule with the Treaty of Utrecht    (: ; ?
+EXPECTED: no!	ACTUAL: no
+
+Did Cartier not use the word ` Canada ' to refer to not only that village , but the entire area subject to Donnacona , Chief at Stadacona ?
+EXPECTED: yes	ACTUAL: no
+
+Is it the world 's second largest country by total area?
+EXPECTED: yes	ACTUAL: no
+
+What happened in 1867?
+EXPECTED: Canada was formed as a federal, semi-autonomous polity	ACTUAL: yes
+
+Are ducks in the Arctic Northern Hemisphere migratory?
+EXPECTED: Some are	ACTUAL: yes
+
+Is a drake a male?
+EXPECTED: Yes	ACTUAL: no
+
+Is a drake a male?
+EXPECTED: yes	ACTUAL: no
+
+What is the name of a specialized species of duck adapted to catch large fish?
+EXPECTED: the smew	ACTUAL: yes
+
+What animal attracts the most humor and silliness?
+EXPECTED: The duck	ACTUAL: yes
+
+What animal attracts the most humor and silliness?
+EXPECTED: the duck	ACTUAL: yes
+
+What is an economic use of a duck?
+EXPECTED: Meat	ACTUAL: yes
+
+What is an economic use of a duck?
+EXPECTED: being farmed for their meat	ACTUAL: yes
+
+Who is Daffy Duck?
+EXPECTED: A silly cartoon character	ACTUAL: yes
+
+Who is Daffy Duck?
+EXPECTED: a silly cartoon character	ACTUAL: yes
+
+What makes it more difficult for a diving duck to fly?
+EXPECTED: They are heavier	ACTUAL: yes
+
+What makes it more difficult for a diving duck to fly?
+EXPECTED: they are heavier	ACTUAL: yes
+
+What are the reasons for hunting wild ducks?
+EXPECTED: Meat, eggs, and feathers	ACTUAL: yes
+
+Do ducks forage underwater?
+EXPECTED: yes	ACTUAL: no
+
+Do ducks forage underwater?
+EXPECTED: Diving ducks and sea ducks forage underwater	ACTUAL: no
+
+Is foie gras often made from ducks?
+EXPECTED: yes	ACTUAL: no
+
+Is foie gras often made from ducks?
+EXPECTED: Yes	ACTUAL: no
+
+What economic uses to ducks have?
+EXPECTED: They are farmed for their meat, eggs and feathers. They are also kept and bred by aviculturists and often displayed in zoos.	ACTUAL: yes
+
+What economic uses to ducks have?
+EXPECTED: They can be farmed for meat, eggs, and feathers	ACTUAL: yes
+
+What kind of ducks feed on land?
+EXPECTED: Dabbling ducks	ACTUAL: yes
+
+What kind of ducks feed on land?
+EXPECTED: Dabbling ducks feed on land	ACTUAL: yes
+
+What unrelated water birds are ducks sometimes confused with?
+EXPECTED: loons or divers, grebes, gallinules, and coots	ACTUAL: yes
+
+What unrelated water birds are ducks sometimes confused with?
+EXPECTED: loons or divers, grebes, gallinules, and coots	ACTUAL: yes
+
+What does the word duck mean?
+EXPECTED: It is the common name for a number of species in the Anatidae family of birds.	ACTUAL: yes
+
+What does the word duck mean?
+EXPECTED: to bend down low as if to get under something	ACTUAL: yes
+
+What are some common predators of ducks?
+EXPECTED: Pike, crocodilians, herons, hawks and eagles.	ACTUAL: yes
+
+What are some common predators of ducks?
+EXPECTED: pike, crocodilians, and other aquatic hunters	ACTUAL: yes
+
+How does a Mallard's tongue work?
+EXPECTED: It's tongue is a flat plate, and on the tongue's back end is a short liftable flap with about 18 short spikes for pushing struggling prey and other food down its throat	ACTUAL: yes
+
+How does a Mallard's tongue work?
+EXPECTED: It uses short spikes to push struggling prey and other food down its throat	ACTUAL: yes
+
+What types of unrelated water birds with similar forms are ducks sometimes confused with?
+EXPECTED: loons or divers, grebes, gallinules, and coots	ACTUAL: yes
+
+What types of unrelated water birds with similar forms are ducks sometimes confused with?
+EXPECTED: loons or divers, grebes, gallinules, and coots	ACTUAL: yes
+
+Why are ducklings particularly vulnerable?
+EXPECTED: Their inability to fly.	ACTUAL: yes
+
+Why are ducklings particularly vulnerable?
+EXPECTED: their inability to fly makes them easy prey	ACTUAL: yes
+
+What are some economic uses for duck?
+EXPECTED: Meat,eggs,feathers	ACTUAL: yes
+
+What are some economic uses for duck?
+EXPECTED: being farmed for their meat, eggs, feathers, (particularly their down)	ACTUAL: yes
+
+What allows a duck to filter water out of the side of their beaks and keep food inside?
+EXPECTED: Tiny rows of plates called lamellae	ACTUAL: yes
+
+What allows a duck to filter water out of the side of their beaks and keep food inside?
+EXPECTED: tiny rows of plates called lamellae like a whale's baleen	ACTUAL: yes
+
+What expression is part of a conceptual framework for testing computer systems?
+EXPECTED: Quacks like a duck	ACTUAL: yes
+
+What expression is part of a conceptual framework for testing computer systems?
+EXPECTED: Quacks like a duck	ACTUAL: yes
+
+Where did the expression "a sitting duck" come from?
+EXPECTED: In many areas, wild duckof various species (including ducks farmed and released into the wild) are hunted for food or sport, by shooting, or formerly by decoys.	ACTUAL: yes
+
+Where did the expression "a sitting duck" come from?
+EXPECTED: In many areas, wild ducks of various species (including ducks farmed and released into the wild) are hunted for food or sport, by shooting, or formerly by decoys.	ACTUAL: yes
+
+Is Egypt bordered by the Gaza Strip?
+EXPECTED: yes	ACTUAL: no
+
+Is Egypt bordered by the Gaza Strip?
+EXPECTED: Yes	ACTUAL: no
+
+Does Egypt have political influence in the Middle East?
+EXPECTED: yes	ACTUAL: no
+
+Does Egypt have political influence in the Middle East?
+EXPECTED: Yes	ACTUAL: no
+
+When was the Six Day War?
+EXPECTED: 1967	ACTUAL: yes
+
+When was the Six Day War?
+EXPECTED: 1967	ACTUAL: yes
+
+What religions has Egypt outlawed?
+EXPECTED: All but Christianity, Islam, and Judaism	ACTUAL: yes
+
+What religions has Egypt outlawed?
+EXPECTED: all religions and belief except Islam, Christianity and Judaism	ACTUAL: yes
+
+What is the poulation of Egypt?
+EXPECTED: more than 78 million	ACTUAL: yes
+
+What is the poulation of Egypt?
+EXPECTED: 78 million people	ACTUAL: yes
+
+Why does most of Egypt's population live near the Nile?
+EXPECTED: the only arable agricultural land is found there,	ACTUAL: yes
+
+Why does most of Egypt's population live near the Nile?
+EXPECTED: The only arable agricultural land is found there	ACTUAL: yes
+
+Are there a large number of Jews living in Egypt today?
+EXPECTED: no	ACTUAL: yes
+
+Are there a large number of Jews living in Egypt today?
+EXPECTED: No	ACTUAL: yes
+
+During what period was Akhenaten a Pharaoh?
+EXPECTED: The New Kingdom (c.1550&#8722;1070 BC) 	ACTUAL: yes
+
+During what period was Akhenaten a Pharaoh?
+EXPECTED: The New Kingdom	ACTUAL: yes
+
+Is Egypt in Asia?
+EXPECTED: No.	ACTUAL: no
+
+Does Egypt receive the least rainfall in the world?
+EXPECTED: Yes.	ACTUAL: no
+
+Does Egypt receive the least rainfall in the world?
+EXPECTED: Yes	ACTUAL: no
+
+Does Egypt's foreign policy operates along moderate lines?
+EXPECTED: Yes.	ACTUAL: yes
+
+Since when has Egypt been a republic?
+EXPECTED: June 18 1953.	ACTUAL: yes
+
+Since when has Egypt been a republic?
+EXPECTED: June 18 1953	ACTUAL: yes
+
+When were the Great Sphinx and the Pyramids of Giza built?
+EXPECTED: During the Old Kingdom.	ACTUAL: yes
+
+When were the Great Sphinx and the Pyramids of Giza built?
+EXPECTED: During the Old Kingdom	ACTUAL: yes
+
+What countries border Egypt?
+EXPECTED: Libya, Sudan, the Gaza Strip and Israel.	ACTUAL: yes
+
+What countries border Egypt?
+EXPECTED: Libya, Sudan, the Gaza Strip and Israel	ACTUAL: yes
+
+What is the estimated population of Egypt?
+EXPECTED: More than 78 million.	ACTUAL: yes
+
+What is the estimated population of Egypt?
+EXPECTED: 78 million	ACTUAL: yes
+
+Does snow fall in Egypt?
+EXPECTED: Yes.	ACTUAL: no
+
+Does snow fall in Egypt?
+EXPECTED: Yes	ACTUAL: no
+
+When did organized agriculture appear in the Nile Valley?
+EXPECTED: 6000 BC.	ACTUAL: yes
+
+When did organized agriculture appear in the Nile Valley?
+EXPECTED: About 6000 BC	ACTUAL: yes
+
+Can an elephant kill a rhinoceros?
+EXPECTED: yes	ACTUAL: no
+
+Can an elephant kill a rhinoceros?
+EXPECTED: yes	ACTUAL: no
+
+How many living species of African Elephants are there?
+EXPECTED: 2	ACTUAL: yes
+
+How many living species of African Elephants are there?
+EXPECTED: The African Elephant genus contains two (or, arguably, three) living species.	ACTUAL: yes
+
+How long may elephants live?
+EXPECTED: 70 years	ACTUAL: yes
+
+How long may elephants live?
+EXPECTED: As long as 70 years, sometimes longer.	ACTUAL: yes
+
+Why does the phrase 'elephants never forget' have no metaphorical meaning?
+EXPECTED: it refers literally to elephants supposedly having an excellent memory	ACTUAL: yes
+
+Why does the phrase 'elephants never forget' have no metaphorical meaning?
+EXPECTED: Because it refers literally to elephants supposedly having an excellent memory.	ACTUAL: yes
+
+How many living species of Asian Elephants are there?
+EXPECTED: 1	ACTUAL: yes
+
+How many living species of Asian Elephants are there?
+EXPECTED: one	ACTUAL: yes
+
+How much do elephants weight at birth?
+EXPECTED: 120 kilograms	ACTUAL: yes
+
+How much do elephants weight at birth?
+EXPECTED: At birth it is common for an elephant calf to weigh 120 kilograms (265 lb).	ACTUAL: yes
+
+What did Aristotle say about elephants?
+EXPECTED: the beast which passeth all others in wit and mind	ACTUAL: yes
+
+What did Aristotle say about elephants?
+EXPECTED: Aristotle once said the elephant was "the beast which passeth all others in wit and mind."	ACTUAL: yes
+
+Is the Asian elephant larger than the African?
+EXPECTED: Sometimes	ACTUAL: no
+
+Is an elephant's skin tough?
+EXPECTED: yes	ACTUAL: no
+
+Is an elephant's skin tough?
+EXPECTED: Yes	ACTUAL: no
+
+How do elephants communicate over long distances?
+EXPECTED: by producing and receiving low frequency sound	ACTUAL: yes
+
+How do elephants communicate over long distances?
+EXPECTED: By producing and receiving low-frequency sound (infrasound)	ACTUAL: yes
+
+When do African elephants lie down?
+EXPECTED: when they are sick or wounded	ACTUAL: yes
+
+How long is the elephant's gestation period?
+EXPECTED: 22 months	ACTUAL: yes
+
+How long is the elephant's gestation period?
+EXPECTED: 22 months	ACTUAL: yes
+
+How many species of African elephants have been proposed?
+EXPECTED: three	ACTUAL: yes
+
+How many species of African elephants have been proposed?
+EXPECTED: three	ACTUAL: yes
+
+What are the elephant's ears important for?
+EXPECTED: temperature regulation	ACTUAL: yes
+
+What are the elephant's ears important for?
+EXPECTED: temperature regulation	ACTUAL: yes
+
+What land animal has the largest brain?
+EXPECTED: elephant	ACTUAL: yes
+
+What land animal has the largest brain?
+EXPECTED: The elephant	ACTUAL: yes
+
+Have elephants been used as working animals?
+EXPECTED: yes	ACTUAL: no
+
+Have elephants been used as working animals?
+EXPECTED: Yes	ACTUAL: no
+
+Do they prefer forested areas?
+EXPECTED: Yes	ACTUAL: no
+
+Do they prefer forested areas?
+EXPECTED: Yes	ACTUAL: no
+
+What is the world population of Asian elephants?
+EXPECTED: 60000	ACTUAL: yes
+
+What is the world population of Asian elephants?
+EXPECTED: The world population of Asian elephants – also called Indian Elephants or Elephas maximus – is estimated to be around 60,000	ACTUAL: yes
+
+What part of an elephant is very important for temperature regulation?
+EXPECTED: Ears	ACTUAL: yes
+
+What part of an elephant is very important for temperature regulation?
+EXPECTED: The large flapping ears of an elephant are also very important for temperature regulation.	ACTUAL: yes
+
+Where was the largest elephant ever recorded shot?
+EXPECTED: Angola	ACTUAL: yes
+
+Where was the largest elephant ever recorded shot?
+EXPECTED: The largest elephant ever recorded was shot in Angola in 1956.	ACTUAL: yes
+
+Is an Asian elephant smaller than an African elephant?
+EXPECTED: yes	ACTUAL: no
+
+Is an Asian elephant smaller than an African elephant?
+EXPECTED: Yes	ACTUAL: no
+
+What land animal is larger than an elephant?
+EXPECTED: None	ACTUAL: yes
+
+What land animal is larger than an elephant?
+EXPECTED: None, the elephant is the largest land animal.	ACTUAL: yes
+
+Has tusklessness become a rare abnormality?
+EXPECTED: No, tusklessness has become a widespread hereditary trait. 	ACTUAL: no
+
+Were the treaties signed in 1947 and 1948 with the Ukraine?
+EXPECTED: no	ACTUAL: yes
+
+Were the treaties signed in 1947 and 1948 with the Ukraine?
+EXPECTED: No	ACTUAL: yes
+
+Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?
+EXPECTED: yes	ACTUAL: no
+
+Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?
+EXPECTED: Yes	ACTUAL: no
+
+Which Russian army general conquered Finland in 1809?
+EXPECTED: Alexander I	ACTUAL: yes
+
+Which Russian army general conquered Finland in 1809?
+EXPECTED: Alexander I	ACTUAL: yes
+
+What is the life expectancy for men in Finland?
+EXPECTED: 75 years	ACTUAL: yes
+
+What is the life expectancy for men in Finland?
+EXPECTED: 75 years	ACTUAL: yes
+
+In what year were the "Games of the XV Olympiad" held?
+EXPECTED: 1952	ACTUAL: yes
+
+In what year were the "Games of the XV Olympiad" held?
+EXPECTED: 1952	ACTUAL: yes
+
+What body of water lies to the south of Finland?
+EXPECTED: the Gulf of Finland	ACTUAL: yes
+
+What body of water lies to the south of Finland?
+EXPECTED: Archipelago Sea	ACTUAL: yes
+
+Name an animal that is growing in number due to recent conservation efforts
+EXPECTED: Golden Eagle, Brown Bear, or Eurasian Lynx (Change imperative to interrogative)	ACTUAL: yes
+
+Name an animal that is growing in number due to recent conservation efforts
+EXPECTED: Golden Eagle	ACTUAL: yes
+
+Is Matti Vanhanen the Prime Minister of Finland?
+EXPECTED: yes	ACTUAL: no
+
+Is Matti Vanhanen the Prime Minister of Finland?
+EXPECTED: Yes	ACTUAL: no
+
+Does it have a border with Norway?
+EXPECTED: yes	ACTUAL: no
+
+Does it have a border with Norway?
+EXPECTED: Yes	ACTUAL: no
+
+What is the life expectancy for men?
+EXPECTED: 75 years	ACTUAL: yes
+
+What is the life expectancy for men?
+EXPECTED: 75 years	ACTUAL: yes
+
+What is the biggest city in Finland?
+EXPECTED: Greater Helsinki	ACTUAL: yes
+
+What is the biggest city in Finland?
+EXPECTED: the cities of the Greater Helsinki metropolitan area	ACTUAL: yes
+
+Who is the most popular rock group in Finland?
+EXPECTED: CMX	ACTUAL: yes
+
+Who is the most popular rock group in Finland?
+EXPECTED: CMX	ACTUAL: yes
+
+What is Finland's economy like?
+EXPECTED: a highly industrialised, free-market economy	ACTUAL: yes
+
+Where is Finland located?
+EXPECTED: Northern Europe	ACTUAL: yes
+
+Where is Finland located?
+EXPECTED: Northern Europe	ACTUAL: yes
+
+What is the weather like in summer?
+EXPECTED: relatively warm	ACTUAL: yes
+
+What is the weather like in summer?
+EXPECTED: relatively warm	ACTUAL: yes
+
+Does salmon remain the favorite of fly rod enthusiasts?
+EXPECTED: Yes	ACTUAL: no
+
+Does salmon remain the favorite of fly rod enthusiasts?
+EXPECTED: Yes	ACTUAL: no
+
+When did the first verifiable written documents appear?
+EXPECTED: Twelfth Century	ACTUAL: yes
+
+When did the first verifiable written documents appear?
+EXPECTED:  The first verifiable written documents appeared in the twelfth century. 	ACTUAL: yes
+
+What is the capital city?
+EXPECTED: Helsinki	ACTUAL: yes
+
+What is the capital city?
+EXPECTED: The capital city is Helsinki. 	ACTUAL: yes
+
+What is the most extensively celebrated holiday?
+EXPECTED: Christmas	ACTUAL: yes
+
+What is the most extensively celebrated holiday?
+EXPECTED: Christmas is the most extensively celebrated holiday.	ACTUAL: yes
+
+Do women live longer than men?
+EXPECTED: Yes	ACTUAL: no
+
+Do women live longer than men?
+EXPECTED: Yes	ACTUAL: no
+
+What is a country with which Finland is involved in an international conflict?
+EXPECTED: None	ACTUAL: yes
+
+What is a country with which Finland is involved in an international conflict?
+EXPECTED: Finland is not involved in international conflicts or border disputes. 	ACTUAL: yes
+
+What is Helsinki?
+EXPECTED: NULL	ACTUAL: yes
+
+What is concentrated in the southern part of the country?
+EXPECTED: NULL	ACTUAL: yes
+
+What is spoken natively by a 5.5 percent minority?
+EXPECTED: NULL	ACTUAL: yes
+

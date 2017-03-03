@@ -52,6 +52,9 @@ def clean_content(strContent):
 def get_encoded(string):
     return u''.join(string).encode('utf-8')
 
+def get_decoded(string):
+    return u''.join(string).decode('utf-8')
+
 def addDocToDictionary(docs, path):
     with io.open(path,encoding='latin-1') as f:
         lines = f.readlines()

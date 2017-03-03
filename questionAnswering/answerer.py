@@ -5,22 +5,53 @@ import en
 no_type = 0
 yes_no_type = 1
 date_type = 2
+
+PAST_TENSE = 0
+PAST_PARTICIPLE = 1
+PRESENT_TENSE = 2
+INFINITIVE = 3
+
 yes_no_words = {'do','does','did','was','can','will','has',
                'is','have','had','could','have','should'}
 
 def answer_date(question,text):
     return 'yes'
 
+def get_conjugation(word,tense):
+    try:
+        return {
+            PAST_TENSE: en.verb.past(word),
+            PAST_PARTICIPLE: en.verb.past_participle(word),
+            PRESENT_TENSE: en.verb.present(word),
+            INFINITIVE: en.verb.infinitive(word)
+        }[tense]
+    except KeyError:
+        return None
+
+
+def contained_in_document(rest_of_sentence,text):
+    statement = h.append_spaced_words([w[0] for w in rest_of_sentence])
+    if statement in text:
+        return True
+    return False
+
+
 def answer_yes_no(question,text):
     tagged_string = h.getTaggedString(question)
     index = 1
     while index < len(tagged_string) and tagged_string[index][1] == 'NNP':
         index += 1
-    rest_of_sentence = [w for w in tagged_string[index:-1]]
-    statement = h.append_spaced_words([w[0] for w in rest_of_sentence])
-    isNum = en.is_number(12)
-    if statement in text:
+    rest_of_sentence = [list(w) for w in tagged_string[index:-1]]
+    if contained_in_document(rest_of_sentence,text):
         return 'yes'
+    else:
+        for item in rest_of_sentence:
+            if item[1] == 'VB':
+                past = get_conjugation(item[0],PAST_TENSE)
+                if past is not None:
+                    item[0] = past
+                    if contained_in_document(rest_of_sentence,text):
+                        return 'yes'
     return 'no'
 
 def classify_question(question):
