@@ -85,4 +85,6 @@ class answerer(object):
             return 'I don\'t have the file: ' + path
 
     def __init__(self,docRoot):
+        print 'Indexing documents into database'
         h.addDocsToDictionary(self.docs,docRoot)
+        print 'Finished indexing documents'

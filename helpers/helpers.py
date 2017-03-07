@@ -22,8 +22,8 @@ def getChunks(text):
         else:
             continue
     return continuous_chunk
-def getSentences(content):
-    return sent_tokenize(content)
+def get_sentences(content):
+    return nltk.sent_tokenize(content.decode('utf-8'))
 
 def getTaggedString(text):
     return nltk.pos_tag(nltk.word_tokenize(text))
@@ -66,7 +66,7 @@ def addDocToDictionary(docs, path):
         for line in content:
             strContent += line
         key = get_key(path)
-        docs[key] = clean_content(strContent)
+        docs[key] = get_sentences(clean_content(strContent))
 def addDocsToDictionary(docs,root):
     corpus = PlaintextCorpusReader(root,'.*.txt.clean')
     for path in corpus.fileids():
