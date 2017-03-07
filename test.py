@@ -1,3 +1,4 @@
+print 'Importing modules'
 import io
 from questionAnswering import answerer as qa
 from helpers import helpers as h
@@ -5,8 +6,6 @@ from helpers import helpers as h
 root = 'datasets/'
 trainRoot = root + 'train/'
 testRoot = root + 'test/'
-answerer = qa.answerer(root)
-
 
 def write_missed(missed_questions):
     with io.open('missed_questions.txt','wb') as f:
@@ -22,7 +21,7 @@ def write_missed(missed_questions):
                 print 'Could not encode'
 
 
-def testAnswerer(setRoot):
+def testAnswerer(answerer, setRoot):
     answerSet = h.getAnswerSet(setRoot)
     correct = 0
     asked = 0
@@ -43,8 +42,19 @@ def testAnswerer(setRoot):
                 missed_questions.append([question,expected_answer,actual_answer])
             write_missed(missed_questions)
     return float(correct) / float(asked)
-print testAnswerer(trainRoot + 'S08')
-print testAnswerer(trainRoot + 'S09')
+
+
+def main():
+    print 'Initializing Answerer'
+    answerer = qa.answerer(root)
+    print 'Answerer Initialized'
+    print 'Testing S08 set'
+    print testAnswerer(answerer,trainRoot + 'S08')
+    print 'Testing S09 set'
+    print testAnswerer(answerer,trainRoot + 'S09')
 #print testAnswerer(testRoot + 'S10')
+
+if __name__ == '__main__':
+    main()
 
 

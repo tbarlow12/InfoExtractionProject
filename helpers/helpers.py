@@ -6,8 +6,13 @@ from nltk.tree import Tree
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import PlaintextCorpusReader
 import hashlib
-def getChunks(text):
-    chunked = ne_chunk(pos_tag(word_tokenize(text)))
+import sys
+import en
+reload(sys)
+
+
+def get_chunks(text):
+    chunked = ne_chunk(pos_tag(word_tokenize(text.encode('utf-8'))))
     prev = None
     current_chunk = []
     continuous_chunk = []
@@ -23,7 +28,40 @@ def getChunks(text):
             continue
     return continuous_chunk
 def get_sentences(content):
-    return nltk.sent_tokenize(content.decode('utf-8'))
+    result = []
+    sentences = [s.strip() for s in nltk.sent_tokenize(content.decode('utf-8'))]
+    for s in sentences:
+        if len(s) > 0:
+            result.append(s)
+    return result
+
+
+def get_head_verb(tagged_sentence):
+    for item in tagged_sentence:
+        tag = item[1]
+        word = item[0]
+        if 'VB' in tag:
+            return en.verb.infinitive(word.lower())
+    try:
+        return en.verb.infinitive(tagged_sentence[0][0].lower())
+    except:
+        return None
+
+PAST_TENSE = 0
+PAST_PARTICIPLE = 1
+PRESENT_TENSE = 2
+INFINITIVE = 3
+def get_conjugation(word,tense):
+    try:
+        return {
+            PAST_TENSE: en.verb.past(word),
+            PAST_PARTICIPLE: en.verb.past_participle(word),
+            PRESENT_TENSE: en.verb.present(word),
+            INFINITIVE: en.verb.infinitive(word)
+        }[tense]
+    except KeyError:
+        return None
+
 
 def getTaggedString(text):
     return nltk.pos_tag(nltk.word_tokenize(text))
