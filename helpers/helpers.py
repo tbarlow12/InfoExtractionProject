@@ -3,6 +3,7 @@ from nltk.corpus import PlaintextCorpusReader
 import en
 import sys
 import re
+import itertools
 import spacy
 
 nlp = spacy.load('en')
@@ -78,15 +79,42 @@ def get_ranked_similar(question, sentences, top):
     s = sorted(pairs,key=lambda x:(-x[1]))
     return s[top:]
 
-def get_sentence_match(question, sentences):
-    for np in question.noun_chunks:
-        print np.root.head.text
+def get_root_left_right(doc):
+    noun_chunks = list(doc.noun_chunks)
+    if len(noun_chunks) >= 2:
 
-    for sentence in sentences:
-        head_nouns = []
-        for np in sentence.noun_chunks:
+        for np in noun_chunks:
             print(np.text, np.root.text, np.root.dep_, np.root.head.text)
-            raw_input('Enter to continue')
+
+
+        first = noun_chunks[0]
+        second = noun_chunks[1]
+
+        print(first.text, first.root.text, first.root.dep_, first.root.head.text)
+        root = first.root.head.text.lower()
+        left = first.root.text.lower()
+        
+        print(second.text, second.root.text, second.root.dep_, second.root.head.text)
+        
+        right = second.root.text.lower()
+        return root, left, right
+    return None
+
+
+def get_sentence_match(question, sentences):
+    
+    print 'QUESTION'
+    #print get_root_left_right(question)
+    for np in question.noun_chunks:
+        print np
+    for sentence in sentences:
+        print 'SENTENCE'
+        #print get_root_left_right(sentence)
+        raw_input('Enter to continue')
+
+
+
+            
 
 '''
 def first_named_entity_in_similar_sentences(question,sentences):

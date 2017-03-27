@@ -82,33 +82,39 @@ def answer_yes_no(question,sentences):
 
 
 def answer_date(question, sentences):
-    return h.first_match_in_similar_sentences(question,sentences,'\d{4}')
+    return 'DATE NOT IMPLEMENTED'
+    #return h.first_match_in_similar_sentences(question,sentences,'\d{4}')
 
 
 def answer_person(question, sentences):
-    return h.first_named_entity_in_similar_sentences(question,sentences)
+    return 'PERSON NOT IMPLEMENTED'
+    #return h.first_named_entity_in_similar_sentences(question,sentences)
 
 
 def answer_location(question, sentences):
-    return h.first_named_entity_in_similar_sentences(question,sentences)
+    return 'LOCATION NOT IMPLEMENTED'
+    #return h.first_named_entity_in_similar_sentences(question,sentences)
 
 
 def answer_reason(question, sentences):
-    return h.first_named_entity_in_similar_sentences(question,sentences)
+    return 'REASON NOT IMPLEMENTED'
+    #return h.first_named_entity_in_similar_sentences(question,sentences)
 
 
 def answer_how(question, sentences):
-    return h.first_named_entity_in_similar_sentences(question,sentences)
+    return 'HOW NOT IMPLEMENTED'
+    #return h.first_named_entity_in_similar_sentences(question,sentences)
 
 
 def find_answer(question, sentences):
     q_type = classify_question(question)
 
-    similar = h.get_ranked_similar(question,sentences)[:5]
+    similar = h.get_ranked_similar(question,sentences,5)
+
+    print question
 
     sentence_match = h.get_sentence_match(question, sentences)
 
-    
     return 'NULL'
     if q_type == no_type:
         return 'NULL'
