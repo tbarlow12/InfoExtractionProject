@@ -7,6 +7,11 @@ import spacy
 
 nlp = spacy.load('en')
 
+debug = False
+
+if len(sys.argv) > 2 and sys.argv[2] == '-d':
+    debug = True
+
 #NLP Helpers
 
 PAST_TENSE = 0
@@ -66,20 +71,22 @@ def get_decoded(string):
 
 def get_ranked_similar(question, sentences):
     pairs = []
+    print 'question'
+    print question
     for i in range(0,len(sentences)):
         sentence = sentences[i]
         sim = jaccard_similarity(question, sentence)
         pairs.append([sentence,sim])
-    return sorted(pairs,key=lambda x:(-x[1]))
+    s = sorted(pairs,key=lambda x:(-x[1]))
+    return s
 
 def first_named_entity_in_similar_sentences(question,sentences):
     ranked_similar = get_ranked_similar(question,sentences)
-
     for tuple in ranked_similar:
         sentence = tuple[0]
         chunks = sentence.ents
         if len(chunks) > 0:
-            return chunks[0]
+            return chunks[0].text
 
     return 'NULL'
 
@@ -100,6 +107,7 @@ def first_match_in_similar_sentences(question,sentences,regex_str):
 stop_words = {u'and',u'or',u'the',u'as',u'but',u'a',u'of',u'by',u'to',u'in'}
 
 def get_word_set(sentence):
+
     s = set([word.lower_ for word in sentence])
     r = s - stop_words
     return r
@@ -108,7 +116,9 @@ def get_word_set(sentence):
 def jaccard_similarity(question, sentence):
     q_word_set = get_word_set(question)
     s_word_set = get_word_set(sentence)
+
     intersection = q_word_set & s_word_set
+
     union = q_word_set | s_word_set
     sim = float(len(intersection)) / float(len(union))
     return sim
@@ -123,7 +133,7 @@ def add_doc_to_dictionary(docs, path):
         for line in content:
             str_content += line
         key = get_key(path)
-        docs[key] = [nlp(sent.label_) for sent in nlp(clean_content(str_content)).sents]
+        docs[key] = [nlp(sent.text) for sent in nlp(clean_content(str_content)).sents]
 
 
 def addDocsToDictionary(docs,root):

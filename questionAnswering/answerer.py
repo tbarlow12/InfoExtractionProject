@@ -1,8 +1,13 @@
 from helpers import helpers as h
+import sys
 import spacy
 
 nlp = spacy.load('en')
 
+debug = False
+
+if len(sys.argv) > 2 and sys.argv[2] == '-d':
+    debug = True
 
 no_type = 0
 yes_no_type = 1
@@ -76,7 +81,7 @@ def answer_yes_no(question,sentences):
     return 'no'
 
 
-def answer_date(question,sentences):
+def answer_date(question, sentences):
     return h.first_match_in_similar_sentences(question,sentences,'\d{4}')
 
 
@@ -97,6 +102,13 @@ def answer_how(question, sentences):
 
 def find_answer(question, sentences):
     q_type = classify_question(question)
+
+    similar = h.get_ranked_similar(question,sentences)[:5]
+
+    for sent in similar:
+        print sent
+
+    return 'NULL'
     if q_type == no_type:
         return 'NULL'
     if q_type == yes_no_type:
@@ -120,6 +132,7 @@ class answerer(object):
     def answerQuestion(self,question,path):
         #chunks = h.get_chunks(question.lower())
         if path in self.docs:
+
             return find_answer(nlp(question),self.docs[path])
         else:
             return 'I don\'t have the file: ' + path

@@ -1,1 +1,1 @@
-python /home/tannerb/InfoExtraction/InfoExtractionProject/test.py 
+python /home/tannerb/InfoExtraction/InfoExtractionProject/test.py -m -d
