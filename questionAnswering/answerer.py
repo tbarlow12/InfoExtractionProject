@@ -71,11 +71,23 @@ def classify_question(question):
     return 0
 
 
+def answer_be(question,sentences):
+    adjacent_nouns = h.get_adjacent_nouns(question)
+    print adjacent_nouns
+    for sentence in sentences:
+        print 'sentence'
+        print h.get_adjacent_nouns(sentence)
+        raw_input('Enter to continue')
+
 def answer_yes_no(question,sentences):
+    
+    question_tokens = list(question)
+    q_first = question_tokens[0]
+    if q_first.lemma_.lower() == 'be':
+        return answer_be(question,sentences)
 
     for sentence in sentences:
-        #if parse_match(question,sentence):
-        #   return 'yes'
+        
         if h.jaccard_similarity(question,sentence) > .25:
             return 'yes'
     return 'no'
@@ -111,11 +123,6 @@ def find_answer(question, sentences):
 
     similar = h.get_ranked_similar(question,sentences,5)
 
-    print question
-
-    sentence_match = h.get_sentence_match(question, sentences)
-
-    return 'NULL'
     if q_type == no_type:
         return 'NULL'
     if q_type == yes_no_type:

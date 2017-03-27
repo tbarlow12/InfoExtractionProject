@@ -6,6 +6,8 @@ import re
 import itertools
 import spacy
 
+
+
 nlp = spacy.load('en')
 
 debug = False
@@ -79,38 +81,28 @@ def get_ranked_similar(question, sentences, top):
     s = sorted(pairs,key=lambda x:(-x[1]))
     return s[top:]
 
-def get_root_left_right(doc):
-    noun_chunks = list(doc.noun_chunks)
-    if len(noun_chunks) >= 2:
+def get_noun_indices(tokens):
+    indices = []
+    for i in range(0,len(tokens)):
+        token = tokens[i]
+        if token.pos_ == 'NOUN' or token.pos_ == 'PROPN':
+            indices.append(i)
+    return indices
 
-        for np in noun_chunks:
-            print(np.text, np.root.text, np.root.dep_, np.root.head.text)
+def get_adjacent_nouns(doc):
+    adjacent_nouns = []
+    tokens = list(doc)
+    indices = get_noun_indices(doc)
+    for i in range(0,len(indices)-1):
+        if (indices[i+1] - indices[i]) > 1:
+            n1 = i
+            n2 = i + 1
+            while (n2 < len(indices)-1) and ((indices[n2+1] - indices[n2]) == 1):
+                n2 += 1
+            adjacent_nouns.append([tokens[indices[n1]],tokens[indices[n2]]])
+    return adjacent_nouns
 
 
-        first = noun_chunks[0]
-        second = noun_chunks[1]
-
-        print(first.text, first.root.text, first.root.dep_, first.root.head.text)
-        root = first.root.head.text.lower()
-        left = first.root.text.lower()
-        
-        print(second.text, second.root.text, second.root.dep_, second.root.head.text)
-        
-        right = second.root.text.lower()
-        return root, left, right
-    return None
-
-
-def get_sentence_match(question, sentences):
-    
-    print 'QUESTION'
-    #print get_root_left_right(question)
-    for np in question.noun_chunks:
-        print np
-    for sentence in sentences:
-        print 'SENTENCE'
-        #print get_root_left_right(sentence)
-        raw_input('Enter to continue')
 
 
 
