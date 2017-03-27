@@ -100,14 +100,15 @@ def answer_reason(question, sentences):
 def answer_how(question, sentences):
     return h.first_named_entity_in_similar_sentences(question,sentences)
 
+
 def find_answer(question, sentences):
     q_type = classify_question(question)
 
     similar = h.get_ranked_similar(question,sentences)[:5]
 
-    for sent in similar:
-        print sent
+    sentence_match = h.get_sentence_match(question, sentences)
 
+    
     return 'NULL'
     if q_type == no_type:
         return 'NULL'

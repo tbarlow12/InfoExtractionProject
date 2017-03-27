@@ -69,19 +69,28 @@ def get_decoded(string):
 
 #Algorithm helpers
 
-def get_ranked_similar(question, sentences):
+def get_ranked_similar(question, sentences, top):
     pairs = []
-    print 'question'
-    print question
     for i in range(0,len(sentences)):
         sentence = sentences[i]
         sim = jaccard_similarity(question, sentence)
         pairs.append([sentence,sim])
     s = sorted(pairs,key=lambda x:(-x[1]))
-    return s
+    return s[top:]
 
+def get_sentence_match(question, sentences):
+    for np in question.noun_chunks:
+        print np.root.head.text
+
+    for sentence in sentences:
+        head_nouns = []
+        for np in sentence.noun_chunks:
+            print(np.text, np.root.text, np.root.dep_, np.root.head.text)
+            raw_input('Enter to continue')
+
+'''
 def first_named_entity_in_similar_sentences(question,sentences):
-    ranked_similar = get_ranked_similar(question,sentences)
+    ranked_similar = get_ranked_similar(question,sentences,20)
     for tuple in ranked_similar:
         sentence = tuple[0]
         chunks = sentence.ents
@@ -103,6 +112,8 @@ def first_match_in_similar_sentences(question,sentences,regex_str):
             return match_list[0]
 
     return 'NULL'
+
+'''
 
 stop_words = {u'and',u'or',u'the',u'as',u'but',u'a',u'of',u'by',u'to',u'in'}
 
