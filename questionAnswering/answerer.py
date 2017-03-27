@@ -1,13 +1,16 @@
 from helpers import helpers as h
+import spacy
+
+nlp = spacy.load('en')
 
 
 no_type = 0
 yes_no_type = 1
 date_type = 2
 person_type = 3
-location_type = 5
-reason_type = 6
-how_type = 7
+location_type = 4
+reason_type = 5
+how_type = 6
 
 
 PAST_TENSE = 0
@@ -27,14 +30,6 @@ how_words = {'how'}
 q_type_words = [yes_no_words,date_words,person_words,location_words,reason_words,how_words]
 
 
-
-
-def answer_date(question,text):
-    return 'yes'
-
-
-
-
 def contained_in_document(rest_of_sentence,text):
     statement = h.append_spaced_words([w[0] for w in rest_of_sentence])
     if statement in text:
@@ -42,56 +37,90 @@ def contained_in_document(rest_of_sentence,text):
     return False
 
 
+def parse_match(question, sentence):
+    question_parse = h.get_dependency_parse(question)
+    sentence_parse = h.get_dependency_parse(sentence)
 
+    question_root = question_parse[0]
+    sentence_root = sentence_parse[0]
+    if question_root._label.lower() == sentence_root._label.lower():
+        return True
 
+    return False
 
-
-
-def answer_yes_no(question,sentences):
-    tagged_question = h.getTaggedString(question)
-    q_head_verb = h.get_head_verb(tagged_question)
-
-    for sentence in sentences:
-        tagged_sentence = h.getTaggedString(sentence)
-        s_head_verb = h.get_head_verb(tagged_sentence)
-        chunks = h.get_chunks(sentence)
-        print sentence
-        print tagged_sentence
-        print s_head_verb
-
-    return 'yes'
+#root = result[0]
+#root_verb = root._label
+#left = root[0]
+#right = root[1]
 
 
 
 
 def classify_question(question):
-    words = question.lower().split()
-    if len(words) > 0:
-        first_word = words[0]
+    if len(question) > 0:
+        first_word = question[0].lower_
         for i in range(0,len(q_type_words)):
             word_set = q_type_words[i]
             if first_word in word_set:
                 return i + 1
     return 0
 
-def find_answer(question,text):
+
+def answer_yes_no(question,sentences):
+
+    for sentence in sentences:
+        #if parse_match(question,sentence):
+        #   return 'yes'
+        if h.jaccard_similarity(question,sentence) > .25:
+            return 'yes'
+    return 'no'
+
+
+def answer_date(question,sentences):
+    return h.first_match_in_similar_sentences(question,sentences,'\d{4}')
+
+
+def answer_person(question, sentences):
+    return h.first_named_entity_in_similar_sentences(question,sentences)
+
+
+def answer_location(question, sentences):
+    return h.first_named_entity_in_similar_sentences(question,sentences)
+
+
+def answer_reason(question, sentences):
+    return h.first_named_entity_in_similar_sentences(question,sentences)
+
+
+def answer_how(question, sentences):
+    return h.first_named_entity_in_similar_sentences(question,sentences)
+
+def find_answer(question, sentences):
     q_type = classify_question(question)
-    print q_type
-    answer = {
-        no_type: 'NULL',
-        yes_no_type: answer_yes_no(question,text),
-        date_type: answer_date(question,text)
-    }[q_type]
-    return answer
+    if q_type == no_type:
+        return 'NULL'
+    if q_type == yes_no_type:
+        return answer_yes_no(question,sentences)
+    if q_type == date_type:
+        return answer_date(question,sentences)
+    if q_type == person_type:
+        return answer_person(question,sentences)
+    if q_type == location_type:
+        return answer_location(question,sentences)
+    if q_type == reason_type:
+        return answer_reason(question,sentences)
+    if q_type == how_type:
+        return answer_how(question,sentences)
+    return ''
 
 class answerer(object):
     docs = {}
 
     @classmethod
     def answerQuestion(self,question,path):
-        chunks = h.get_chunks(question.lower())
+        #chunks = h.get_chunks(question.lower())
         if path in self.docs:
-            return find_answer(question,self.docs[path])
+            return find_answer(nlp(question),self.docs[path])
         else:
             return 'I don\'t have the file: ' + path
 
