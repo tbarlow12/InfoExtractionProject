@@ -80,48 +80,41 @@ def answer_be(question,sentences):
         raw_input('Enter to continue')
 
 def answer_yes_no(question,sentences):
-
-    question_tokens = list(question)
-    q_first = question_tokens[0]
-    if q_first.lemma_.lower() == 'be':
-        return answer_be(question,sentences)
-
-    for sentence in sentences:
-
-        if h.jaccard_doc(question,sentence) > .25:
-            return 'yes'
-    return 'no'
+    return h.get_top_similar(question,sentences,1)[0][0].text
 
 
 def answer_date(question, sentences):
-    return 'DATE NOT IMPLEMENTED'
-    #return h.first_match_in_similar_sentences(question,sentences,'\d{4}')
+    return h.get_top_similar(question,sentences,1)[0][0].text
+
+    #return 'DATE NOT IMPLEMENTED'
 
 
 def answer_person(question, sentences):
-    return 'PERSON NOT IMPLEMENTED'
-    #return h.first_named_entity_in_similar_sentences(question,sentences)
+    return h.get_top_similar(question,sentences,1)[0][0].text
+
+    #return 'PERSON NOT IMPLEMENTED'
 
 
 def answer_location(question, sentences):
-    return 'LOCATION NOT IMPLEMENTED'
-    #return h.first_named_entity_in_similar_sentences(question,sentences)
+    return h.get_top_similar(question,sentences,1)[0][0].text
+
+    #return 'LOCATION NOT IMPLEMENTED'
 
 
 def answer_reason(question, sentences):
-    return 'REASON NOT IMPLEMENTED'
-    #return h.first_named_entity_in_similar_sentences(question,sentences)
+    return h.get_top_similar(question,sentences,1)[0][0].text
+
+    #return 'REASON NOT IMPLEMENTED'
 
 
 def answer_how(question, sentences):
-    return 'HOW NOT IMPLEMENTED'
-    #return h.first_named_entity_in_similar_sentences(question,sentences)
+    return h.get_top_similar(question,sentences,1)[0][0].text
+
+    #return 'HOW NOT IMPLEMENTED'
 
 
 def find_answer(question, sentences):
     q_type = classify_question(question)
-
-    similar = h.get_ranked_similar(question,sentences,5)
 
     if q_type == no_type:
         return 'NULL'

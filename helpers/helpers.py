@@ -4,8 +4,7 @@ import sys
 import re
 import itertools
 import spacy
-
-
+import pdb
 
 nlp = spacy.load('en')
 
@@ -54,22 +53,43 @@ def get_decoded(string):
 
 #Algorithm helpers
 
-def get_ranked_similar(question, sentences, top):
+def get_root_verb(doc):
+    for np in doc.noun_chunks:
+        pdb.set_trace()
+        if np.root.head.pos_ == 'VERB':
+            return np.root.head.text
+
+    return None
+
+def get_top_similar(question, sentences, top):
     pairs = []
+    print question
+    verb = get_root_verb(question)
     for i in range(0,len(sentences)):
         sentence = sentences[i]
-        sim = jaccard_similarity(question, sentence)
+        sim = jaccard_doc(question, sentence)
         pairs.append([sentence,sim])
     s = sorted(pairs,key=lambda x:(-x[1]))
     return s[:top]
 
 def get_noun_indices(tokens):
+    return get_pos_indices(tokens,{'NOUN','PROPN'})
+
+def get_pos_indices(tokens,tags):
     indices = []
     for i in range(0,len(tokens)):
         token = tokens[i]
-        if token.pos_ == 'NOUN' or token.pos_ == 'PROPN':
+        if token.pos_ in tags:
             indices.append(i)
     return indices
+
+def get_noun_set(doc):
+    tokens = list(doc)
+    noun_idx = get_noun_indices(tokens)
+    nouns = set()
+    for index in noun_idx:
+        nouns.add(tokens[index].lower_)
+    return nouns
 
 def get_adjacent_nouns(doc):
     adjacent_nouns = []
@@ -101,6 +121,8 @@ def jaccard_doc(doc1, doc2):
 def jaccard_set(set1, set2):
     intersection = set1 & set2
     union = set1 | set2
+    if len(intersection) == 0 or len(union) == 0:
+        return 0
     return float(len(intersection)) / float(len(union))
 
 

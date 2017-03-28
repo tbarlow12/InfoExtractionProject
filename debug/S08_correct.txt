@@ -1,0 +1,116 @@
+What trail did Lincoln use a Farmers' Almanac in? 	NULL	S08/data/set3/a4	NULL
+Volta became professor of physics in the Como high school in what year?	NULL	S08/data/set4/a10	NULL
+What ac phaenomenis inde pendentibus?	NULL	S08/data/set4/a10	NULL
+What may be called Volta's Law of the electrochemical series?	NULL	S08/data/set4/a10	NULL
+What did Alessandro Volta publish in 1800?	NULL	S08/data/set4/a10	NULL
+	NULL	S08/data/set4/a10	NULL
+	NULL	S08/data/set4/a10	NULL
+	NULL	S08/data/set4/a10	NULL
+NOTTTT  FOUND	NULL	S08/data/set4/a10	NULL
+	NULL	S08/data/set4/a10	NULL
+	NULL	S08/data/set4/a10	NULL
+Are Count Volta 's original instruments and papers on display there ?	NULL	S08/data/set4/a10	NULL
+Are Count Volta 's original instruments and papers on display there ?	NULL	S08/data/set4/a10	NULL
+What happened with $ its invention?	NULL	S08/data/set4/a10	NULL
+HWhat happened at the electromotive force -LRB- emf -RRB- of a galvanic cell?	NULL	S08/data/set4/a10	NULL
+What happened in 1800?	NULL	S08/data/set4/a10	NULL
+What was an Italian savant?	NULL	S08/data/set4/a8	NULL
+What was an Italian savant?	NULL	S08/data/set4/a8	NULL
+	NULL	S08/data/set4/a8	NULL
+	NULL	S08/data/set4/a8	NULL
+	NULL	S08/data/set4/a8	NULL
+	NULL	S08/data/set4/a8	NULL
+	NULL	S08/data/set4/a8	NULL
+	NULL	S08/data/set4/a8	NULL
+He is what?	NULL	S08/data/set4/a8	NULL
+He is what?	NULL	S08/data/set4/a8	NULL
+The unification of Italy did what?	NULL	S08/data/set4/a8	NULL
+What happened in french?	NULL	S08/data/set4/a8	NULL
+What happened in 1833?	NULL	S08/data/set4/a8	NULL
+What thrust him into the national spotlight?	NULL	S08/data/set3/a9	NULL
+What to be born on the fourth of July?	NULL	S08/data/set3/a9	NULL
+What do well - received and he have in common?	NULL	S08/data/set3/a9	NULL
+What did Coolidge address in 1924?	NULL	S08/data/set3/a9	NULL
+What emigrated from Cambridge?	NULL	S08/data/set3/a9	NULL
+What graduated from Black?	NULL	S08/data/set3/a9	NULL
+What Retrieved on May?	NULL	S08/data/set3/a9	NULL
+He later what?	NULL	S08/data/set3/a9	NULL
+They were what?	NULL	S08/data/set3/a9	NULL
+The Republicans retained what?	NULL	S08/data/set3/a9	NULL
+(NNP Harding #)(NNP Death )))(PP (IN in )(NP (NP (NN office ))(PP (IN for )(NP (DT a )(JJ full )(NN description )(NNP Vice )(NNP President )(person (NNP Coolidge ))))))))(VP (VP (VBD was )(VP (VBG visiting )(NP (PRP$ his )(NN family )(NN home ))))(, , )(SBAR (WHNP (WDT which ))(S (VP (VBD did )(RB not )(VP (VB have )(NP (NP (NN electricity ))(CC or )(NP (DT a )(NN telephone )))(, , )(PP (IN in )(NP (location (NNP Vermont ))))(SBAR (WHADVP (WRB when ))(S (NP (PRP he ))(VP (VBD received )(NP (NP (NN word ))(PP (IN of )(NP (NP (NNP Harding )(POS 's ))(NN death ))))))))))))))(. . )))	NULL	S08/data/set3/a9	NULL
+	NULL	S08/data/set3/a9	NULL
+	NULL	S08/data/set3/a9	NULL
+Were the more well-known Coolidges , such as architect Charles Allerton Coolidge , and diplomat Archibald Cary Coolidge , descended from other branches of the family that had stayed in Massachusetts ?	NULL	S08/data/set3/a9	NULL
+What happened from tuberculosis?	NULL	S08/data/set3/a9	NULL
+What happened from black river academy , vermont?	NULL	S08/data/set3/a9	NULL
+What is one significant non-official language?	NULL	S08/data/set2/a8	NULL
+In addition to Port Royal, where else did Samuel de Champlain establish a settlement?	NULL	S08/data/set2/a8	NULL
+What was the Consitution Act formerly called?	NULL	S08/data/set2/a8	NULL
+Which countries established colonies in Canada?	NULL	S08/data/set2/a8	NULL
+What percentage of the population don't speak English or French at home?	NULL	S08/data/set2/a8	NULL
+Where is the most densely populated part of Canada?	The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast.	S08/data/set2/a8	The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast.
+Where is the most densely populated part of Canada?	The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast.	S08/data/set2/a8	The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast.
+Where was the largest elephant ever recorded shot?	The largest elephant ever recorded was shot in Angola in 1956.	S08/data/set1/a5	The largest elephant ever recorded was shot in Angola in 1956.
+What is Helsinki?	NULL	S08/data/set2/a4	NULL
+What is concentrated in the southern part of the country?	NULL	S08/data/set2/a4	NULL
+What is spoken natively by a 5.5 percent minority?	NULL	S08/data/set2/a4	NULL
+What do jari litmanen and sami hyypiÃ¤ have in common?	NULL	S08/data/set2/a4	NULL
+What did Finland join in 1995?	NULL	S08/data/set2/a4	NULL
+What situated in Northern?	NULL	S08/data/set2/a4	NULL
+What arrived in Finland?	NULL	S08/data/set2/a4	NULL
+What ceded by Finland?	NULL	S08/data/set2/a4	NULL
+Lunch is what?	NULL	S08/data/set2/a4	NULL
+The earliest people were what?	NULL	S08/data/set2/a4	NULL
+Are Various sporting events popular in Finland ?	NULL	S08/data/set2/a4	NULL
+Are all official holidays in Finland established by acts of Parliament ?	NULL	S08/data/set2/a4	NULL
+Are the people of Finland accustomed to technology and information services ?	NULL	S08/data/set2/a4	NULL
+What was Wagadugu?	NULL	S08/data/set2/a5	NULL
+What was controlled by Sundiata in 1240 AD, and absorbed into the larger Mali Empire?	NULL	S08/data/set2/a5	NULL
+What connected the Akans to this Empire?	NULL	S08/data/set2/a5	NULL
+What did Ghana capture in 1642?	NULL	S08/data/set2/a5	NULL
+What was on March?	NULL	S08/data/set2/a5	NULL
+	NULL	S08/data/set2/a5	NULL
+	NULL	S08/data/set2/a5	NULL
+The coastline is what?	NULL	S08/data/set2/a5	NULL
+Ghana 's spending on education has what?	NULL	S08/data/set2/a5	NULL
+Are Native Ghanaian languages divided into two linguistic subfamilies of the Niger-Congo language family ?	NULL	S08/data/set2/a5	NULL
+Are more than 100 languages and dialects spoken in Ghana ?	NULL	S08/data/set2/a5	NULL
+What happened with the portuguese in the 15th century?	NULL	S08/data/set2/a5	NULL
+What Eves?	NULL	S08/data/set4/a1	NULL
+What are a rumors that he remained a virgin?	NULL	S08/data/set4/a1	NULL
+What did Isaac Newton place at 3 April, AD 33, which agrees with one traditionally accepted date?	NULL	S08/data/set4/a1	NULL
+What died in London?	NULL	S08/data/set4/a1	NULL
+What was against William?	NULL	S08/data/set4/a1	NULL
+What quartered on March?	NULL	S08/data/set4/a1	NULL
+NOTTTT  FOUND	NULL	S08/data/set4/a1	NULL
+	NULL	S08/data/set4/a1	NULL
+	NULL	S08/data/set4/a1	NULL
+Were the two in a dispute over optical discoveries at the time ?	NULL	S08/data/set4/a1	NULL
+Are Various trees claimed to be " the " apple tree which Newton describes ?	NULL	S08/data/set4/a1	NULL
+What happened at the time of newton 's birth?	NULL	S08/data/set4/a1	NULL
+What happened from school?	NULL	S08/data/set4/a1	NULL
+What happened on those of aristotle?	NULL	S08/data/set4/a1	NULL
+Which property did James Monroe sell in 1817?	NULL	S08/data/set3/a2	NULL
+What did James Monroe's letters not contain?	NULL	S08/data/set3/a2	NULL
+What was the result of the rejection of the Jay Treaty?	NULL	S08/data/set3/a2	NULL
+Are Kangaroos Shy?	NULL	S08/data/set1/a1	NULL
+What method of locomotion do Kangaroos Use?	NULL	S08/data/set1/a1	NULL
+What is the average life expectancy of a kangaroo?	NULL	S08/data/set1/a1	NULL
+What is a collective noun for a kangaroo?	NULL	S08/data/set1/a1	NULL
+What is a roo?	NULL	S08/data/set1/a1	NULL
+What is used to protect a vehicale from a Kangaroo?	NULL	S08/data/set1/a1	NULL
+What method is used by Kangaroos to travel?	NULL	S08/data/set1/a1	NULL
+What is the difference between leopards and cheetahs?	NULL	S08/data/set1/a2	NULL
+To whom was Millard Fillmore born to?	NULL	S08/data/set3/a3	NULL
+What did Taylor and Fillmore disagree upon?	NULL	S08/data/set3/a3	NULL
+	NULL	S08/data/set2/a7	NULL
+	NULL	S08/data/set2/a7	NULL
+Where did Orang Laut people live?	Several hundred indigenous Orang Laut people also lived around the coast, rivers and smaller islands.	S08/data/set2/a2	Several hundred indigenous Orang Laut people also lived around the coast, rivers and smaller islands.
+What is the MRT?	NULL	S08/data/set2/a2	NULL
+When did Goh Chok Tong succeed Lee as Prime Minister?	In 1990, Goh Chok Tong succeeded Lee as Prime Minister.	S08/data/set2/a2	In 1990, Goh Chok Tong succeeded Lee as Prime Minister.
+What is the primary domestic source of water supply?	NULL	S08/data/set2/a2	NULL
+What is the national language of Singapore?	NULL	S08/data/set2/a2	NULL
+Why are relations with Malaysia and Indonesia important?	Due to obvious geographical reasons, relations with Malaysia and Indonesia are most important.	S08/data/set2/a2	Due to obvious geographical reasons, relations with Malaysia and Indonesia are most important.
+What is the most densely populated independent country in the world?	NULL	S08/data/set2/a2	NULL
+What is the punishment for first-degree murder?	NULL	S08/data/set2/a2	NULL
+Who founded Montevideo?	Montevideo was founded by the Spanish in the early 18th century as a military stronghold.	S08/data/set2/a9	Montevideo was founded by the Spanish in the early 18th century as a military stronghold.

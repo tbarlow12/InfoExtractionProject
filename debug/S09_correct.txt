@@ -1,0 +1,54 @@
+Pronouns in which location are marked for person , number and gender?	NULL	S09/data/set5/a3	NULL
+What was Chinese language`s profession?	NULL	S09/data/set5/a7	NULL
+What is Chinese language`s first name?	NULL	S09/data/set5/a7	NULL
+What is Chinese language`s last name?	NULL	S09/data/set5/a7	NULL
+The Mandarin dialects in which location have experienced a dramatic decrease in sounds and so have far more multisyllabic words than most other spoken varieties?	NULL	S09/data/set5/a7	NULL
+In North Korea, has Hanja been discontinued?	NULL	S09/data/set5/a7	NULL
+The most  widespread is the Palladius  system?	NULL	S09/data/set5/a7	NULL
+What is the population of Chinese language?	NULL	S09/data/set5/a7	NULL
+Are most of these groups mutually unintelligible?	NULL	S09/data/set5/a7	NULL
+In what country is Chinese language located?	NULL	S09/data/set5/a7	NULL
+Are there many systems of romanization for the chinese languages due to the Chinese`s own lack of phonetic transcription until modern times ?	NULL	S09/data/set5/a7	NULL
+May the idea of Chinese as a language family suggest that the chinese identity is much more fragmentary and disunified than Chinese language actually is and as such is often looked upon as culturally and politically provocative ?	NULL	S09/data/set5/a7	NULL
+Are most chinese words formed out of native chinese morphemes , including words describing imported objects and ideas ?	NULL	S09/data/set5/a7	NULL
+May a native of Guangzhou speak Standard Cantonese and putonghua , a resident of Taiwan , both taiwanese and putonghua/guoyu ?	NULL	S09/data/set5/a7	NULL
+Refer most chinese and chinese linguists to chinese as a single language and Chinese language`s subdivisions dialects , while others call chinese a language family ?	NULL	S09/data/set5/a7	NULL
+Are there between 7 and 13 main regional groups of Chinese , of which the most spoken , by far , is about 850 million , followed by 90 million , 70 million and 70 million ?	NULL	S09/data/set5/a7	NULL
+France signed the European Charter for what?	NULL	S09/data/set5/a5	NULL
+Are French and German not official languages nor recognised minority languages in the flemish region , although there are a dozen municipalities with language facilities for French-speakers ?	NULL	S09/data/set5/a5	NULL
+What was Italian language`s profession?	NULL	S09/data/set5/a9	NULL
+What is Italian language`s first name?	NULL	S09/data/set5/a9	NULL
+What is Italian language`s last name?	NULL	S09/data/set5/a9	NULL
+Are geminate plosives and affricates realised as lengthened closures?	NULL	S09/data/set5/a9	NULL
+Legge sulle fonti del diritto of what?	NULL	S09/data/set5/a9	NULL
+Italian retained the contrast between what?	NULL	S09/data/set5/a9	NULL
+Are the speakers who use italian as a second or cultural language estimated at around 110-120 million ?	NULL	S09/data/set5/a9	NULL
+Are front/back vowel rules for C and G similar in French , Romanian , Spanish , and to some extent English ?	NULL	S09/data/set5/a9	NULL
+So can Italian language hear "istÃ nbul " or "Ãstanbul" ?	NULL	S09/data/set5/a9	NULL
+Give dictionaries the latter as an alternative pronunciation ?	NULL	S09/data/set5/a9	NULL
+What was Japanese language`s profession?	NULL	S09/data/set5/a6	NULL
+What is Japanese language`s first name?	NULL	S09/data/set5/a6	NULL
+Japanese borrowed a considerable number of what?	NULL	S09/data/set5/a6	NULL
+I.e "yamato words ") , which in scholarly contexts is sometimes referred to as ( or rarely , i.e "yamato words " -rrb- , which in scholarly contexts is sometimes referred to as -lrb- or rarely , vp ? ?	NULL	S09/data/set5/a6	NULL
+Are japanese personal pronouns generally used only in situations requiring special emphasis as to who is doing what to whom ?	NULL	S09/data/set5/a6	NULL
+: give "please Japanese language to Mr ?	NULL	S09/data/set5/a6	NULL
+Thus , can polite korean speech sound very presumptuous when translated verbatim into Japanese , as in korean Japanese language is acceptable and normal to say things like "our Mr ?	NULL	S09/data/set5/a6	NULL
+Are countries without in red?	NULL	S09/data/set5/a8	NULL
+However, is English the official  language?	NULL	S09/data/set5/a8	NULL
+Are most Spanish  speakers in Latin America?	NULL	S09/data/set5/a8	NULL
+Are countries where is a regionalism in green?	NULL	S09/data/set5/a8	NULL
+The deeper  the blue  is, is the more  predominant?	NULL	S09/data/set5/a8	NULL
+Are these marked with an asterisk  ( *  )?	NULL	S09/data/set5/a8	NULL
+What kind of instrument is the spanish language?	NULL	S09/data/set5/a8	NULL
+What is an official language of the European Union?	NULL	S09/data/set5/a8	NULL
+Mexico contains the largest population of what?	NULL	S09/data/set5/a8	NULL
+Pasan en consecuencia , las palabras que comienzan por estas dos letras , o que las contienen , a alfabetizarse en los lugares que les corresponden dentro de la c y de la l , respectivamente ?	NULL	S09/data/set5/a8	NULL
+Allow the common features of the writing systems of the Romance languages for a greater amount of interlingual reading comprehension than oral communication would ?	NULL	S09/data/set5/a8	NULL
+What was Swahili language`s profession?	NULL	S09/data/set5/a4	NULL
+What is Swahili language`s last name?	NULL	S09/data/set5/a4	NULL
+What is Swahili language`s first name?	NULL	S09/data/set5/a4	NULL
+Swahili unusual?	NULL	S09/data/set5/a4	NULL
+What was the only good candidate in these two colonies?	NULL	S09/data/set5/a4	NULL
+Are there today more speakers in Kenya of the Somali coast?	NULL	S09/data/set5/a4	NULL
+The pronunciation of the phoneme / u / stands between what?	NULL	S09/data/set5/a4	NULL
+How do turtles chew food?	Turtles use their jaws to cut and chew food.	S09/data/set1/a4	Turtles use their jaws to cut and chew food.
