@@ -1,6 +1,5 @@
 import io
 from nltk.corpus import PlaintextCorpusReader
-import en
 import sys
 import re
 import itertools
@@ -16,23 +15,6 @@ if len(sys.argv) > 2 and sys.argv[2] == '-d':
     debug = True
 
 #NLP Helpers
-
-PAST_TENSE = 0
-PAST_PARTICIPLE = 1
-PRESENT_TENSE = 2
-INFINITIVE = 3
-
-
-def get_conjugation(word,tense):
-    try:
-        return {
-            PAST_TENSE: en.verb.past(word),
-            PAST_PARTICIPLE: en.verb.past_participle(word),
-            PRESENT_TENSE: en.verb.present(word),
-            INFINITIVE: en.verb.infinitive(word)
-        }[tense]
-    except KeyError:
-        return None
 
 
 def append_spaced_words(word_list):
@@ -79,7 +61,7 @@ def get_ranked_similar(question, sentences, top):
         sim = jaccard_similarity(question, sentence)
         pairs.append([sentence,sim])
     s = sorted(pairs,key=lambda x:(-x[1]))
-    return s[top:]
+    return s[:top]
 
 def get_noun_indices(tokens):
     indices = []
@@ -102,57 +84,25 @@ def get_adjacent_nouns(doc):
             adjacent_nouns.append([tokens[indices[n1]],tokens[indices[n2]]])
     return adjacent_nouns
 
-
-
-
-
-            
-
-'''
-def first_named_entity_in_similar_sentences(question,sentences):
-    ranked_similar = get_ranked_similar(question,sentences,20)
-    for tuple in ranked_similar:
-        sentence = tuple[0]
-        chunks = sentence.ents
-        if len(chunks) > 0:
-            return chunks[0].text
-
-    return 'NULL'
-
-
-def first_match_in_similar_sentences(question,sentences,regex_str):
-    ranked_similar = get_ranked_similar(question,sentences)
-
-    regex = re.compile(regex_str)
-
-    for tuple in ranked_similar:
-        sentence = tuple[0]
-        match_list = regex.findall(sentence.text)
-        if len(match_list) > 0:
-            return match_list[0]
-
-    return 'NULL'
-
-'''
-
 stop_words = {u'and',u'or',u'the',u'as',u'but',u'a',u'of',u'by',u'to',u'in'}
 
 def get_word_set(sentence):
-
     s = set([word.lower_ for word in sentence])
     r = s - stop_words
     return r
 
 
-def jaccard_similarity(question, sentence):
-    q_word_set = get_word_set(question)
-    s_word_set = get_word_set(sentence)
+def jaccard_doc(doc1, doc2):
+    set1 = get_word_set(doc1)
+    set2 = get_word_set(doc2)
+    return jaccard_set(set1,set2)
 
-    intersection = q_word_set & s_word_set
 
-    union = q_word_set | s_word_set
-    sim = float(len(intersection)) / float(len(union))
-    return sim
+def jaccard_set(set1, set2):
+    intersection = set1 & set2
+    union = set1 | set2
+    return float(len(intersection)) / float(len(union))
+
 
 def add_doc_to_dictionary(docs, path):
     with io.open(path,encoding='latin-1') as f:

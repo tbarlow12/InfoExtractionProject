@@ -80,15 +80,15 @@ def answer_be(question,sentences):
         raw_input('Enter to continue')
 
 def answer_yes_no(question,sentences):
-    
+
     question_tokens = list(question)
     q_first = question_tokens[0]
     if q_first.lemma_.lower() == 'be':
         return answer_be(question,sentences)
 
     for sentence in sentences:
-        
-        if h.jaccard_similarity(question,sentence) > .25:
+
+        if h.jaccard_doc(question,sentence) > .25:
             return 'yes'
     return 'no'
 

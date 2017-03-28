@@ -16,7 +16,7 @@ second_train = trainRoot + 'S09/'
 testRoot = root + 'test/'
 
 def write_answer_set(name, question_set, list_type):
-    with io.open('{}_{}.txt'.format(name,list_type),'w',encoding='utf-8') as f:
+    with io.open('debug/{}_{}.txt'.format(name,list_type),'w',encoding='utf-8') as f:
         for q in question_set:
             try:
                 s = u''.join(q[0] + u'\t' + q[1] + u'\t' + q[2] + u'\t' + q[3] + u'\n')
