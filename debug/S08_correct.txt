@@ -105,12 +105,11 @@ To whom was Millard Fillmore born to?	NULL	S08/data/set3/a3	NULL
 What did Taylor and Fillmore disagree upon?	NULL	S08/data/set3/a3	NULL
 	NULL	S08/data/set2/a7	NULL
 	NULL	S08/data/set2/a7	NULL
-Where did Orang Laut people live?	Several hundred indigenous Orang Laut people also lived around the coast, rivers and smaller islands.	S08/data/set2/a2	Several hundred indigenous Orang Laut people also lived around the coast, rivers and smaller islands.
 What is the MRT?	NULL	S08/data/set2/a2	NULL
-When did Goh Chok Tong succeed Lee as Prime Minister?	In 1990, Goh Chok Tong succeeded Lee as Prime Minister.	S08/data/set2/a2	In 1990, Goh Chok Tong succeeded Lee as Prime Minister.
 What is the primary domestic source of water supply?	NULL	S08/data/set2/a2	NULL
 What is the national language of Singapore?	NULL	S08/data/set2/a2	NULL
 Why are relations with Malaysia and Indonesia important?	Due to obvious geographical reasons, relations with Malaysia and Indonesia are most important.	S08/data/set2/a2	Due to obvious geographical reasons, relations with Malaysia and Indonesia are most important.
 What is the most densely populated independent country in the world?	NULL	S08/data/set2/a2	NULL
 What is the punishment for first-degree murder?	NULL	S08/data/set2/a2	NULL
+Who was Roosevelt's presidential hero?	Lincoln was Roosevelt's presidential hero.	S08/data/set3/a7	Lincoln was Roosevelt's presidential hero.
 Who founded Montevideo?	Montevideo was founded by the Spanish in the early 18th century as a military stronghold.	S08/data/set2/a9	Montevideo was founded by the Spanish in the early 18th century as a military stronghold.

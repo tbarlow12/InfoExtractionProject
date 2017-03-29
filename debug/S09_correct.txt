@@ -16,6 +16,7 @@ Refer most chinese and chinese linguists to chinese as a single language and Chi
 Are there between 7 and 13 main regional groups of Chinese , of which the most spoken , by far , is about 850 million , followed by 90 million , 70 million and 70 million ?	NULL	S09/data/set5/a7	NULL
 France signed the European Charter for what?	NULL	S09/data/set5/a5	NULL
 Are French and German not official languages nor recognised minority languages in the flemish region , although there are a dozen municipalities with language facilities for French-speakers ?	NULL	S09/data/set5/a5	NULL
+Did Newton reject the church's doctrine of the Trinity?	Newton may have rejected the church's doctrine of the Trinity.	S09/data/set4/a1	Newton may have rejected the church's doctrine of the Trinity.
 What was Italian language`s profession?	NULL	S09/data/set5/a9	NULL
 What is Italian language`s first name?	NULL	S09/data/set5/a9	NULL
 What is Italian language`s last name?	NULL	S09/data/set5/a9	NULL

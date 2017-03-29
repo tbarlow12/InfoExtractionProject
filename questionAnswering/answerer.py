@@ -1,6 +1,8 @@
 from helpers import helpers as h
 import sys
 import spacy
+import pdb
+
 
 nlp = spacy.load('en')
 
@@ -77,11 +79,10 @@ def answer_be(question,sentences):
     for sentence in sentences:
         print 'sentence'
         print h.get_adjacent_nouns(sentence)
-        raw_input('Enter to continue')
 
 def answer_yes_no(question,sentences):
-    return h.get_top_similar(question,sentences,1)[0][0].text
-
+    result = h.get_top_similar(question,sentences,1)[0][0].text
+    return result
 
 def answer_date(question, sentences):
     return h.get_top_similar(question,sentences,1)[0][0].text

@@ -40,6 +40,7 @@ def get_key(path):
 def clean_content(strContent):
     s = strContent.replace('[','')
     s = s.replace(']','')
+    s = s.replace('  ',' ')
     return s
 
 
@@ -52,25 +53,31 @@ def get_decoded(string):
 
 
 #Algorithm helpers
+def contains_verb(doc,verb):
+    tokens = list(doc)
+    for token in tokens:
+        if token.pos_ == 'VERB' and token.lemma_ == verb:
+            return True
+
+
 
 def get_root_verb(doc):
     for np in doc.noun_chunks:
-        pdb.set_trace()
         if np.root.head.pos_ == 'VERB':
-            return np.root.head.text
-
+            return np.root.head.lemma_
     return None
 
 def get_top_similar(question, sentences, top):
     pairs = []
-    print question
     verb = get_root_verb(question)
-    for i in range(0,len(sentences)):
-        sentence = sentences[i]
-        sim = jaccard_doc(question, sentence)
+    for sentence in sentences:
+        if contains_verb(sentence, verb):
+            sim = jaccard_doc(question, sentence)
+        else:
+            sim = 0
         pairs.append([sentence,sim])
-    s = sorted(pairs,key=lambda x:(-x[1]))
-    return s[:top]
+    pairs = sorted(pairs,key=lambda x:(-x[1]))
+    return pairs[:top]
 
 def get_noun_indices(tokens):
     return get_pos_indices(tokens,{'NOUN','PROPN'})
@@ -134,7 +141,7 @@ def add_doc_to_dictionary(docs, path):
         content = lines[1:]
         str_content = u''
         for line in content:
-            str_content += line
+            str_content += line + u' '
         key = get_key(path)
         docs[key] = [nlp(sent.text) for sent in nlp(clean_content(str_content)).sents]
 
