@@ -89,6 +89,7 @@ def answer_be(question,sentences):
         print h.get_adjacent_nouns(sentence)
 
 def answer_yes_no(question,sentences):
+    adjacent_nouns = h.get_adjacent_nouns(question)
     result = h.get_top_similar(question,sentences,1)[0][0].text
     return result
 

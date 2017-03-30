@@ -1,0 +1,102 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+INFINITIVE	../questionAnswering/answerer.py	/^INFINITIVE = 3$/;"	kind:variable	line:26
+PAST_PARTICIPLE	../questionAnswering/answerer.py	/^PAST_PARTICIPLE = 1$/;"	kind:variable	line:24
+PAST_TENSE	../questionAnswering/answerer.py	/^PAST_TENSE = 0$/;"	kind:variable	line:23
+PRESENT_TENSE	../questionAnswering/answerer.py	/^PRESENT_TENSE = 2$/;"	kind:variable	line:25
+PlaintextCorpusReader	../helpers/helpers.py	/^from nltk.corpus import PlaintextCorpusReader$/;"	kind:namespace	line:2
+__init__	../questionAnswering/answerer.py	/^    def __init__(self,docRoot):$/;"	kind:member	line:156
+__init__.py	../helpers/__init__.py	1;"	kind:file	line:1
+__init__.py	../questionAnswering/__init__.py	1;"	kind:file	line:1
+addDocsToDictionary	../helpers/helpers.py	/^def addDocsToDictionary(docs,root):$/;"	kind:function	line:172
+add_doc_to_dictionary	../helpers/helpers.py	/^def add_doc_to_dictionary(docs, path):$/;"	kind:function	line:159
+answerQuestion	../questionAnswering/answerer.py	/^    def answerQuestion(self,question,path):$/;"	kind:member	line:148
+answer_be	../questionAnswering/answerer.py	/^def answer_be(question,sentences):$/;"	kind:function	line:84
+answer_date	../questionAnswering/answerer.py	/^def answer_date(question, sentences):$/;"	kind:function	line:95
+answer_how	../questionAnswering/answerer.py	/^def answer_how(question, sentences):$/;"	kind:function	line:119
+answer_location	../questionAnswering/answerer.py	/^def answer_location(question, sentences):$/;"	kind:function	line:107
+answer_person	../questionAnswering/answerer.py	/^def answer_person(question, sentences):$/;"	kind:function	line:101
+answer_reason	../questionAnswering/answerer.py	/^def answer_reason(question, sentences):$/;"	kind:function	line:113
+answer_yes_no	../questionAnswering/answerer.py	/^def answer_yes_no(question,sentences):$/;"	kind:function	line:91
+answerer	../questionAnswering/answerer.py	/^class answerer(object):$/;"	kind:class	line:144
+answerer.py	../questionAnswering/answerer.py	1;"	kind:file	line:1
+append_spaced_words	../helpers/helpers.py	/^def append_spaced_words(word_list):$/;"	kind:function	line:19
+classify_question	../questionAnswering/answerer.py	/^def classify_question(question):$/;"	kind:function	line:66
+clean_content	../helpers/helpers.py	/^def clean_content(strContent):$/;"	kind:function	line:40
+contained_in_document	../questionAnswering/answerer.py	/^def contained_in_document(rest_of_sentence,text):$/;"	kind:function	line:40
+contains_verb	../helpers/helpers.py	/^def contains_verb(doc,verb):$/;"	kind:function	line:59
+date_type	../questionAnswering/answerer.py	/^date_type = 2$/;"	kind:variable	line:16
+date_words	../questionAnswering/answerer.py	/^date_words = {'when'}$/;"	kind:variable	line:31
+debug	../helpers/helpers.py	/^    debug = True$/;"	kind:variable	line:14
+debug	../helpers/helpers.py	/^debug = False$/;"	kind:variable	line:11
+debug	../questionAnswering/answerer.py	/^    debug = True$/;"	kind:variable	line:12
+debug	../questionAnswering/answerer.py	/^debug = False$/;"	kind:variable	line:9
+debug	../test.py	/^    debug = True$/;"	kind:variable	line:10
+debug	../test.py	/^debug = False$/;"	kind:variable	line:7
+docs	../questionAnswering/answerer.py	/^    docs = {}$/;"	kind:variable	line:145
+find	../helpers/helpers.py	/^def find(s, ch):$/;"	kind:function	line:32
+find_answer	../questionAnswering/answerer.py	/^def find_answer(question, sentences):$/;"	kind:function	line:125
+first_train	../test.py	/^first_train = trainRoot + 'S08\/'$/;"	kind:variable	line:14
+getAnswerSet	../helpers/helpers.py	/^def getAnswerSet(root):$/;"	kind:function	line:28
+get_adjacent_nouns	../helpers/helpers.py	/^def get_adjacent_nouns(doc):$/;"	kind:function	line:132
+get_decoded	../helpers/helpers.py	/^def get_decoded(string):$/;"	kind:function	line:51
+get_encoded	../helpers/helpers.py	/^def get_encoded(string):$/;"	kind:function	line:47
+get_head_noun_indices	../helpers/helpers.py	/^def get_head_noun_indices(tokens):$/;"	kind:function	line:103
+get_key	../helpers/helpers.py	/^def get_key(path):$/;"	kind:function	line:35
+get_noun_indices	../helpers/helpers.py	/^def get_noun_indices(tokens):$/;"	kind:function	line:100
+get_noun_set	../helpers/helpers.py	/^def get_noun_set(doc):$/;"	kind:function	line:124
+get_pos_indices	../helpers/helpers.py	/^def get_pos_indices(tokens,tags):$/;"	kind:function	line:116
+get_root_verb	../helpers/helpers.py	/^def get_root_verb(doc):$/;"	kind:function	line:82
+get_sentence_match	../questionAnswering/answerer.py	/^def get_sentence_match(question, sentences):$/;"	kind:function	line:77
+get_top_similar	../helpers/helpers.py	/^def get_top_similar(question, sentences, top):$/;"	kind:function	line:88
+get_word_set	../helpers/helpers.py	/^def get_word_set(sentence):$/;"	kind:function	line:139
+h	../questionAnswering/answerer.py	/^from helpers import helpers as h$/;"	kind:namespace	line:1
+h	../test.py	/^from helpers import helpers as h$/;"	kind:namespace	line:5
+helpers.py	../helpers/helpers.py	1;"	kind:file	line:1
+how_type	../questionAnswering/answerer.py	/^how_type = 6$/;"	kind:variable	line:20
+how_words	../questionAnswering/answerer.py	/^how_words = {'how'}$/;"	kind:variable	line:35
+io	../helpers/helpers.py	/^import io$/;"	kind:namespace	line:1
+io	../test.py	/^import io$/;"	kind:namespace	line:2
+itertools	../helpers/helpers.py	/^import itertools$/;"	kind:namespace	line:5
+jaccard_doc	../helpers/helpers.py	/^def jaccard_doc(doc1, doc2):$/;"	kind:function	line:145
+jaccard_set	../helpers/helpers.py	/^def jaccard_set(set1, set2):$/;"	kind:function	line:151
+location_type	../questionAnswering/answerer.py	/^location_type = 4$/;"	kind:variable	line:18
+location_words	../questionAnswering/answerer.py	/^location_words = {'where'}$/;"	kind:variable	line:33
+longest_match	../helpers/helpers.py	/^def longest_match(doc1, doc2):$/;"	kind:function	line:65
+main	../test.py	/^def main():$/;"	kind:function	line:103
+nlp	../helpers/helpers.py	/^nlp = spacy.load('en')$/;"	kind:variable	line:9
+nlp	../questionAnswering/answerer.py	/^nlp = spacy.load('en')$/;"	kind:variable	line:7
+nlp_helpers.py	../helpers/nlp_helpers.py	1;"	kind:file	line:1
+no_type	../questionAnswering/answerer.py	/^no_type = 0$/;"	kind:variable	line:14
+parse_match	../questionAnswering/answerer.py	/^def parse_match(question, sentence):$/;"	kind:function	line:47
+pdb	../helpers/helpers.py	/^import pdb$/;"	kind:namespace	line:7
+pdb	../questionAnswering/answerer.py	/^import pdb$/;"	kind:namespace	line:4
+person_type	../questionAnswering/answerer.py	/^person_type = 3$/;"	kind:variable	line:17
+person_words	../questionAnswering/answerer.py	/^person_words = {'who'}$/;"	kind:variable	line:32
+q_type_words	../questionAnswering/answerer.py	/^q_type_words = [yes_no_words,date_words,person_words,location_words,reason_words,how_words]$/;"	kind:variable	line:37
+qa	../test.py	/^from questionAnswering import answerer as qa$/;"	kind:namespace	line:4
+re	../helpers/helpers.py	/^import re$/;"	kind:namespace	line:4
+reason_type	../questionAnswering/answerer.py	/^reason_type = 5$/;"	kind:variable	line:19
+reason_words	../questionAnswering/answerer.py	/^reason_words = {'why'}$/;"	kind:variable	line:34
+root	../test.py	/^root = 'datasets\/'$/;"	kind:variable	line:12
+second_train	../test.py	/^second_train = trainRoot + 'S09\/'$/;"	kind:variable	line:15
+spacy	../helpers/helpers.py	/^import spacy$/;"	kind:namespace	line:6
+spacy	../questionAnswering/answerer.py	/^import spacy$/;"	kind:namespace	line:3
+stop_words	../helpers/helpers.py	/^stop_words = {u'and',u'or',u'the',u'as',u'but',u'a',u'of',u'by',u'to',u'in'}$/;"	kind:variable	line:137
+sys	../helpers/helpers.py	/^import sys$/;"	kind:namespace	line:3
+sys	../questionAnswering/answerer.py	/^import sys$/;"	kind:namespace	line:2
+sys	../test.py	/^import sys$/;"	kind:namespace	line:3
+test.py	../test.py	1;"	kind:file	line:1
+testAnswerer	../test.py	/^def testAnswerer(answerer, setRoot, debug):$/;"	kind:function	line:28
+testRoot	../test.py	/^testRoot = root + 'test\/'$/;"	kind:variable	line:16
+test_data	../test.py	/^def test_data():$/;"	kind:function	line:96
+test_missed	../test.py	/^def test_missed():$/;"	kind:function	line:54
+test_training_data	../test.py	/^def test_training_data():$/;"	kind:function	line:88
+trainRoot	../test.py	/^trainRoot = root + 'train\/'$/;"	kind:variable	line:13
+write_answer_set	../test.py	/^def write_answer_set(name, question_set, list_type):$/;"	kind:function	line:18
+yes_no_type	../questionAnswering/answerer.py	/^yes_no_type = 1$/;"	kind:variable	line:15
+yes_no_words	../questionAnswering/answerer.py	/^yes_no_words = {'do','does','did','was','can','will','has',$/;"	kind:variable	line:29

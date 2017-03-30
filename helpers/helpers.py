@@ -58,9 +58,15 @@ def get_decoded(string):
 
 def contains_verb(doc,verb):
     tokens = list(doc)
+    pdb.set_trace()
+    similar = most_similar(nlp.vocab[verb])
     for token in tokens:
         if token.pos_ == 'VERB' and token.lemma_ == verb:
             return True
+
+def most_similar(word):
+    by_similarity = sorted(word.vocab, key=lambda w: word.similarity(w), reverse=True)
+    return [w.orth_ for w in by_similarity[:10]]
 
 def longest_match(doc1, doc2):
     tokens1 = list(doc1)
@@ -100,6 +106,28 @@ def get_top_similar(question, sentences, top):
 def get_noun_indices(tokens):
     return get_pos_indices(tokens,{'NOUN','PROPN'})
 
+def get_head_noun_indices(tokens):
+    head_noun_indices = []
+    indices = get_noun_indices(tokens)
+    i = 0
+    while i < len(indices):
+        while (i < len(indices) - 1) and ((indices[i+1] - indices[i]) == 1):
+            i += 1
+        head_noun_indices.append(indices[i])
+        i += 1
+    return head_noun_indices
+    
+    
+    for i in range(0,len(indices)-1):
+        if (indices[i+1] - indices[i]) > 1:
+            n1 = i
+            n2 = i + 1
+            while (n2 < len(indices)-1) and ((indices[n2+1] - indices[n2]) == 1):
+                n2 += 1
+            adjacent_nouns.append([tokens[indices[n1]],tokens[indices[n2]]])
+            head_noun_indices.append([indices[n1],indices[n2]])
+    return head_noun_indices
+
 def get_pos_indices(tokens,tags):
     indices = []
     for i in range(0,len(tokens)):
@@ -110,7 +138,7 @@ def get_pos_indices(tokens,tags):
 
 def get_noun_set(doc):
     tokens = list(doc)
-    noun_idx = get_noun_indices(tokens)
+    noun_idx = get_head_noun_indices(tokens)
     nouns = set()
     for index in noun_idx:
         nouns.add(tokens[index].lower_)
@@ -119,14 +147,9 @@ def get_noun_set(doc):
 def get_adjacent_nouns(doc):
     adjacent_nouns = []
     tokens = list(doc)
-    indices = get_noun_indices(doc)
+    indices = get_head_noun_indices(tokens)
     for i in range(0,len(indices)-1):
-        if (indices[i+1] - indices[i]) > 1:
-            n1 = i
-            n2 = i + 1
-            while (n2 < len(indices)-1) and ((indices[n2+1] - indices[n2]) == 1):
-                n2 += 1
-            adjacent_nouns.append([tokens[indices[n1]],tokens[indices[n2]]])
+        adjacent_nouns.append([tokens[indices[i]],tokens[indices[i+1]]])
     return adjacent_nouns
 
 stop_words = {u'and',u'or',u'the',u'as',u'but',u'a',u'of',u'by',u'to',u'in'}
