@@ -1,8 +1,10 @@
 print 'Importing modules'
 import io
 import sys
+import string
 from questionAnswering import answerer as qa
 from helpers import helpers as h
+import pdb
 
 debug = False
 
@@ -23,6 +25,11 @@ def write_answer_set(name, question_set, list_type):
                 f.write(s)
             except UnicodeDecodeError:
                 print 'Could not decode'
+exclude = set(string.punctuation)
+def normalize(s):
+    s = s.lower()
+    s = ''.join(ch for ch in s if ch not in exclude)
+    return s
 
 
 def testAnswerer(answerer, setRoot, debug):
@@ -41,7 +48,7 @@ def testAnswerer(answerer, setRoot, debug):
             answerDiff = u''.join(item[4])
             articleFile = u''.join(setRoot[-3:]) + u'/' + u''.join(item[5])
             actual_answer = answerer.answerQuestion(question,articleFile)
-            if actual_answer.lower() == expected_answer.lower():
+            if normalize(actual_answer) == normalize(expected_answer):
                 correct += 1
                 right_questions.append([question,expected_answer,articleFile,actual_answer])
             else:

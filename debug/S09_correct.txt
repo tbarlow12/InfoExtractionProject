@@ -1,8 +1,45 @@
+Where did Volta enter retirement?	Spain	S09/data/set4/a10	Spain
+Where did Volta enter retirement?	Spain	S09/data/set4/a10	Spain
+Was Lombardy under Napoleon's rule in 1800?	yes	S09/data/set4/a10	yes
+Was Lombardy under Napoleon's rule in 1800?	yes	S09/data/set4/a10	yes
+Did Alessandro Volta live to be 80 years old?	no	S09/data/set4/a10	no
+Is the electrolyte sulphuric acid?	Yes	S09/data/set4/a10	yes
+Is volta buried in the city  of Como?	Yes	S09/data/set4/a10	yes
+Was his 1800  paper written in French?	Yes	S09/data/set4/a10	yes
+Did he receive the Society`s 1794 Copley Medal?	Yes	S09/data/set4/a10	yes
+Did he become professor of experimental physics at the University of Pavia?	Yes	S09/data/set4/a10	yes
+Did Avogadro live in England?	No	S09/data/set4/a8	no
+Was Amedeo Avogadro born in North America?	no	S09/data/set4/a8	no
+Was King Victor  Emmanuel  III there to pay  homage  to Avogadro?	Yes	S09/data/set4/a8	yes
+Is avogadro `s  number commonly used to compute  the results  of chemical reactions?	Yes	S09/data/set4/a8	yes
+Can the title of this famous 1811 paper be roughly translated into English as "essay on determining the Relative Masses of the Elementary Molecules of Bodies" ?	Yes.	S09/data/set4/a8	yes
+Is The Celsius  crater  on the Moon named after him?	yes	S09/data/set4/a5	yes
+Was Anders Celsius  ( November 27 ,  1701  April 25 ,  1744  ) a Swedish  astronomer?	yes	S09/data/set4/a5	yes
+Was Anders Celsius the first  to perform  and  publish  careful experiments  aiming at the definition  of an international  temperature  scale  on scientific grounds?	yes	S09/data/set4/a5	yes
+Was he professor at Uppsala University?	yes	S09/data/set4/a5	yes
 Pronouns in which location are marked for person , number and gender?	NULL	S09/data/set5/a3	NULL
+Have many European languages borrowed numerous words from it?	yes	S09/data/set5/a3	yes
+Have managed populations of European honey bees experienced substantial declines?	yes	S09/data/set1/a8	yes
+Was Blaise Pascal a mathematician of the first order?	yes	S09/data/set4/a4	yes
+Was Blaise Pascal a mathematician of the first order?	yes	S09/data/set4/a4	yes
+Could Blaise Pascal move without crutches?	no	S09/data/set4/a4	no
+Has the name Pascal been given to the SI unit of pressure?	yes	S09/data/set4/a4	yes
+Has the name Pascal been given to the SI unit of pressure?	yes	S09/data/set4/a4	yes
+When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?	1789	S09/data/set4/a6	1789
+Did Charles-Augustin de Coulomb live to be 80 years old?	no	S09/data/set4/a6	no
+Was The SI  unit  of charge , the  coulomb , named after him?	yes	S09/data/set4/a6	yes
+Was coulomb born in AngoulÃªme,  France ,  to a well  to do  family?	yes	S09/data/set4/a6	yes
+Was his father ,  Henri  Coulomb , inspector of the Royal  Fields  in Montpellier?	Yes	S09/data/set4/a6	yes
+Is coulomb distinguished in the history  of mechanics  and  of electricity and  magnetism?	yes	S09/data/set4/a6	yes
+Was Charles Augustin  de Coulomb  ( born  June  14 ,  1736 ,  AngoulÃªme ,  France  -  died August 23 ,  1806 ,  Paris ,  France  ) a French  physicist?	yes	S09/data/set4/a6	yes
+When was Charles-Augustin de Coulomb born?	June 14, 1736	S09/data/set4/a6	June 14, 1736
+Was Coulomb born in AngoulÃªme, France, to a well to do family?	yes	S09/data/set4/a6	yes
+Was his father inspector of the Royal Fields?	yes	S09/data/set4/a6	yes
 What was Chinese language`s profession?	NULL	S09/data/set5/a7	NULL
 What is Chinese language`s first name?	NULL	S09/data/set5/a7	NULL
 What is Chinese language`s last name?	NULL	S09/data/set5/a7	NULL
 The Mandarin dialects in which location have experienced a dramatic decrease in sounds and so have far more multisyllabic words than most other spoken varieties?	NULL	S09/data/set5/a7	NULL
+Was Old Chinese wholly uninflected?	no	S09/data/set5/a7	no
 In North Korea, has Hanja been discontinued?	NULL	S09/data/set5/a7	NULL
 The most  widespread is the Palladius  system?	NULL	S09/data/set5/a7	NULL
 What is the population of Chinese language?	NULL	S09/data/set5/a7	NULL
@@ -14,13 +51,53 @@ Are most chinese words formed out of native chinese morphemes , including words 
 May a native of Guangzhou speak Standard Cantonese and putonghua , a resident of Taiwan , both taiwanese and putonghua/guoyu ?	NULL	S09/data/set5/a7	NULL
 Refer most chinese and chinese linguists to chinese as a single language and Chinese language`s subdivisions dialects , while others call chinese a language family ?	NULL	S09/data/set5/a7	NULL
 Are there between 7 and 13 main regional groups of Chinese , of which the most spoken , by far , is about 850 million , followed by 90 million , 70 million and 70 million ?	NULL	S09/data/set5/a7	NULL
+Is Copenhagen completely surrounded with water? 	No	S09/data/set3/a8	no
+Can the origins of cymbals be traced to prehistoric times?	Yes	S09/data/set2/a6	yes
+Can the origins of cymbals be traced to prehistoric times?	Yes	S09/data/set2/a6	yes
+Can the origins of cymbals be traced back to prehistoric times?	yes	S09/data/set2/a6	yes
+Can the origins of cymbals be traced back to prehistoric times?	Yes	S09/data/set2/a6	yes
+Is the word cymbal derived from a Germanic word?	No	S09/data/set2/a6	no
+Is the word cymbal derived from a Germanic word?	No	S09/data/set2/a6	no
+Is Dhaka the capital of Bangladesh?	Yes	S09/data/set3/a3	yes
+Is Dhaka located on the eastern banks of the Buriganga River?	Yes	S09/data/set3/a3	yes
+Is University of Dhaka older than the Dhaka College?	No	S09/data/set3/a3	no
+Is english an intonation  language?	Yes	S09/data/set5/a1	yes
+Is the stressed  syllable called the nuclear  syllable?	yes	S09/data/set5/a1	yes
+Is the flute a musical instrument?	Yes.	S09/data/set2/a5	yes
+Is the flute a musical instrument?	Yes	S09/data/set2/a5	yes
+Is it possible to open flutes at one or both ends?	Yes.	S09/data/set2/a5	yes
+Is it possible to open flutes at one or both ends?	Yes	S09/data/set2/a5	yes
+When was a three-holed flute made from a mammoth tusk discovered?	2004.	S09/data/set2/a5	2004
+Do foxes damage fruit on farms?	No	S09/data/set1/a6	no
+Is catalan the only  official  language  of Andorra?	Yes	S09/data/set5/a5	yes
+Is french taught in many schools as a primary language along with Arabic?	Yes	S09/data/set5/a5	yes
 France signed the European Charter for what?	NULL	S09/data/set5/a5	NULL
 Are French and German not official languages nor recognised minority languages in the flemish region , although there are a dozen municipalities with language facilities for French-speakers ?	NULL	S09/data/set5/a5	NULL
-Did Newton reject the church's doctrine of the Trinity?	Newton may have rejected the church's doctrine of the Trinity.	S09/data/set4/a1	Newton may have rejected the church's doctrine of the Trinity.
+Is german an inflected  language?	yes	S09/data/set5/a2	yes
+Is 9 %  of the Internet  population German?	no	S09/data/set5/a2	no
+Is german written using the Latin  alphabet?	Yes	S09/data/set5/a2	yes
+Was the Luther Bible by Martin Luther printed?	Yes	S09/data/set5/a2	yes
+Have adverbs of time to appear in the third place in the sentence , just after the predicate ?	Yes	S09/data/set5/a2	yes
+Do both sexes of giraffe have horns?	Yes	S09/data/set1/a5	yes
+Do both sexes of giraffe have horns?	yes	S09/data/set1/a5	yes
+Is the SI unit for radioactivity named after him?	Yes	S09/data/set4/a9	yes
+Is the SI unit for radioactivity named after him?	Yes	S09/data/set4/a9	yes
+Where was Henri Becquerel born?	Paris	S09/data/set4/a9	Paris
+Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?	No	S09/data/set4/a9	no
+Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?	No	S09/data/set4/a9	no
+Was Henri Becquerel the sole winner of the 1903 Nobel Prize in Physics?	No	S09/data/set4/a9	no
+Was Henri Becquerel the sole winner of the 1903 Nobel Prize in Physics?	No	S09/data/set4/a9	no
+Did Henri Becquerel intentionally discover radioactivity?	No	S09/data/set4/a9	no
+Did Henri Becquerel live to be 80 years old?	no	S09/data/set4/a9	no
+When was Henri Becquerel born?	December 15, 1852	S09/data/set4/a9	December 15, 1852
+Did he become chief engineer in the Department of Bridges and Highways?	Yes	S09/data/set4/a9	yes
+Is there a Becquerel crater on the Moon for radioactivity?	Yes	S09/data/set4/a9	yes
+Was Newton admitted into Havard College?	No.	S09/data/set4/a1	no
 What was Italian language`s profession?	NULL	S09/data/set5/a9	NULL
 What is Italian language`s first name?	NULL	S09/data/set5/a9	NULL
 What is Italian language`s last name?	NULL	S09/data/set5/a9	NULL
 Are geminate plosives and affricates realised as lengthened closures?	NULL	S09/data/set5/a9	NULL
+Where is this letter silent?	NULL	S09/data/set5/a9	NULL
 Legge sulle fonti del diritto of what?	NULL	S09/data/set5/a9	NULL
 Italian retained the contrast between what?	NULL	S09/data/set5/a9	NULL
 Are the speakers who use italian as a second or cultural language estimated at around 110-120 million ?	NULL	S09/data/set5/a9	NULL
@@ -29,11 +106,45 @@ So can Italian language hear "istÃ nbul " or "Ãstanbul" ?	NULL	S09/data/set
 Give dictionaries the latter as an alternative pronunciation ?	NULL	S09/data/set5/a9	NULL
 What was Japanese language`s profession?	NULL	S09/data/set5/a6	NULL
 What is Japanese language`s first name?	NULL	S09/data/set5/a6	NULL
+Where are the circumstances complicated?	NULL	S09/data/set5/a6	NULL
+Do most Japanese people employ politeness?	yes	S09/data/set5/a6	yes
 Japanese borrowed a considerable number of what?	NULL	S09/data/set5/a6	NULL
 I.e "yamato words ") , which in scholarly contexts is sometimes referred to as ( or rarely , i.e "yamato words " -rrb- , which in scholarly contexts is sometimes referred to as -lrb- or rarely , vp ? ?	NULL	S09/data/set5/a6	NULL
 Are japanese personal pronouns generally used only in situations requiring special emphasis as to who is doing what to whom ?	NULL	S09/data/set5/a6	NULL
 : give "please Japanese language to Mr ?	NULL	S09/data/set5/a6	NULL
 Thus , can polite korean speech sound very presumptuous when translated verbatim into Japanese , as in korean Japanese language is acceptable and normal to say things like "our Mr ?	NULL	S09/data/set5/a6	NULL
+Is Lima the capital of Peru?	Yes.	S09/data/set3/a4	yes
+Has the San Lorenzo Megaport Project been completed?	No.	S09/data/set3/a4	no
+Is rainfall very low?	Yes.	S09/data/set3/a4	yes
+Is lima the capital  and  largest  city  of Peru?	Yes.	S09/data/set3/a4	yes
+Is London the capital of the United Kingdom?	Yes	S09/data/set3/a1	yes
+Is London the capital of the United Kingdom?	Yes	S09/data/set3/a1	yes
+Did Caunte take control of the English throne in 101?	No	S09/data/set3/a1	no
+Does a classical lyre have a sound-chest?	Yes	S09/data/set2/a10	yes
+Is lyre played in mordern Greece?	No	S09/data/set2/a10	no
+Is a guitar played with a plectrum like a lyre?	Yes	S09/data/set2/a10	yes
+Was Faraday a devout Christian?	yes	S09/data/set4/a7	yes
+Was Faraday a devout Christian?	yes	S09/data/set4/a7	yes
+Did Faraday construct the ancestor of modern power generators?	yes	S09/data/set4/a7	yes
+Did Faraday construct the ancestor of modern power generators?	yes	S09/data/set4/a7	yes
+Did Faraday receive an extensive formal education?	no	S09/data/set4/a7	no
+Did Faraday receive an extensive formal education?	no	S09/data/set4/a7	no
+Was education another area  of service  for Faraday?	yes	S09/data/set4/a7	yes
+Who was born in Newington Butts, near present-day South London, England?	Michael Faraday	S09/data/set4/a7	Michael Faraday
+Is it true that institution formed the foundation of electric motor technology?	no	S09/data/set4/a7	no
+Was his father member of the Sandemanian sect?	yes	S09/data/set4/a7	yes
+Was faraday Christian of the small Sandemanian denomination?	yes	S09/data/set4/a7	yes
+Is Nassau Sound a body of water in Maine?	no	S09/data/set3/a2	no
+Is Nassau Range the highest mountain range in the world?	no	S09/data/set3/a2	no
+Was Tesla born in the United States?	No	S09/data/set4/a3	no
+Was Tesla born in the United States?	no	S09/data/set4/a3	no
+Is Ottawa the capital of Canada?	Yes	S09/data/set3/a5	yes
+Is Ottawa on a river?	yes	S09/data/set3/a5	yes
+Is Ottawa on a river?	yes	S09/data/set3/a5	yes
+Who is the mayor of Ottawa?	Larry O'Brien	S09/data/set3/a5	Larry O'Brien
+Who is the mayor of Ottawa?	Larry O'Brien	S09/data/set3/a5	Larry O'Brien
+Is santiago Spanish for St. James  ( from santo ,  saint  +  iago ,  James  )?	Yes	S09/data/set3/a6	yes
+Is santiago Spanish for St. James?	Yes	S09/data/set3/a6	yes
 Are countries without in red?	NULL	S09/data/set5/a8	NULL
 However, is English the official  language?	NULL	S09/data/set5/a8	NULL
 Are most Spanish  speakers in Latin America?	NULL	S09/data/set5/a8	NULL
@@ -48,8 +159,22 @@ Allow the common features of the writing systems of the Romance languages for a 
 What was Swahili language`s profession?	NULL	S09/data/set5/a4	NULL
 What is Swahili language`s last name?	NULL	S09/data/set5/a4	NULL
 What is Swahili language`s first name?	NULL	S09/data/set5/a4	NULL
+Is a third  prefix the object  prefix?	Yes	S09/data/set5/a4	yes
 Swahili unusual?	NULL	S09/data/set5/a4	NULL
 What was the only good candidate in these two colonies?	NULL	S09/data/set5/a4	NULL
 Are there today more speakers in Kenya of the Somali coast?	NULL	S09/data/set5/a4	NULL
 The pronunciation of the phoneme / u / stands between what?	NULL	S09/data/set5/a4	NULL
-How do turtles chew food?	Turtles use their jaws to cut and chew food.	S09/data/set1/a4	Turtles use their jaws to cut and chew food.
+Is the Tiger a member of the Felidar family?	No.	S09/data/set1/a3	no
+Is the Tiger a member of the Felidar family?	No	S09/data/set1/a3	no
+Did the predecessors to trumpets have valves?	No	S09/data/set2/a3	no
+Is the bass trumpet the smallest trumpet?	No	S09/data/set2/a3	no
+Does a trumpet have a mellower tone than a cornet?	No	S09/data/set2/a3	no
+Do Terrestrial tortoises have short feet?	Yes.	S09/data/set1/a4	yes
+Do Terrestrial tortoises have short feet?	yes	S09/data/set1/a4	yes
+Is turtle soup considered a delicacy?	No.	S09/data/set1/a4	no
+Where is harvesting wild turtles legal?	Florida	S09/data/set1/a9	Florida
+Where is harvesting wild turtles legal?	Florida	S09/data/set1/a9	Florida
+Can turtles spend all their time underwater?	no	S09/data/set1/a9	no
+Can turtles spend all their time underwater?	No	S09/data/set1/a9	no
+Where did the xylophone originate?	Indonesia	S09/data/set2/a8	Indonesia
+Can a short bar follow a long bar?	no	S09/data/set2/a8	no

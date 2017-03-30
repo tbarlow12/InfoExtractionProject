@@ -80,67 +80,68 @@ def get_sentence_match(question, sentences):
     for sentence in top:
         length = h.longest_match(question, sentence)
 
-
-def answer_be(question,sentences):
-    adjacent_nouns = h.get_adjacent_nouns(question)
-    print adjacent_nouns
-    for sentence in sentences:
-        print 'sentence'
-        print h.get_adjacent_nouns(sentence)
-
 def answer_yes_no(question,sentences):
     adjacent_nouns = h.get_adjacent_nouns(question)
-    result = h.get_top_similar(question,sentences,1)[0][0].text
-    return result
+    result = h.get_top_similar(question,sentences,5)
+    if result[0][1] > .25:
+        return 'yes'
+    else:
+        return 'no'
 
 def answer_date(question, sentences):
-    return h.get_top_similar(question,sentences,1)[0][0].text
+    top = h.get_top_similar(question,sentences,5)
+    answer = h.get_first_entity_with_label(top,'DATE')
+    if answer is None:
+        return 'NULL'
+    return answer.text
 
-    #return 'DATE NOT IMPLEMENTED'
 
+#TODO Filter on contains data type(date, quantity, etc.)
 
 def answer_person(question, sentences):
-    return h.get_top_similar(question,sentences,1)[0][0].text
-
-    #return 'PERSON NOT IMPLEMENTED'
+    top = h.get_top_similar(question,sentences,5)
+    answer = h.get_first_entity_with_label(top,'PERSON')
+    if answer is None:
+        return 'NULL'
+    return answer.text
 
 
 def answer_location(question, sentences):
-    return h.get_top_similar(question,sentences,1)[0][0].text
-
-    #return 'LOCATION NOT IMPLEMENTED'
+    top = h.get_top_similar(question,sentences,5)
+    answer = h.get_first_entity_with_label(top,'GPE')
+    if answer is None:
+        return 'NULL'
+    return answer.text
 
 
 def answer_reason(question, sentences):
-    return h.get_top_similar(question,sentences,1)[0][0].text
+    return 'REASON: ' + h.get_top_similar(question,sentences,1)[0][0].text
 
     #return 'REASON NOT IMPLEMENTED'
 
 
 def answer_how(question, sentences):
-    return h.get_top_similar(question,sentences,1)[0][0].text
-
-    #return 'HOW NOT IMPLEMENTED'
+    return 'HOW: ' + h.get_top_similar(question,sentences,1)[0][0].text
 
 
 def find_answer(question, sentences):
     q_type = classify_question(question)
-
+    answer = 'NULL'
     if q_type == no_type:
         return 'NULL'
     if q_type == yes_no_type:
-        return answer_yes_no(question,sentences)
+        answer = answer_yes_no(question,sentences)
     if q_type == date_type:
-        return answer_date(question,sentences)
+        answer = answer_date(question,sentences)
     if q_type == person_type:
-        return answer_person(question,sentences)
+        answer = answer_person(question,sentences)
     if q_type == location_type:
-        return answer_location(question,sentences)
+        answer = answer_location(question,sentences)
     if q_type == reason_type:
-        return answer_reason(question,sentences)
+        answer = answer_reason(question,sentences)
     if q_type == how_type:
-        return answer_how(question,sentences)
-    return ''
+        answer = answer_how(question,sentences)
+    return answer
 
 class answerer(object):
     docs = {}

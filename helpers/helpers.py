@@ -54,19 +54,19 @@ def get_decoded(string):
 
 #Algorithm helpers
 
-#TODO Check for synonyms of verb https://github.com/explosion/spaCy/issues/276
+#Check for synonyms of verb????? https://github.com/explosion/spaCy/issues/276
 
 def contains_verb(doc,verb):
     tokens = list(doc)
-    pdb.set_trace()
-    similar = most_similar(nlp.vocab[verb])
     for token in tokens:
         if token.pos_ == 'VERB' and token.lemma_ == verb:
             return True
 
 def most_similar(word):
-    by_similarity = sorted(word.vocab, key=lambda w: word.similarity(w), reverse=True)
-    return [w.orth_ for w in by_similarity[:10]]
+    word = nlp.vocab[word]
+    queries = [w for w in word.vocab if w.is_lower == word.is_lower and w.prob >= -15]
+    by_similarity = sorted(queries, key=lambda w: word.similarity(w), reverse=True)
+    return by_similarity[:10]
 
 def longest_match(doc1, doc2):
     tokens1 = list(doc1)
@@ -106,6 +106,17 @@ def get_top_similar(question, sentences, top):
 def get_noun_indices(tokens):
     return get_pos_indices(tokens,{'NOUN','PROPN'})
 
+
+def get_first_entity_with_label(items,label):
+    for item in items:
+        doc = item[0]
+        for ent in doc.ents:
+            if ent.label_ == label:
+                return ent
+    return None
+
+
+
 def get_head_noun_indices(tokens):
     head_noun_indices = []
     indices = get_noun_indices(tokens)
@@ -138,7 +149,7 @@ def get_pos_indices(tokens,tags):
 
 def get_noun_set(doc):
     tokens = list(doc)
-    noun_idx = get_head_noun_indices(tokens)
+    noun_idx = get_noun_indices(tokens)
     nouns = set()
     for index in noun_idx:
         nouns.add(tokens[index].lower_)
