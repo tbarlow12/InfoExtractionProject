@@ -154,52 +154,38 @@ def get_pos_indices(tokens,tags):
 def get_question_phrase_index(tokens):
     t1 = tokens[0].lemma_
     t2 = tokens[1].lemma_
+    t3 = tokens[2].lemma_
+    if t1 == 'be':
+        return 0
+    if t1 == 'do':
+        return 0
     if t1 == 'who':
-        if t2 == 'do':
-            pass
-        if t2 == 'be':
-            pass
-        else:
-            pass
+        if t2 == 'do' or t2 == 'be':
+            return 1
+        return 0
     if t1 == 'what':
-        if t2 == 'do':
-            pass
-        if t2 == 'be':
-            pass
-        else:
-            pass
+        if t2 == 'do' or t2 == 'be':
+            return 1
+        return 0
     if t1 == 'where':
-        if t2 == 'do':
-            pass
-        if t2 == 'be':
-            pass
-        else:
-            pass
+        if t2 == 'do' or t2 == 'be':
+            return 1
+        return 0
     if t1 == 'when':
-        if t2 == 'do':
-            pass
-        if t2 == 'be':
-            pass
-        else:
-            pass
+        if t2 == 'do' or t2 == 'be':
+            return 1
+        return 0
     if t1 == 'why':
-        if t2 == 'do':
-            pass
-        if t2 == 'be':
-            pass
-        else:
-            pass
+        if t2 == 'do' or t2 == 'be':
+            return 1
+        return 0
     if t1 == 'how':
-        if t2 == 'do':
-            pass
-        if t2 == 'many':
-            pass
-        if t2 == 'long':
-            pass
-        if t2 == 'be':
-            pass
-        else:
-            pass
+        if t2 == 'do' or t2 == 'be' or t2 == 'many' or t2 == 'long':
+            if t3 == 'long':
+                return 2
+            return 1
+        return 0
+    return 0
 
 
 
@@ -208,10 +194,13 @@ def transform_question(question):
     question_phrase_index = get_question_phrase_index(question)
     first_head_noun_index = get_head_noun_indices(question)[0]
     if first_head_noun_index < len(tokens) - 1:
+        if question_phrase_index > 0:
+            question_phrase = tokens[0:question_phrase_index+1]
+        else:
+            question_phrase = [tokens[0]]
         result = [tokens[question_phrase_index+1:first_head_noun_index+1],
-                    tokens[0:question_phrase_index],
+                    question_phrase,
                     tokens[first_head_noun_index+1:]]
-        pdb.set_trace()
         return result
 
 

@@ -101,7 +101,9 @@ def answer_what(question, sentences):
 
 
 def find_answer(question, sentences):
-    #transformed = h.transform_question(question)
+    transformed = h.transform_question(question)
+    print transformed
+    pdb.set_trace()
     q_type = classify_question(question)
     answer = 'NULL'
     if q_type == no_type:
