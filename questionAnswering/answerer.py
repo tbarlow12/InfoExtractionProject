@@ -72,6 +72,14 @@ def classify_question(question):
                 return i + 1
     return 0
 
+#TODO Identify longest sentence match 
+
+def get_sentence_match(question, sentences):
+    top = h.get_top_similar(question,sentences,20)
+    sequence_length = 0
+    for sentence in top:
+        length = h.longest_match(question, sentence)
+
 
 def answer_be(question,sentences):
     adjacent_nouns = h.get_adjacent_nouns(question)

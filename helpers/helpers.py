@@ -53,13 +53,31 @@ def get_decoded(string):
 
 
 #Algorithm helpers
+
+#TODO Check for synonyms of verb https://github.com/explosion/spaCy/issues/276
+
 def contains_verb(doc,verb):
     tokens = list(doc)
     for token in tokens:
         if token.pos_ == 'VERB' and token.lemma_ == verb:
             return True
 
-
+def longest_match(doc1, doc2):
+    tokens1 = list(doc1)
+    tokens2 = list(doc2)
+    longest_match = 0
+    for i in range(0,len(tokens1)):
+        t1 = tokens1[i]
+        for j in range(0,len(tokens2)):
+            t2 = tokens2[j]
+            match_length = 0
+            while t1.lemma_ == t2.lemma_ and i < len(tokens1) and j < len(tokens2):
+                match_length += 1
+                i += 1
+                j += 1
+            if match_length > longest_match:
+                longest_match = match_length
+    return longest_match
 
 def get_root_verb(doc):
     for np in doc.noun_chunks:
