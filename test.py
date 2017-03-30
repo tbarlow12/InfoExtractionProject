@@ -32,6 +32,7 @@ def normalize(s):
     return s
 
 
+
 def testAnswerer(answerer, setRoot, debug):
     answerSet = h.getAnswerSet(setRoot)
     correct = 0
@@ -42,11 +43,11 @@ def testAnswerer(answerer, setRoot, debug):
         if len(item) == 6:
             asked += 1
             title = item[0]
-            question = u''.join(item[1])
-            expected_answer = u''.join(item[2])
-            questionDiff = u''.join(item[3])
-            answerDiff = u''.join(item[4])
-            articleFile = u''.join(setRoot[-3:]) + u'/' + u''.join(item[5])
+            question = item[1]
+            expected_answer = item[2]
+            questionDiff = item[3]
+            answerDiff = item[4]
+            articleFile = u''.join(setRoot[-3:]) + u'/' + item[5]
             actual_answer = answerer.answerQuestion(question,articleFile)
             if normalize(actual_answer) == normalize(expected_answer):
                 correct += 1

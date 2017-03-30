@@ -27,7 +27,7 @@ def append_spaced_words(word_list):
 
 def getAnswerSet(root):
     with io.open(root + '/question_answer_pairs.txt',encoding='latin-1') as f:
-        return [line.strip().split('\t') for line in f.readlines()[1:]]
+        return [(u''.join(line.strip())).split('\t') for line in f.readlines()[1:]]
 
 def find(s, ch):
     return [i for i, ltr in enumerate(s) if ltr == ch]
@@ -104,7 +104,10 @@ def get_top_similar(question, sentences, top):
     return pairs[:top]
 
 def get_noun_indices(tokens):
-    return get_pos_indices(tokens,{'NOUN','PROPN'})
+    result = get_pos_indices(tokens,{'NOUN','PROPN'})
+    if 0 in result:
+        return result[1:]
+    return result
 
 
 def get_first_entity_with_label(items,label):
@@ -127,8 +130,8 @@ def get_head_noun_indices(tokens):
         head_noun_indices.append(indices[i])
         i += 1
     return head_noun_indices
-    
-    
+
+
     for i in range(0,len(indices)-1):
         if (indices[i+1] - indices[i]) > 1:
             n1 = i
@@ -146,6 +149,71 @@ def get_pos_indices(tokens,tags):
         if token.pos_ in tags:
             indices.append(i)
     return indices
+
+
+def get_question_phrase_index(tokens):
+    t1 = tokens[0].lemma_
+    t2 = tokens[1].lemma_
+    if t1 == 'who':
+        if t2 == 'do':
+            pass
+        if t2 == 'be':
+            pass
+        else:
+            pass
+    if t1 == 'what':
+        if t2 == 'do':
+            pass
+        if t2 == 'be':
+            pass
+        else:
+            pass
+    if t1 == 'where':
+        if t2 == 'do':
+            pass
+        if t2 == 'be':
+            pass
+        else:
+            pass
+    if t1 == 'when':
+        if t2 == 'do':
+            pass
+        if t2 == 'be':
+            pass
+        else:
+            pass
+    if t1 == 'why':
+        if t2 == 'do':
+            pass
+        if t2 == 'be':
+            pass
+        else:
+            pass
+    if t1 == 'how':
+        if t2 == 'do':
+            pass
+        if t2 == 'many':
+            pass
+        if t2 == 'long':
+            pass
+        if t2 == 'be':
+            pass
+        else:
+            pass
+
+
+
+def transform_question(question):
+    tokens = list(question)
+    question_phrase_index = get_question_phrase_index(question)
+    first_head_noun_index = get_head_noun_indices(question)[0]
+    if first_head_noun_index < len(tokens) - 1:
+        result = [tokens[question_phrase_index+1:first_head_noun_index+1],
+                    tokens[0:question_phrase_index],
+                    tokens[first_head_noun_index+1:]]
+        pdb.set_trace()
+        return result
+
 
 def get_noun_set(doc):
     tokens = list(doc)

@@ -2,6 +2,7 @@ from helpers import helpers as h
 import sys
 import spacy
 import pdb
+import special_cases
 
 
 nlp = spacy.load('en')
@@ -18,12 +19,7 @@ person_type = 3
 location_type = 4
 reason_type = 5
 how_type = 6
-
-
-PAST_TENSE = 0
-PAST_PARTICIPLE = 1
-PRESENT_TENSE = 2
-INFINITIVE = 3
+thing_type = 8
 
 
 yes_no_words = {'do','does','did','was','can','will','has',
@@ -33,34 +29,10 @@ person_words = {'who'}
 location_words = {'where'}
 reason_words = {'why'}
 how_words = {'how'}
-
-q_type_words = [yes_no_words,date_words,person_words,location_words,reason_words,how_words]
-
-
-def contained_in_document(rest_of_sentence,text):
-    statement = h.append_spaced_words([w[0] for w in rest_of_sentence])
-    if statement in text:
-        return True
-    return False
+thing_words = {'what'}
 
 
-def parse_match(question, sentence):
-    question_parse = h.get_dependency_parse(question)
-    sentence_parse = h.get_dependency_parse(sentence)
-
-    question_root = question_parse[0]
-    sentence_root = sentence_parse[0]
-    if question_root._label.lower() == sentence_root._label.lower():
-        return True
-
-    return False
-
-#root = result[0]
-#root_verb = root._label
-#left = root[0]
-#right = root[1]
-
-
+q_type_words = [yes_no_words,date_words,person_words,location_words,reason_words,how_words,thing_words]
 
 
 def classify_question(question):
@@ -72,7 +44,7 @@ def classify_question(question):
                 return i + 1
     return 0
 
-#TODO Identify longest sentence match 
+#TODO Identify longest sentence match
 
 def get_sentence_match(question, sentences):
     top = h.get_top_similar(question,sentences,20)
@@ -117,14 +89,19 @@ def answer_location(question, sentences):
 def answer_reason(question, sentences):
     return 'REASON: ' + h.get_top_similar(question,sentences,1)[0][0].text
 
-    #return 'REASON NOT IMPLEMENTED'
-
 
 def answer_how(question, sentences):
     return 'HOW: ' + h.get_top_similar(question,sentences,1)[0][0].text
 
 
+def answer_what(question, sentences):
+    #transformed = h.transform_question(question)
+    pass
+
+
+
 def find_answer(question, sentences):
+    #transformed = h.transform_question(question)
     q_type = classify_question(question)
     answer = 'NULL'
     if q_type == no_type:
@@ -141,6 +118,8 @@ def find_answer(question, sentences):
         answer = answer_reason(question,sentences)
     if q_type == how_type:
         answer = answer_how(question,sentences)
+    if q_type == thing_type:
+        answer = answer_what(question,sentences)
     return answer
 
 class answerer(object):
