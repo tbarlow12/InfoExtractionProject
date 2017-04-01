@@ -99,11 +99,24 @@ def answer_what(question, sentences):
     pass
 
 
+def find_sentence(question,sentences):
+
+    transformed = h.transform_question(question)
+    exact = h.find_exact_match(transformed, sentences)
+
+    if exact is not None:
+        return exact
+
+    answer_type = h.get_answer_type(transformed)
+
 
 def find_answer(question, sentences):
-    transformed = h.transform_question(question)
-    print transformed
-    pdb.set_trace()
+
+    sentence = find_sentence(question, sentences)
+
+
+
+
     q_type = classify_question(question)
     answer = 'NULL'
     if q_type == no_type:

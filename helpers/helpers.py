@@ -150,6 +150,124 @@ def get_pos_indices(tokens,tags):
             indices.append(i)
     return indices
 
+def lemmatize(tokens):
+    return [t.lemma_ for t in tokens]
+
+
+def exact_match(left, question_phrase, right, s_lemmas):
+    for i in range(0,len(s_lemmas)):
+        j = 0
+        while right[j] == s_lemmas[i]:
+            if j == len(right) - 1:
+                return True
+            i += 1
+            j += 1
+    return False
+'''
+PERSON	People, including fictional.
+NORP	Nationalities or religious or political groups.
+FACILITY	Buildings, airports, highways, bridges, etc.
+ORG	Companies, agencies, institutions, etc.
+GPE	Countries, cities, states.
+LOC	Non-GPE locations, mountain ranges, bodies of water.
+PRODUCT	Objects, vehicles, foods, etc. (Not services.)
+EVENT	Named hurricanes, battles, wars, sports events, etc.
+WORK_OF_ART	Titles of books, songs, etc.
+LANGUAGE	Any named language.
+
+DATE	Absolute or relative dates or periods.
+TIME	Times smaller than a day.
+PERCENT	Percentage, including "%".
+MONEY	Monetary values, including unit.
+QUANTITY	Measurements, as of weight or distance.
+ORDINAL	"first", "second", etc.
+CARDINAL	Numerals that do not fall under another type.
+
+'''
+
+def get_answer_type(transformed):
+    question_phrase = transformed[1]
+
+    if len(question_phrase) > 0:
+        t1 = question_phrase[0]
+    else:
+        t1 = ''
+    if len(question_phrase) > 1:
+        t2 = question_phrase[1]
+    else:
+        t2 = ''
+    if len(question_phrase) > 2:
+        t3 = question_phrase[2]
+    else:
+        t3 = ''
+    if len(question_phrase) > 3:
+        t4 = question_phrase[3]
+    else:
+        t4 = ''
+
+    if t1 == 'be':
+        #true-false
+        pass
+    if t1 == 'do':
+        #true-false
+        pass
+    if t1 == 'who':
+        #person
+        if t2 == 'do' or t2 == 'be':
+            pass
+    if t1 == 'what':
+        #thing/event
+        if t2 == 'do' or t2 == 'be':
+            pass
+    if t1 == 'where':
+        #location
+        if t2 == 'do' or t2 == 'be':
+            pass
+    if t1 == 'when':
+        #date
+        if t2 == 'do' or t2 == 'be':
+            pass
+    if t1 == 'why':
+        #reason
+        if t2 == 'do' or t2 == 'be':
+            pass
+    if t1 == 'how':
+        if t2 == 'do':
+            pass
+        if t2 == 'be':
+            pass
+        if t2 == 'many':
+            if t3 == 'long':
+                pass
+
+        if t2 == 'long':
+
+
+
+
+def find_exact_match(transformed, sentences):
+    result = []
+    left = lemmatize(transformed[0])
+    question_phrase = lemmatize(transformed[1])
+    right = lemmatize(transformed[2])
+
+    for sentence in sentences:
+        s_tokens = list(sentence)
+        s_lemmas = lemmatize(s_tokens)
+
+        if exact_match(left, question_phrase, right, s_lemmas):
+            return sentence
+
+    return None
+
+
+
+
+
+
+
+
+
 
 def get_question_phrase_index(tokens):
     t1 = tokens[0].lemma_
@@ -193,15 +311,26 @@ def transform_question(question):
     tokens = list(question)
     question_phrase_index = get_question_phrase_index(question)
     first_head_noun_index = get_head_noun_indices(question)[0]
-    if first_head_noun_index < len(tokens) - 1:
-        if question_phrase_index > 0:
-            question_phrase = tokens[0:question_phrase_index+1]
-        else:
-            question_phrase = [tokens[0]]
-        result = [tokens[question_phrase_index+1:first_head_noun_index+1],
-                    question_phrase,
-                    tokens[first_head_noun_index+1:]]
-        return result
+
+    if question_phrase_index > 0:
+        question_phrase = tokens[0:question_phrase_index+1]
+    else:
+        question_phrase = [tokens[0]]
+
+    left = tokens[question_phrase_index+1:first_head_noun_index+1]
+    right = tokens[first_head_noun_index+1:-1]
+
+    if len(right) > 0:
+        if right[0].lower_ == '\'s':
+            left.append(right[0])
+            right = right[1:]
+
+        if right[0].lower_ == 'ever':
+            question_phrase.append(right[0])
+            right = right[1:]
+
+    result = [left,question_phrase,right]
+    return result
 
 
 def get_noun_set(doc):
