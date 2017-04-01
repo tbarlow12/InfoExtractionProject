@@ -56,8 +56,7 @@ def get_decoded(string):
 
 #Check for synonyms of verb????? https://github.com/explosion/spaCy/issues/276
 
-def contains_verb(doc,verb):
-    tokens = list(doc)
+def contains_verb(tokens,verb):
     for token in tokens:
         if token.pos_ == 'VERB' and token.lemma_ == verb:
             return True
@@ -95,7 +94,7 @@ def get_top_similar(question, sentences, top):
     pairs = []
     verb = get_root_verb(question)
     for sentence in sentences:
-        if contains_verb(sentence, verb):
+        if contains_verb(list(sentence), verb):
             sim = jaccard_doc(question, sentence)
         else:
             sim = 0
@@ -108,6 +107,13 @@ def get_noun_indices(tokens):
     if 0 in result:
         return result[1:]
     return result
+
+def get_first_sentence_ent_type(sentences,types):
+    for sentence in sentences:
+        for ent in sentence.ents:
+            if ent.label_ in types:
+                return sentence
+    return None
 
 
 def get_first_entity_with_label(items,label):
@@ -151,13 +157,15 @@ def get_pos_indices(tokens,tags):
     return indices
 
 def lemmatize(tokens):
-    return [t.lemma_ for t in tokens]
+    return [t.lemma_ for t in tokens if t.lower_ not in stop_words]
 
 
 def exact_match(left, question_phrase, right, s_lemmas):
+    if len(right) == 0 or len(s_lemmas) == 0:
+        return False
     for i in range(0,len(s_lemmas)):
         j = 0
-        while right[j] == s_lemmas[i]:
+        while j < len(right) and i < len(s_lemmas) and right[j] == s_lemmas[i]:
             if j == len(right) - 1:
                 return True
             i += 1
@@ -185,68 +193,68 @@ CARDINAL	Numerals that do not fall under another type.
 
 '''
 
-def get_answer_type(transformed):
-    question_phrase = transformed[1]
+def get_answer_type(question):
 
-    if len(question_phrase) > 0:
-        t1 = question_phrase[0]
+
+    if len(question) > 0:
+        t1 = question[0].lemma_
     else:
         t1 = ''
-    if len(question_phrase) > 1:
-        t2 = question_phrase[1]
+    if len(question) > 1:
+        t2 = question[1].lemma_
     else:
         t2 = ''
-    if len(question_phrase) > 2:
-        t3 = question_phrase[2]
+    if len(question) > 2:
+        t3 = question[2].lemma_
     else:
         t3 = ''
-    if len(question_phrase) > 3:
-        t4 = question_phrase[3]
+    if len(question) > 3:
+        t4 = question[3].lemma_
     else:
         t4 = ''
 
     if t1 == 'be':
         #true-false
-        pass
+        return [0]
     if t1 == 'do':
         #true-false
-        pass
+        return [0]
     if t1 == 'who':
         #person
-        if t2 == 'do' or t2 == 'be':
-            pass
+        return [1,{'PERSON'}]
     if t1 == 'what':
         #thing/event
-        if t2 == 'do' or t2 == 'be':
-            pass
+        if t2 == 'year':
+            return [1,{'DATE'}]
+        return [1,{'NORP','FACILITY','ORG','GPE','PRODUCT','EVENT','WORK_OF_ART','LANGUAGE'}]
     if t1 == 'where':
         #location
-        if t2 == 'do' or t2 == 'be':
-            pass
+        return [1,{'LOC'}]
     if t1 == 'when':
         #date
-        if t2 == 'do' or t2 == 'be':
-            pass
+        return [1,{'DATE'}]
     if t1 == 'why':
         #reason
-        if t2 == 'do' or t2 == 'be':
-            pass
+        return [2]
     if t1 == 'how':
-        if t2 == 'do':
-            pass
-        if t2 == 'be':
-            pass
         if t2 == 'many':
+            return [1,{'QUANTITY'}]
             if t3 == 'long':
-                pass
+                return [1,{'CARDINAL'}]
+        if t2 == 'much':
+            return [1,{'QUANTITY','PERCENT','MONEY'}]
 
         if t2 == 'long':
+            return [1,{'CARDINAL'}]
+        return [2]
+    return [3]
 
 
 
 
 def find_exact_match(transformed, sentences):
-    result = []
+    if transformed is None:
+        return None
     left = lemmatize(transformed[0])
     question_phrase = lemmatize(transformed[1])
     right = lemmatize(transformed[2])
@@ -270,9 +278,19 @@ def find_exact_match(transformed, sentences):
 
 
 def get_question_phrase_index(tokens):
-    t1 = tokens[0].lemma_
-    t2 = tokens[1].lemma_
-    t3 = tokens[2].lemma_
+    if len(tokens) > 0:
+        t1 = tokens[0].lemma_
+    else:
+        t1 = ''
+    if len(tokens) > 1:
+        t2 = tokens[1].lemma_
+    else:
+        t2 = ''
+    if len(tokens) > 2:
+        t3 = tokens[2].lemma_
+    else:
+        t3 = ''
+
     if t1 == 'be':
         return 0
     if t1 == 'do':
@@ -310,7 +328,11 @@ def get_question_phrase_index(tokens):
 def transform_question(question):
     tokens = list(question)
     question_phrase_index = get_question_phrase_index(question)
-    first_head_noun_index = get_head_noun_indices(question)[0]
+    head_noun_indices = get_head_noun_indices(question)
+    if len(head_noun_indices) > 0:
+        first_head_noun_index = head_noun_indices[0]
+    else:
+        return None
 
     if question_phrase_index > 0:
         question_phrase = tokens[0:question_phrase_index+1]
