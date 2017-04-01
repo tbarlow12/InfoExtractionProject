@@ -4,7 +4,6 @@ import spacy
 import pdb
 import special_cases
 
-
 nlp = spacy.load('en')
 
 debug = False
@@ -12,86 +11,38 @@ debug = False
 if len(sys.argv) > 2 and sys.argv[2] == '-d':
     debug = True
 
-no_type = 0
-yes_no_type = 1
-date_type = 2
-person_type = 3
-location_type = 4
-reason_type = 5
-how_type = 6
-thing_type = 8
-
-'''
-yes_no_words = {'do','does','did','was','can','will','has',
-               'is','have','had','could','have','should'}
-date_words = {'when'}
-person_words = {'who'}
-location_words = {'where'}
-reason_words = {'why'}
-how_words = {'how'}
-thing_words = {'what'}
-'''
-
-
-#TODO Identify longest sentence match
-
-def get_sentence_match(question, sentences):
-    top = h.get_top_similar(question,sentences,20)
-    sequence_length = 0
-    for sentence in top:
-        length = h.longest_match(question, sentence)
-
-def get_sentence(question, sentences, answer_type, transformed):
-    
-    sentence = h.find_exact_match(transformed, sentences)
-
-    if sentence is None:
-        top = h.get_top_similar(question,sentences,10)
+def longest_match_sentence(question, sentences, answer_type):
+    top = h.get_sentences_with_longest_match(question, sentences, 4)
+    if len(top) > 0:
         if answer_type[0] == 1:
             sentence = h.get_first_entity_with_label(top,answer_type[1])
             if sentence is None:
-                sentence = top[0][0]
+                return top[0][0]
         else:
-            sentence = top[0][0]
+            return top[0][0]
+
+def most_similar_sentence(question, sentences, answer_type):
+    top = h.get_top_similar(question,transformed,sentences,10)
+    if answer_type[0] == 1:
+        sentence = h.get_first_entity_with_label(top,answer_type[1])
+        if sentence is None:
+            return top[0][0]
+    else:
+        return top[0][0]
+
+def get_sentence(question, sentences, answer_type, transformed):
+    sentence = h.find_exact_match(transformed, sentences)
+    if sentence is None:
+        sentence = longest_match_sentence(question, sentences, answer_type)
+    if sentence is None:
+        sentence = most_similar_sentence(question, transformed, sentences, answer_type)
     return sentence
 
 def find_answer(question, sentences):
-
     answer_type = h.get_answer_type(question)
-
     transformed = h.transform_question(question)
-
     return get_sentence(question, sentences, answer_type, transformed).text
 
-
-
-
-
-
-    '''
-
-
-    q_type = classify_question(question)
-    answer = 'NULL'
-    if q_type == no_type:
-        return 'NULL'
-    if q_type == yes_no_type:
-        answer = answer_yes_no(question,sentences)
-    if q_type == date_type:
-        answer = answer_date(question,sentences)
-    if q_type == person_type:
-        answer = answer_person(question,sentences)
-    if q_type == location_type:
-        answer = answer_location(question,sentences)
-    if q_type == reason_type:
-        answer = answer_reason(question,sentences)
-    if q_type == how_type:
-        answer = answer_how(question,sentences)
-    if q_type == thing_type:
-        answer = answer_what(question,sentences)
-    return answer
-
-    '''
 
 class answerer(object):
     docs = {}

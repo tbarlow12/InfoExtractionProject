@@ -21,7 +21,7 @@ def write_answer_set(name, question_set, list_type):
     with io.open('debug/{}_{}.txt'.format(name,list_type),'w',encoding='utf-8') as f:
         for q in question_set:
             try:
-                s = u''.join(q[0] + u'\t' + q[1] + u'\t' + q[2] + u'\t' + q[3] + u'\n')
+                s = u''.join(q[0] + u'\t' + q[1] + u'\t' + q[2] + u'\n\n' + q[3] + u'\n\n')
                 f.write(s)
             except UnicodeDecodeError:
                 print 'Could not decode'

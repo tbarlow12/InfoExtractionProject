@@ -67,16 +67,14 @@ def most_similar(word):
     by_similarity = sorted(queries, key=lambda w: word.similarity(w), reverse=True)
     return by_similarity[:10]
 
-def longest_match(doc1, doc2):
-    tokens1 = list(doc1)
-    tokens2 = list(doc2)
+def longest_match(lemmas1, lemmas2):
     longest_match = 0
-    for i in range(0,len(tokens1)):
-        t1 = tokens1[i]
-        for j in range(0,len(tokens2)):
-            t2 = tokens2[j]
+    for i in range(0,len(lemmas1)):
+        t1 = lemmas1[i]
+        for j in range(0,len(lemmas2)):
+            t2 = lemmas2[j]
             match_length = 0
-            while t1.lemma_ == t2.lemma_ and i < len(tokens1) and j < len(tokens2):
+            while t1 == t2 and i < len(lemmas1) and j < len(lemmas2):
                 match_length += 1
                 i += 1
                 j += 1
@@ -90,9 +88,23 @@ def get_root_verb(doc):
             return np.root.head.lemma_
     return None
 
-def get_top_similar(question, sentences, top):
+
+def get_sentences_with_longest_match(question, sentences, min_match):
     pairs = []
-    verb = get_root_verb(question)
+    q_lemmas = lemmatize(question)
+    for sentence in sentences:
+        s_lemmas = lemmatize(sentence)
+        match = longest_match(q_lemmas,s_lemmas)
+        if match >= min_match:
+            pairs.append([sentence, min_match])
+    pairs = sorted(pairs,key=lambda x:(-x[1]))
+    return pairs
+
+
+
+def get_top_similar(question, transformed, sentences, top):
+    pairs = []
+    verb = get_root_verb(transformed)
     for sentence in sentences:
         if contains_verb(list(sentence), verb):
             sim = jaccard_doc(question, sentence)

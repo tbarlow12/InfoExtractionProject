@@ -1,16 +1,36 @@
-What do beetles eat?	They often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates	S08/data/set1/a8	They often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates.
-What did Aristotle say about elephants?	Aristotle once said the elephant was "the beast which passeth all others in wit and mind."	S08/data/set1/a5	Aristotle once said the elephant was "the beast which passeth all others in wit and mind.
-What part of an elephant is very important for temperature regulation?	The large flapping ears of an elephant are also very important for temperature regulation.	S08/data/set1/a5	The large flapping ears of an elephant are also very important for temperature regulation.
-Where was the largest elephant ever recorded shot?	The largest elephant ever recorded was shot in Angola in 1956.	S08/data/set1/a5	The largest elephant ever recorded was shot in Angola in 1956.
-Who got Seward elected to the senate?	Weed ultimately got Seward elected to the senate	S08/data/set3/a3	Weed ultimately got Seward elected to the senate.
-What did Taylor and Fillmore disagree upon?	Taylor and Fillmore disagreed on the slavery issue in the new western territories taken from Mexico in the Mexican-American War	S08/data/set3/a3	Taylor and Fillmore disagreed on the slavery issue in the new western territories taken from Mexico in the Mexican-American War.
-How did Fillmore ascend to the presidency?	Official White House portrait of Millard FillmoreFillmore ascended to the presidency upon the sudden and unexpected death of President Taylor in July 1850.	S08/data/set3/a3	Official White House portrait of Millard FillmoreFillmore ascended to the presidency upon the sudden and unexpected death of President Taylor in July 1850.
-What does a polar bear's fur provide?	A polar bear's fur provides camouflage and insulation	S08/data/set1/a4	A polar bear's fur provides camouflage and insulation.
-Garbage is what?	Garbage is now recycled or transported to Thompson, Manitoba.	S08/data/set1/a4	Garbage is now recycled or transported to Thompson, Manitoba.
-Where did Orang Laut people live?	Several hundred indigenous Orang Laut people also lived around the coast, rivers and smaller islands.	S08/data/set2/a2	Several hundred indigenous Orang Laut people also lived around the coast, rivers and smaller islands.
-How is Singapore's climate characterized?	Its climate is characterized by uniform temperature and pressure, high humidity, and abundant rainfall	S08/data/set2/a2	Its climate is characterized by uniform temperature and pressure, high humidity, and abundant rainfall.
-Which nation invaded Singapore during World War II?	During World War II, the Imperial Japanese Army invaded Malaya, culminating in the Battle of Singapore.	S08/data/set2/a2	During World War II, the Imperial Japanese Army invaded Malaya, culminating in the Battle of Singapore.
-Why are relations with Malaysia and Indonesia important?	Due to obvious geographical reasons, relations with Malaysia and Indonesia are most important.	S08/data/set2/a2	Due to obvious geographical reasons, relations with Malaysia and Indonesia are most important.
-Who was Roosevelt's presidential hero?	Lincoln was Roosevelt's presidential hero.	S08/data/set3/a7	Lincoln was Roosevelt's presidential hero.
-Who was Roosevelt's presidential hero?	Lincoln was Roosevelt's presidential hero	S08/data/set3/a7	Lincoln was Roosevelt's presidential hero.
-Who founded Montevideo?	Montevideo was founded by the Spanish in the early 18th century as a military stronghold.	S08/data/set2/a9	Montevideo was founded by the Spanish in the early 18th century as a military stronghold.
+What do beetles eat?	They often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates	S08/data/set1/a8
+
+They often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates.
+
+What did Aristotle say about elephants?	Aristotle once said the elephant was "the beast which passeth all others in wit and mind."	S08/data/set1/a5
+
+Aristotle once said the elephant was "the beast which passeth all others in wit and mind.
+
+Who got Seward elected to the senate?	Weed ultimately got Seward elected to the senate	S08/data/set3/a3
+
+Weed ultimately got Seward elected to the senate.
+
+How did Fillmore ascend to the presidency?	Official White House portrait of Millard FillmoreFillmore ascended to the presidency upon the sudden and unexpected death of President Taylor in July 1850.	S08/data/set3/a3
+
+Official White House portrait of Millard FillmoreFillmore ascended to the presidency upon the sudden and unexpected death of President Taylor in July 1850.
+
+What does a polar bear's fur provide?	A polar bear's fur provides camouflage and insulation	S08/data/set1/a4
+
+A polar bear's fur provides camouflage and insulation.
+
+Garbage is what?	Garbage is now recycled or transported to Thompson, Manitoba.	S08/data/set1/a4
+
+Garbage is now recycled or transported to Thompson, Manitoba.
+
+Where did Orang Laut people live?	Several hundred indigenous Orang Laut people also lived around the coast, rivers and smaller islands.	S08/data/set2/a2
+
+Several hundred indigenous Orang Laut people also lived around the coast, rivers and smaller islands.
+
+Who was Roosevelt's presidential hero?	Lincoln was Roosevelt's presidential hero.	S08/data/set3/a7
+
+Lincoln was Roosevelt's presidential hero.
+
+Who was Roosevelt's presidential hero?	Lincoln was Roosevelt's presidential hero	S08/data/set3/a7
+
+Lincoln was Roosevelt's presidential hero.
+
