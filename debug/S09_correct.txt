@@ -1,3 +1,7 @@
+What are the two materials that bows are made of traditionally? 	Traditionally, bows are made from pernambuco or brazilwood.	S09/data/set2/a9
+
+Traditionally, bows are made from pernambuco or brazilwood.
+
 What have clash cymbals traditionally been accompanied by?	Clash cymbals have traditionally been accompanied by the bass drum playing an identical part.	S09/data/set2/a6
 
 Clash cymbals have traditionally been accompanied by the bass drum playing an identical part.
@@ -5,6 +9,10 @@ Clash cymbals have traditionally been accompanied by the bass drum playing an id
 Did Newton reject the church's doctrine of the Trinity?	Newton may have rejected the church's doctrine of the Trinity.	S09/data/set4/a1
 
 Newton may have rejected the church's doctrine of the Trinity.
+
+Who did Newton see as the master creator?	Newton saw God as the master creator whose existence could not be denied in the face of the grandeur of all creation	S09/data/set4/a1
+
+Newton saw God as the master creator whose existence could not be denied in the face of the grandeur of all creation.
 
 How do turtles chew food?	Turtles use their jaws to cut and chew food.	S09/data/set1/a4
 

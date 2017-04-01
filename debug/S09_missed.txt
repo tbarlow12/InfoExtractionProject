@@ -8,35 +8,35 @@ Was Volta an Italian physicist?	yes	S09/data/set4/a10
 
 Is Volta buried in the city of Pittsburgh?	no	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+Volta is buried in the city of Como.
 
 Is Volta buried in the city of Pittsburgh?	no	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+Volta is buried in the city of Como.
 
 Did Volta have a passion for the study of electricity?	yes	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+(  The battery made by Volta is credited to have been the first cell.
 
 Did Volta have a passion for the study of electricity?	yes	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+(  The battery made by Volta is credited to have been the first cell.
 
 What is the battery made by Volta credited to be?	the first cell	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+(  The battery made by Volta is credited to have been the first cell.
 
 What is the battery made by Volta credited to be?	the first cell	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+(  The battery made by Volta is credited to have been the first cell.
 
 What important electrical unit was named in honor of Volta?	the volt	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+In 1881 an important electrical unit, the volt, was named in his honor.
 
 What important electrical unit was named in honor of Volta?	volt	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+In 1881 an important electrical unit, the volt, was named in his honor.
 
 Where did Volta enter retirement?	Spain	S09/data/set4/a10
 
@@ -48,11 +48,11 @@ Volta entered retirement in Spain.
 
 Is it a disadvantage for something to be unsafe to handle?	yes	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+It is unsafe to handle, as sulphuric acid, even if dilute, is dangerous.
 
 Is it a disadvantage for something to be unsafe to handle?	yes	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+It is unsafe to handle, as sulphuric acid, even if dilute, is dangerous.
 
 Was Lombardy under Napoleon's rule in 1800?	yes	S09/data/set4/a10
 
@@ -88,7 +88,7 @@ How old was Alessandro Volta when he died?	 82	S09/data/set4/a10
 
 How many years ago was it when Volta married the daughter of Count Ludovico Peregrini , Teresa , with whom he raised three sons?	215	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+He was in correspondence with scientists in Austria, which ruled Lombardy in his day, and in France.
 
 Is the electrolyte sulphuric acid?	Yes	S09/data/set4/a10
 
@@ -96,7 +96,7 @@ The electrolyte is sulphuric acid.
 
 Is volta buried in the city  of Como?	Yes	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+Volta is buried in the city of Como.
 
 Was his 1800  paper written in French?	Yes	S09/data/set4/a10
 
@@ -116,7 +116,7 @@ Initially he experimented with individual cells in series, each cell being a win
 
 When did lombardy come under Napoleon`s rule?	From 1796 to 1815	S09/data/set4/a10
 
-Around 1791 he began to study the "animal electricity" noted by Galvani when two different metals were connected in series with the frog's leg and to one another.
+From 1796 to 1815, Lombardy came under Napoleon's rule.
 
 Where did he publish his invention of the Voltaic pile battery?	the Philosophical Transactions of the Royal Society	S09/data/set4/a10
 
@@ -128,11 +128,11 @@ In 1779 he became professor of experimental physics at the University of Pavia, 
 
 Is it true that his passion been always the study of electricity?	Yes	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+His passion had always been the study of electricity, and while still a young student he had even written a poem in Latin on this fascinating new discovery.
 
 His passion been always the study of what?	Electricity	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+His passion had always been the study of electricity, and while still a young student he had even written a poem in Latin on this fascinating new discovery.
 
 Is it true that Volta married the daughter of Count Ludovico Peregrini?	Yes	S09/data/set4/a10
 
@@ -172,11 +172,11 @@ In 1820 he became a professor of physics at the University of Turin.
 
 How many children did Avogadro have?	six	S09/data/set4/a8
 
-For instance, John Dalton did not consider this possibility.
+The unification of Italy did not happen during the life time of Avogadro.
 
 How many children did Avogadro have?	six	S09/data/set4/a8
 
-For instance, John Dalton did not consider this possibility.
+The unification of Italy did not happen during the life time of Avogadro.
 
 What is Avogadro most noted for?	contributions to the theory of molarity and molecular weight	S09/data/set4/a8
 
@@ -196,19 +196,19 @@ As a tribute to him, the number of elementary entities (atoms, molecules, ions o
 
 In what year did Avogadro stop teaching at Turin University?	1853	S09/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+The unification of Italy did not happen during the life time of Avogadro.
 
 In what year did Avogadro stop teaching at Turin University?	1823	S09/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+The unification of Italy did not happen during the life time of Avogadro.
 
 What subject did Avogadro study first?	ecclesiastical law	S09/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+The unification of Italy did not happen during the life time of Avogadro.
 
 What subject did Avogadro study first?	ecclesiastical law	S09/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+The unification of Italy did not happen during the life time of Avogadro.
 
 What was Amedeo Avogadro`s birthplace?	Turin	S09/data/set4/a8
 
@@ -220,7 +220,7 @@ What was Amedeo Avogadro`s profession?	professor of physics	S09/data/set4/a8
 
 How many years ago was it when he became a professor of physics at the University of Turin?	189	S09/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+Well before this, following the increasing attention to his works, Avogadro had been recalled to Turin university in 1833, where he taught for another twenty years.
 
 What is Amedeo Avogadro`s first name?	Amedeo	S09/data/set4/a8
 
@@ -232,27 +232,27 @@ What is Amedeo Avogadro`s last name?	Avogadro	S09/data/set4/a8
 
 Was Amedeo Avogadro born in North America?	no	S09/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+Amedeo Avogadro was born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy.
 
 Was King Victor  Emmanuel  III there to pay  homage  to Avogadro?	Yes	S09/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+King Victor Emmanuel III was there to pay homage to Avogadro.
 
 In fact, was Avogadro `s  famous  1811  paper written in French . )	Yes	S09/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+In fact, Avogadro's famous 1811 paper was written in French.)
 
 Is avogadro `s  number commonly used to compute  the results  of chemical reactions?	Yes	S09/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+Avogadro's number is commonly used to compute the results of chemical reactions.
 
 Hence, can relative molecular  masses be calculated from the masses  of gas samples?	Yes	S09/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+Hence, relative molecular masses can be calculated from the masses of gas samples.
 
 Did he publish his work?	Yes	S09/data/set4/a8
 
-He is most noted for his contributions to the theory of molarity and molecular weight.
+ Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
 
 Did Avogadro submit his poem?	Yes.	S09/data/set4/a8
 
@@ -260,7 +260,7 @@ Avogadro submitted his poem to a French journal.
 
 Is it true that loschmidt calculated first the value of Avogadro number?	Yes	S09/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+Loschmidt first calculated the value of Avogadro's number, now called Avogadro's constant, which is still sometimes referred to as the Loschmidt number in German-language countries (Loschmidt constant now has another meaning).
 
 Loschmidt calculated first the value of what?	Avogadro's number	S09/data/set4/a8
 
@@ -272,7 +272,7 @@ Hence, relative molecular masses can be calculated from the masses of gas sample
 
 Can the title of this famous 1811 paper be roughly translated into English as "essay on determining the Relative Masses of the Elementary Molecules of Bodies" ?	Yes.	S09/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+The title of this famous 1811 paper can be roughly translated into English as "Essay on Determining the Relative Masses of the Elementary Molecules of Bodies".
 
 What is Amedeo Avogadro?	A person.	S09/data/set4/a8
 
@@ -284,35 +284,35 @@ He was active in the political revolutionary movements of 1821 against the king 
 
 When did Anders Celcius publish his observations on the aurora borealis?	1733	S09/data/set4/a5
 
- Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
+At Nuremberg in 1733 he published a collection of 316 observations of the aurora borealis made by himself and others over the period 1716-1732.
 
 When did Anders Celcius publish his observations on the aurora borealis?	1733 	S09/data/set4/a5
 
- Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
+At Nuremberg in 1733 he published a collection of 316 observations of the aurora borealis made by himself and others over the period 1716-1732.
 
 What did Anders Celsius determine about the boiling of water?	He determined the dependence of the boiling of water with atmospheric pressure.	S09/data/set4/a5
 
- Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
+He determined the dependence of the boiling of water with atmospheric pressure (in excellent agreement with modern data).
 
 What did Anders Celsius determine about the boiling of water?	dependence with atmospheric pressure	S09/data/set4/a5
 
- Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
+He determined the dependence of the boiling of water with atmospheric pressure (in excellent agreement with modern data).
 
 Which temperature scale did Celsius propose?	Celcius	S09/data/set4/a5
 
-Celsius founded the Uppsala Astronomical Observatory in 1741, and in 1742 he proposed the Celsius temperature scale in a paper to the Royal Swedish Academy of Sciences.
+ Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 Which temperature scale did Celsius propose?	 the Celsius temperature scale 	S09/data/set4/a5
 
-Celsius founded the Uppsala Astronomical Observatory in 1741, and in 1742 he proposed the Celsius temperature scale in a paper to the Royal Swedish Academy of Sciences.
+ Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 What is the boiling point of water dependent on?	atmospheric pressure	S09/data/set4/a5
 
-Anders Celsius (November 27, 1701  April 25, 1744) was a Swedish astronomer.
+ Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 What is the boiling point of water dependent on?	atmospheric pressure	S09/data/set4/a5
 
-Anders Celsius (November 27, 1701  April 25, 1744) was a Swedish astronomer.
+ Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 Where was Celsius born?	Uppsala in Sweden	S09/data/set4/a5
 
@@ -328,15 +328,15 @@ Whad did Celsius report in his paper "Observations of two persistent degrees on 
 
 How old was Celsius when he died?	42	S09/data/set4/a5
 
- Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
+In 1744 he died of tuberculosis in Uppsala, and was buried in the Old Uppsala Church.
 
 How old was Celsius when he died?	42	S09/data/set4/a5
 
- Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
+In 1744 he died of tuberculosis in Uppsala, and was buried in the Old Uppsala Church.
 
 What is temperature would water have to be to be halfway between its standard boiling and freezing point?	50	S09/data/set4/a5
 
-Anders Celsius (November 27, 1701  April 25, 1744) was a Swedish astronomer.
+ Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 What is the difference between Celsius' original temperature scale and the one we use today?	The scale was reversed by Carolus Linnaeus. 	S09/data/set4/a5
 
@@ -352,7 +352,7 @@ What was Anders Celsius`s profession?	professor of astronomy	S09/data/set4/a5
 
 How old was Anders Celsius when he died?	42	S09/data/set4/a5
 
- Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
+In 1744 he died of tuberculosis in Uppsala, and was buried in the Old Uppsala Church.
 
 What is Anders Celsius`s last name?	Celsius	S09/data/set4/a5
 
@@ -360,11 +360,11 @@ What is Anders Celsius`s last name?	Celsius	S09/data/set4/a5
 
 Was celsius born in Uppsala  in Sweden?	yes	S09/data/set4/a5
 
-Anders Celsius (November 27, 1701  April 25, 1744) was a Swedish astronomer.
+Celsius was born in Uppsala in Sweden.
 
 Is The Celsius  crater  on the Moon named after him?	yes	S09/data/set4/a5
 
- Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
+The Celsius crater on the Moon is named after him.
 
 Was Anders Celsius  ( November 27 ,  1701  April 25 ,  1744  ) a Swedish  astronomer?	yes	S09/data/set4/a5
 
@@ -372,7 +372,7 @@ Was Anders Celsius  ( November 27 ,  1701  April 25 ,  1744  ) a Swedish  astron
 
 Was Anders Celsius the first  to perform  and  publish  careful experiments  aiming at the definition  of an international  temperature  scale  on scientific grounds?	yes	S09/data/set4/a5
 
- Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
+Anders Celsius was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds.
 
 Was he professor at Uppsala University?	yes	S09/data/set4/a5
 
@@ -384,7 +384,7 @@ At Nuremberg in 1733 he published a collection of 316 observations of the aurora
 
 He published a collection of what?	observations	S09/data/set4/a5
 
-He was professor of astronomy at Uppsala University from 1730 to 1744, but traveled from 1732 to 1735 visiting notable observatories in Germany, Italy and France.
+ Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 Pronouns in which location are marked for person , number and gender?	NULL	S09/data/set5/a3
 
@@ -416,11 +416,11 @@ During the Middle Ages, Arabic was a major vehicle of culture in Europe, especia
 
 Is it true that the sociolinguistic situation of Arabic provides a prime example of the linguistic phenomenon?	NULL	S09/data/set5/a3
 
-  Arabic (  ; less formally:  ) is a Central Semitic language, thus related to and classified alongside other Semitic languages such as Hebrew and Aramaic.
+The sociolinguistic situation of Arabic in modern times provides a prime example of the linguistic phenomenon of diglossia, which is the normal use of two separate varieties of the same language, usually in different social situations.
 
 The sociolinguistic situation of Arabic provides a prime example of what?	the linguistic phenomenon of diglossia	S09/data/set5/a3
 
-  Arabic (  ; less formally:  ) is a Central Semitic language, thus related to and classified alongside other Semitic languages such as Hebrew and Aramaic.
+The sociolinguistic situation of Arabic in modern times provides a prime example of the linguistic phenomenon of diglossia, which is the normal use of two separate varieties of the same language, usually in different social situations.
 
 Is arabic source of vocabulary?	NULL	S09/data/set5/a3
 
@@ -436,7 +436,7 @@ Most of the world's Muslims do not speak Arabic as their native language but can
 
 Are pronouns in Literary Arabic marked for person , number and gender ?	yes	S09/data/set5/a3
 
-  Arabic (  ; less formally:  ) is a Central Semitic language, thus related to and classified alongside other Semitic languages such as Hebrew and Aramaic.
+Pronouns in Literary Arabic are marked for person, number and gender.
 
 However , are non-human plural nouns grammatically considered to be feminine singular ?	yes	S09/data/set5/a3
 
@@ -452,7 +452,7 @@ Are bees related to ants?	yes	S09/data/set1/a8
 
 Have managed populations of European honey bees experienced substantial declines?	yes	S09/data/set1/a8
 
-  Bees are flying insects closely related to wasps and ants.
+Recently, managed populations of European honey bees have experienced substantial declines.
 
 Where do bees live?	in colonies	S09/data/set1/a8
 
@@ -460,11 +460,11 @@ Among living bee groups, the Dasypodaidae are now considered to be the most "pri
 
 When do bumblebee colonies reach peak population?	mid to late summer	S09/data/set1/a8
 
-The best-known bee species is the European honey bee, which, as its name suggests, produces honey, as do a few other types of bee.
+  Bees are flying insects closely related to wasps and ants.
 
 What do people commonly call cleptoparasitic bees?	cuckoo bees	S09/data/set1/a8
 
-The best-known bee species is the European honey bee, which, as its name suggests, produces honey, as do a few other types of bee.
+Cleptoparasitic bees, commonly called "cuckoo bees" because their behavior is similar to cuckoo birds, occur in several bee families, though the name is technically best applied to the apid subfamily Nomadinae.
 
 How did vespoid wasps evolve?	from predatory ancestors	S09/data/set1/a8
 
@@ -472,7 +472,7 @@ This same evolutionary scenario has also occurred within the vespoid wasps, wher
 
 What do humans use bees for?	honey	S09/data/set1/a8
 
-Most pollen is used as food for larvae.
+One small subgroup of stingless bees, called "vulture bees," is specialized to feed on carrion, and these are the only bees that do not use plant products as food.
 
 Why do honey bee queens continue to lay eggs during the foraging season?	to replace daily casualties	S09/data/set1/a8
 
@@ -500,7 +500,7 @@ The An Shi Rebellion was also launched from here in 755 AD.
 
 In 1949, where did Communist forces enter without a fight?	Beiping	S09/data/set3/a7
 
-It is one of the four municipalities of the PRC, which are equivalent to provinces in China's administrative structure.
+Mao Zedong proclaiming the establishment of the People's Republic of China in 1949 A man stands before a column of tanks which were sent to Tiananmen Square earlier to suppress the Tiananmen Square protests of 1989 On 31 January 1949, during the Chinese Civil War, Communist forces entered Beiping without a fight.
 
 When did Yuan Shikai die?	1916	S09/data/set3/a7
 
@@ -508,11 +508,11 @@ Yuan gradually consolidated power and became by 1915 the new emperor but died le
 
 Where does air pollution in Beijing come from?	surrounding cities and provinces	S09/data/set3/a7
 
-The municipality of Beijing borders Hebei Province to the north, west, south, and for a small section in the east, and Tianjin Municipality to the southeast.   
+Many international students from Japan, Korea, North America, Europe, Southeast Asia, and elsewhere come to Beijing to study every year.
 
 As of August 1st, 2006, how many trains stop daily at the Beijing Railway Station or the Beijing West Railway Station?	167	S09/data/set3/a7
 
-It is one of the four municipalities of the PRC, which are equivalent to provinces in China's administrative structure.
+As of 1 August 2006, Beijing Railway Station has 167 trains stopping daily, while Beijing West Railway Station has 176 trains.
 
 What is the name of a university (or similar institution for imparting higher education) in Beijing?	Tsinghua University	S09/data/set3/a7
 
@@ -548,11 +548,11 @@ In honor of his scientific contributions, the name Pascal has been given to the 
 
 From what did Pascal suffer throughout his life?	ill health	S09/data/set4/a4
 
-  Blaise Pascal ( ), (June 19 1623  August 19 1662) was a French mathematician, physicist, and religious philosopher.
+But that didn't stop all of educated France from reading them.
 
 From what did Pascal suffer throughout his life?	poor health	S09/data/set4/a4
 
-  Blaise Pascal ( ), (June 19 1623  August 19 1662) was a French mathematician, physicist, and religious philosopher.
+But that didn't stop all of educated France from reading them.
 
 What did Pascal argue was as perfect as possible?	the procedure used in geometry 	S09/data/set4/a4
 
@@ -572,15 +572,15 @@ Who was the eldest sibling?	Gilberte	S09/data/set4/a4
 
 Aside from the Provincial Letters' religious influence, were they popular as a literary work?	yes	S09/data/set4/a4
 
-  Blaise Pascal ( ), (June 19 1623  August 19 1662) was a French mathematician, physicist, and religious philosopher.
+Aside from their religious influence, the Provincial Letters were popular as a literary work.
 
 Aside from the Provincial Letters' religious influence, were they popular as a literary work?	yes	S09/data/set4/a4
 
-  Blaise Pascal ( ), (June 19 1623  August 19 1662) was a French mathematician, physicist, and religious philosopher.
+Aside from their religious influence, the Provincial Letters were popular as a literary work.
 
 Of whose continual poor health was the cause never precisely determined?	Blaise Pascal	S09/data/set4/a4
 
-  Blaise Pascal ( ), (June 19 1623  August 19 1662) was a French mathematician, physicist, and religious philosopher.
+Despite the autopsy, the cause of his continual poor health was never precisely determined, though speculation focuses on tuberculosis, stomach cancer, or a combination of the two.
 
 Is the violin cello a bowed string instrument?	Yes	S09/data/set2/a9
 
@@ -596,19 +596,15 @@ The top and back of the cello has decorative border inlay known as purfling. Pur
 
 Are the z-holes used as access points to the interior of the cello? 	No	S09/data/set2/a9
 
-  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
+The pegs are used to tune the cello by either tightening or loosening the string.
 
 Are the z-holes used as access points to the interior of the cello? 	No	S09/data/set2/a9
 
-  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
+The pegs are used to tune the cello by either tightening or loosening the string.
 
 What does violincello mean?	Violincello means "little violene".	S09/data/set2/a9
 
 The name Cello is an abbreviation of the Italian violoncello, which means "little violone", referring to the violone ("big viol"), the lowest-pitched instrument of the viol family, the group of string instruments that were superseded by the violin family.
-
-What are the two materials that bows are made of traditionally? 	Traditionally, bows are made from pernambuco or brazilwood.	S09/data/set2/a9
-
-  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
 
 What is used to tune a cello?	Pegs are used to tune a cello.	S09/data/set2/a9
 
@@ -620,11 +616,11 @@ What is used to tune a cello?	the pegs	S09/data/set2/a9
 
 Which harmonics can produce any notes above middle C? 	Artificial harmonics can produce any notes above middle C.	S09/data/set2/a9
 
-The name Cello is an abbreviation of the Italian violoncello, which means "little violone", referring to the violone ("big viol"), the lowest-pitched instrument of the viol family, the group of string instruments that were superseded by the violin family.
+Artificial harmonics (also called False harmonics), in which the player depresses the string fully with one finger while touching the same string lightly with another finger, can produce any notes above middle C. They usually appear with the touching note a perfect fourth above the stopped note, which produces a sound two octaves above the stopped note, although other intervals are available.
 
 Which harmonics can produce any notes above middle C? 	Artificial harmonics	S09/data/set2/a9
 
-The name Cello is an abbreviation of the Italian violoncello, which means "little violone", referring to the violone ("big viol"), the lowest-pitched instrument of the viol family, the group of string instruments that were superseded by the violin family.
+Artificial harmonics (also called False harmonics), in which the player depresses the string fully with one finger while touching the same string lightly with another finger, can produce any notes above middle C. They usually appear with the touching note a perfect fourth above the stopped note, which produces a sound two octaves above the stopped note, although other intervals are available.
 
 Who referred to the cello as basso de viola da braccio"?	Monteverdi referred to the cello as "basso de viola da braccio".	S09/data/set2/a9
 
@@ -652,11 +648,11 @@ Is there cello in performances by Rihanna?	Yes	S09/data/set2/a9
 
 Are cellos constructed with glue?	yes	S09/data/set2/a9
 
-  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
+Cellos are constructed and repaired using hide glue, which is strong but reversible, allowing for disassembly when needed.
 
 Are cellos constructed with glue?	yes	S09/data/set2/a9
 
-  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
+Cellos are constructed and repaired using hide glue, which is strong but reversible, allowing for disassembly when needed.
 
 Is the cello a stringed instrument?	yes	S09/data/set2/a9
 
@@ -676,19 +672,19 @@ The name Cello is an abbreviation of the Italian violoncello, which means "littl
 
 What position is used to play the cello?	a gamba	S09/data/set2/a9
 
-  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
+A player's handedness does not alter the way the cello is held or used.
 
 What position is used to play the cello?	seated	S09/data/set2/a9
 
-  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
+A player's handedness does not alter the way the cello is held or used.
 
 What is a person who plays the cello called?	cellist	S09/data/set2/a9
 
-  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
+A person who plays a cello is called a cellist.
 
 What is a person who plays the cello called?	cellist	S09/data/set2/a9
 
-  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
+A person who plays a cello is called a cellist.
 
 Why is there purling on a cello?	to stop cracks from forming ****misspelled****	S09/data/set2/a9
 
@@ -696,19 +692,19 @@ Why is there purling on a cello?	to stop cracks from forming ****misspelled****	
 
 When did the first educational works appear for the cello?	the 18th century	S09/data/set2/a9
 
-The cello has also recently appeared in major hip-hop and R & B performances, such as singers Rihanna and Ne-Yo's performance at the American Music Awards.  
+Instruments that share features with both the bass violin and the viola de gamba appear in Italian art of the early 1500s... The invention of wire-wound strings (fine wire around a thin gut core), around 1660 in Bologna, allowed for a finer bass sound than was possible with purely gut strings on such a short body.
 
 When did the first educational works appear for the cello?	18th century	S09/data/set2/a9
 
-The cello has also recently appeared in major hip-hop and R & B performances, such as singers Rihanna and Ne-Yo's performance at the American Music Awards.  
+Instruments that share features with both the bass violin and the viola de gamba appear in Italian art of the early 1500s... The invention of wire-wound strings (fine wire around a thin gut core), around 1660 in Bologna, allowed for a finer bass sound than was possible with purely gut strings on such a short body.
 
 What cello manufacturer should I buy from if I want to play outside?	Luis & Clark	S09/data/set2/a9
 
-  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
+The shape of the hand should resemble that of its relaxed state, with all fingers curved, including the thumb.
 
 What cello manufacturer should I buy from if I want to play outside?	Luis & Clark	S09/data/set2/a9
 
-  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
+The shape of the hand should resemble that of its relaxed state, with all fingers curved, including the thumb.
 
 Was Charles-Augustin de Coulomb a member of the National Institute?	Yes	S09/data/set4/a6
 
@@ -720,11 +716,11 @@ Was Charles-Augustin de Coulomb a member of the National Institute?	Yes	S09/data
 
 Did Charles-Augustin de Coulomb find any relationship between electric charges and magnetic poles? 	No	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+On magnetism" (1789) Coulomb explained the laws of attraction and repulsion between electric charges and magnetic poles, although he did not find any relationship between the two phenomena.
 
 Did Charles-Augustin de Coulomb find any relationship between electric charges and magnetic poles? 	No	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+On magnetism" (1789) Coulomb explained the laws of attraction and repulsion between electric charges and magnetic poles, although he did not find any relationship between the two phenomena.
 
 Was Charles-Augustin de Coulomb's father's family in Montpellier? 	Yes	S09/data/set4/a6
 
@@ -744,15 +740,15 @@ Where did Charles-Augustin de Coulomb die?	Paris, France	S09/data/set4/a6
 
 When was Charles-Augustin de Coulomb permanently stationed in Paris?	Charles-Augustin de Coulomb was permanently stationed in Paris in 1781.	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+In 1781, he was stationed permanently at Paris.
 
 When was Charles-Augustin de Coulomb permanently stationed in Paris?	Yes	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+In 1781, he was stationed permanently at Paris.
 
 What contribution did Charles-Augustin de Coulomb make to the field of geotechnical engineering?	Retaining wall design	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+On magnetism" (1789) Coulomb explained the laws of attraction and repulsion between electric charges and magnetic poles, although he did not find any relationship between the two phenomena.
 
 Where did the construction of Fort Bourbon take place?	The construction of Fort Bourbon took place in Martinique.	S09/data/set4/a6
 
@@ -772,11 +768,11 @@ He is best known for developing Coulomb's law: the definition of the electrostat
 
 When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?	Charles-Augustin de Coulomb retired to a small estate he possessed at Blois on the outbreak of the revolution in 1789.	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+On the outbreak of the Revolution in 1789, he resigned his appointment as intendant des eaux et fontaines, and retired to a small estate which he possessed at Blois.
 
 When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?	1789	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+On the outbreak of the Revolution in 1789, he resigned his appointment as intendant des eaux et fontaines, and retired to a small estate which he possessed at Blois.
 
 If Charles-Augustin de Coulomb was alive today, how old would he have been?	273	S09/data/set4/a6
 
@@ -784,7 +780,7 @@ If Charles-Augustin de Coulomb was alive today, how old would he have been?	273	
 
 For how many years did Charles-Augustin de Coulomb live?	70	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+On magnetism" (1789) Coulomb explained the laws of attraction and repulsion between electric charges and magnetic poles, although he did not find any relationship between the two phenomena.
 
 Did Charles-Augustin de Coulomb live to be 80 years old?	no	S09/data/set4/a6
 
@@ -796,19 +792,19 @@ How old was Charles-Augustin de Coulomb when he died?	1806	S09/data/set4/a6
 
 How many years ago did he resign his appointment as intendant de eaux et fontaine ?	220	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+On magnetism" (1789) Coulomb explained the laws of attraction and repulsion between electric charges and magnetic poles, although he did not find any relationship between the two phenomena.
 
 How many years ago did Charles-Augustin de Coulomb die?	203	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+On magnetism" (1789) Coulomb explained the laws of attraction and repulsion between electric charges and magnetic poles, although he did not find any relationship between the two phenomena.
 
 Was The SI  unit  of charge , the  coulomb , named after him?	yes	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+The SI unit of charge, the coulomb, was named after him.  
 
 Was coulomb born in AngoulÃªme,  France ,  to a well  to do  family?	yes	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+Coulomb was born in AngoulÃªme, France, to a well to do family.
 
 Was his father ,  Henri  Coulomb , inspector of the Royal  Fields  in Montpellier?	Yes	S09/data/set4/a6
 
@@ -816,7 +812,7 @@ Was his father ,  Henri  Coulomb , inspector of the Royal  Fields  in Montpellie
 
 Is coulomb distinguished in the history  of mechanics  and  of electricity and  magnetism?	yes	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+Coulomb is distinguished in the history of mechanics and of electricity and magnetism.
 
 Was Charles Augustin  de Coulomb  ( born  June  14 ,  1736 ,  AngoulÃªme ,  France  -  died August 23 ,  1806 ,  Paris ,  France  ) a French  physicist?	yes	S09/data/set4/a6
 
@@ -844,7 +840,7 @@ His father, Henri Coulomb, was inspector of the Royal Fields in Montpellier.
 
 He discovered an inverse relationship of what?	distance and electric force	S09/data/set4/a6
 
-He is best known for developing Coulomb's law: the definition of the electrostatic force of attraction and repulsion.
+  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
 
 Is it true that coulomb leaves a legacy as a hero?	yes	S09/data/set4/a6
 
@@ -868,11 +864,11 @@ What is Chinese language`s last name?	NULL	S09/data/set5/a7
 
 How many offspring did Chinese language have?	NULL	S09/data/set5/a7
 
-  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
+In general, the above language-dialect groups do not have sharp boundaries, though Mandarin is the predominant Sinitic language in the North and the Southwest, and the rest are mostly spoken in Central or Southeastern China.
 
 The Mandarin dialects in which location have experienced a dramatic decrease in sounds and so have far more multisyllabic words than most other spoken varieties?	NULL	S09/data/set5/a7
 
-Mandarin Chinese: A Functional Reference Grammar (1989), p 2.
+The Mandarin dialects in particular have experienced a dramatic decrease in sounds and so have far more multisyllabic words than most other spoken varieties.
 
 Was Old Chinese wholly uninflected?	no	S09/data/set5/a7
 
@@ -880,7 +876,7 @@ Was Old Chinese wholly uninflected?	no	S09/data/set5/a7
 
 In North Korea, has Hanja been discontinued?	NULL	S09/data/set5/a7
 
-David Crystal, The Cambridge Encyclopedia of Language (Cambridge: Cambridge University Press, 1987) , p. 312.
+In North Korea, Hanja has been discontinued.
 
 The most  widespread is the Palladius  system?	NULL	S09/data/set5/a7
 
@@ -912,7 +908,7 @@ Are most of these groups mutually unintelligible?	NULL	S09/data/set5/a7
 
 In what country is Chinese language located?	NULL	S09/data/set5/a7
 
-  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
+BBC NEWS | UK | Magazine | How hard is it to learn Chinese?
 
 Are The modern Chinese dialects more like a family?	yes	S09/data/set5/a7
 
@@ -920,15 +916,15 @@ Are The modern Chinese dialects more like a family?	yes	S09/data/set5/a7
 
 Is it true that one-fifth of world population speak some form of Chinese?	yes	S09/data/set5/a7
 
-  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
+About one-fifth of the worldâs population, or over one billion people, speak some form of Chinese as their native language.
 
 One-fifth of world population speak some form of what?	Chinese	S09/data/set5/a7
 
-âThe Chinese language family is genetically classified as an independent branch of the Sino-Tibetan language family.â *Jerry Norman.
+About one-fifth of the worldâs population, or over one billion people, speak some form of Chinese as their native language.
 
 Is mandarin spoken Chinese distinguished by its high level?	no, it's distinguished by diversity	S09/data/set5/a7
 
-  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
+Spoken Chinese is distinguished by its high level of internal diversity, although all spoken varieties of Chinese are tonal and analytic.
 
 Is standard Mandarin language of People Republic?	NULL	S09/data/set5/a7
 
@@ -940,7 +936,7 @@ Are there many systems of romanization for the chinese languages due to the Chin
 
 May the idea of Chinese as a language family suggest that the chinese identity is much more fragmentary and disunified than Chinese language actually is and as such is often looked upon as culturally and politically provocative ?	NULL	S09/data/set5/a7
 
-  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
+To Chinese nationalists, the idea of Chinese as a language family may suggest that the Chinese identity is much more fragmentary and disunified than it actually is and as such is often looked upon as culturally and politically provocative.
 
 Are most chinese words formed out of native chinese morphemes , including words describing imported objects and ideas ?	NULL	S09/data/set5/a7
 
@@ -948,15 +944,15 @@ Most Chinese words are formed out of native Chinese morphemes, including words d
 
 May a native of Guangzhou speak Standard Cantonese and putonghua , a resident of Taiwan , both taiwanese and putonghua/guoyu ?	NULL	S09/data/set5/a7
 
-David Crystal, The Cambridge Encyclopedia of Language (Cambridge: Cambridge University Press, 1987) , p. 312.
+A native of Guangzhou may speak Standard Cantonese and putonghua, a resident of Taiwan, both Taiwanese and putonghua/guoyu.
 
 Refer most chinese and chinese linguists to chinese as a single language and Chinese language`s subdivisions dialects , while others call chinese a language family ?	NULL	S09/data/set5/a7
 
-  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
+Most Chinese and Chinese linguists refer to Chinese as a single language and its subdivisions dialects, while others call Chinese a language family.
 
 Are there between 7 and 13 main regional groups of Chinese , of which the most spoken , by far , is about 850 million , followed by 90 million , 70 million and 70 million ?	NULL	S09/data/set5/a7
 
-  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
+There are between seven and thirteen main regional groups of Chinese (depending on classification scheme), of which the most spoken, by far, is Mandarin (about 850 million), followed by Wu (90 million), Min (70 million) and Cantonese (70 million).
 
 Copenhagen is the capital of what country?	Denmark	S09/data/set3/a8
 
@@ -976,11 +972,11 @@ What is the population of Copenhagen?	1,153,615	S09/data/set3/a8
 
 What transnational bridge was completed in 2000?	Oresund Bridge	S09/data/set3/a8
 
-  Copenhagen ( ;  ) is the capital and largest city of Denmark, with a population of 1,161,063.  
+Its landscaping was commenced by Christian IV in 1606.
 
 What transnational bridge was completed in 2000?	Oresund Bridge	S09/data/set3/a8
 
-  Copenhagen ( ;  ) is the capital and largest city of Denmark, with a population of 1,161,063.  
+Its landscaping was commenced by Christian IV in 1606.
 
 Why is Copenhagen a regional hub?	Its strategic location and excellent infrastructure	S09/data/set3/a8
 
@@ -996,7 +992,7 @@ What happened to Copenhagen between 1251 and 1255?	a bunch of things	S09/data/se
 
 Is Copenhagen completely surrounded with water? 	No	S09/data/set3/a8
 
-  Copenhagen ( ;  ) is the capital and largest city of Denmark, with a population of 1,161,063.  
+Copenhagen and the surrounding areas have 3 beaches with a total of approx
 
 Copenhagen is ranked number one worldwide for which things?	Most Livable City in the World, 	S09/data/set3/a8
 
@@ -1008,31 +1004,31 @@ Copenhagen is ranked number one worldwide for which things?	Most Livable City, L
 
 Why did German troops occupy Copenhagen?	Because it was WW2	S09/data/set3/a8
 
-The English name for the city is derived from its Low German name, Kopenhagen.
+During World War II, Copenhagen was occupied by German troops along with the rest of the country from 9 April 1940 until 4 May 1945.
 
 Have cymbals been used historically to suggest bacchanal?	Yes	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+Clash cymbals have traditionally been accompanied by the bass drum playing an identical part.
 
 Have cymbals been used historically to suggest bacchanal?	Yes	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+Clash cymbals have traditionally been accompanied by the bass drum playing an identical part.
 
 Can the origins of cymbals be traced to prehistoric times?	Yes	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+The origins of cymbals can be traced back to prehistoric times.
 
 Can the origins of cymbals be traced to prehistoric times?	Yes	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+The origins of cymbals can be traced back to prehistoric times.
 
 Are cymbals used in moden orchestras?	Yes	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+Cymbals are used in modern orchestras and many military, marching, concert and other bands.
 
 Are cymbals used in moden orchestras?	Yes	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+Cymbals are used in modern orchestras and many military, marching, concert and other bands.
 
 What are the most common Cymbals?	 The most common Cymbals are the Hi-Hats, Crash, Splash, Ride, and China.	S09/data/set2/a6
 
@@ -1056,11 +1052,11 @@ Clash cymbals have traditionally been accompanied by the bass drum playing an id
 
 What happens when the center of a Cymbal is hit?	It causes a sound which is in a higher register than the rest of the symbal.	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+When hit with the side or shoulder of a drum stick, it causes a sound which is in a higher register than the rest of the cymbal. *
 
 What happens when the center of a Cymbal is hit?	It causes a sound which is in a higher register than the rest of the cymbal	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+When hit with the side or shoulder of a drum stick, it causes a sound which is in a higher register than the rest of the cymbal. *
 
 What is an effective way to accentuate a note?	Playing a bass drum playing an identical part is an effective way to accentuate a note.	S09/data/set2/a6
 
@@ -1072,19 +1068,19 @@ This combination, played loudly, is an effective way to accentuate a note since 
 
 From what type of Cymbals can a expert player obtain an enormous dynamic range?	An expert player can obtain an enormous dynamic range from crash cymbals.	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+A skilled player can obtain an enormous dynamic range from such a pair of cymbals.
 
 From what type of Cymbals can a expert player obtain an enormous dynamic range?	Crash cymbals	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+A skilled player can obtain an enormous dynamic range from such a pair of cymbals.
 
 Can the origins of cymbals be traced back to prehistoric times?	yes	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+The origins of cymbals can be traced back to prehistoric times.
 
 Can the origins of cymbals be traced back to prehistoric times?	Yes	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+The origins of cymbals can be traced back to prehistoric times.
 
 Did the modern hi-hat evolve from clash cymbals?	yes	S09/data/set2/a6
 
@@ -1096,27 +1092,27 @@ Did the modern hi-hat evolve from clash cymbals?	Yes	S09/data/set2/a6
 
 Is the word cymbal derived from a Germanic word?	No	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+The word cymbal is derived from the Latin cymbalum, which itself derives from the Greek word kumbalom, meaning a small bowl.  * Bell-
 
 Is the word cymbal derived from a Germanic word?	No	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+The word cymbal is derived from the Latin cymbalum, which itself derives from the Greek word kumbalom, meaning a small bowl.  * Bell-
 
 What is the center of a cymbal called?	Bell	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+The sound can be obtained by rubbing their edges together in a sliding movement for a "sizzle", striking them against each other in what is called a "crash", tapping the edge of one against the body of the other in what is called a "tap-crash", scraping the edge of one from the inside of the bell to the edge for a "scrape" or "zishend," or shutting the cymbals together and choking the sound in what is called a "hi-hat chick."
 
 What is the center of a cymbal called?	bell	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+The sound can be obtained by rubbing their edges together in a sliding movement for a "sizzle", striking them against each other in what is called a "crash", tapping the edge of one against the body of the other in what is called a "tap-crash", scraping the edge of one from the inside of the bell to the edge for a "scrape" or "zishend," or shutting the cymbals together and choking the sound in what is called a "hi-hat chick."
 
 What part of the cymbal gets the best "crash"?	Edge or rim	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+Edge or rim- This is where you get the best "crash".
 
 What part of the cymbal gets the best "crash"?	edge or rim	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+Edge or rim- This is where you get the best "crash".
 
 What is the second main orchestral use of cymbals?	the suspended cymbal	S09/data/set2/a6
 
@@ -1132,19 +1128,19 @@ They are one of the two instrument types that form the modern drum kit, the othe
 
 What Greek mythical creatures were depicted holding cymbals?	fauns and satyrs	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+The Greek cymbals were cup- or bell-shaped, and may be seen in the hands of innumerable fauns and satyrs in sculptures and on painted vases.
 
 What Greek mythical creatures were depicted holding cymbals?	fauns and satyrs	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+The Greek cymbals were cup- or bell-shaped, and may be seen in the hands of innumerable fauns and satyrs in sculptures and on painted vases.
 
 What are orchestral crash cymbals technically called?	a pair of clash cymbals	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+Ancient cymbals or tuned cymbals are much more rarely called for.
 
 What are orchestral crash cymbals technically called?	clash cymbals	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+Ancient cymbals or tuned cymbals are much more rarely called for.
 
 Is Dhaka the capital of Bangladesh?	Yes	S09/data/set3/a3
 
@@ -1152,7 +1148,7 @@ Is Dhaka the capital of Bangladesh?	Yes	S09/data/set3/a3
 
 Is Dhaka located on the eastern banks of the Buriganga River?	Yes	S09/data/set3/a3
 
-  Dhaka (formerly spelled as Dacca) (Bangla: à¦¢à¦¾à¦à¦¾, ) is the capital of Bangladesh and the principal city of Dhaka District.
+Dhaka is located in central Bangladesh at , on the eastern banks of the Buriganga River.
 
 Is University of Dhaka the largest public university in Dhaka?	Yes	S09/data/set3/a3
 
@@ -1160,11 +1156,11 @@ Is University of Dhaka the largest public university in Dhaka?	Yes	S09/data/set3
 
 How much area does Dhaka cover?	1462.60 square kilometers	S09/data/set3/a3
 
-Located on the banks of the Buriganga River, Dhaka, along with its metropolitan area, has a population of over 12 million, making it the largest city in Bangladesh.  
+  Dhaka (formerly spelled as Dacca) (Bangla: à¦¢à¦¾à¦à¦¾, ) is the capital of Bangladesh and the principal city of Dhaka District.
 
 How many people did the 1970 Bhola cyclone kill?	500,000	S09/data/set3/a3
 
-During the intervening period, the city witnessed widespread turmoil; this included many impositions of martial law, the declaration of Bangladesh's independence, military suppression, devastation during war, and natural calamities.
+  Dhaka (formerly spelled as Dacca) (Bangla: à¦¢à¦¾à¦à¦¾, ) is the capital of Bangladesh and the principal city of Dhaka District.
 
 When is the end of the independence war of Bangladesh?	December 16, 1971	S09/data/set3/a3
 
@@ -1192,7 +1188,7 @@ Is english a de  jure  official  language  of Israel?	no	S09/data/set5/a1
 
 Is the stressed  syllable called the nuclear  syllable?	yes	S09/data/set5/a1
 
-  English is a West Germanic language that originated in Anglo-Saxon England.
+The stressed syllable is called the nuclear syllable.
 
 Does english grammar have minimal inflection?	Yes	S09/data/set5/a1
 
@@ -1204,7 +1200,7 @@ After the Norman conquest, Old English developed into Middle English, borrowing 
 
 Are books, magazines, and newspapers written in English available?	yes	S09/data/set5/a1
 
-  English is a West Germanic language that originated in Anglo-Saxon England.
+Books, magazines, and newspapers written in English are available in many countries around the world.
 
 Is the syntax of German different with different rules?	yes	S09/data/set5/a1
 
@@ -1220,11 +1216,11 @@ Here, all syllables are unstressed, except the syllables/words best and done, wh
 
 Are many words describing the navy , types of ships , and other objects or activities on the water of dutch origin ?	yes	S09/data/set5/a1
 
-  English is a West Germanic language that originated in Anglo-Saxon England.
+A computerised survey of about 80,000 words in the old Shorter Oxford Dictionary (3rd ed.) was published in Ordered Profusion by Thomas Finkenstaedt and Dieter Wolff (1973)  that estimated the origin of English words as follows: Influences in English vocabulary * Langue d'oÃ¯l, including French and Old Norman: 28.3% * Latin, including modern scientific and technical Latin: 28.24% * Other Germanic languages (including words directly inherited from Old English): 25% * Greek: 5.32% * No etymology given: 4.03% * Derived from proper names: 3.28% * All other languages contributed less than 1% A survey by Joseph M. Williams in Origins of the English Language of 10,000 words taken from several thousand business letters gave this set of statistics: Joseph M. Willams, Origins of the English Language at Amazon.com * French (langue d'oÃ¯l): 41% * "Native" English: 33% * Latin: 15% * Old Norse: 2% * Dutch: 1% * Other: 10%   Many words describing the navy, types of ships, and other objects or activities on the water are of Dutch origin.
 
 Are local variations in the formal written version of the language quite limited , being restricted largely to the spelling differences between British and American English ?	yes	S09/data/set5/a1
 
-  English is a West Germanic language that originated in Anglo-Saxon England.
+Local variations in the formal written version of the language are quite limited, being restricted largely to the spelling differences between British and American English.  
 
 Is the flute a musical instrument?	Yes.	S09/data/set2/a5
 
@@ -1260,11 +1256,11 @@ A musician who plays the flute can be referred to as a flute player, a flautist,
 
 When was a three-holed flute made from a mammoth tusk discovered?	2004.	S09/data/set2/a5
 
- A picture of a Western concert flute The flute is a musical instrument of the woodwind family.
+A three-holed flute made from a mammoth tusk (from the GeiÃenklÃ¶sterle cave in the German Swabian Alb and dated to 30,000 to 37,000 years ago  ) was discovered in 2004, and two flutes made from swans' bones excavated a decade earlier (from the same cave in Germany, dated to circa 36,000 years ago) are among the oldest known musical instruments.
 
 When was a three-holed flute made from a mammoth tusk discovered?	In 2004	S09/data/set2/a5
 
- A picture of a Western concert flute The flute is a musical instrument of the woodwind family.
+A three-holed flute made from a mammoth tusk (from the GeiÃenklÃ¶sterle cave in the German Swabian Alb and dated to 30,000 to 37,000 years ago  ) was discovered in 2004, and two flutes made from swans' bones excavated a decade earlier (from the same cave in Germany, dated to circa 36,000 years ago) are among the oldest known musical instruments.
 
 When did the tin whistle first appear?	12th century.	S09/data/set2/a5
 
@@ -1312,11 +1308,11 @@ The island fox is a critically endangered species.
 
 Does the diet of foxes include reptiles?	yes	S09/data/set1/a6
 
-  A fox is an animal belonging to any one of about 27 species (of which only 12 actually belong to the Vulpes genus, or 'true foxes') of small to medium-sized canids, characterized by possessing a long, narrow snout, and a bushy tail, or brush.
+The diet of foxes is largely made up of invertebrates, however it also includes rodents, rabbits and other small mammals, reptiles, (such as snakes), amphibians, grasses, berries, fruit, fish, birds, eggs, and all other kinds of small animals.
 
 Does the diet of foxes include reptiles?	Yes	S09/data/set1/a6
 
-  A fox is an animal belonging to any one of about 27 species (of which only 12 actually belong to the Vulpes genus, or 'true foxes') of small to medium-sized canids, characterized by possessing a long, narrow snout, and a bushy tail, or brush.
+The diet of foxes is largely made up of invertebrates, however it also includes rodents, rabbits and other small mammals, reptiles, (such as snakes), amphibians, grasses, berries, fruit, fish, birds, eggs, and all other kinds of small animals.
 
 How long do most foxes live?	Most foxes live 2 to 3 years, but they can survive for up to 10 years or even longer in captivity.	S09/data/set1/a6
 
@@ -1328,11 +1324,11 @@ Arctic fox curled up in snow Skeleton Most foxes live 2 to 3 years, but they can
 
 In what country did fox hunting originate?	the United Kingdom	S09/data/set1/a6
 
-  A fox is an animal belonging to any one of about 27 species (of which only 12 actually belong to the Vulpes genus, or 'true foxes') of small to medium-sized canids, characterized by possessing a long, narrow snout, and a bushy tail, or brush.
+Other fox species do not reproduce as readily as the red fox, and are endangered in their native environments.
 
 In what country did fox hunting originate?	in the United Kingdom	S09/data/set1/a6
 
-  A fox is an animal belonging to any one of about 27 species (of which only 12 actually belong to the Vulpes genus, or 'true foxes') of small to medium-sized canids, characterized by possessing a long, narrow snout, and a bushy tail, or brush.
+Other fox species do not reproduce as readily as the red fox, and are endangered in their native environments.
 
 What is the smallest species of fox?	The Fennec Fox is the smallest species of fox. 	S09/data/set1/a6
 
@@ -1364,11 +1360,11 @@ Do foxes damage fruit on farms?	No	S09/data/set1/a6
 
 How many years ago did African people spread across 31 francophone African countries can speak French either as a first or second language?	2 years ago	S09/data/set5/a5
 
-  French (franÃ§ais, ) is a Romance language spoken around the world by around 90 million people as first language, by 190 million as second language, and by about another 200 million people as an acquired tongue, with significant speakers in 54 countries.
+Nathan, Paris, 2007 Source does not state the given "facts" --> French is mostly a second language in Africa, but in some areas it has become a first language, such as in the region of Abidjan, CÃ´te d'Ivoire  Le franÃ§ais Ã  Abidjan : Pour une approche syntaxique du non-standard by Katja Ploog, CNRS Editions, Paris, 2002 and in Libreville, Gabon.  
 
 In Old French, was the plural  for animal animals?	Yes	S09/data/set5/a5
 
-  French (franÃ§ais, ) is a Romance language spoken around the world by around 90 million people as first language, by 190 million as second language, and by about another 200 million people as an acquired tongue, with significant speakers in 54 countries.
+In Old French, the plural for animal was animals.
 
 Is catalan the only  official  language  of Andorra?	Yes	S09/data/set5/a5
 
@@ -1376,7 +1372,7 @@ Is catalan the only  official  language  of Andorra?	Yes	S09/data/set5/a5
 
 In Belgium, however, is quatre-vingts universally used?	Yes	S09/data/set5/a5
 
-  French (franÃ§ais, ) is a Romance language spoken around the world by around 90 million people as first language, by 190 million as second language, and by about another 200 million people as an acquired tongue, with significant speakers in 54 countries.
+In Belgium, however, quatre-vingts is universally used.
 
 Where is it an official language?	NULL	S09/data/set5/a5
 
@@ -1404,7 +1400,7 @@ France has signed the European Charter for Regional Languages, but has not ratif
 
 France signed the European Charter for what?	NULL	S09/data/set5/a5
 
-Most native speakers of the language live in France,  where the language originated.
+  French (franÃ§ais, ) is a Romance language spoken around the world by around 90 million people as first language, by 190 million as second language, and by about another 200 million people as an acquired tongue, with significant speakers in 54 countries.
 
 Is french language of 20  %?	NULL	S09/data/set5/a5
 
@@ -1416,19 +1412,19 @@ In Belgium, French is the official language of Wallonia (excluding the East Cant
 
 Are the prefixes en- and em- always nasalized ?	Yes	S09/data/set5/a5
 
-  French (franÃ§ais, ) is a Romance language spoken around the world by around 90 million people as first language, by 190 million as second language, and by about another 200 million people as an acquired tongue, with significant speakers in 54 countries.
+en- and em- are always nasalized.
 
 Are French and German not official languages nor recognised minority languages in the flemish region , although there are a dozen municipalities with language facilities for French-speakers ?	NULL	S09/data/set5/a5
 
-  French (franÃ§ais, ) is a Romance language spoken around the world by around 90 million people as first language, by 190 million as second language, and by about another 200 million people as an acquired tongue, with significant speakers in 54 countries.
+French and German are not official languages nor recognised minority languages in the Flemish Region, although along borders with the Walloon and Brussels-Capital regions, there are a dozen municipalities with language facilities for French-speakers.
 
 Can the palatal nasal occur in word initial position ( e.g ?	NULL	S09/data/set5/a5
 
-According to the 2007 report by the Organisation internationale de la Francophonie, an estimated 115 million African people spread across 31 francophone African countries can speak French either as a first or second language.  
+The palatal nasal can occur in word initial position (e.g. gnon), but it is most frequently found in intervocalic, onset position or word-finally (e.g. montagne). *
 
 How many years ago was the Luther Bible by Martin Luther printed?	475	S09/data/set5/a2
 
-  German ( , ) is a West Germanic language, thus related to and classified alongside English and Dutch.
+In 1534 the Luther Bible by Martin Luther was printed.
 
 Is german an inflected  language?	yes	S09/data/set5/a2
 
@@ -1436,7 +1432,7 @@ Is german an inflected  language?	yes	S09/data/set5/a2
 
 In Switzerland, is Ã used at all?	no	S09/data/set5/a2
 
-  German ( , ) is a West Germanic language, thus related to and classified alongside English and Dutch.
+In Switzerland, Ã is not used at all.
 
 Are there two common  word  orders?	yes	S09/data/set5/a2
 
@@ -1456,7 +1452,7 @@ Is german written using the Latin  alphabet?	Yes	S09/data/set5/a2
 
 Was the Luther Bible by Martin Luther printed?	Yes	S09/data/set5/a2
 
-  German ( , ) is a West Germanic language, thus related to and classified alongside English and Dutch.
+In 1534 the Luther Bible by Martin Luther was printed.
 
 Does a  tz indicate that the preceding vowel is short?	no	S09/data/set5/a2
 
@@ -1476,15 +1472,15 @@ Some state parliaments (BundeslÃ¤nder) would not accept it (North Rhine Westph
 
 Have adverbs of time to appear in the third place in the sentence , just after the predicate ?	Yes	S09/data/set5/a2
 
-  German ( , ) is a West Germanic language, thus related to and classified alongside English and Dutch.
+Except for emphasis, adverbs of time have to appear in the third place in the sentence, just after the predicate.
 
 Do both sexes of giraffe have horns?	Yes	S09/data/set1/a5
 
-  The giraffe (Giraffa camelopardalis) is an African even-toed ungulate mammal, the tallest of all land-living animal species, and the largest ruminant.
+Both sexes have horns, although the horns of a female are smaller.
 
 Do both sexes of giraffe have horns?	yes	S09/data/set1/a5
 
-  The giraffe (Giraffa camelopardalis) is an African even-toed ungulate mammal, the tallest of all land-living animal species, and the largest ruminant.
+Both sexes have horns, although the horns of a female are smaller.
 
 Do giraffes give birth standing up?	Yes	S09/data/set1/a5
 
@@ -1504,11 +1500,11 @@ Infrasound From the Giraffe  Lone giraffe at Lake Nakuru National Park, Kenya Gi
 
 What areas can giraffes inhabit?	savannas, grasslands, or open woodlands	S09/data/set1/a5
 
-Males can be 4.8 to 5.5 metres (16 to 18 feet) tall and weigh up to 1,700 kilograms (3,800 pounds).
+Giraffes can inhabit savannas, grasslands, or open woodlands.
 
 What areas can giraffes inhabit?	inhabit savannas, grasslands, or open woodlands	S09/data/set1/a5
 
-Males can be 4.8 to 5.5 metres (16 to 18 feet) tall and weigh up to 1,700 kilograms (3,800 pounds).
+Giraffes can inhabit savannas, grasslands, or open woodlands.
 
 What will a giraffe use to clean off any bugs that appear on its face?	extremely long tongue 	S09/data/set1/a5
 
@@ -1520,27 +1516,27 @@ Male giraffe making a cough-like mating call at the Roger Williams Park Zoo, Pro
 
 How do giraffes defend themselves?	with a powerful kick	S09/data/set1/a5
 
-Due to a subconscious response to suckle milk from their mother, something which many human-reared giraffes and other captive animals do not experience, giraffes resort instead to excessive tongue use on inanimate objects.
+  The giraffe (Giraffa camelopardalis) is an African even-toed ungulate mammal, the tallest of all land-living animal species, and the largest ruminant.
 
 How do giraffes defend themselves?	With powerful kicks	S09/data/set1/a5
 
-Due to a subconscious response to suckle milk from their mother, something which many human-reared giraffes and other captive animals do not experience, giraffes resort instead to excessive tongue use on inanimate objects.
+  The giraffe (Giraffa camelopardalis) is an African even-toed ungulate mammal, the tallest of all land-living animal species, and the largest ruminant.
 
 Do male giraffes weigh more than female giraffes?	Yes	S09/data/set1/a5
 
-  The giraffe (Giraffa camelopardalis) is an African even-toed ungulate mammal, the tallest of all land-living animal species, and the largest ruminant.
+Females are generally slightly shorter, and weigh less than the males do.
 
 Do male giraffes weigh more than female giraffes?	yes	S09/data/set1/a5
 
-  The giraffe (Giraffa camelopardalis) is an African even-toed ungulate mammal, the tallest of all land-living animal species, and the largest ruminant.
+Females are generally slightly shorter, and weigh less than the males do.
 
 Do male giraffes have larger horns than female giraffes?	Yes	S09/data/set1/a5
 
-  The giraffe (Giraffa camelopardalis) is an African even-toed ungulate mammal, the tallest of all land-living animal species, and the largest ruminant.
+Both sexes have horns, although the horns of a female are smaller.
 
 Do male giraffes have larger horns than female giraffes?	Yes	S09/data/set1/a5
 
-  The giraffe (Giraffa camelopardalis) is an African even-toed ungulate mammal, the tallest of all land-living animal species, and the largest ruminant.
+Both sexes have horns, although the horns of a female are smaller.
 
 Are male females generally taller than female giraffes?	Yes	S09/data/set1/a5
 
@@ -1556,11 +1552,11 @@ Was Henri Becquerel one of the discoverers of radioactivity?	Yes	S09/data/set4/a
 
 Is the SI unit for radioactivity named after him?	Yes	S09/data/set4/a9
 
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
+The SI unit for radioactivity, the becquerel (Bq), is named after him, and there is a Becquerel crater on the Moon and a Becquerel crater on Mars.      
 
 Is the SI unit for radioactivity named after him?	Yes	S09/data/set4/a9
 
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
+The SI unit for radioactivity, the becquerel (Bq), is named after him, and there is a Becquerel crater on the Moon and a Becquerel crater on Mars.      
 
 Was Henri Becquerel a French physicist?	Yes	S09/data/set4/a9
 
@@ -1596,11 +1592,11 @@ In what year did Henri Becquerel win the Nobel Prize in Physics?	1903	S09/data/s
 
 Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?	No	S09/data/set4/a9
 
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
+In 1892, he became the third in his family to occupy the physics chair at the MusÃ©um National d'Histoire Naturelle.
 
 Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?	No	S09/data/set4/a9
 
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
+In 1892, he became the third in his family to occupy the physics chair at the MusÃ©um National d'Histoire Naturelle.
 
 Was Henri Becquerel the sole winner of the 1903 Nobel Prize in Physics?	No	S09/data/set4/a9
 
@@ -1612,19 +1608,19 @@ Was Henri Becquerel the sole winner of the 1903 Nobel Prize in Physics?	No	S09/d
 
 Did Henri Becquerel intentionally discover radioactivity?	No	S09/data/set4/a9
 
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
+In 1896, while investigating phosphorescence in uranium salts, Becquerel accidentally discovered radioactivity.
 
 Did Henri Becquerel intentionally discover radioactivity?	He discovered it accidentally	S09/data/set4/a9
 
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
+In 1896, while investigating phosphorescence in uranium salts, Becquerel accidentally discovered radioactivity.
 
 If Henri Becquerel was alive today, how old would he have been?	157	S09/data/set4/a9
 
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
+Becquerel was born in Paris into a family which, including he and his son Jean, produced four generations of scientists.
 
 For how many years did Henri Becquerel live?	56	S09/data/set4/a9
 
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
+Describing his method to the French Academy of Sciences on January 24, 1896, he said, One wraps a LumiÃ¨re photographic plate with a bromide emulsion in two sheets of very thick black paper, such that the plate does not become clouded upon being exposed to the sun for a day.
 
 Did Henri Becquerel live to be 80 years old?	no	S09/data/set4/a9
 
@@ -1636,15 +1632,15 @@ What was Henri Becquerel`s profession?	physisist	S09/data/set4/a9
 
 How old was Henri Becquerel when he died?	53	S09/data/set4/a9
 
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
+He died at the age of 55 in Le Croisic.
 
 How many years ago was it when he became the third in his family to occupy the physics chair at the Musum National d`Histoire Naturelle?	117	S09/data/set4/a9
 
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
+Becquerel was born in Paris into a family which, including he and his son Jean, produced four generations of scientists.
 
 In 1908, the year  of his death, was Becquerel elected Permanent Secretary  of the AcadÃ©mie  des  Sciences?	Yes	S09/data/set4/a9
 
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
+In 1908, the year of his death, Becquerel was elected Permanent Secretary of the AcadÃ©mie des Sciences.
 
 When was Henri Becquerel born?	December 15, 1852	S09/data/set4/a9
 
@@ -1660,7 +1656,7 @@ He won the 1903 Nobel Prize in Physics for discovering radioactivity.
 
 Is it true that Becquerel wrapped a fluorescent substance in photographic plates?	Yes	S09/data/set4/a9
 
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
+Investigating the work of Wilhelm Conrad RÃ¶ntgen, Becquerel wrapped a fluorescent substance, potassium uranyl sulfate, in photographic plates and black material in preparation for an experiment requiring bright sunlight.
 
 Becquerel wrapped a fluorescent substance in what?	photographic plates and black material	S09/data/set4/a9
 
@@ -1704,35 +1700,31 @@ Newton may have rejected the church's doctrine of the Trinity.
 
 Was Newton admitted into Havard College?	No.	S09/data/set4/a1
 
-  Sir Isaac Newton FRS ( ) (4 January 1643 â March 31 1727)   OS: December 25 1642 â March 20 1727   was an English physicist, mathematician, astronomer, natural philosopher, and alchemist.
+In June 1661, he was admitted to Trinity College, Cambridge.
 
 Was Newton admitted into Havard College?	Maybe, but it doesn't say so in the article	S09/data/set4/a1
 
-  Sir Isaac Newton FRS ( ) (4 January 1643 â March 31 1727)   OS: December 25 1642 â March 20 1727   was an English physicist, mathematician, astronomer, natural philosopher, and alchemist.
+In June 1661, he was admitted to Trinity College, Cambridge.
 
 When was Newton's date of birth recorded?	Christmas Day, Decembeer 25, 1642.	S09/data/set4/a1
 
-  Sir Isaac Newton FRS ( ) (4 January 1643 â March 31 1727)   OS: December 25 1642 â March 20 1727   was an English physicist, mathematician, astronomer, natural philosopher, and alchemist.
+At the time of Newton's birth, England had not adopted the latest papal calendar and therefore his date of birth was recorded as Christmas Day, December 25, 1642.
 
 When was Newton's date of birth recorded?	his date of birth was recorded as Christmas Day, December 25, 1642	S09/data/set4/a1
 
-  Sir Isaac Newton FRS ( ) (4 January 1643 â March 31 1727)   OS: December 25 1642 â March 20 1727   was an English physicist, mathematician, astronomer, natural philosopher, and alchemist.
+At the time of Newton's birth, England had not adopted the latest papal calendar and therefore his date of birth was recorded as Christmas Day, December 25, 1642.
 
 How many laws of motion did Netwon have?	Three	S09/data/set4/a1
 
-His treatise PhilosophiÃ¦ Naturalis Principia Mathematica, published in 1687, described universal gravitation and the three laws of motion, laying the groundwork for classical mechanics, which dominated the scientific view of the physical universe for the next three centuries and is the basis for modern engineering.
+This he did at the age of eighteen, achieving an admirable final report.
 
 How many laws of motion did Netwon have?	Three	S09/data/set4/a1
 
-His treatise PhilosophiÃ¦ Naturalis Principia Mathematica, published in 1687, described universal gravitation and the three laws of motion, laying the groundwork for classical mechanics, which dominated the scientific view of the physical universe for the next three centuries and is the basis for modern engineering.
+This he did at the age of eighteen, achieving an admirable final report.
 
 Who did Newton see as the master creator?	God	S09/data/set4/a1
 
-  Sir Isaac Newton FRS ( ) (4 January 1643 â March 31 1727)   OS: December 25 1642 â March 20 1727   was an English physicist, mathematician, astronomer, natural philosopher, and alchemist.
-
-Who did Newton see as the master creator?	Newton saw God as the master creator whose existence could not be denied in the face of the grandeur of all creation	S09/data/set4/a1
-
-  Sir Isaac Newton FRS ( ) (4 January 1643 â March 31 1727)   OS: December 25 1642 â March 20 1727   was an English physicist, mathematician, astronomer, natural philosopher, and alchemist.
+Newton saw God as the master creator whose existence could not be denied in the face of the grandeur of all creation.
 
 When did Netwon investigate the refraction of light	From 1670 to 1672	S09/data/set4/a1
 
@@ -1744,11 +1736,11 @@ During this period he investigated the refraction of light, demonstrating that a
 
 What principles did Newton explain for mechanics?	The principles of conservation of momentum and angular momentum	S09/data/set4/a1
 
-  Sir Isaac Newton FRS ( ) (4 January 1643 â March 31 1727)   OS: December 25 1642 â March 20 1727   was an English physicist, mathematician, astronomer, natural philosopher, and alchemist.
+In his own lifetime, Newton wrote more on religion than he did on natural science.
 
 What principles did Newton explain for mechanics?	In mechanics, Newton enunciated the principles of conservation of momentum and angular momentum	S09/data/set4/a1
 
-  Sir Isaac Newton FRS ( ) (4 January 1643 â March 31 1727)   OS: December 25 1642 â March 20 1727   was an English physicist, mathematician, astronomer, natural philosopher, and alchemist.
+In his own lifetime, Newton wrote more on religion than he did on natural science.
 
 Interaction with what man stirred up Newton's interest in alchemy?	Henry More	S09/data/set4/a1
 
@@ -1772,7 +1764,7 @@ What is Italian language`s last name?	NULL	S09/data/set5/a9
 
 How many offspring did Italian language have?	NULL	S09/data/set5/a9
 
-  Italian ( , or lingua italiana) is a Romance language spoken by about 70 million people as a first language, and by about 50 million more as a second or studied language, making the total number of speakers up to 120 million.
+Turkish, like French, tends to put the accent on the ultimate syllable, but Italian doesn't.
 
 Where did Italian language die?	NULL	S09/data/set5/a9
 
@@ -1780,7 +1772,7 @@ Where did Italian language die?	NULL	S09/data/set5/a9
 
 Are geminate plosives and affricates realised as lengthened closures?	NULL	S09/data/set5/a9
 
-  Italian ( , or lingua italiana) is a Romance language spoken by about 70 million people as a first language, and by about 50 million more as a second or studied language, making the total number of speakers up to 120 million.
+Geminate plosives and affricates are realised as lengthened closures.
 
 Where is this letter silent?	NULL	S09/data/set5/a9
 
@@ -1812,7 +1804,7 @@ Is stress distinctive in most Romance languages?	NULL	S09/data/set5/a9
 
 Are the speakers who use italian as a second or cultural language estimated at around 110-120 million ?	NULL	S09/data/set5/a9
 
-  Italian ( , or lingua italiana) is a Romance language spoken by about 70 million people as a first language, and by about 50 million more as a second or studied language, making the total number of speakers up to 120 million.
+The speakers who use Italian as a second or cultural language are estimated at around 110-120 million.
 
 Are front/back vowel rules for C and G similar in French , Romanian , Spanish , and to some extent English ?	NULL	S09/data/set5/a9
 
@@ -1824,7 +1816,7 @@ So we can hear "IstÃ nbul" or "Ãstanbul".
 
 Will , the vowel sounds be pronounced separately) ?	NULL	S09/data/set5/a9
 
-  Italian ( , or lingua italiana) is a Romance language spoken by about 70 million people as a first language, and by about 50 million more as a second or studied language, making the total number of speakers up to 120 million.
+Italian has few diphthongs, so most unfamiliar diphthongs that are heard in foreign words (in particular, those beginning with vowel "a", "e", or "o") will be assimilated as the corresponding diaeresis (i.e., the vowel sounds will be pronounced separately).  
 
 Can Regional differences be recognized by various factors : the openness of vowels , the length of the consonants , and influence of the local dialect ?	NULL	S09/data/set5/a9
 
@@ -1844,7 +1836,7 @@ James Watt's improvements of what were fundamental to the changes wrought by the
 
 James Watt was born where?	Greenock, a seaport on the Firth of Clyde	S09/data/set4/a2
 
-  James Watt (January 19 1736  August 19 1819) was a Scottish inventor and engineer whose improvements to the steam engine were fundamental to the changes wrought by the Industrial Revolution.   
+James Watt was born on 19th of January, 1736 in Greenock, a seaport on the Firth of Clyde.
 
 What was the name of James Watt's mother?	Agnus Muirhead	S09/data/set4/a2
 
@@ -1856,27 +1848,27 @@ What was the name of James Watt's mother?	Agnes Muirhead	S09/data/set4/a2
 
 How many of James Watt's children did not live to adulthood?	3	S09/data/set4/a2
 
-  James Watt (January 19 1736  August 19 1819) was a Scottish inventor and engineer whose improvements to the steam engine were fundamental to the changes wrought by the Industrial Revolution.   
+Watt, with his partner Matthew Boulton, battled against rival engineers such as Jonathan Hornblower who tried to develop engines which did not fall foul of his patents.
 
 How many of James Watt's children did not live to adulthood?	3	S09/data/set4/a2
 
-  James Watt (January 19 1736  August 19 1819) was a Scottish inventor and engineer whose improvements to the steam engine were fundamental to the changes wrought by the Industrial Revolution.   
+Watt, with his partner Matthew Boulton, battled against rival engineers such as Jonathan Hornblower who tried to develop engines which did not fall foul of his patents.
 
 James Watt ranked first among how many people in Charles Murray's survey of historiometry?	229	S09/data/set4/a2
 
-  James Watt (January 19 1736  August 19 1819) was a Scottish inventor and engineer whose improvements to the steam engine were fundamental to the changes wrought by the Industrial Revolution.   
+Watt was ranked first, tying with Edison, among 229 significant figures in the history of technology by Charles Murray's survey of historiometry presented in his book Human Accomplishments.
 
 James Watt ranked first among how many people in Charles Murray's survey of historiometry?	229	S09/data/set4/a2
 
-  James Watt (January 19 1736  August 19 1819) was a Scottish inventor and engineer whose improvements to the steam engine were fundamental to the changes wrought by the Industrial Revolution.   
+Watt was ranked first, tying with Edison, among 229 significant figures in the history of technology by Charles Murray's survey of historiometry presented in his book Human Accomplishments.
 
 In what year did James travel to Lodon to study instrument-making?	1753	S09/data/set4/a2
 
-  James Watt (January 19 1736  August 19 1819) was a Scottish inventor and engineer whose improvements to the steam engine were fundamental to the changes wrought by the Industrial Revolution.   
+Watt, with his partner Matthew Boulton, battled against rival engineers such as Jonathan Hornblower who tried to develop engines which did not fall foul of his patents.
 
 For how many years of James Watt's life was his mother alive?	17 years	S09/data/set4/a2
 
-  James Watt (January 19 1736  August 19 1819) was a Scottish inventor and engineer whose improvements to the steam engine were fundamental to the changes wrought by the Industrial Revolution.   
+Watt attended school irregularly but instead he was mostly schooled at home by his mother.
 
 What is James Watt most famous for?	Steam engine.	S09/data/set4/a2
 
@@ -1932,7 +1924,7 @@ Are the several dialects of Kagoshima famous to speakers?	yes	S09/data/set5/a6
 
 I.e "yamato words ") , which in scholarly contexts is sometimes referred to as ( or rarely , i.e "yamato words " -rrb- , which in scholarly contexts is sometimes referred to as -lrb- or rarely , vp ? ?	NULL	S09/data/set5/a6
 
-  IPA: nÊ²ihoÅÉ¡o is a language spoken by over 130 million   people in Japan and in Japanese emigrant communities.
+The original language of Japan, or at least the original language of a certain population that was ancestral to a significant portion of the historical and present Japanese nation, was the so-called  ( or infrequently , i.e. "Yamato words"), which in scholarly contexts is sometimes referred to as  ( or rarely , i.e. the  words").
 
 Are japanese personal pronouns generally used only in situations requiring special emphasis as to who is doing what to whom ?	NULL	S09/data/set5/a6
 
@@ -1944,11 +1936,11 @@ For example, the  suffix ("Mr" "Mrs." or "Miss") is an example of honorific lang
 
 Will a japanese person use vocabulary and inflections of the honorific register to refer to the in-group superior and Japanese language`s or Japanese language`s speech and actions ?	NULL	S09/data/set5/a6
 
-  IPA: nÊ²ihoÅÉ¡o is a language spoken by over 130 million   people in Japan and in Japanese emigrant communities.
+When speaking directly to one's superior in one's company or when speaking with other employees within one's company about a superior, a Japanese person will use vocabulary and inflections of the honorific register to refer to the in-group superior and his or her speech and actions.
 
 Thus , can polite korean speech sound very presumptuous when translated verbatim into Japanese , as in korean Japanese language is acceptable and normal to say things like "our Mr ?	NULL	S09/data/set5/a6
 
-  IPA: nÊ²ihoÅÉ¡o is a language spoken by over 130 million   people in Japan and in Japanese emigrant communities.
+Thus, polite Korean speech can sound very presumptuous when translated verbatim into Japanese, as in Korean it is acceptable and normal to say things like "Our Mr. Company-President..." when communicating with a member of an out-group, which would be very inappropriate in a Japanese social context.
 
 Is Lima the capital of Peru?	Yes.	S09/data/set3/a4
 
@@ -1960,7 +1952,7 @@ Is the Museum of Gold in Lima?	Yes.	S09/data/set3/a4
 
 Does Lima have volleyball venues?	Yes.	S09/data/set3/a4
 
-  Lima is the capital and largest city of Peru.
+>   The Estadio Monumental "U" home of Universitario de Deportes The city of Lima has varied sports venues for soccer, volleyball and basketball, many of which are located within private clubs.
 
 When was Lima founded?	January 18,1535.	S09/data/set3/a4
 
@@ -1968,11 +1960,11 @@ Lima was founded by Spanish conquistador Francisco Pizarro on January 18, 1535, 
 
 Where is the Park of the Reserve located?	Near the downtown area.	S09/data/set3/a4
 
-  Lima is the capital and largest city of Peru.
+The executive branch is headquartered in the Government Palace, located in the Plaza Mayor.
 
 What is a colectivo?	Automobiles that renders express service on some major roads of the Lima Metropolitan Area.	S09/data/set3/a4
 
-In the pre-Columbian era, the location of what is now the city of Lima was inhabited by several amerindian groups under the Ychsma polity, which was incorporated into the Inca Empire in the 15th century.
+  Lima is the capital and largest city of Peru.
 
 Is the National University of San Marcos in Lima?	Yes.	S09/data/set3/a4
 
@@ -1984,7 +1976,7 @@ Has the San Lorenzo Megaport Project been completed?	No.	S09/data/set3/a4
 
 How many years ago was the Lima Stock Exchange the most profitable in the world?	Three	S09/data/set3/a4
 
-  Lima is the capital and largest city of Peru.
+In 2006, the Lima Stock Exchange was the most profitable in the world.
 
 Is rainfall very low?	Yes.	S09/data/set3/a4
 
@@ -2000,11 +1992,11 @@ Is The GDP  per capita in Lima $ 7,600  /  ref )?	Yes.	S09/data/set3/a4
 
 The Spanish Crown named Pizarro governor of what?	Hemming.	S09/data/set3/a4
 
-Lima was founded by Spanish conquistador Francisco Pizarro on January 18, 1535, as La Ciudad de los Reyes, or "The City of Kings.
+As the Spanish Crown had named Pizarro governor of the lands he conquered, Hemming, The conquest, p. 28.
 
 Is it true that the ideas of the Enlightenment shaped the development of the city?	Yes.	S09/data/set3/a4
 
-  Lima is the capital and largest city of Peru.
+In the later half of the 18th century, the ideas of the Enlightenment on public health and social control shaped the development of the city.
 
 The ideas of the Enlightenment shaped the development of what?	the city, Lima	S09/data/set3/a4
 
@@ -2028,39 +2020,39 @@ Does London's population draw from a wide range of religions?	Yes	S09/data/set3/
 
 Did Caunte take control of the English throne in 101?	No	S09/data/set3/a1
 
-Since its foundation, London has been part of many movements and phenomena throughout history, including the English Renaissance, the Industrial Revolution, and the Gothic Revival.
+Canute took control of the English throne in 1017, controlling the city and country until 1042, when his death resulted in a reversion to Saxon control under his pious stepson Edward the Confessor, who re-founded Westminster Abbey and the adjacent Palace of Westminster.  
 
 Over how many languages are spoken in London?	Over 300 languages are spoken in london	S09/data/set3/a1
 
-  London ( ; ) is the capital of both England and the United Kingdom, and the largest urban area in the European Union. {{cite web|url= title=Largest EU City  An important settlement for two millennia, London's history goes back to its founding by the Romans.  
+London's population draws from a wide range of peoples, cultures, and religions, and over 300 languages are spoken within the city.  
 
 Over how many languages are spoken in London?	Over 300	S09/data/set3/a1
 
-  London ( ; ) is the capital of both England and the United Kingdom, and the largest urban area in the European Union. {{cite web|url= title=Largest EU City  An important settlement for two millennia, London's history goes back to its founding by the Romans.  
+London's population draws from a wide range of peoples, cultures, and religions, and over 300 languages are spoken within the city.  
 
 What had the Anglo-Saxons created by the 600s?	By the 600s, the Anglo-Saxons had created a new settlement called Lundenwic.	S09/data/set3/a1
 
-Since its foundation, London has been part of many movements and phenomena throughout history, including the English Renaissance, the Industrial Revolution, and the Gothic Revival.
+By the 600s, the Anglo-Saxons had created a new settlement called Lundenwic approximately  upstream from the old Roman city, around what is now Covent Garden.  
 
 What had the Anglo-Saxons created by the 600s?	a new settlement called Lundenwic	S09/data/set3/a1
 
-Since its foundation, London has been part of many movements and phenomena throughout history, including the English Renaissance, the Industrial Revolution, and the Gothic Revival.
+By the 600s, the Anglo-Saxons had created a new settlement called Lundenwic approximately  upstream from the old Roman city, around what is now Covent Garden.  
 
 What city in the UK has been subjected to bouts of terrorism?	London has been subjected to bouts of terrorism.	S09/data/set3/a1
 
-  London ( ; ) is the capital of both England and the United Kingdom, and the largest urban area in the European Union. {{cite web|url= title=Largest EU City  An important settlement for two millennia, London's history goes back to its founding by the Romans.  
+However, as the seat of government and the most important city in the UK, it has been subjected to bouts of terrorism
 
 What city in the UK has been subjected to bouts of terrorism?	London	S09/data/set3/a1
 
-  London ( ; ) is the capital of both England and the United Kingdom, and the largest urban area in the European Union. {{cite web|url= title=Largest EU City  An important settlement for two millennia, London's history goes back to its founding by the Romans.  
+However, as the seat of government and the most important city in the UK, it has been subjected to bouts of terrorism
 
 What countries did James VI of Scotland unite?	James VI of Scotland united Scotland and England.	S09/data/set3/a1
 
-By the 600s, the Anglo-Saxons had created a new settlement called Lundenwic approximately  upstream from the old Roman city, around what is now Covent Garden.  
+This is followed by those of no religion (15.8%), Muslims (8.5%), Hindus (4.1%), Jews (2.1%), Sikhs (1.5%), Buddhists (0.8%) and other (0.5%), though 8.7% of people did not answer this question in the 2001 Census.  
 
 What countries did James VI of Scotland unite?	England and Scotland	S09/data/set3/a1
 
-By the 600s, the Anglo-Saxons had created a new settlement called Lundenwic approximately  upstream from the old Roman city, around what is now Covent Garden.  
+This is followed by those of no religion (15.8%), Muslims (8.5%), Hindus (4.1%), Jews (2.1%), Sikhs (1.5%), Buddhists (0.8%) and other (0.5%), though 8.7% of people did not answer this question in the 2001 Census.  
 
 How did civil wars affect England during the Middle Ages?	London remained relatively untouched	S09/data/set3/a1
 
@@ -2068,31 +2060,31 @@ How did civil wars affect England during the Middle Ages?	London remained relati
 
 Are the strings of a classical lyre made of gut?	Yes	S09/data/set2/a10
 
-  The lyre is a stringed musical instrument well known for its use in classical antiquity and later.
+After the bow made its way into Europe from the Middle-East, around two centuries later, it was applied to several species of those lyres that were small enough to make bowing practical.
 
 Does a classical lyre have a sound-chest?	Yes	S09/data/set2/a10
 
-  The lyre is a stringed musical instrument well known for its use in classical antiquity and later.
+A classical lyre has a hollow body or sound-chest (also known as soundbox or resonator).
 
 Is lyre played in mordern Greece?	No	S09/data/set2/a10
 
-  The lyre is a stringed musical instrument well known for its use in classical antiquity and later.
+The instrument is still played in north-eastern parts of Africa.
 
 Which part of the strings does the left hand touch?	The lower strings	S09/data/set2/a10
 
-The fingers of the free hand silenced the unwanted strings in the chord.  
+They also agree that neither the overall size of the instrument nor the number of strings on it have anything to do with its classification.
 
 In which place is lyre still played?	North-eastern parts of Africa	S09/data/set2/a10
 
-  The lyre is a stringed musical instrument well known for its use in classical antiquity and later.
+The instrument is still played in north-eastern parts of Africa.
 
 Does a classical lyre have a fingerboard?	Yes	S09/data/set2/a10
 
-  The lyre is a stringed musical instrument well known for its use in classical antiquity and later.
+A classical lyre has a hollow body or sound-chest (also known as soundbox or resonator).
 
 Is a guitar played with a plectrum like a lyre?	Yes	S09/data/set2/a10
 
-  The lyre is a stringed musical instrument well known for its use in classical antiquity and later.
+The lyre of Classical Antiquity was ordinarily played by being strummed with a plectrum, like a guitar or a zither, rather than being plucked, like a harp.
 
 Was Michael Faraday an English chemist?	yes	S09/data/set4/a7
 
@@ -2148,11 +2140,11 @@ Who was made to travel outside the coach?	Faraday	S09/data/set4/a7
 
 Did Faraday construct the ancestor of modern power generators?	yes	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+Sculptor John Henry Foley RA Faraday later used the principle to construct the electric dynamo, the ancestor of modern power generators.
 
 Did Faraday construct the ancestor of modern power generators?	yes	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+Sculptor John Henry Foley RA Faraday later used the principle to construct the electric dynamo, the ancestor of modern power generators.
 
 Did Faraday lecture on education in 1854?	yes	S09/data/set4/a7
 
@@ -2164,27 +2156,27 @@ Did Faraday lecture on education in 1854?	yes	S09/data/set4/a7
 
 Did Faraday receive an extensive formal education?	no	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+Although Faraday received little formal education and knew little of higher mathematics, such as calculus, he was one of the most influential scientists in history.
 
 Did Faraday receive an extensive formal education?	no	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+Although Faraday received little formal education and knew little of higher mathematics, such as calculus, he was one of the most influential scientists in history.
 
 Did Faraday discover the chemical substance benzene?	yes	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+Being Instructions to Students in Chemistry (1827) Faraday worked extensively in the field of chemistry, discovering chemical substances such as benzene (which he called bicarburet of hydrogen), inventing the system of oxidation numbers, and liquefying gases such as chlorine.
 
 Did Faraday discover the chemical substance benzene?	yes	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+Being Instructions to Students in Chemistry (1827) Faraday worked extensively in the field of chemistry, discovering chemical substances such as benzene (which he called bicarburet of hydrogen), inventing the system of oxidation numbers, and liquefying gases such as chlorine.
 
 Was Faraday born in England?	yes	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+Michael Faraday from a photograph by John Watkins, British Library Michael Faraday was born in Newington Butts, near present-day South London, England.
 
 Was Faraday born in England?	yes	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+Michael Faraday from a photograph by John Watkins, British Library Michael Faraday was born in Newington Butts, near present-day South London, England.
 
 What do some historians of science refer to Faraday as?	the best experimentalist in the history of science	S09/data/set4/a7
 
@@ -2204,11 +2196,11 @@ Who was the sponsor and mentor of Faraday?	John 'Mad Jack' Fuller	S09/data/set4/
 
 What did Faraday invent that is used almost universally in science laboratories?	the Bunsen burner	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+He invented an early form of what was to become the Bunsen burner, which is used almost universally in science laboratories as a convenient source of heat.  
 
 What did Faraday invent that is used almost universally in science laboratories?	Bunsen burner	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+He invented an early form of what was to become the Bunsen burner, which is used almost universally in science laboratories as a convenient source of heat.  
 
 Does the production of chemical weapons raise an ethical issue?	yes	S09/data/set4/a7
 
@@ -2216,15 +2208,15 @@ Does the production of chemical weapons raise an ethical issue?	yes	S09/data/set
 
 What was the Faraday effect first called?	diamagnetism	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+Faraday was the first to report what later came to be called metallic nanoparticles.
 
 What was the Faraday effect first called?	diamagnetism	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+Faraday was the first to report what later came to be called metallic nanoparticles.
 
 Can you meet someone through attending a church?	yes	S09/data/set4/a7
 
-He discovered electromagnetic induction, diamagnetism and electrolysis.
+They met through attending the Sandemanian church.
 
 What was Michael Faraday`s birthplace?	Newington Butts	S09/data/set4/a7
 
@@ -2236,19 +2228,19 @@ What was Michael Faraday`s profession?	chemist and physicist	S09/data/set4/a7
 
 How many years ago did Faraday report on the first synthesis of compound make from carbon and chlorine , c 2 h 6 and c 2 h 4 ?	189	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+This idea was rejected by his fellow scientists, and Faraday did not live to see this idea eventually accepted.
 
 How many years ago was it when he discovered the phenomenon that he named diamagnetism , and what is now called the Faraday effect?	164	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+In 1845, he discovered the phenomenon that he named diamagnetism, and what is now called the Faraday effect: The plane of polarization of linearly polarized light propagated through a material medium can be rotated by the application of an external magnetic field aligned in the propagation direction.
 
 How many years ago was it when Faraday wrote a letter to The Times on the subject of the foul condition of the River Thames , which resulted in an oft-reprinted cartoon in Punch?	154	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+It was not until Davy's death, in 1829, that Faraday stopped these fruitless tasks and moved on to endeavors that were more worthwhile.
 
 How many years ago was it when he discovered that the optical properties of gold colloids differed from those of the corresponding bulk metal?	162	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+He established that magnetism could affect rays of light and that there was an underlying relationship between the two phenomena.
 
 Was education another area  of service  for Faraday?	yes	S09/data/set4/a7
 
@@ -2268,7 +2260,7 @@ Michael Faraday from a photograph by John Watkins, British Library Michael Farad
 
 Where did he serve two terms?	the Church of Scotland	S09/data/set4/a7
 
-He discovered electromagnetic induction, diamagnetism and electrolysis.
+  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
 
 Who was born in Newington Butts, near present-day South London, England?	Michael Faraday	S09/data/set4/a7
 
@@ -2320,7 +2312,7 @@ Is Nassau County named after a German town?	yes	S09/data/set3/a2
 
 Does the United States have a base near Glasgow?	yes	S09/data/set3/a2
 
-*Nassau Street (Princeton): a street in Princeton, New Jersey, U.S. *Nassau Street (Manhattan): a street in Lower Manhattan, New York City, U.S.  *Nassau, Saxony: a village in Saxony, Germany, in the Ore Mountains  Of the House of Orange-Nassau, royal dynasty of the Netherlands: *Adolf of Nassau *Johan Willem Friso of Orange-Nassau *Louis of Nassau *Maurice of Nassau *Sophia of Nassau *Willem of Nassau *William Henry Nassau de Zuylestein, 4th Earl of Rochford  *John Maurice of Nassau  *Adolf of Nassau-Weilburg *Adolphe, Grand Duke of Luxembourg *Guillaume IV, Grand Duke of Luxembourg *Marie-Adélaïde, Grand Duchess of Luxembourg *Charlotte, Grand Duchess of Luxembourg *Jean, Grand Duke of Luxembourg *Henri, Grand Duke of Luxembourg  *Nassau William Senior  *House of Nassau *List of rulers of Nassau  *Nassau (steamboat), a steamboat placed in operation by Robert Fulton between Manhattan and Brooklyn in the U.S. state of New York in 1814 *Nassau Hall: the oldest building at Princeton University, and a meeting place for the USA's Second Continental Congress *Evangelical Church of Hesse and Nassau; a church in Germany *Fort Nassau: name of several forts built by the Dutch in the 17th century *Nassau agreement: a treaty between the United States and the United Kingdom trading US-built Polaris missiles for rights to lease a nuclear submarine base in the Holy Loch, near Glasgow *Nassau grouper: an endangered species of fish *Nassau Community College: a two-year college in Nassau County, New York, USA *Nassau Stakes: a horse race in the United Kingdom *Nassau Stakes (Canada): a horse race in Canada *Nassau Sound: a body of water in the U.S. state of Florida *Nassau Veterans Memorial Coliseum; an ice hockey arena in Uniondale, New York, USA *USS Nassau (CVE-16): a United States Navy escort aircraft carrier *USS Nassau (LHA-4): a United States Navy amphibious assault ship *SMS Nassau: a German battleship *Nassau (bet): a type of bet between golfers that is essentially three separate bets.
+ __NOTOC__ Nassau may mean the following:  Nassau, Germany: a town in Rhineland-Palatinate founded in AD 915, after which all the following are named, directly or indirectly: *Nassau Castle, ancestral seat of the House of Nassau *Duchy of Nassau: an extinct German duchy *Hesse-Nassau: the Prussian province formed by annexation of that duchy *Baarle-Nassau: a town in the southern Netherlands *Nassau-Siegen: a historical territory in Germany *Nassau, Bahamas: capital city of The Bahamas, on the island of New Providence. *
 
 Did Tesla study electrical engineering?	Yes	S09/data/set4/a3
 
@@ -2332,27 +2324,27 @@ Tesla then studied electrical engineering at the Austrian Polytechnic in Graz (1
 
 Was Tesla born in the United States?	No	S09/data/set4/a3
 
-  Nikola Tesla (Serbian Cyrillic: ÐÐ¸ÐºÐ¾Ð»Ð° Ð¢ÐµÑÐ»Ð°) (July 10 1856  7 January 1943) was an inventor, physicist, mechanical engineer, and electrical engineer.
+Born in Smiljan, Croatian Krajina, Military Frontier, he was an ethnic Serb subject of the Austrian Empire and later became an American citizen.
 
 Was Tesla born in the United States?	no	S09/data/set4/a3
 
-  Nikola Tesla (Serbian Cyrillic: ÐÐ¸ÐºÐ¾Ð»Ð° Ð¢ÐµÑÐ»Ð°) (July 10 1856  7 January 1943) was an inventor, physicist, mechanical engineer, and electrical engineer.
+Born in Smiljan, Croatian Krajina, Military Frontier, he was an ethnic Serb subject of the Austrian Empire and later became an American citizen.
 
 Was Tesla hired by Edison?	Yes	S09/data/set4/a3
 
-  Nikola Tesla (Serbian Cyrillic: ÐÐ¸ÐºÐ¾Ð»Ð° Ð¢ÐµÑÐ»Ð°) (July 10 1856  7 January 1943) was an inventor, physicist, mechanical engineer, and electrical engineer.
+" Edison hired Tesla to work for his company Edison Machine Works.
 
 Was Tesla hired by Edison?	yes	S09/data/set4/a3
 
-  Nikola Tesla (Serbian Cyrillic: ÐÐ¸ÐºÐ¾Ð»Ð° Ð¢ÐµÑÐ»Ð°) (July 10 1856  7 January 1943) was an inventor, physicist, mechanical engineer, and electrical engineer.
+" Edison hired Tesla to work for his company Edison Machine Works.
 
 When did Tesla demonstrate wireless communication (radio)?	1893	S09/data/set4/a3
 
-  Nikola Tesla (Serbian Cyrillic: ÐÐ¸ÐºÐ¾Ð»Ð° Ð¢ÐµÑÐ»Ð°) (July 10 1856  7 January 1943) was an inventor, physicist, mechanical engineer, and electrical engineer.
+On his 50th birthday in 1906, Tesla demonstrated his 200 hp (150 kW) 16,000 rpm bladeless turbine.
 
 When did Tesla demonstrate wireless communication (radio)?	1893	S09/data/set4/a3
 
-  Nikola Tesla (Serbian Cyrillic: ÐÐ¸ÐºÐ¾Ð»Ð° Ð¢ÐµÑÐ»Ð°) (July 10 1856  7 January 1943) was an inventor, physicist, mechanical engineer, and electrical engineer.
+On his 50th birthday in 1906, Tesla demonstrated his 200 hp (150 kW) 16,000 rpm bladeless turbine.
 
 What is the SI unit measuring magnetic flux density or magnetic induction?	the tesla	S09/data/set4/a3
 
@@ -2372,7 +2364,7 @@ During this period, in the United States, Tesla's fame rivaled that of any other
 
 What type of current did Tesla invent?	AC	S09/data/set4/a3
 
-Tesla's patents and theoretical work formed the basis of modern alternating current electric power (AC) systems, including the polyphase power distribution systems and the AC motor, with which he helped usher in the Second Industrial Revolution.
+Did Tesla really invent the loudspeaker?".
 
 Who was the victor of the "War of Currents"?	Tesla	S09/data/set4/a3
 
@@ -2396,7 +2388,7 @@ Is Ottawa the capital of Canada?	Yes	S09/data/set3/a5
 
 Does Ottawa sit on the Ottowa River?	Yes	S09/data/set3/a5
 
-  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
+Ottawa sits at the confluence of three major rivers: the Ottawa River, the Gatineau River and the Rideau River.
 
 Do small tremors occur in Ottawa?	Yes	S09/data/set3/a5
 
@@ -2420,7 +2412,7 @@ What is Ottawa's major league hockey team?	the Ottawa Senators	S09/data/set3/a5
 
 What are Carleton University's athletic teams called?	Carleton Ravens	S09/data/set3/a5
 
-  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
+The Odawa are an Algonquin people who called the river the Kichi Sibi or Kichissippi, meaning "Great River".
 
 Is Ottawa colder than Moscow in January?	Yes	S09/data/set3/a5
 
@@ -2484,11 +2476,11 @@ What was Ottawa's name in 1850?	Bytown	S09/data/set3/a5
 
 Based on the average, in what year will the next small tremor occur in Ottawa?	2009	S09/data/set3/a5
 
-Ottawa lies on the banks of the Ottawa River, a major waterway that forms the boundary between Ontario and Quebec.
+  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
 
 Based on the average, in what year will the next small tremor occur in Ottawa?	2009	S09/data/set3/a5
 
-Ottawa lies on the banks of the Ottawa River, a major waterway that forms the boundary between Ontario and Quebec.
+  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
 
 Where were immigrants from in the 1800s?	Irish	S09/data/set3/a5
 
@@ -2504,35 +2496,35 @@ There are also discussions of having OC Transpo Light Rail and STO Transitway ne
 
 Does the giant otter live in South America?	Yes	S09/data/set1/a7
 
-  Otters are semi-aquatic (or in one case aquatic) fish-eating mammals.
+The sea otter does live in the sea for most of its life.
 
 Does the giant otter live in South America?	yes	S09/data/set1/a7
 
-  Otters are semi-aquatic (or in one case aquatic) fish-eating mammals.
+The sea otter does live in the sea for most of its life.
 
 Do otters have claws?	Yes	S09/data/set1/a7
 
-  Otters are semi-aquatic (or in one case aquatic) fish-eating mammals.
+Unlike most marine mammals (such as seals or whales), sea otters do not have a layer of insulating blubber.
 
 Do otters have claws?	yes	S09/data/set1/a7
 
-  Otters are semi-aquatic (or in one case aquatic) fish-eating mammals.
+Unlike most marine mammals (such as seals or whales), sea otters do not have a layer of insulating blubber.
 
 Do otters eat fish?	Yes	S09/data/set1/a7
 
-  Otters are semi-aquatic (or in one case aquatic) fish-eating mammals.
+River otters eat a variety of fish and shellfish, as well as small land mammals and birds.
 
 Do otters eat fish?	yes	S09/data/set1/a7
 
-  Otters are semi-aquatic (or in one case aquatic) fish-eating mammals.
+River otters eat a variety of fish and shellfish, as well as small land mammals and birds.
 
 What is an otter's den called?	A holt	S09/data/set1/a7
 
-  Otters are semi-aquatic (or in one case aquatic) fish-eating mammals.
+An otter's den is called a holt.
 
 What is an otter's den called?	holt	S09/data/set1/a7
 
-  Otters are semi-aquatic (or in one case aquatic) fish-eating mammals.
+An otter's den is called a holt.
 
 Where do sea otters live?	Beside water	S09/data/set1/a7
 
@@ -2560,11 +2552,11 @@ Do otters enjoy playing?	yes	S09/data/set1/a7
 
 Do sea otters have a layer of fat like whales?	No	S09/data/set1/a7
 
-  Otters are semi-aquatic (or in one case aquatic) fish-eating mammals.
+Unlike most marine mammals (such as seals or whales), sea otters do not have a layer of insulating blubber.
 
 Do sea otters have a layer of fat like whales?	no	S09/data/set1/a7
 
-  Otters are semi-aquatic (or in one case aquatic) fish-eating mammals.
+Unlike most marine mammals (such as seals or whales), sea otters do not have a layer of insulating blubber.
 
 Is the otter in the same family as the badger?	Yes	S09/data/set1/a7
 
@@ -2608,11 +2600,11 @@ What is the origin of the name Santiago?	sanit + iago, James	S09/data/set3/a6
 
 Who has released an album or song named Santiago?	The Chieftains; Loreena McKennitt	S09/data/set3/a6
 
-In Portugal: *Santiago (Alcácer do Sal), a parish in the municipality of Alcácer do Sal *Santiago (Arganil), a parish in the municipality of Arganil *Santiago (Armamar), a parish in the municipality of Armamar *Santiago (Lisbon), a parish in the municipality of Lisbon *Santiago (Seia), a parish in the municipality of Seia *Santiago (Sesimbra), a parish in the municipality of Sesimbra *Santiago (Tavira), a parish in the municipality of Tavira *Santiago (Torres Novas), a parish in the municipality of Torres Novas *Santiago da Guarda, a parish in the municipality of Ansião *Santiago da Ribeira de Alhariz, a parish in the municipality of Valpaços *Santiago de Besteiros, a parish in the municipality of Tondela *Santiago de Bougado, a parish in the municipality of Trofa *Santiago de Candoso, a parish in the municipality of Guimarães *Santiago do Cacém, a parish and a municipality in the Setúbal *Santiago de Carreiras, a parish in the municipality of Vila Verde *Santiago de Cassurrães, a parish in the municipality of Mangualde *Santiago de Figueiró, a parish in the municipality of Amarante *Santiago de Litém, a parish in the municipality of Pombal *Santiago de Montalegre, a parish in the municipality of Sardoal *Santiago de Piães, a parish in the municipality of Cinfães *Santiago de Riba-Ul, a parish in the municipality of Oliveira de Azeméis *Santiago de Subarrifana, a parish in the municipality of Penafiel *Santiago de Vila Chã, a parish in the municipality of Ponte da Barca *Santiago do Escoural, a parish in the municipality of Montemor-o-Novo *Santiago dos Velhos, a parish in the municipality of Arruda dos Vinhos *São Pedro e Santiago, a parish in the municipality of Torres Vedras *Santiago Maior (Alandroal), a parish in the municipality of Alandroal *Santiago Maior (Beja), a parish in the municipality of Beja *Santiago Maior (Castelo de Vide), a parish in the municipality of Castelo de Vide *Vale de Santiago, a parish in the municipality of Odemira In Spain: *Santiago de Compostela, Galicia *Santiago (Valdés), a parish in the municipality of Valdés *Santiago (Sariego), a parish in the municipality of Sariego *Santiago de la Ribera, a cluster of San Javier in Murcia *Santiago (comarca), a comarca in the province of A Coruña *Santiago del Teide, Canary Islands In the United States: * Santiago High School, Garden Grove, California * Santiago, Pennsylvania, in Allegheny County * Santiago Peak, a mountain in Orange County, California In Uruguay: *Montevideo, originally called San Felipe y Santiago de Montevideo In Venezuela: *Caracas, originally called Santiago de León de Caracas In geography: * Santiago River, a tributary of the Amazon River Santiago is the name of: * Benito Santiago, a professional baseball catcher * Hugo Santiago, film director * Joey Santiago, guitarist of the Pixies and The Martinis * Liliana Santiago, American Economist * Rafael Santiago Maria, a Brazilian footballer known simply as Santiago * Santiago Caballero, DJ and Producer * Santiago Cabrera, an actor * James, son of Zebedee, also called Saint James the Greater Fictional people: * Dominic Santiago, a fictional character from Gears of War * Santiago Arnavisca, a fictional character from * Santiago, the name of a character in Chronicle of a Death Foretold by Gabriel García Márquez * Santiago, the titular character of Ernest Hemingway's The Old Man and the Sea * Luis Santiago, a fictional character in the television series Babylon 5 * Santiago (The Vampire Chronicles), character in Anne Rice's novel Interview with the Vampire * Santiago, the main character of Paulo Coelho's The Alchemist (novel) * Santiago, a character on the television show Friday Night Lights
+ Santiago is Spanish for St. James (from santo, saint + iago, James).
 
 Who has released an album or song named Santiago?	The Chieftains and Loreena McKennitt	S09/data/set3/a6
 
-In Portugal: *Santiago (Alcácer do Sal), a parish in the municipality of Alcácer do Sal *Santiago (Arganil), a parish in the municipality of Arganil *Santiago (Armamar), a parish in the municipality of Armamar *Santiago (Lisbon), a parish in the municipality of Lisbon *Santiago (Seia), a parish in the municipality of Seia *Santiago (Sesimbra), a parish in the municipality of Sesimbra *Santiago (Tavira), a parish in the municipality of Tavira *Santiago (Torres Novas), a parish in the municipality of Torres Novas *Santiago da Guarda, a parish in the municipality of Ansião *Santiago da Ribeira de Alhariz, a parish in the municipality of Valpaços *Santiago de Besteiros, a parish in the municipality of Tondela *Santiago de Bougado, a parish in the municipality of Trofa *Santiago de Candoso, a parish in the municipality of Guimarães *Santiago do Cacém, a parish and a municipality in the Setúbal *Santiago de Carreiras, a parish in the municipality of Vila Verde *Santiago de Cassurrães, a parish in the municipality of Mangualde *Santiago de Figueiró, a parish in the municipality of Amarante *Santiago de Litém, a parish in the municipality of Pombal *Santiago de Montalegre, a parish in the municipality of Sardoal *Santiago de Piães, a parish in the municipality of Cinfães *Santiago de Riba-Ul, a parish in the municipality of Oliveira de Azeméis *Santiago de Subarrifana, a parish in the municipality of Penafiel *Santiago de Vila Chã, a parish in the municipality of Ponte da Barca *Santiago do Escoural, a parish in the municipality of Montemor-o-Novo *Santiago dos Velhos, a parish in the municipality of Arruda dos Vinhos *São Pedro e Santiago, a parish in the municipality of Torres Vedras *Santiago Maior (Alandroal), a parish in the municipality of Alandroal *Santiago Maior (Beja), a parish in the municipality of Beja *Santiago Maior (Castelo de Vide), a parish in the municipality of Castelo de Vide *Vale de Santiago, a parish in the municipality of Odemira In Spain: *Santiago de Compostela, Galicia *Santiago (Valdés), a parish in the municipality of Valdés *Santiago (Sariego), a parish in the municipality of Sariego *Santiago de la Ribera, a cluster of San Javier in Murcia *Santiago (comarca), a comarca in the province of A Coruña *Santiago del Teide, Canary Islands In the United States: * Santiago High School, Garden Grove, California * Santiago, Pennsylvania, in Allegheny County * Santiago Peak, a mountain in Orange County, California In Uruguay: *Montevideo, originally called San Felipe y Santiago de Montevideo In Venezuela: *Caracas, originally called Santiago de León de Caracas In geography: * Santiago River, a tributary of the Amazon River Santiago is the name of: * Benito Santiago, a professional baseball catcher * Hugo Santiago, film director * Joey Santiago, guitarist of the Pixies and The Martinis * Liliana Santiago, American Economist * Rafael Santiago Maria, a Brazilian footballer known simply as Santiago * Santiago Caballero, DJ and Producer * Santiago Cabrera, an actor * James, son of Zebedee, also called Saint James the Greater Fictional people: * Dominic Santiago, a fictional character from Gears of War * Santiago Arnavisca, a fictional character from * Santiago, the name of a character in Chronicle of a Death Foretold by Gabriel García Márquez * Santiago, the titular character of Ernest Hemingway's The Old Man and the Sea * Luis Santiago, a fictional character in the television series Babylon 5 * Santiago (The Vampire Chronicles), character in Anne Rice's novel Interview with the Vampire * Santiago, the main character of Paulo Coelho's The Alchemist (novel) * Santiago, a character on the television show Friday Night Lights
+ Santiago is Spanish for St. James (from santo, saint + iago, James).
 
 What is the Order of Santiago?	a Spanish knightly order	S09/data/set3/a6
 
@@ -2632,11 +2624,11 @@ What notable people have been named Santiago?	Benito, Hugo, and others	S09/data/
 
 What fictional stories include a main character named Santiago?	Gears of War, Rainbow Six: Covert Operations Essentials, Death Foretold by Gabriel GarcÃ­a MÃ¡rquez, Ernest Hemingway's The Old Man and the Sea, the television series Babylon 5, Anne Rice's novel Interview with the Vampire, aulo Coelho's The Alchemist (novel), the television show Friday Night Lights	S09/data/set3/a6
 
-In Portugal: *Santiago (Alcácer do Sal), a parish in the municipality of Alcácer do Sal *Santiago (Arganil), a parish in the municipality of Arganil *Santiago (Armamar), a parish in the municipality of Armamar *Santiago (Lisbon), a parish in the municipality of Lisbon *Santiago (Seia), a parish in the municipality of Seia *Santiago (Sesimbra), a parish in the municipality of Sesimbra *Santiago (Tavira), a parish in the municipality of Tavira *Santiago (Torres Novas), a parish in the municipality of Torres Novas *Santiago da Guarda, a parish in the municipality of Ansião *Santiago da Ribeira de Alhariz, a parish in the municipality of Valpaços *Santiago de Besteiros, a parish in the municipality of Tondela *Santiago de Bougado, a parish in the municipality of Trofa *Santiago de Candoso, a parish in the municipality of Guimarães *Santiago do Cacém, a parish and a municipality in the Setúbal *Santiago de Carreiras, a parish in the municipality of Vila Verde *Santiago de Cassurrães, a parish in the municipality of Mangualde *Santiago de Figueiró, a parish in the municipality of Amarante *Santiago de Litém, a parish in the municipality of Pombal *Santiago de Montalegre, a parish in the municipality of Sardoal *Santiago de Piães, a parish in the municipality of Cinfães *Santiago de Riba-Ul, a parish in the municipality of Oliveira de Azeméis *Santiago de Subarrifana, a parish in the municipality of Penafiel *Santiago de Vila Chã, a parish in the municipality of Ponte da Barca *Santiago do Escoural, a parish in the municipality of Montemor-o-Novo *Santiago dos Velhos, a parish in the municipality of Arruda dos Vinhos *São Pedro e Santiago, a parish in the municipality of Torres Vedras *Santiago Maior (Alandroal), a parish in the municipality of Alandroal *Santiago Maior (Beja), a parish in the municipality of Beja *Santiago Maior (Castelo de Vide), a parish in the municipality of Castelo de Vide *Vale de Santiago, a parish in the municipality of Odemira In Spain: *Santiago de Compostela, Galicia *Santiago (Valdés), a parish in the municipality of Valdés *Santiago (Sariego), a parish in the municipality of Sariego *Santiago de la Ribera, a cluster of San Javier in Murcia *Santiago (comarca), a comarca in the province of A Coruña *Santiago del Teide, Canary Islands In the United States: * Santiago High School, Garden Grove, California * Santiago, Pennsylvania, in Allegheny County * Santiago Peak, a mountain in Orange County, California In Uruguay: *Montevideo, originally called San Felipe y Santiago de Montevideo In Venezuela: *Caracas, originally called Santiago de León de Caracas In geography: * Santiago River, a tributary of the Amazon River Santiago is the name of: * Benito Santiago, a professional baseball catcher * Hugo Santiago, film director * Joey Santiago, guitarist of the Pixies and The Martinis * Liliana Santiago, American Economist * Rafael Santiago Maria, a Brazilian footballer known simply as Santiago * Santiago Caballero, DJ and Producer * Santiago Cabrera, an actor * James, son of Zebedee, also called Saint James the Greater Fictional people: * Dominic Santiago, a fictional character from Gears of War * Santiago Arnavisca, a fictional character from * Santiago, the name of a character in Chronicle of a Death Foretold by Gabriel García Márquez * Santiago, the titular character of Ernest Hemingway's The Old Man and the Sea * Luis Santiago, a fictional character in the television series Babylon 5 * Santiago (The Vampire Chronicles), character in Anne Rice's novel Interview with the Vampire * Santiago, the main character of Paulo Coelho's The Alchemist (novel) * Santiago, a character on the television show Friday Night Lights
+ Santiago is Spanish for St. James (from santo, saint + iago, James).
 
 What fictional stories include a main character named Santiago?	Interview with the Vampire, The Alchemist, and others	S09/data/set3/a6
 
-In Portugal: *Santiago (Alcácer do Sal), a parish in the municipality of Alcácer do Sal *Santiago (Arganil), a parish in the municipality of Arganil *Santiago (Armamar), a parish in the municipality of Armamar *Santiago (Lisbon), a parish in the municipality of Lisbon *Santiago (Seia), a parish in the municipality of Seia *Santiago (Sesimbra), a parish in the municipality of Sesimbra *Santiago (Tavira), a parish in the municipality of Tavira *Santiago (Torres Novas), a parish in the municipality of Torres Novas *Santiago da Guarda, a parish in the municipality of Ansião *Santiago da Ribeira de Alhariz, a parish in the municipality of Valpaços *Santiago de Besteiros, a parish in the municipality of Tondela *Santiago de Bougado, a parish in the municipality of Trofa *Santiago de Candoso, a parish in the municipality of Guimarães *Santiago do Cacém, a parish and a municipality in the Setúbal *Santiago de Carreiras, a parish in the municipality of Vila Verde *Santiago de Cassurrães, a parish in the municipality of Mangualde *Santiago de Figueiró, a parish in the municipality of Amarante *Santiago de Litém, a parish in the municipality of Pombal *Santiago de Montalegre, a parish in the municipality of Sardoal *Santiago de Piães, a parish in the municipality of Cinfães *Santiago de Riba-Ul, a parish in the municipality of Oliveira de Azeméis *Santiago de Subarrifana, a parish in the municipality of Penafiel *Santiago de Vila Chã, a parish in the municipality of Ponte da Barca *Santiago do Escoural, a parish in the municipality of Montemor-o-Novo *Santiago dos Velhos, a parish in the municipality of Arruda dos Vinhos *São Pedro e Santiago, a parish in the municipality of Torres Vedras *Santiago Maior (Alandroal), a parish in the municipality of Alandroal *Santiago Maior (Beja), a parish in the municipality of Beja *Santiago Maior (Castelo de Vide), a parish in the municipality of Castelo de Vide *Vale de Santiago, a parish in the municipality of Odemira In Spain: *Santiago de Compostela, Galicia *Santiago (Valdés), a parish in the municipality of Valdés *Santiago (Sariego), a parish in the municipality of Sariego *Santiago de la Ribera, a cluster of San Javier in Murcia *Santiago (comarca), a comarca in the province of A Coruña *Santiago del Teide, Canary Islands In the United States: * Santiago High School, Garden Grove, California * Santiago, Pennsylvania, in Allegheny County * Santiago Peak, a mountain in Orange County, California In Uruguay: *Montevideo, originally called San Felipe y Santiago de Montevideo In Venezuela: *Caracas, originally called Santiago de León de Caracas In geography: * Santiago River, a tributary of the Amazon River Santiago is the name of: * Benito Santiago, a professional baseball catcher * Hugo Santiago, film director * Joey Santiago, guitarist of the Pixies and The Martinis * Liliana Santiago, American Economist * Rafael Santiago Maria, a Brazilian footballer known simply as Santiago * Santiago Caballero, DJ and Producer * Santiago Cabrera, an actor * James, son of Zebedee, also called Saint James the Greater Fictional people: * Dominic Santiago, a fictional character from Gears of War * Santiago Arnavisca, a fictional character from * Santiago, the name of a character in Chronicle of a Death Foretold by Gabriel García Márquez * Santiago, the titular character of Ernest Hemingway's The Old Man and the Sea * Luis Santiago, a fictional character in the television series Babylon 5 * Santiago (The Vampire Chronicles), character in Anne Rice's novel Interview with the Vampire * Santiago, the main character of Paulo Coelho's The Alchemist (novel) * Santiago, a character on the television show Friday Night Lights
+ Santiago is Spanish for St. James (from santo, saint + iago, James).
 
 Is Santiago the national capital of a country?	Yes	S09/data/set3/a6
 
@@ -2668,7 +2660,7 @@ The name Castellano (Castilian), which refers directly to the origins of the Lan
 
 Are countries where is a regionalism in green?	NULL	S09/data/set5/a8
 
-  Spanish ( ) or Castilian (castellano) is a Romance language that originated in northern Spain, and gradually spread in the Kingdom of Castile and evolved into the principal language of government and trade.
+Countries where  is a regionalism are in green; countries without  are in red.  
 
 The deeper  the blue  is, is the more  predominant?	NULL	S09/data/set5/a8
 
@@ -2688,11 +2680,11 @@ Today, about 400 million people speak Spanish as a native language, making it th
 
 What kind of instrument is the spanish language?	NULL	S09/data/set5/a8
 
-  Spanish ( ) or Castilian (castellano) is a Romance language that originated in northern Spain, and gradually spread in the Kingdom of Castile and evolved into the principal language of government and trade.
+Spanish is an official language of the European Union.
 
 Is the lexical similarity with Italian estimated at 82%?	NULL	S09/data/set5/a8
 
-  Spanish ( ) or Castilian (castellano) is a Romance language that originated in northern Spain, and gradually spread in the Kingdom of Castile and evolved into the principal language of government and trade.
+At present, the lexical similarity with Italian is estimated at 82%.
 
 Is spanish an official language of the European Union?	NULL	S09/data/set5/a8
 
@@ -2728,11 +2720,11 @@ Spanish is one of the official languages of the United Nations, the European Uni
 
 Pasan en consecuencia , las palabras que comienzan por estas dos letras , o que las contienen , a alfabetizarse en los lugares que les corresponden dentro de la c y de la l , respectivamente ?	NULL	S09/data/set5/a8
 
-  Spanish ( ) or Castilian (castellano) is a Romance language that originated in northern Spain, and gradually spread in the Kingdom of Castile and evolved into the principal language of government and trade.
+En consecuencia, las palabras que comienzan por estas dos letras, o que las contienen, pasan a alfabetizarse en los lugares que les corresponden dentro de la c y de la l, respectivamente.
 
 Allow the common features of the writing systems of the Romance languages for a greater amount of interlingual reading comprehension than oral communication would ?	NULL	S09/data/set5/a8
 
-  Spanish ( ) or Castilian (castellano) is a Romance language that originated in northern Spain, and gradually spread in the Kingdom of Castile and evolved into the principal language of government and trade.
+The common features of the writing systems of the Romance languages allow for a greater amount of interlingual reading comprehension than oral communication would
 
 What was Swahili language`s profession?	NULL	S09/data/set5/a4
 
@@ -2740,7 +2732,7 @@ What was Swahili language`s profession?	NULL	S09/data/set5/a4
 
 How many years ago was an interterritorial conference held at Mombasa ?	NULL	S09/data/set5/a4
 
-  Swahili (Kiswahili) is the first language of the Swahili people (Waswahili), who inhabit several large stretches of the Indian Ocean coastline from southern Somalia to northern Mozambique, including the Comoros Islands.
+In June 1928, an interterritorial conference was held at Mombasa, at which the Zanzibar dialect, Kiunguja, was chosen to be the basis for standardizing Swahili.
 
 What is Swahili language`s last name?	NULL	S09/data/set5/a4
 
@@ -2748,7 +2740,7 @@ What is Swahili language`s last name?	NULL	S09/data/set5/a4
 
 How many years ago was it when the rulers of Zanzibar organized trading expeditions into the interior of the mainland , up to the various lakes in the continent `s Great Rift Valley?	NULL	S09/data/set5/a4
 
-  Swahili (Kiswahili) is the first language of the Swahili people (Waswahili), who inhabit several large stretches of the Indian Ocean coastline from southern Somalia to northern Mozambique, including the Comoros Islands.
+It is not clear how many remain. "
 
 What is Swahili language`s first name?	NULL	S09/data/set5/a4
 
@@ -2768,7 +2760,7 @@ Is a third  prefix the object  prefix?	Yes	S09/data/set5/a4
 
 When is /ref>	NULL	S09/data/set5/a4
 
-The nasal stops are pronounced as separate syllables when they appear before a plosive (mtoto  "child", nilimpiga  "I hit him"), and prenasalized stops are decomposed into two syllables when the word would otherwise have one (mbwa  "dog").
+  Swahili (Kiswahili) is the first language of the Swahili people (Waswahili), who inhabit several large stretches of the Indian Ocean coastline from southern Somalia to northern Mozambique, including the Comoros Islands.
 
 Swahili unusual?	NULL	S09/data/set5/a4
 
@@ -2788,7 +2780,7 @@ Some writers mark aspirated consonants with an apostrophe (t'embo "elephant").
 
 Was one key step in spreading Swahili to create a standard written language?	NULL	S09/data/set5/a4
 
-  Swahili (Kiswahili) is the first language of the Swahili people (Waswahili), who inhabit several large stretches of the Indian Ocean coastline from southern Somalia to northern Mozambique, including the Comoros Islands.
+One key step in spreading Swahili was to create a standard written language.
 
 Are there today more speakers in Kenya of the Somali coast?	NULL	S09/data/set5/a4
 
@@ -2800,7 +2792,7 @@ Swahili is unusual among sub-Saharan languages in having lost the feature of lex
 
 The pronunciation of the phoneme / u / stands between what?	NULL	S09/data/set5/a4
 
-Standard Swahili has five vowel phonemes: , , , , and .
+The pronunciation of the phoneme /u/ stands between International Phonetic Alphabet u and oâ ~Éµ (as found in Italian, for example).
 
 Are vowels never reduced , regardless of stress ?	Yes	S09/data/set5/a4
 
@@ -2808,19 +2800,19 @@ Vowels are never reduced, regardless of stress.
 
 Does the Australian Black Swan have white feathers on its wings?	yes	S09/data/set1/a10
 
-  Swans are birds of the family Anatidae, which also includes geese and ducks.
+The Australian Black Swan (Cygnus atratus) is completely black except for the white flight feathers on its wings; the babies of black swans are light grey in colour, and the South American Black-necked Swan has a black neck.
 
 Does the Australian Black Swan have white feathers on its wings?	Yes	S09/data/set1/a10
 
-  Swans are birds of the family Anatidae, which also includes geese and ducks.
+The Australian Black Swan (Cygnus atratus) is completely black except for the white flight feathers on its wings; the babies of black swans are light grey in colour, and the South American Black-necked Swan has a black neck.
 
 Do swans belong to the family Anatidae?	yes	S09/data/set1/a10
 
-  Swans are birds of the family Anatidae, which also includes geese and ducks.
+The fossil record of the genus Cygnus is quite impressive, although allocation to the subgenera is often tentative; as indicated above, at least the early forms probably belong to the C. olor - Southern Hemisphere lineage, whereas the Pleistocene taxa from North America would be placed in Olor.
 
 Do swans belong to the family Anatidae?	Yes	S09/data/set1/a10
 
-  Swans are birds of the family Anatidae, which also includes geese and ducks.
+The fossil record of the genus Cygnus is quite impressive, although allocation to the subgenera is often tentative; as indicated above, at least the early forms probably belong to the C. olor - Southern Hemisphere lineage, whereas the Pleistocene taxa from North America would be placed in Olor.
 
 Can black swans swim with only one leg?	yes	S09/data/set1/a10
 
@@ -2856,11 +2848,11 @@ What is the Sanskrit word for swan?	Hamsa or hansa	S09/data/set1/a10
 
 Which album was the song "The Bonny Swans" from?	The Mask and Mirror	S09/data/set1/a10
 
-  Swans are birds of the family Anatidae, which also includes geese and ducks.
+Swan is also the name of a character in the film "The Warriors." "The Bonny Swans" is a song from Loreena McKennitt's 1994 album The Mask and Mirror.
 
 Which album was the song "The Bonny Swans" from?	The Mask and Mirror	S09/data/set1/a10
 
-  Swans are birds of the family Anatidae, which also includes geese and ducks.
+Swan is also the name of a character in the film "The Warriors." "The Bonny Swans" is a song from Loreena McKennitt's 1994 album The Mask and Mirror.
 
 What is the Polish word for swan?	&#321;ab&#281;d&#378;	S09/data/set1/a10
 
@@ -2872,11 +2864,11 @@ What is the Polish word for swan?	ÅabÄdÅº	S09/data/set1/a10
 
 Which ballet by Pyotr Tchaikovsky is partially based on an Ancient German legend about a princess who was turned into a swan?	Swan Lake	S09/data/set1/a10
 
-  Swans are birds of the family Anatidae, which also includes geese and ducks.
+It is partially based on an ancient German legend, which tells the story of Odette, a princess turned into a swan by an evil sorcerer's curse - to which were added similar elements from Russian Russian folk tales such as The White Duck collected by Alexander Nikolayevich Afanasyev in Narodnye russkie skazki .
 
 Which ballet by Pyotr Tchaikovsky is partially based on an Ancient German legend about a princess who was turned into a swan?	Swan Lake	S09/data/set1/a10
 
-  Swans are birds of the family Anatidae, which also includes geese and ducks.
+It is partially based on an ancient German legend, which tells the story of Odette, a princess turned into a swan by an evil sorcerer's curse - to which were added similar elements from Russian Russian folk tales such as The White Duck collected by Alexander Nikolayevich Afanasyev in Narodnye russkie skazki .
 
 Are swan birds of the family Anatidae?	Yes.	S09/data/set1/a10
 
@@ -2912,11 +2904,11 @@ What is the name of young swans?	Cygnets	S09/data/set1/a10
 
 Where is the word "swan" derived from?	Old English swan.	S09/data/set1/a10
 
-  Swans are birds of the family Anatidae, which also includes geese and ducks.
+The word "swan" is derived from Old English swan, akin to the German Schwan and Dutch zwaan, in turn derived from Indo-European root *swen (to sound, to sing), whence Latin derives sonus (sound).
 
 Where is the word "swan" derived from?	The Old English word "swan," derived from the Indo-European root "*swen", meaning to sound or to sing	S09/data/set1/a10
 
-  Swans are birds of the family Anatidae, which also includes geese and ducks.
+The word "swan" is derived from Old English swan, akin to the German Schwan and Dutch zwaan, in turn derived from Indo-European root *swen (to sound, to sing), whence Latin derives sonus (sound).
 
 What is the best known story about a swan?	The Ugly Duckling fable.	S09/data/set1/a10
 
@@ -2976,19 +2968,19 @@ Are panthers a type of tiger?	No	S09/data/set1/a3
 
 What do tigers' powerfully built legs and shoulders allow tigers to do?	They have the ability to pull down prey substantially heavier than themselves.	S09/data/set1/a3
 
-  The tiger (Panthera tigris) is a member of the Felidae family; the largest of the four "big cats" in the genus Panthera.  
+They also have powerfully built legs and shoulders, with the result that they, like lions, have the ability to pull down prey substantially heavier than themselves.
 
 What do tigers' powerfully built legs and shoulders allow tigers to do?	have the ability to pull down prey substantially heavier than themselves	S09/data/set1/a3
 
-  The tiger (Panthera tigris) is a member of the Felidae family; the largest of the four "big cats" in the genus Panthera.  
+They also have powerfully built legs and shoulders, with the result that they, like lions, have the ability to pull down prey substantially heavier than themselves.
 
 What would a tiger do when seized by a crocodile?	A tiger will strike at the reptile's eyes with its paws.	S09/data/set1/a3
 
-  The tiger (Panthera tigris) is a member of the Felidae family; the largest of the four "big cats" in the genus Panthera.  
+When young female tigers first establish a territory, they tend to do so fairly close to their mother's area.
 
 What would a tiger do when seized by a crocodile?	strike at the reptile's eyes with its paws	S09/data/set1/a3
 
-  The tiger (Panthera tigris) is a member of the Felidae family; the largest of the four "big cats" in the genus Panthera.  
+When young female tigers first establish a territory, they tend to do so fairly close to their mother's area.
 
 What are the typical features of a tiger country?	It will always have good cover, it will always be close to water and plenty of prey.	S09/data/set1/a3
 
@@ -3008,19 +3000,19 @@ Would it be common for tigers to mate in January?	Yes	S09/data/set1/a3
 
 About how many square kilometers would be needed to house 3 female tigers?	60 square kilometers	S09/data/set1/a3
 
-  The tiger (Panthera tigris) is a member of the Felidae family; the largest of the four "big cats" in the genus Panthera.  
+The stripe pattern is found on a tiger's skin and if shaved, its distinctive camouflage pattern would be preserved.
 
 About how many square kilometers would be needed to house 3 female tigers?	60	S09/data/set1/a3
 
-  The tiger (Panthera tigris) is a member of the Felidae family; the largest of the four "big cats" in the genus Panthera.  
+The stripe pattern is found on a tiger's skin and if shaved, its distinctive camouflage pattern would be preserved.
 
 Would a tiger be likely to feedon smaller animals, such as mice?	Yes	S09/data/set1/a3
 
-  The tiger (Panthera tigris) is a member of the Felidae family; the largest of the four "big cats" in the genus Panthera.  
+The stripe pattern is found on a tiger's skin and if shaved, its distinctive camouflage pattern would be preserved.
 
 Did the predecessors to trumpets have valves?	No	S09/data/set2/a3
 
-  The trumpet is a musical instrument with the highest register in the brass family.  /ref
+The predecessors to trumpets did not have valves; however, modern trumpets have either three piston valves or three rotary valves, each of which increases the length of tubing when engaged, thereby lowering the pitch.
 
 Are trumpets constructed of brass?	Yes	S09/data/set2/a3
 
@@ -3032,7 +3024,7 @@ The smallest trumpets are referred to as piccolo trumpets.
 
 What musical styles is the trumpet used in?	Ska, ska punk, classical, jazz, Rock, Blues, pop, polka, cuban music, mariachi and funk.	S09/data/set2/a3
 
-  The trumpet is a musical instrument with the highest register in the brass family.  /ref
+The trumpet is used in a wide range of musical styles including ska, ska punk, classical, jazz, Rock, Blues, pop, polka, cuban music, mariachi and funk.   
 
 What is the most common type of trumpet?	The B trumpet.	S09/data/set2/a3
 
@@ -3040,7 +3032,7 @@ What is the most common type of trumpet?	The B trumpet.	S09/data/set2/a3
 
 How does a trumpet produce sound?	By blowing air through closed lips.	S09/data/set2/a3
 
-  The trumpet is a musical instrument with the highest register in the brass family.  /ref
+It is also possible to produce pedal tones below the low F , although this technique is more often encountered as a sound-production exercise than as a written trumpet part.
 
 How do trumpets compensate for wolf tones?	Somce trumpetes have a slide mechanism built in to compensate.	S09/data/set2/a3
 
@@ -3052,35 +3044,35 @@ A musician who plays the trumpet is called a trumpet player or trumpeter.
 
 Does a trumpet have a mellower tone than a cornet?	No	S09/data/set2/a3
 
-  The trumpet is a musical instrument with the highest register in the brass family.  /ref
+By comparison, the cornet and flugelhorn have conical bores and produce a more mellow tone.
 
 Is the name of the upper shell of a turtle called the plastron?	No.	S09/data/set1/a4
 
-  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+The upper shell of the turtle is called the carapace.
 
 Do scutes fall away from the turtle's shell?	Some of the scutes eventually fall away from the shell.	S09/data/set1/a4
 
-  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+Anatomy and Diseases of the Shells of Turtles and Tortoises  This method is not very accurate, partly because growth rate is not constant, but also because some of the scutes eventually fall away from the shell.  
 
 Do scutes fall away from the turtle's shell?	yes, eventually	S09/data/set1/a4
 
-  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+Anatomy and Diseases of the Shells of Turtles and Tortoises  This method is not very accurate, partly because growth rate is not constant, but also because some of the scutes eventually fall away from the shell.  
 
 Do Terrestrial tortoises have short feet?	Yes.	S09/data/set1/a4
 
-"Turtle" may either refer to the Testudines as a whole, or to particular Testudines which make up a form taxon that is not monophyletic  see also sea turtle, terrapin, tortoise, and the discussion below.
+Terrestrial tortoises have short, sturdy feet.
 
 Do Terrestrial tortoises have short feet?	yes	S09/data/set1/a4
 
-"Turtle" may either refer to the Testudines as a whole, or to particular Testudines which make up a form taxon that is not monophyletic  see also sea turtle, terrapin, tortoise, and the discussion below.
+Terrestrial tortoises have short, sturdy feet.
 
 How many groups are turtles broken down into?	Two	S09/data/set1/a4
 
-  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+Turtles are broken down into two groups, according to how they evolved a solution to the problem of withdrawing their neck into their shell (something the ancestral Proganochelys could not do): the Cryptodira, which can draw their neck in while contracting it under their spine; and the Pleurodira, which contract their neck to the side.  
 
 How many groups are turtles broken down into?	two	S09/data/set1/a4
 
-  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+Turtles are broken down into two groups, according to how they evolved a solution to the problem of withdrawing their neck into their shell (something the ancestral Proganochelys could not do): the Cryptodira, which can draw their neck in while contracting it under their spine; and the Pleurodira, which contract their neck to the side.  
 
 Where are the only surviving giant tortoises?	They are on the Seychelles and GalÃ¡pagos Islands.	S09/data/set1/a4
 
@@ -3136,11 +3128,11 @@ Are harvesting wild turtles legal anywhere?	yes	S09/data/set1/a9
 
 Approximately how many species of Testudines are alive today?	300	S09/data/set1/a9
 
-  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+About 300 species are alive today, and some are highly endangered.
 
 Approximately how many species of Testudines are alive today?	300	S09/data/set1/a9
 
-  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+About 300 species are alive today, and some are highly endangered.
 
 Where is harvesting wild turtles legal?	Florida	S09/data/set1/a9
 
@@ -3168,11 +3160,11 @@ Is there a way to approximate the age of a turtle?	Yes	S09/data/set1/a9
 
 Can turtles spend all their time underwater?	no	S09/data/set1/a9
 
-  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+Although many turtles spend large amounts of their lives underwater, all turtles and tortoises breathe air, and must surface at regular intervals to refill their lungs.
 
 Can turtles spend all their time underwater?	No	S09/data/set1/a9
 
-  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+Although many turtles spend large amounts of their lives underwater, all turtles and tortoises breathe air, and must surface at regular intervals to refill their lungs.
 
 Are violinists and fiddlers the same thing?	Yes	S09/data/set2/a2
 
@@ -3208,19 +3200,19 @@ The word "violin" comes from the Middle Latin word vitula, meaning "stringed ins
 
 What is someone who makes violins called?	a luthier, or simply a violin maker	S09/data/set2/a2
 
-  The violin is a bowed string instrument with four strings usually tuned in perfect fifths.
+A person who makes or repairs violins is called a luthier, or simply a violin maker.
 
 What is someone who makes violins called?	a luthier	S09/data/set2/a2
 
-  The violin is a bowed string instrument with four strings usually tuned in perfect fifths.
+A person who makes or repairs violins is called a luthier, or simply a violin maker.
 
 How many strings does a violin usually have?	four	S09/data/set2/a2
 
-  The violin is a bowed string instrument with four strings usually tuned in perfect fifths.
+Such small instruments are typically intended for beginners needing a rugged violin, and whose rudimentary technique does not justify the expense of a more carefully made one.
 
 How many strings does a violin usually have?	4	S09/data/set2/a2
 
-  The violin is a bowed string instrument with four strings usually tuned in perfect fifths.
+Such small instruments are typically intended for beginners needing a rugged violin, and whose rudimentary technique does not justify the expense of a more carefully made one.
 
 What are violins made of?	different types of wood	S09/data/set2/a2
 
@@ -3232,11 +3224,11 @@ Violinists and collectors particularly prize the instruments made by the Stradiv
 
 How long have people been making instruments like violins?	since ancient times	S09/data/set2/a2
 
-  The violin is a bowed string instrument with four strings usually tuned in perfect fifths.
+While most violins have four strings, there are some instruments with five strings,  six, or even seven.
 
 How long have people been making instruments like violins?	since 1555	S09/data/set2/a2
 
-  The violin is a bowed string instrument with four strings usually tuned in perfect fifths.
+While most violins have four strings, there are some instruments with five strings,  six, or even seven.
 
 Whate is the usual pitch range of a violin?	from G3 to C8	S09/data/set2/a2
 
@@ -3256,7 +3248,7 @@ Perhaps due to his great influence, xylophonists continued to be featured in the
 
 Were ancient mallets made of copper?	no	S09/data/set2/a8
 
-  The xylophone (from the Greek words Î¾ÏÎ»Î¿Î½ - xylon, "wood" + ÏÏÎ½Î® - phone, "voice", meaning "wooden sound") is a musical instrument in the percussion family which probably originated in Indonesia.
+Ancient mallets were made of willow wood with spoon-like bowls on the beaten ends.
 
 Where did the xylophone originate?	Indonesia	S09/data/set2/a8
 
@@ -3272,13 +3264,13 @@ Western-style xylophones are characterised by a bright, sharp tone and high regi
 
 Can a xylophone be 3 octaves?	yes	S09/data/set2/a8
 
-  The xylophone (from the Greek words Î¾ÏÎ»Î¿Î½ - xylon, "wood" + ÏÏÎ½Î® - phone, "voice", meaning "wooden sound") is a musical instrument in the percussion family which probably originated in Indonesia.
+Some xylophones can be as small as 2 1/2 octaves but concert xylophones are typically 3 1/2 or 4 octaves.
 
 Can a short bar follow a long bar?	no	S09/data/set2/a8
 
-It consists of wooden bars of various lengths that are struck by plastic, wooden, or rubber mallets.
+  The xylophone (from the Greek words Î¾ÏÎ»Î¿Î½ - xylon, "wood" + ÏÏÎ½Î® - phone, "voice", meaning "wooden sound") is a musical instrument in the percussion family which probably originated in Indonesia.
 
 Did vibraphones exist in 1930?	yes	S09/data/set2/a8
 
-Perhaps due to his great influence, xylophonists continued to be featured in theater shows and concert halls until well into the 20th century The xylophone is a precursor to the vibraphone, which was developed in the 1920s.
+  The xylophone (from the Greek words Î¾ÏÎ»Î¿Î½ - xylon, "wood" + ÏÏÎ½Î® - phone, "voice", meaning "wooden sound") is a musical instrument in the percussion family which probably originated in Indonesia.
 

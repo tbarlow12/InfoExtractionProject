@@ -82,11 +82,13 @@ def longest_match(lemmas1, lemmas2):
                 longest_match = match_length
     return longest_match
 
-def get_root_verb(doc):
-    for np in doc.noun_chunks:
-        if np.root.head.pos_ == 'VERB':
-            return np.root.head.lemma_
-    return None
+def get_root_verb(transformed):
+    if transformed is None:
+        return None
+    right = transformed[2]
+    for token in right:
+        if token.pos_ == 'VERB':
+            return token.lemma_
 
 
 def get_sentences_with_longest_match(question, sentences, min_match):

@@ -21,7 +21,7 @@ def longest_match_sentence(question, sentences, answer_type):
         else:
             return top[0][0]
 
-def most_similar_sentence(question, sentences, answer_type):
+def most_similar_sentence(question, transformed, sentences, answer_type):
     top = h.get_top_similar(question,transformed,sentences,10)
     if answer_type[0] == 1:
         sentence = h.get_first_entity_with_label(top,answer_type[1])
@@ -32,8 +32,8 @@ def most_similar_sentence(question, sentences, answer_type):
 
 def get_sentence(question, sentences, answer_type, transformed):
     sentence = h.find_exact_match(transformed, sentences)
-    if sentence is None:
-        sentence = longest_match_sentence(question, sentences, answer_type)
+    #if sentence is None:
+    #    sentence = longest_match_sentence(question, sentences, answer_type)
     if sentence is None:
         sentence = most_similar_sentence(question, transformed, sentences, answer_type)
     return sentence
