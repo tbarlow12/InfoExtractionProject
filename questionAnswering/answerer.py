@@ -51,7 +51,7 @@ def find_answer(question, sentences):
         for ent in sentence.ents:
             entities.append([ent.text, ent.label_])
 
-        return str(entities)
+        return str(entities) + '\n' + sentence.text
 
     return sentence.text
 

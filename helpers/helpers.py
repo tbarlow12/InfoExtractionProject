@@ -4,6 +4,7 @@ import sys
 import re
 import itertools
 import spacy
+from spacy.symbols import nsubj, dobj, conj, pobj, VERB
 import pdb
 
 nlp = spacy.load('en')
@@ -87,7 +88,7 @@ def get_root_verb(transformed):
         return None
     right = transformed[2]
     for token in right:
-        if token.pos_ == 'VERB':
+        if token.pos == VERB:
             return token.lemma_
 
 
@@ -102,13 +103,57 @@ def get_sentences_with_longest_match(question, sentences, min_match):
     pairs = sorted(pairs,key=lambda x:(-x[1]))
     return pairs
 
+def index_of(tokens,lemmatized_word):
+    for i in range(0,len(tokens)):
+        if tokens[i].lemma_ == lemmatized_word:
+            return i
+    return -1
+
+
+def get_subjects(doc):
+    verbs = set()
+    for possible_subject in doc:
+        if possible_subject.dep == nsubj and possible_subject.head.pos == VERB:
+            verbs.add(possible_subject.lemma_)
+    return verbs
+
+
+def get_subject_verbs(doc):
+    subjects = set()
+    for possible_subject in doc:
+        if possible_subject.dep == nsubj and possible_subject.head.pos == VERB:
+            subjects.add(possible_subject.head.lemma_)
+    return subjects
+
+def get_objects(doc):
+    objects = set()
+    for possible_object in doc:
+        if (possible_object.dep == dobj or possible_object.dep == pobj) and possible_object.head.pos == VERB:
+            objects.add(possible_object.lemma_)
+    return objects
+
+def is_semi_match(question,sentence):
+
+    q_subs = get_subjects(question)
+    q_verbs = get_subject_verbs(question)
+    q_obs =  get_objects(question)
+
+    s_subs = get_subjects(sentence)
+    s_verbs = get_subject_verbs(sentence)
+    s_obs = get_objects(sentence)
+
+    if len(q_verbs & s_verbs) > 0:
+        if len(q_subs & s_subs) > 0 or len(q_obs & s_obs) > 0:
+            return True
+    return False
 
 
 def get_top_similar(question, transformed, sentences, top):
     pairs = []
     verb = get_root_verb(transformed)
     for sentence in sentences:
-        if contains_verb(list(sentence), verb):
+        if contains_verb(list(sentence),verb):
+        #if is_semi_match(question,transformed,sentence):
             sim = jaccard_doc(question, sentence)
         else:
             sim = 0
@@ -368,6 +413,13 @@ def transform_question(question):
     result = [left,question_phrase,right]
     return result
 
+def get_head_noun_set(doc):
+    tokens = list(doc)
+    noun_idx = get_head_noun_indices(tokens)
+    nouns = set()
+    for index in noun_idx:
+        nouns.add(tokens[index].lower_)
+    return nouns
 
 def get_noun_set(doc):
     tokens = list(doc)

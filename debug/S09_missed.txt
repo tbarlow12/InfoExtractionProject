@@ -9,26 +9,32 @@ no
 What is the battery made by Volta credited to be?	the first cell	S09/data/set4/a10
 
 [[u'first', u'ORDINAL']]
+(  The battery made by Volta is credited to have been the first cell.
 
 What is the battery made by Volta credited to be?	the first cell	S09/data/set4/a10
 
 [[u'first', u'ORDINAL']]
+(  The battery made by Volta is credited to have been the first cell.
 
 What important electrical unit was named in honor of Volta?	the volt	S09/data/set4/a10
 
 [[u'1881', u'DATE']]
+In 1881 an important electrical unit, the volt, was named in his honor.
 
 What important electrical unit was named in honor of Volta?	volt	S09/data/set4/a10
 
 [[u'1881', u'DATE']]
+In 1881 an important electrical unit, the volt, was named in his honor.
 
 Where did Volta enter retirement?	Spain	S09/data/set4/a10
 
 [[u'Spain', u'GPE']]
+Volta entered retirement in Spain.  
 
 Where did Volta enter retirement?	Spain	S09/data/set4/a10
 
 [[u'Spain', u'GPE']]
+Volta entered retirement in Spain.  
 
 Is it a disadvantage for something to be unsafe to handle?	yes	S09/data/set4/a10
 
@@ -61,6 +67,7 @@ For how many years did Alessandro Volta live?	53	S09/data/set4/a10
 What was Alessandro Volta`s profession?	physisist	S09/data/set4/a10
 
 [[u'Count Alessandro', u'PERSON'], [u'February 18, 1745 - March 5, 1827', u'DATE'], [u'Italian', u'NORP'], [u'first', u'ORDINAL'], [u'1800', u'DATE']]
+  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
 
 How old was Alessandro Volta when he died?	 82	S09/data/set4/a10
 
@@ -69,6 +76,7 @@ How old was Alessandro Volta when he died?	 82	S09/data/set4/a10
 How many years ago was it when Volta married the daughter of Count Ludovico Peregrini , Teresa , with whom he raised three sons?	215	S09/data/set4/a10
 
 [[u'Austria', u'GPE'], [u'Lombardy', u'GPE'], [u'his day', u'DATE'], [u'France', u'GPE']]
+He was in correspondence with scientists in Austria, which ruled Lombardy in his day, and in France.
 
 Is volta buried in the city  of Como?	Yes	S09/data/set4/a10
 
@@ -81,10 +89,12 @@ Before 1796, Lombardy was ruled by Austria.
 When did lombardy come under Napoleon`s rule?	From 1796 to 1815	S09/data/set4/a10
 
 [[u'1796 to 1815', u'DATE'], [u'Lombardy', u'PERSON'], [u'Napoleon', u'ORG']]
+From 1796 to 1815, Lombardy came under Napoleon's rule.
 
 Where did he publish his invention of the Voltaic pile battery?	the Philosophical Transactions of the Royal Society	S09/data/set4/a10
 
 [[u'Voltaic', u'ORG'], [u'1800', u'DATE'], [u'Philosophical Transactions of the Royal Society', u'WORK_OF_ART']]
+He published his invention of the Voltaic pile battery in 1800 in the Philosophical Transactions of the Royal Society.
 
 Is it true that his passion been always the study of electricity?	Yes	S09/data/set4/a10
 
@@ -105,34 +115,42 @@ no
 Where was Avogadro a professor of physics?	University of Turin	S09/data/set4/a8
 
 [[u'1820', u'DATE'], [u'the University of Turin', u'ORG']]
+In 1820 he became a professor of physics at the University of Turin.
 
 Where was Avogadro a professor of physics?	University of Turin	S09/data/set4/a8
 
 [[u'1820', u'DATE'], [u'the University of Turin', u'ORG']]
+In 1820 he became a professor of physics at the University of Turin.
 
 How many children did Avogadro have?	six	S09/data/set4/a8
 
 [[u'Italy', u'GPE'], [u'Avogadro', u'GPE']]
+The unification of Italy did not happen during the life time of Avogadro.
 
 How many children did Avogadro have?	six	S09/data/set4/a8
 
 [[u'Italy', u'GPE'], [u'Avogadro', u'GPE']]
+The unification of Italy did not happen during the life time of Avogadro.
 
 What is Avogadro most noted for?	contributions to the theory of molarity and molecular weight	S09/data/set4/a8
 
 []
+He is most noted for his contributions to the theory of molarity and molecular weight.
 
 What is Avogadro most noted for?	contributions to the theory of molarity and molecular weight	S09/data/set4/a8
 
 []
+He is most noted for his contributions to the theory of molarity and molecular weight.
 
 What is Avogadro's number?	6.02214199x10 23	S09/data/set4/a8
 
 [[u'one', u'CARDINAL'], [u'6.02214199x10 23', u'CARDINAL'], [u'Avogadro', u'ORG']]
+As a tribute to him, the number of elementary entities (atoms, molecules, ions or other particles) in one mole of a substance, 6.02214199x10 23 , is known as Avogadro's number.  
 
 What is Avogadro's number?	6.02214199x10 23	S09/data/set4/a8
 
 [[u'one', u'CARDINAL'], [u'6.02214199x10 23', u'CARDINAL'], [u'Avogadro', u'ORG']]
+As a tribute to him, the number of elementary entities (atoms, molecules, ions or other particles) in one mole of a substance, 6.02214199x10 23 , is known as Avogadro's number.  
 
 In what year did Avogadro stop teaching at Turin University?	1853	S09/data/set4/a8
 
@@ -145,30 +163,37 @@ The unification of Italy did not happen during the life time of Avogadro.
 What subject did Avogadro study first?	ecclesiastical law	S09/data/set4/a8
 
 [[u'Italy', u'GPE'], [u'Avogadro', u'GPE']]
+The unification of Italy did not happen during the life time of Avogadro.
 
 What subject did Avogadro study first?	ecclesiastical law	S09/data/set4/a8
 
 [[u'Italy', u'GPE'], [u'Avogadro', u'GPE']]
+The unification of Italy did not happen during the life time of Avogadro.
 
 What was Amedeo Avogadro`s birthplace?	Turin	S09/data/set4/a8
 
 [[u'Amedeo Avogadro Lorenzo Romano', u'ORG'], [u'Carlo Avogadro', u'PERSON'], [u'Count', u'PERSON'], [u'Quaregna', u'GPE'], [u'Cerreto', u'PERSON'], [u'August 9, 1776', u'DATE'], [u'1856', u'DATE'], [u'Italian', u'NORP']]
+ Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
 
 What was Amedeo Avogadro`s profession?	professor of physics	S09/data/set4/a8
 
 [[u'Amedeo Avogadro Lorenzo Romano', u'ORG'], [u'Carlo Avogadro', u'PERSON'], [u'Count', u'PERSON'], [u'Quaregna', u'GPE'], [u'Cerreto', u'PERSON'], [u'August 9, 1776', u'DATE'], [u'1856', u'DATE'], [u'Italian', u'NORP']]
+ Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
 
 How many years ago was it when he became a professor of physics at the University of Turin?	189	S09/data/set4/a8
 
 [[u'Avogadro', u'PERSON'], [u'Turin', u'GPE'], [u'1833', u'DATE'], [u'another twenty years', u'DATE']]
+Well before this, following the increasing attention to his works, Avogadro had been recalled to Turin university in 1833, where he taught for another twenty years.
 
 What is Amedeo Avogadro`s first name?	Amedeo	S09/data/set4/a8
 
 [[u'Amedeo Avogadro Lorenzo Romano', u'ORG'], [u'Carlo Avogadro', u'PERSON'], [u'Count', u'PERSON'], [u'Quaregna', u'GPE'], [u'Cerreto', u'PERSON'], [u'August 9, 1776', u'DATE'], [u'1856', u'DATE'], [u'Italian', u'NORP']]
+ Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
 
 What is Amedeo Avogadro`s last name?	Avogadro	S09/data/set4/a8
 
 [[u'Amedeo Avogadro Lorenzo Romano', u'ORG'], [u'Carlo Avogadro', u'PERSON'], [u'Count', u'PERSON'], [u'Quaregna', u'GPE'], [u'Cerreto', u'PERSON'], [u'August 9, 1776', u'DATE'], [u'1856', u'DATE'], [u'Italian', u'NORP']]
+ Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
 
 Was King Victor  Emmanuel  III there to pay  homage  to Avogadro?	Yes	S09/data/set4/a8
 
@@ -209,26 +234,32 @@ The title of this famous 1811 paper can be roughly translated into English as "E
 What is Amedeo Avogadro?	A person.	S09/data/set4/a8
 
 [[u'Amedeo Avogadro Lorenzo Romano', u'ORG'], [u'Carlo Avogadro', u'PERSON'], [u'Count', u'PERSON'], [u'Quaregna', u'GPE'], [u'Cerreto', u'PERSON'], [u'August 9, 1776', u'DATE'], [u'1856', u'DATE'], [u'Italian', u'NORP']]
+ Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
 
 Where is Amedeo Avogadro from?	Italy.	S09/data/set4/a8
 
 [[u'1821', u'DATE'], [u'Sardinia', u'GPE'], [u'1823', u'DATE']]
+He was active in the political revolutionary movements of 1821 against the king of Sardinia, and as a result, was removed from his chair in 1823 (or, as officially declared, the university was "very glad to allow this interesting scientist to take a rest from heavy teaching duties, in order to be able to give a better attention to his researches") .
 
 When did Anders Celcius publish his observations on the aurora borealis?	1733	S09/data/set4/a5
 
 [[u'Nuremberg', u'GPE'], [u'1733', u'DATE'], [u'316', u'CARDINAL'], [u'1716', u'CARDINAL']]
+At Nuremberg in 1733 he published a collection of 316 observations of the aurora borealis made by himself and others over the period 1716-1732.
 
 When did Anders Celcius publish his observations on the aurora borealis?	1733 	S09/data/set4/a5
 
 [[u'Nuremberg', u'GPE'], [u'1733', u'DATE'], [u'316', u'CARDINAL'], [u'1716', u'CARDINAL']]
+At Nuremberg in 1733 he published a collection of 316 observations of the aurora borealis made by himself and others over the period 1716-1732.
 
 What did Anders Celsius determine about the boiling of water?	He determined the dependence of the boiling of water with atmospheric pressure.	S09/data/set4/a5
 
 []
+He determined the dependence of the boiling of water with atmospheric pressure (in excellent agreement with modern data).
 
 What did Anders Celsius determine about the boiling of water?	dependence with atmospheric pressure	S09/data/set4/a5
 
 []
+He determined the dependence of the boiling of water with atmospheric pressure (in excellent agreement with modern data).
 
 Which temperature scale did Celsius propose?	Celcius	S09/data/set4/a5
 
@@ -241,18 +272,22 @@ Which temperature scale did Celsius propose?	 the Celsius temperature scale 	S09
 What is the boiling point of water dependent on?	atmospheric pressure	S09/data/set4/a5
 
 [[u' Anders Celsius', u'PERSON'], [u'Anders Celsius', u'GPE']]
+ Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 What is the boiling point of water dependent on?	atmospheric pressure	S09/data/set4/a5
 
 [[u' Anders Celsius', u'PERSON'], [u'Anders Celsius', u'GPE']]
+ Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 Where was Celsius born?	Uppsala in Sweden	S09/data/set4/a5
 
 [[u'Celsius', u'DATE'], [u'Uppsala', u'GPE'], [u'Sweden', u'GPE']]
+Celsius was born in Uppsala in Sweden.
 
 Where was Celsius born?	Uppsala, Sweden	S09/data/set4/a5
 
 [[u'Celsius', u'DATE'], [u'Uppsala', u'GPE'], [u'Sweden', u'GPE']]
+Celsius was born in Uppsala in Sweden.
 
 Whad did Celsius report in his paper "Observations of two persistent degrees on a thermometer"?	the freezing point is independent of latitude	S09/data/set4/a5
 
@@ -269,18 +304,22 @@ In 1744 he died of tuberculosis in Uppsala, and was buried in the Old Uppsala Ch
 What is temperature would water have to be to be halfway between its standard boiling and freezing point?	50	S09/data/set4/a5
 
 [[u' Anders Celsius', u'PERSON'], [u'Anders Celsius', u'GPE']]
+ Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 What is the difference between Celsius' original temperature scale and the one we use today?	The scale was reversed by Carolus Linnaeus. 	S09/data/set4/a5
 
 [[u' Anders Celsius', u'PERSON'], [u'Anders Celsius', u'GPE']]
+ Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 What is the difference between Celsius' original temperature scale and the one we use today?	scale was reversed 	S09/data/set4/a5
 
 [[u' Anders Celsius', u'PERSON'], [u'Anders Celsius', u'GPE']]
+ Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 What was Anders Celsius`s profession?	professor of astronomy	S09/data/set4/a5
 
 [[u' Anders Celsius', u'PERSON'], [u'Anders Celsius', u'GPE']]
+ Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 How old was Anders Celsius when he died?	42	S09/data/set4/a5
 
@@ -289,6 +328,7 @@ In 1744 he died of tuberculosis in Uppsala, and was buried in the Old Uppsala Ch
 What is Anders Celsius`s last name?	Celsius	S09/data/set4/a5
 
 [[u' Anders Celsius', u'PERSON'], [u'Anders Celsius', u'GPE']]
+ Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 Was celsius born in Uppsala  in Sweden?	yes	S09/data/set4/a5
 
@@ -377,14 +417,17 @@ Recently, managed populations of European honey bees have experienced substantia
 Where do bees live?	in colonies	S09/data/set1/a8
 
 [[u'Dasypodaidae', u'PERSON'], [u'Colletidae', u'PERSON']]
+Among living bee groups, the Dasypodaidae are now considered to be the most "primitive", and sister taxon to the remainder of the bees, contrary to earlier hypotheses that the "short-tongued" bee family Colletidae was the basal group of bees; the short, wasp-like mouthparts of colletids are the result of convergent evolution, rather than indicative of a plesiomorphic condition.  
 
 When do bumblebee colonies reach peak population?	mid to late summer	S09/data/set1/a8
 
 []
+  Bees are flying insects closely related to wasps and ants.
 
 What do people commonly call cleptoparasitic bees?	cuckoo bees	S09/data/set1/a8
 
 [[u'Nomadinae', u'ORG']]
+Cleptoparasitic bees, commonly called "cuckoo bees" because their behavior is similar to cuckoo birds, occur in several bee families, though the name is technically best applied to the apid subfamily Nomadinae.
 
 How did vespoid wasps evolve?	from predatory ancestors	S09/data/set1/a8
 
@@ -393,6 +436,7 @@ This same evolutionary scenario has also occurred within the vespoid wasps, wher
 What do humans use bees for?	honey	S09/data/set1/a8
 
 [[u'One', u'CARDINAL']]
+One small subgroup of stingless bees, called "vulture bees," is specialized to feed on carrion, and these are the only bees that do not use plant products as food.
 
 Why do honey bee queens continue to lay eggs during the foraging season?	to replace daily casualties	S09/data/set1/a8
 
@@ -401,10 +445,12 @@ Why do honey bee queens continue to lay eggs during the foraging season?	to repl
 When did Beijing host the Olympic Games?	2008	S09/data/set3/a7
 
 [[u'2008', u'DATE'], [u'Olympic Games', u'EVENT']]
+The city hosted the 2008 Olympic Games.
 
 When was the An Shi Rebellion launched?	in 755 AD	S09/data/set3/a7
 
 [[u'Shi Rebellion', u'PERSON'], [u'755', u'CARDINAL']]
+The An Shi Rebellion was also launched from here in 755 AD.  
 
 In 1949, where did Communist forces enter without a fight?	Beiping	S09/data/set3/a7
 
@@ -413,10 +459,12 @@ Mao Zedong proclaiming the establishment of the People's Republic of China in 19
 When did Yuan Shikai die?	1916	S09/data/set3/a7
 
 [[u'1915', u'DATE']]
+Yuan gradually consolidated power and became by 1915 the new emperor but died less than a year into his reign.  
 
 Where does air pollution in Beijing come from?	surrounding cities and provinces	S09/data/set3/a7
 
 [[u'Japan', u'GPE'], [u'Korea', u'GPE'], [u'North America', u'LOC'], [u'Europe', u'LOC'], [u'Southeast Asia', u'LOC'], [u'Beijing', u'GPE'], [u'every year', u'DATE']]
+Many international students from Japan, Korea, North America, Europe, Southeast Asia, and elsewhere come to Beijing to study every year.
 
 As of August 1st, 2006, how many trains stop daily at the Beijing Railway Station or the Beijing West Railway Station?	167	S09/data/set3/a7
 
@@ -425,6 +473,7 @@ As of 1 August 2006, Beijing Railway Station has 167 trains stopping daily, whil
 What is the name of a university (or similar institution for imparting higher education) in Beijing?	Tsinghua University	S09/data/set3/a7
 
 [[u'English', u'LANGUAGE'], [u'Chinese', u'NORP'], [u'Wade-Giles', u'ORG'], [u'Pei-ching', u'PERSON'], [u'English', u'LANGUAGE'], [u'Peking', u'GPE'], [u'China', u'GPE'], [u"the People's Republic of China", u'GPE']]
+  ( or  in English; Chinese: ; pinyin: BÄijÄ«ng; ; Wade-Giles: Peiching or Pei-ching) (also formerly known in English as Peking (  or )) is a metropolis in northern China and the capital of the People's Republic of China.
 
 Are famous middle  schools  in Beijing :?	Yes	S09/data/set3/a7
 
@@ -457,18 +506,22 @@ But that didn't stop all of educated France from reading them.
 What did Pascal argue was as perfect as possible?	the procedure used in geometry 	S09/data/set4/a4
 
 [[u'Pascal', u'PERSON']]
+Based on this, Pascal argued that the procedure used in geometry was as perfect as possible, with certain principles assumed and other propositions developed from them.
 
 What did Pascal argue was as perfect as possible?	the procedure used in geometry	S09/data/set4/a4
 
 [[u'Pascal', u'PERSON']]
+Based on this, Pascal argued that the procedure used in geometry was as perfect as possible, with certain principles assumed and other propositions developed from them.
 
 What is the best physician?	Time	S09/data/set4/a4
 
 [[u'Blaise Pascal', u'PERSON'], [u'June 19 1623', u'DATE'], [u'August 19 1662', u'DATE'], [u'French', u'NORP']]
+  Blaise Pascal ( ), (June 19 1623  August 19 1662) was a French mathematician, physicist, and religious philosopher.
 
 Who was the eldest sibling?	Gilberte	S09/data/set4/a4
 
 [[u'Blaise Pascal', u'PERSON'], [u'June 19 1623', u'DATE'], [u'August 19 1662', u'DATE'], [u'French', u'NORP']]
+  Blaise Pascal ( ), (June 19 1623  August 19 1662) was a French mathematician, physicist, and religious philosopher.
 
 Aside from the Provincial Letters' religious influence, were they popular as a literary work?	yes	S09/data/set4/a4
 
@@ -489,18 +542,22 @@ yes
 What does violincello mean?	Violincello means "little violene".	S09/data/set2/a9
 
 [[u'Cello', u'PRODUCT'], [u'Italian', u'NORP']]
+The name Cello is an abbreviation of the Italian violoncello, which means "little violone", referring to the violone ("big viol"), the lowest-pitched instrument of the viol family, the group of string instruments that were superseded by the violin family.
 
 What are the two materials that bows are made of traditionally? 	Traditionally, bows are made from pernambuco or brazilwood.	S09/data/set2/a9
 
 []
+Traditionally, bows are made from pernambuco or brazilwood.
 
 What is used to tune a cello?	Pegs are used to tune a cello.	S09/data/set2/a9
 
 []
+  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
 
 What is used to tune a cello?	the pegs	S09/data/set2/a9
 
 []
+  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
 
 Which harmonics can produce any notes above middle C? 	Artificial harmonics can produce any notes above middle C.	S09/data/set2/a9
 
@@ -513,18 +570,22 @@ Artificial harmonics (also called False harmonics), in which the player depresse
 Who referred to the cello as basso de viola da braccio"?	Monteverdi referred to the cello as "basso de viola da braccio".	S09/data/set2/a9
 
 []
+  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
 
 Who referred to the cello as basso de viola da braccio"?	Monteverdi	S09/data/set2/a9
 
 []
+  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
 
 Where is the violincello held?	The violincello is held on the shoulder.	S09/data/set2/a9
 
 [[u'Violone', u'WORK_OF_ART'], [u'Italian', u'NORP'], [u'Italian', u'NORP']]
+"Violone" means a larger "viola" (viol), while "-cello" in Italian is a diminutive and spalla means "shoulder" in Italian so that violoncello da spalla suggest a "little big violin" that may be held on the shoulder so that the player could perform while walking or that the early, short-necked instrument was hung across the shoulder by a strap.
 
 Where is the violincello held?	on the shoulder	S09/data/set2/a9
 
 [[u'Violone', u'WORK_OF_ART'], [u'Italian', u'NORP'], [u'Italian', u'NORP']]
+"Violone" means a larger "viola" (viol), while "-cello" in Italian is a diminutive and spalla means "shoulder" in Italian so that violoncello da spalla suggest a "little big violin" that may be held on the shoulder so that the player could perform while walking or that the early, short-necked instrument was hung across the shoulder by a strap.
 
 Is there cello in performances by Rihanna?	yes	S09/data/set2/a9
 
@@ -545,26 +606,32 @@ no
 What is cello an abbreviation of?	violoncello	S09/data/set2/a9
 
 [[u'Cello', u'PRODUCT'], [u'Italian', u'NORP']]
+The name Cello is an abbreviation of the Italian violoncello, which means "little violone", referring to the violone ("big viol"), the lowest-pitched instrument of the viol family, the group of string instruments that were superseded by the violin family.
 
 What is cello an abbreviation of?	violoncello	S09/data/set2/a9
 
 [[u'Cello', u'PRODUCT'], [u'Italian', u'NORP']]
+The name Cello is an abbreviation of the Italian violoncello, which means "little violone", referring to the violone ("big viol"), the lowest-pitched instrument of the viol family, the group of string instruments that were superseded by the violin family.
 
 What position is used to play the cello?	a gamba	S09/data/set2/a9
 
 []
+A player's handedness does not alter the way the cello is held or used.
 
 What position is used to play the cello?	seated	S09/data/set2/a9
 
 []
+A player's handedness does not alter the way the cello is held or used.
 
 What is a person who plays the cello called?	cellist	S09/data/set2/a9
 
 []
+A person who plays a cello is called a cellist.
 
 What is a person who plays the cello called?	cellist	S09/data/set2/a9
 
 []
+A person who plays a cello is called a cellist.
 
 Why is there purling on a cello?	to stop cracks from forming ****misspelled****	S09/data/set2/a9
 
@@ -573,18 +640,22 @@ Why is there purling on a cello?	to stop cracks from forming ****misspelled****	
 When did the first educational works appear for the cello?	the 18th century	S09/data/set2/a9
 
 [[u'Italian', u'NORP'], [u'1660', u'DATE'], [u'Bologna', u'GPE']]
+Instruments that share features with both the bass violin and the viola de gamba appear in Italian art of the early 1500s... The invention of wire-wound strings (fine wire around a thin gut core), around 1660 in Bologna, allowed for a finer bass sound than was possible with purely gut strings on such a short body.
 
 When did the first educational works appear for the cello?	18th century	S09/data/set2/a9
 
 [[u'Italian', u'NORP'], [u'1660', u'DATE'], [u'Bologna', u'GPE']]
+Instruments that share features with both the bass violin and the viola de gamba appear in Italian art of the early 1500s... The invention of wire-wound strings (fine wire around a thin gut core), around 1660 in Bologna, allowed for a finer bass sound than was possible with purely gut strings on such a short body.
 
 What cello manufacturer should I buy from if I want to play outside?	Luis & Clark	S09/data/set2/a9
 
 []
+The shape of the hand should resemble that of its relaxed state, with all fingers curved, including the thumb.
 
 What cello manufacturer should I buy from if I want to play outside?	Luis & Clark	S09/data/set2/a9
 
 []
+The shape of the hand should resemble that of its relaxed state, with all fingers curved, including the thumb.
 
 Was Charles-Augustin de Coulomb a member of the National Institute?	Yes	S09/data/set4/a6
 
@@ -605,46 +676,57 @@ no
 Where did Charles-Augustin de Coulomb die?	Charles-Augustin de Coulomb died in Paris.	S09/data/set4/a6
 
 [[u'Charles Augustin de Coulomb', u'PERSON'], [u'June 14, 1736', u'DATE'], [u'Angoul\xc3\xaame', u'GPE'], [u'France', u'GPE'], [u'August 23, 1806', u'DATE'], [u'Paris', u'GPE'], [u'France', u'GPE'], [u'French', u'NORP']]
+  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
 
 Where did Charles-Augustin de Coulomb die?	Paris, France	S09/data/set4/a6
 
 [[u'Charles Augustin de Coulomb', u'PERSON'], [u'June 14, 1736', u'DATE'], [u'Angoul\xc3\xaame', u'GPE'], [u'France', u'GPE'], [u'August 23, 1806', u'DATE'], [u'Paris', u'GPE'], [u'France', u'GPE'], [u'French', u'NORP']]
+  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
 
 When was Charles-Augustin de Coulomb permanently stationed in Paris?	Charles-Augustin de Coulomb was permanently stationed in Paris in 1781.	S09/data/set4/a6
 
 [[u'1781', u'DATE'], [u'Paris', u'GPE']]
+In 1781, he was stationed permanently at Paris.
 
 When was Charles-Augustin de Coulomb permanently stationed in Paris?	Yes	S09/data/set4/a6
 
 [[u'1781', u'DATE'], [u'Paris', u'GPE']]
+In 1781, he was stationed permanently at Paris.
 
 What contribution did Charles-Augustin de Coulomb make to the field of geotechnical engineering?	Retaining wall design	S09/data/set4/a6
 
 [[u'1789', u'DATE'], [u'two', u'CARDINAL']]
+On magnetism" (1789) Coulomb explained the laws of attraction and repulsion between electric charges and magnetic poles, although he did not find any relationship between the two phenomena.
 
 Where did the construction of Fort Bourbon take place?	The construction of Fort Bourbon took place in Martinique.	S09/data/set4/a6
 
 [[u'1761', u'DATE'], [u'British', u'NORP'], [u'1764', u'DATE'], [u'the Fort Bourbon', u'FAC'], [u'Rochemore', u'GPE'], [u'French', u'NORP'], [u'the middle of the English', u'DATE'], [u'Spanish', u'NORP'], [u'Seven', u'CARDINAL']]
+At his exit from the school in 1761, he initially took part in the survey for the British coastal charts, then was sent on mission to Martinique in 1764 to take part in the construction of the Fort Bourbon under the orders of the lieutenant-colonel of Rochemore, as the French colony was insulated in the middle of the English and Spanish possessions following the Seven Years' War.
 
 Where did the construction of Fort Bourbon take place?	Martinique 	S09/data/set4/a6
 
 [[u'1761', u'DATE'], [u'British', u'NORP'], [u'1764', u'DATE'], [u'the Fort Bourbon', u'FAC'], [u'Rochemore', u'GPE'], [u'French', u'NORP'], [u'the middle of the English', u'DATE'], [u'Spanish', u'NORP'], [u'Seven', u'CARDINAL']]
+At his exit from the school in 1761, he initially took part in the survey for the British coastal charts, then was sent on mission to Martinique in 1764 to take part in the construction of the Fort Bourbon under the orders of the lieutenant-colonel of Rochemore, as the French colony was insulated in the middle of the English and Spanish possessions following the Seven Years' War.
 
 What is the definition of the electrostatic force of attraction and repulsion? 	Coulomb's law is the definition of the electrostatic force of attraction and repulsion.	S09/data/set4/a6
 
 [[u'Coulomb', u'PERSON']]
+He is best known for developing Coulomb's law: the definition of the electrostatic force of attraction and repulsion.
 
 What is the definition of the electrostatic force of attraction and repulsion? 	Coulomb's Law	S09/data/set4/a6
 
 [[u'Coulomb', u'PERSON']]
+He is best known for developing Coulomb's law: the definition of the electrostatic force of attraction and repulsion.
 
 When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?	Charles-Augustin de Coulomb retired to a small estate he possessed at Blois on the outbreak of the revolution in 1789.	S09/data/set4/a6
 
 [[u'1789', u'DATE'], [u'Blois', u'ORG']]
+On the outbreak of the Revolution in 1789, he resigned his appointment as intendant des eaux et fontaines, and retired to a small estate which he possessed at Blois.
 
 When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?	1789	S09/data/set4/a6
 
 [[u'1789', u'DATE'], [u'Blois', u'ORG']]
+On the outbreak of the Revolution in 1789, he resigned his appointment as intendant des eaux et fontaines, and retired to a small estate which he possessed at Blois.
 
 If Charles-Augustin de Coulomb was alive today, how old would he have been?	273	S09/data/set4/a6
 
@@ -661,10 +743,12 @@ How old was Charles-Augustin de Coulomb when he died?	1806	S09/data/set4/a6
 How many years ago did he resign his appointment as intendant de eaux et fontaine ?	220	S09/data/set4/a6
 
 [[u'1789', u'DATE'], [u'two', u'CARDINAL']]
+On magnetism" (1789) Coulomb explained the laws of attraction and repulsion between electric charges and magnetic poles, although he did not find any relationship between the two phenomena.
 
 How many years ago did Charles-Augustin de Coulomb die?	203	S09/data/set4/a6
 
 [[u'1789', u'DATE'], [u'two', u'CARDINAL']]
+On magnetism" (1789) Coulomb explained the laws of attraction and repulsion between electric charges and magnetic poles, although he did not find any relationship between the two phenomena.
 
 Was The SI  unit  of charge , the  coulomb , named after him?	yes	S09/data/set4/a6
 
@@ -689,6 +773,7 @@ no
 When was Charles-Augustin de Coulomb born?	June 14, 1736	S09/data/set4/a6
 
 [[u'Charles Augustin de Coulomb', u'PERSON'], [u'June 14, 1736', u'DATE'], [u'Angoul\xc3\xaame', u'GPE'], [u'France', u'GPE'], [u'August 23, 1806', u'DATE'], [u'Paris', u'GPE'], [u'France', u'GPE'], [u'French', u'NORP']]
+  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
 
 He discovered an inverse relationship of what?	distance and electric force	S09/data/set4/a6
 
@@ -697,22 +782,27 @@ He discovered an inverse relationship of what?	distance and electric force	S09/d
 Where is Charles-Augustin de Coulomb from?	France	S09/data/set4/a6
 
 [[u'Charles Augustin de Coulomb', u'PERSON'], [u'June 14, 1736', u'DATE'], [u'Angoul\xc3\xaame', u'GPE'], [u'France', u'GPE'], [u'August 23, 1806', u'DATE'], [u'Paris', u'GPE'], [u'France', u'GPE'], [u'French', u'NORP']]
+  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
 
 What was Chinese language`s profession?	NULL	S09/data/set5/a7
 
 [[u'Chinese', u'NORP'], [u'the Sinitic language(s', u'LOC']]
+  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
 
 What is Chinese language`s first name?	NULL	S09/data/set5/a7
 
 [[u'Chinese', u'NORP'], [u'the Sinitic language(s', u'LOC']]
+  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
 
 What is Chinese language`s last name?	NULL	S09/data/set5/a7
 
 [[u'Chinese', u'NORP'], [u'the Sinitic language(s', u'LOC']]
+  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
 
 How many offspring did Chinese language have?	NULL	S09/data/set5/a7
 
 [[u'Mandarin', u'LANGUAGE'], [u'Sinitic', u'ORG'], [u'North', u'LOC'], [u'Southwest', u'LOC'], [u'Central or Southeastern', u'NORP']]
+In general, the above language-dialect groups do not have sharp boundaries, though Mandarin is the predominant Sinitic language in the North and the Southwest, and the rest are mostly spoken in Central or Southeastern China.
 
 The Mandarin dialects in which location have experienced a dramatic decrease in sounds and so have far more multisyllabic words than most other spoken varieties?	NULL	S09/data/set5/a7
 
@@ -737,10 +827,12 @@ yes
 When are most of these groups mutually unintelligible?	NULL	S09/data/set5/a7
 
 [[u'Chinese', u'NORP'], [u'the Sinitic language(s', u'LOC']]
+  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
 
 What is the population of Chinese language?	NULL	S09/data/set5/a7
 
 [[u'Chinese', u'NORP'], [u'Sino-Tibetan', u'NORP'], [u'Jerry Norman', u'PERSON']]
+âThe Chinese language family is genetically classified as an independent branch of the Sino-Tibetan language family.â *Jerry Norman.
 
 Is the most widespread the Palladius system?	NULL	S09/data/set5/a7
 
@@ -805,18 +897,22 @@ Copenhagen is the capital of what country?	Denmark	S09/data/set3/a8
 What is the population of Copenhagen?	1,161,063	S09/data/set3/a8
 
 [[u'  ', u'GPE'], [u'Copenhagen (', u'LANGUAGE'], [u'Denmark', u'GPE'], [u'1,161,063', u'CARDINAL']]
+  Copenhagen ( ;  ) is the capital and largest city of Denmark, with a population of 1,161,063.  
 
 What is the population of Copenhagen?	1,153,615	S09/data/set3/a8
 
 [[u'  ', u'GPE'], [u'Copenhagen (', u'LANGUAGE'], [u'Denmark', u'GPE'], [u'1,161,063', u'CARDINAL']]
+  Copenhagen ( ;  ) is the capital and largest city of Denmark, with a population of 1,161,063.  
 
 What transnational bridge was completed in 2000?	Oresund Bridge	S09/data/set3/a8
 
 [[u'Christian', u'NORP'], [u'1606', u'CARDINAL']]
+Its landscaping was commenced by Christian IV in 1606.
 
 What transnational bridge was completed in 2000?	Oresund Bridge	S09/data/set3/a8
 
 [[u'Christian', u'NORP'], [u'1606', u'CARDINAL']]
+Its landscaping was commenced by Christian IV in 1606.
 
 Why is Copenhagen a regional hub?	Its strategic location and excellent infrastructure	S09/data/set3/a8
 
@@ -829,6 +925,7 @@ Its strategic location and excellent infrastructure with the largest airport in 
 What happened to Copenhagen between 1251 and 1255?	a bunch of things	S09/data/set3/a8
 
 [[u'  ', u'GPE'], [u'Copenhagen (', u'LANGUAGE'], [u'Denmark', u'GPE'], [u'1,161,063', u'CARDINAL']]
+  Copenhagen ( ;  ) is the capital and largest city of Denmark, with a population of 1,161,063.  
 
 Copenhagen is ranked number one worldwide for which things?	Most Livable City in the World, 	S09/data/set3/a8
 
@@ -869,42 +966,52 @@ no
 What are the most common Cymbals?	 The most common Cymbals are the Hi-Hats, Crash, Splash, Ride, and China.	S09/data/set2/a6
 
 []
+  Cymbals are a modern percussion instrument.
 
 What are the most common Cymbals?	Hi-Hats, Crash, Splash, Ride, and China	S09/data/set2/a6
 
 []
+  Cymbals are a modern percussion instrument.
 
 What is the second main orchestral use of cymbals?	The suspended cymbal is the second main orchestral use of symbals.	S09/data/set2/a6
 
 []
+  Cymbals are a modern percussion instrument.
 
 What is the second main orchestral use of cymbals?	The suspended cymbal	S09/data/set2/a6
 
 []
+  Cymbals are a modern percussion instrument.
 
 What have clash cymbals traditionally been accompanied by?	Clash cymbals have traditionally been accompanied by the bass drum playing an identical part.	S09/data/set2/a6
 
 []
+Clash cymbals have traditionally been accompanied by the bass drum playing an identical part.
 
 What have clash cymbals traditionally been accompanied by?	The bass drum playing an identical part	S09/data/set2/a6
 
 []
+Clash cymbals have traditionally been accompanied by the bass drum playing an identical part.
 
 What happens when the center of a Cymbal is hit?	It causes a sound which is in a higher register than the rest of the symbal.	S09/data/set2/a6
 
 []
+When hit with the side or shoulder of a drum stick, it causes a sound which is in a higher register than the rest of the cymbal. *
 
 What happens when the center of a Cymbal is hit?	It causes a sound which is in a higher register than the rest of the cymbal	S09/data/set2/a6
 
 []
+When hit with the side or shoulder of a drum stick, it causes a sound which is in a higher register than the rest of the cymbal. *
 
 What is an effective way to accentuate a note?	Playing a bass drum playing an identical part is an effective way to accentuate a note.	S09/data/set2/a6
 
 [[u'two', u'CARDINAL']]
+This combination, played loudly, is an effective way to accentuate a note since the two instruments together contribute to both very low and very high frequency ranges and provide a satisfying "crash-bang-wallop".
 
 What is an effective way to accentuate a note?	The combination of a clash cymbol being accompanied by a bass drum playing an identical part, played loudly	S09/data/set2/a6
 
 [[u'two', u'CARDINAL']]
+This combination, played loudly, is an effective way to accentuate a note since the two instruments together contribute to both very low and very high frequency ranges and provide a satisfying "crash-bang-wallop".
 
 From what type of Cymbals can a expert player obtain an enormous dynamic range?	An expert player can obtain an enormous dynamic range from crash cymbals.	S09/data/set2/a6
 
@@ -933,46 +1040,57 @@ no
 What is the center of a cymbal called?	Bell	S09/data/set2/a6
 
 [[u'one', u'CARDINAL'], [u'one', u'CARDINAL']]
+The sound can be obtained by rubbing their edges together in a sliding movement for a "sizzle", striking them against each other in what is called a "crash", tapping the edge of one against the body of the other in what is called a "tap-crash", scraping the edge of one from the inside of the bell to the edge for a "scrape" or "zishend," or shutting the cymbals together and choking the sound in what is called a "hi-hat chick."
 
 What is the center of a cymbal called?	bell	S09/data/set2/a6
 
 [[u'one', u'CARDINAL'], [u'one', u'CARDINAL']]
+The sound can be obtained by rubbing their edges together in a sliding movement for a "sizzle", striking them against each other in what is called a "crash", tapping the edge of one against the body of the other in what is called a "tap-crash", scraping the edge of one from the inside of the bell to the edge for a "scrape" or "zishend," or shutting the cymbals together and choking the sound in what is called a "hi-hat chick."
 
 What part of the cymbal gets the best "crash"?	Edge or rim	S09/data/set2/a6
 
 []
+Edge or rim- This is where you get the best "crash".
 
 What part of the cymbal gets the best "crash"?	edge or rim	S09/data/set2/a6
 
 []
+Edge or rim- This is where you get the best "crash".
 
 What is the second main orchestral use of cymbals?	the suspended cymbal	S09/data/set2/a6
 
 []
+  Cymbals are a modern percussion instrument.
 
 What is the second main orchestral use of cymbals?	the suspended cymbal	S09/data/set2/a6
 
 []
+  Cymbals are a modern percussion instrument.
 
 What two instruments form the modern drum kit?	the cymbals and the drum	S09/data/set2/a6
 
 [[u'one', u'CARDINAL'], [u'two', u'CARDINAL']]
+They are one of the two instrument types that form the modern drum kit, the other being the drum, and are a basic part of much contemporary music.
 
 What Greek mythical creatures were depicted holding cymbals?	fauns and satyrs	S09/data/set2/a6
 
 [[u'Greek', u'NORP']]
+The Greek cymbals were cup- or bell-shaped, and may be seen in the hands of innumerable fauns and satyrs in sculptures and on painted vases.
 
 What Greek mythical creatures were depicted holding cymbals?	fauns and satyrs	S09/data/set2/a6
 
 [[u'Greek', u'NORP']]
+The Greek cymbals were cup- or bell-shaped, and may be seen in the hands of innumerable fauns and satyrs in sculptures and on painted vases.
 
 What are orchestral crash cymbals technically called?	a pair of clash cymbals	S09/data/set2/a6
 
 []
+Ancient cymbals or tuned cymbals are much more rarely called for.
 
 What are orchestral crash cymbals technically called?	clash cymbals	S09/data/set2/a6
 
 []
+Ancient cymbals or tuned cymbals are much more rarely called for.
 
 Is Dhaka located on the eastern banks of the Buriganga River?	Yes	S09/data/set3/a3
 
@@ -985,14 +1103,17 @@ no
 How much area does Dhaka cover?	1462.60 square kilometers	S09/data/set3/a3
 
 [[u'Dhaka', u'GPE'], [u'Bangladesh', u'GPE'], [u'Dhaka', u'GPE']]
+  Dhaka (formerly spelled as Dacca) (Bangla: à¦¢à¦¾à¦à¦¾, ) is the capital of Bangladesh and the principal city of Dhaka District.
 
 How many people did the 1970 Bhola cyclone kill?	500,000	S09/data/set3/a3
 
 [[u'Dhaka', u'GPE'], [u'Bangladesh', u'GPE'], [u'Dhaka', u'GPE']]
+  Dhaka (formerly spelled as Dacca) (Bangla: à¦¢à¦¾à¦à¦¾, ) is the capital of Bangladesh and the principal city of Dhaka District.
 
 When is the end of the independence war of Bangladesh?	December 16, 1971	S09/data/set3/a3
 
 [[u'Archer', u'PERSON'], [u'Department of State', u'ORG'], [u'United States', u'GPE'], [u'nine months', u'DATE'], [u'Bangladesh Forces', u'ORG'], [u'the Pakistani Army', u'ORG'], [u'the Mitra Bahini', u'ORG'], [u'December 16', u'DATE'], [u'Bangladesh', u'GPE']]
+Blood, Archer, , Department of State, United States After nine months of bloody battle with Bangladesh Forces, the Pakistani Army surrendered to the Mitra Bahini on December 16 marking the end of the independence war of Bangladesh.
 
 Did the Mughals arrive in Dhaka?	Yes	S09/data/set3/a3
 
@@ -1001,6 +1122,7 @@ no
 What is given for the number of native speakers?	No figure is given for the number of native speakers.	S09/data/set5/a1
 
 [[u'English', u'LANGUAGE'], [u'third', u'ORDINAL'], [u'Mandarin Chinese', u'LOC'], [u'Spanish', u'NORP']]
+English today is probably the third largest language by number of native speakers, after Mandarin Chinese and Spanish.
 
 Is english an intonation  language?	Yes	S09/data/set5/a1
 
@@ -1037,46 +1159,57 @@ no
 What do we refer musicians who play flute?	A flute player, a flautist or a flutist. 	S09/data/set2/a5
 
 []
+A musician who plays the flute can be referred to as a flute player, a flautist, or a flutist.   
 
 What do we refer musicians who play flute?	A flute player, a flautist, or a flutist	S09/data/set2/a5
 
 []
+A musician who plays the flute can be referred to as a flute player, a flautist, or a flutist.   
 
 When was a three-holed flute made from a mammoth tusk discovered?	2004.	S09/data/set2/a5
 
 [[u'three', u'CARDINAL'], [u'Gei\xc3\x9fenkl\xc3\xb6sterle', u'FAC'], [u'German', u'NORP'], [u'30,000', u'CARDINAL'], [u'2004', u'DATE'], [u'two', u'CARDINAL'], [u'a decade earlier', u'DATE'], [u'Germany', u'GPE'], [u'36,000 years ago', u'DATE']]
+A three-holed flute made from a mammoth tusk (from the GeiÃenklÃ¶sterle cave in the German Swabian Alb and dated to 30,000 to 37,000 years ago  ) was discovered in 2004, and two flutes made from swans' bones excavated a decade earlier (from the same cave in Germany, dated to circa 36,000 years ago) are among the oldest known musical instruments.
 
 When was a three-holed flute made from a mammoth tusk discovered?	In 2004	S09/data/set2/a5
 
 [[u'three', u'CARDINAL'], [u'Gei\xc3\x9fenkl\xc3\xb6sterle', u'FAC'], [u'German', u'NORP'], [u'30,000', u'CARDINAL'], [u'2004', u'DATE'], [u'two', u'CARDINAL'], [u'a decade earlier', u'DATE'], [u'Germany', u'GPE'], [u'36,000 years ago', u'DATE']]
+A three-holed flute made from a mammoth tusk (from the GeiÃenklÃ¶sterle cave in the German Swabian Alb and dated to 30,000 to 37,000 years ago  ) was discovered in 2004, and two flutes made from swans' bones excavated a decade earlier (from the same cave in Germany, dated to circa 36,000 years ago) are among the oldest known musical instruments.
 
 When did the tin whistle first appear?	12th century.	S09/data/set2/a5
 
 [[u'Irish', u'NORP'], [u'first', u'ORDINAL'], [u'the 12th century', u'DATE'], [u'the 14th century', u'DATE']]
+The tin whistle (an Irish flute) first appeared in the 12th century, and the recorder in the 14th century.
 
 When did the tin whistle first appear?	In the 12th century	S09/data/set2/a5
 
 [[u'Irish', u'NORP'], [u'first', u'ORDINAL'], [u'the 12th century', u'DATE'], [u'the 14th century', u'DATE']]
+The tin whistle (an Irish flute) first appeared in the 12th century, and the recorder in the 14th century.
 
 What are the oldest known musical instruments?	A three holed-flute made from a mammoth tusk and two flutes made from swan's bones.	S09/data/set2/a5
 
 []
+ A picture of a Western concert flute The flute is a musical instrument of the woodwind family.
 
 What are the oldest known musical instruments?	A three-holed flute made from a mammoth tusk and two flutes made from swans' bones are among the oldest known musical instruments	S09/data/set2/a5
 
 []
+ A picture of a Western concert flute The flute is a musical instrument of the woodwind family.
 
 When was the pan flute spread to other parts of Europe?	7th century BC.	S09/data/set2/a5
 
 [[u'Greece', u'GPE'], [u'the 7th century', u'DATE'], [u'Europe', u'LOC']]
+The pan flute was used in Greece from the 7th century BC, and spread to other parts of Europe.
 
 When was the pan flute spread to other parts of Europe?	After the 7th century BC	S09/data/set2/a5
 
 [[u'Greece', u'GPE'], [u'the 7th century', u'DATE'], [u'Europe', u'LOC']]
+The pan flute was used in Greece from the 7th century BC, and spread to other parts of Europe.
 
 What does the air stream across this hole create?	A Bernoulli, or siphon.	S09/data/set2/a5
 
 [[u'Bernoulli', u'GPE'], [u'Karman', u'NORP']]
+The air stream across this hole creates a Bernoulli, or siphon, effect leading to a von Karman vortex street.
 
 Are fennec foxes endangered?	no	S09/data/set1/a6
 
@@ -1097,10 +1230,12 @@ no
 How long do most foxes live?	Most foxes live 2 to 3 years, but they can survive for up to 10 years or even longer in captivity.	S09/data/set1/a6
 
 [[u'Skeleton Most', u'PERSON'], [u'2', u'CARDINAL'], [u'3 years', u'DATE'], [u'up to 10 years', u'DATE']]
+Arctic fox curled up in snow Skeleton Most foxes live 2 to 3 years, but they can survive for up to 10 years or even longer in captivity.
 
 How long do most foxes live?	2 to 3 years	S09/data/set1/a6
 
 [[u'Skeleton Most', u'PERSON'], [u'2', u'CARDINAL'], [u'3 years', u'DATE'], [u'up to 10 years', u'DATE']]
+Arctic fox curled up in snow Skeleton Most foxes live 2 to 3 years, but they can survive for up to 10 years or even longer in captivity.
 
 In what country did fox hunting originate?	the United Kingdom	S09/data/set1/a6
 
@@ -1113,30 +1248,37 @@ Other fox species do not reproduce as readily as the red fox, and are endangered
 What is the smallest species of fox?	The Fennec Fox is the smallest species of fox. 	S09/data/set1/a6
 
 [[u'one', u'CARDINAL'], [u'about 27', u'CARDINAL'], [u'only 12', u'CARDINAL'], [u'Vulpes', u'GPE']]
+  A fox is an animal belonging to any one of about 27 species (of which only 12 actually belong to the Vulpes genus, or 'true foxes') of small to medium-sized canids, characterized by possessing a long, narrow snout, and a bushy tail, or brush.
 
 What is the smallest species of fox?	the Fennec Fox	S09/data/set1/a6
 
 [[u'one', u'CARDINAL'], [u'about 27', u'CARDINAL'], [u'only 12', u'CARDINAL'], [u'Vulpes', u'GPE']]
+  A fox is an animal belonging to any one of about 27 species (of which only 12 actually belong to the Vulpes genus, or 'true foxes') of small to medium-sized canids, characterized by possessing a long, narrow snout, and a bushy tail, or brush.
 
 What are female foxes called?	vixens	S09/data/set1/a6
 
 [[u'one', u'CARDINAL'], [u'about 27', u'CARDINAL'], [u'only 12', u'CARDINAL'], [u'Vulpes', u'GPE']]
+  A fox is an animal belonging to any one of about 27 species (of which only 12 actually belong to the Vulpes genus, or 'true foxes') of small to medium-sized canids, characterized by possessing a long, narrow snout, and a bushy tail, or brush.
 
 What are female foxes called?	vixens	S09/data/set1/a6
 
 [[u'one', u'CARDINAL'], [u'about 27', u'CARDINAL'], [u'only 12', u'CARDINAL'], [u'Vulpes', u'GPE']]
+  A fox is an animal belonging to any one of about 27 species (of which only 12 actually belong to the Vulpes genus, or 'true foxes') of small to medium-sized canids, characterized by possessing a long, narrow snout, and a bushy tail, or brush.
 
 What is caching food?	Caching is burying it for later consumption, usually under leaves, snow, or soil.	S09/data/set1/a6
 
 [[u'one', u'CARDINAL'], [u'about 27', u'CARDINAL'], [u'only 12', u'CARDINAL'], [u'Vulpes', u'GPE']]
+  A fox is an animal belonging to any one of about 27 species (of which only 12 actually belong to the Vulpes genus, or 'true foxes') of small to medium-sized canids, characterized by possessing a long, narrow snout, and a bushy tail, or brush.
 
 What is caching food?	burying it for later consumption	S09/data/set1/a6
 
 [[u'one', u'CARDINAL'], [u'about 27', u'CARDINAL'], [u'only 12', u'CARDINAL'], [u'Vulpes', u'GPE']]
+  A fox is an animal belonging to any one of about 27 species (of which only 12 actually belong to the Vulpes genus, or 'true foxes') of small to medium-sized canids, characterized by possessing a long, narrow snout, and a bushy tail, or brush.
 
 How many years ago did African people spread across 31 francophone African countries can speak French either as a first or second language?	2 years ago	S09/data/set5/a5
 
 [[u'Nathan', u'GPE'], [u'Paris', u'GPE'], [u'2007', u'DATE'], [u'French', u'NORP'], [u'second', u'ORDINAL'], [u'Africa', u'LOC'], [u'first', u'ORDINAL'], [u'Abidjan', u'GPE'], [u"C\xc3\xb4te d'Ivoire", u'ORG'], [u'Abidjan', u'GPE'], [u'Katja Ploog', u'PERSON'], [u'CNRS Editions', u'PERSON'], [u'Paris', u'GPE'], [u'2002', u'DATE'], [u'Libreville', u'GPE'], [u'Gabon', u'GPE']]
+Nathan, Paris, 2007 Source does not state the given "facts" --> French is mostly a second language in Africa, but in some areas it has become a first language, such as in the region of Abidjan, CÃ´te d'Ivoire  Le franÃ§ais Ã  Abidjan : Pour une approche syntaxique du non-standard by Katja Ploog, CNRS Editions, Paris, 2002 and in Libreville, Gabon.  
 
 In Old French, was the plural  for animal animals?	Yes	S09/data/set5/a5
 
@@ -1153,10 +1295,12 @@ In Belgium, however, quatre-vingts is universally used.
 Where is it an official language?	NULL	S09/data/set5/a5
 
 [[u'French', u'NORP'], [u'90 million', u'CARDINAL'], [u'first', u'ORDINAL'], [u'190 million', u'CARDINAL'], [u'second', u'ORDINAL'], [u'about another 200 million', u'CARDINAL'], [u'54', u'CARDINAL']]
+  French (franÃ§ais, ) is a Romance language spoken around the world by around 90 million people as first language, by 190 million as second language, and by about another 200 million people as an acquired tongue, with significant speakers in 54 countries.
 
 What is widely used by the Lebanese, especially for administrative purposes?	French	S09/data/set5/a5
 
 [[u'French', u'NORP'], [u'Lebanese', u'NORP'], [u'Arabic', u'PERSON']]
+French is widely used by the Lebanese, especially for administrative purposes, and is taught in many schools as a primary language along with Arabic.  
 
 Are there also a variety of regional languages In addition?	Yes	S09/data/set5/a5
 
@@ -1189,6 +1333,7 @@ The palatal nasal can occur in word initial position (e.g. gnon), but it is most
 How many years ago was the Luther Bible by Martin Luther printed?	475	S09/data/set5/a2
 
 [[u'1534', u'DATE'], [u'the Luther Bible', u'ORG'], [u'Martin Luther', u'PERSON']]
+In 1534 the Luther Bible by Martin Luther was printed.
 
 Is german an inflected  language?	yes	S09/data/set5/a2
 
@@ -1245,18 +1390,22 @@ no
 What areas can giraffes inhabit?	savannas, grasslands, or open woodlands	S09/data/set1/a5
 
 []
+Giraffes can inhabit savannas, grasslands, or open woodlands.
 
 What areas can giraffes inhabit?	inhabit savannas, grasslands, or open woodlands	S09/data/set1/a5
 
 []
+Giraffes can inhabit savannas, grasslands, or open woodlands.
 
 What will a giraffe use to clean off any bugs that appear on its face?	extremely long tongue 	S09/data/set1/a5
 
 [[u'the Roger Williams Park Zoo', u'FAC'], [u'Providence', u'GPE'], [u'Rhode Island A', u'LOC'], [u'about 45', u'CARDINAL']]
+Male giraffe making a cough-like mating call at the Roger Williams Park Zoo, Providence, Rhode Island A giraffe will clean off any bugs that appear on its face with its extremely long tongue (about 45 cm/18 in).
 
 What will a giraffe use to clean off any bugs that appear on its face?	It's extremely long tongue	S09/data/set1/a5
 
 [[u'the Roger Williams Park Zoo', u'FAC'], [u'Providence', u'GPE'], [u'Rhode Island A', u'LOC'], [u'about 45', u'CARDINAL']]
+Male giraffe making a cough-like mating call at the Roger Williams Park Zoo, Providence, Rhode Island A giraffe will clean off any bugs that appear on its face with its extremely long tongue (about 45 cm/18 in).
 
 How do giraffes defend themselves?	with a powerful kick	S09/data/set1/a5
 
@@ -1305,10 +1454,12 @@ In what year did Henri Becquerel die?	August 24, 1908	S09/data/set4/a9
 Where was Henri Becquerel born?	 Paris 	S09/data/set4/a9
 
 [[u'Becquerel', u'PERSON'], [u'Paris', u'GPE'], [u'Jean', u'PERSON'], [u'four', u'CARDINAL']]
+Becquerel was born in Paris into a family which, including he and his son Jean, produced four generations of scientists.
 
 Where was Henri Becquerel born?	Paris	S09/data/set4/a9
 
 [[u'Becquerel', u'PERSON'], [u'Paris', u'GPE'], [u'Jean', u'PERSON'], [u'four', u'CARDINAL']]
+Becquerel was born in Paris into a family which, including he and his son Jean, produced four generations of scientists.
 
 In what year did Henri Becquerel win the Nobel Prize in Physics?	1903	S09/data/set4/a9
 
@@ -1333,6 +1484,7 @@ Describing his method to the French Academy of Sciences on January 24, 1896, he 
 What was Henri Becquerel`s profession?	physisist	S09/data/set4/a9
 
 [[u'Antoine Henri Becquerel', u'PERSON'], [u'December 15, 1852', u'DATE'], [u'August 25, 1908', u'DATE'], [u'French', u'NORP'], [u'Nobel', u'WORK_OF_ART'], [u'one', u'CARDINAL']]
+  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
 
 How old was Henri Becquerel when he died?	53	S09/data/set4/a9
 
@@ -1341,6 +1493,7 @@ He died at the age of 55 in Le Croisic.
 How many years ago was it when he became the third in his family to occupy the physics chair at the Musum National d`Histoire Naturelle?	117	S09/data/set4/a9
 
 [[u'Becquerel', u'PERSON'], [u'Paris', u'GPE'], [u'Jean', u'PERSON'], [u'four', u'CARDINAL']]
+Becquerel was born in Paris into a family which, including he and his son Jean, produced four generations of scientists.
 
 In 1908, the year  of his death, was Becquerel elected Permanent Secretary  of the AcadÃ©mie  des  Sciences?	Yes	S09/data/set4/a9
 
@@ -1349,6 +1502,7 @@ In 1908, the year of his death, Becquerel was elected Permanent Secretary of the
 When was Henri Becquerel born?	December 15, 1852	S09/data/set4/a9
 
 [[u'Becquerel', u'PERSON'], [u'Paris', u'GPE'], [u'Jean', u'PERSON'], [u'four', u'CARDINAL']]
+Becquerel was born in Paris into a family which, including he and his son Jean, produced four generations of scientists.
 
 Is it true that Becquerel wrapped a fluorescent substance in photographic plates?	Yes	S09/data/set4/a9
 
@@ -1369,18 +1523,22 @@ Must â¦ One conclude from these experiments that the phosphorescent substanc
 What is Henri Becquerel?	Henri Becquerel was a famous physicist.	S09/data/set4/a9
 
 [[u'Antoine Henri Becquerel', u'PERSON'], [u'December 15, 1852', u'DATE'], [u'August 25, 1908', u'DATE'], [u'French', u'NORP'], [u'Nobel', u'WORK_OF_ART'], [u'one', u'CARDINAL']]
+  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
 
 Where is Henri Becquerel from?	Paris	S09/data/set4/a9
 
 []
+â¦ One must conclude from these experiments that the phosphorescent substance in question emits rays which pass through the opaque paper and reduces silver salts.  
 
 What does Henri Becquerel do?	was a physisist	S09/data/set4/a9
 
 [[u'the French Academy of Sciences', u'ORG'], [u'January 24, 1896', u'DATE'], [u'One', u'CARDINAL'], [u'two', u'CARDINAL'], [u'a day', u'DATE']]
+Describing his method to the French Academy of Sciences on January 24, 1896, he said, One wraps a LumiÃ¨re photographic plate with a bromide emulsion in two sheets of very thick black paper, such that the plate does not become clouded upon being exposed to the sun for a day.
 
 What does Henri Becquerel do?	Henri Becquerel was a physicist.	S09/data/set4/a9
 
 [[u'the French Academy of Sciences', u'ORG'], [u'January 24, 1896', u'DATE'], [u'One', u'CARDINAL'], [u'two', u'CARDINAL'], [u'a day', u'DATE']]
+Describing his method to the French Academy of Sciences on January 24, 1896, he said, One wraps a LumiÃ¨re photographic plate with a bromide emulsion in two sheets of very thick black paper, such that the plate does not become clouded upon being exposed to the sun for a day.
 
 Did Newton reject the church's doctrine of the Trinity?	Newton may have rejected the church's doctrine of the Trinity.	S09/data/set4/a1
 
@@ -1397,42 +1555,52 @@ no
 When was Newton's date of birth recorded?	Christmas Day, Decembeer 25, 1642.	S09/data/set4/a1
 
 [[u'Newton', u'ORG'], [u'England', u'GPE'], [u'Christmas Day', u'DATE'], [u'December 25, 1642', u'DATE']]
+At the time of Newton's birth, England had not adopted the latest papal calendar and therefore his date of birth was recorded as Christmas Day, December 25, 1642.
 
 When was Newton's date of birth recorded?	his date of birth was recorded as Christmas Day, December 25, 1642	S09/data/set4/a1
 
 [[u'Newton', u'ORG'], [u'England', u'GPE'], [u'Christmas Day', u'DATE'], [u'December 25, 1642', u'DATE']]
+At the time of Newton's birth, England had not adopted the latest papal calendar and therefore his date of birth was recorded as Christmas Day, December 25, 1642.
 
 How many laws of motion did Netwon have?	Three	S09/data/set4/a1
 
 [[u'the age of', u'DATE'], [u'eighteen', u'DATE']]
+This he did at the age of eighteen, achieving an admirable final report.
 
 How many laws of motion did Netwon have?	Three	S09/data/set4/a1
 
 [[u'the age of', u'DATE'], [u'eighteen', u'DATE']]
+This he did at the age of eighteen, achieving an admirable final report.
 
 Who did Newton see as the master creator?	God	S09/data/set4/a1
 
 [[u'Newton', u'PERSON']]
+Newton saw God as the master creator whose existence could not be denied in the face of the grandeur of all creation.
 
 Who did Newton see as the master creator?	Newton saw God as the master creator whose existence could not be denied in the face of the grandeur of all creation	S09/data/set4/a1
 
 [[u'Newton', u'PERSON']]
+Newton saw God as the master creator whose existence could not be denied in the face of the grandeur of all creation.
 
 When did Netwon investigate the refraction of light	From 1670 to 1672	S09/data/set4/a1
 
 [[u'second', u'ORDINAL']]
+During this period he investigated the refraction of light, demonstrating that a prism could decompose white light into a spectrum of colours, and that a lens and a second prism could recompose the multicoloured spectrum into white light.
 
 When did Netwon investigate the refraction of light	1670-1672	S09/data/set4/a1
 
 [[u'second', u'ORDINAL']]
+During this period he investigated the refraction of light, demonstrating that a prism could decompose white light into a spectrum of colours, and that a lens and a second prism could recompose the multicoloured spectrum into white light.
 
 What principles did Newton explain for mechanics?	The principles of conservation of momentum and angular momentum	S09/data/set4/a1
 
 [[u'Newton', u'PERSON']]
+In his own lifetime, Newton wrote more on religion than he did on natural science.
 
 What principles did Newton explain for mechanics?	In mechanics, Newton enunciated the principles of conservation of momentum and angular momentum	S09/data/set4/a1
 
 [[u'Newton', u'PERSON']]
+In his own lifetime, Newton wrote more on religion than he did on natural science.
 
 Interaction with what man stirred up Newton's interest in alchemy?	Henry More	S09/data/set4/a1
 
@@ -1445,22 +1613,27 @@ Interaction with what man stirred up Newton's interest in alchemy?	The contact w
 What was Italian language`s profession?	NULL	S09/data/set5/a9
 
 [[u'Italian', u'NORP'], [u'about 70 million', u'CARDINAL'], [u'first', u'ORDINAL'], [u'about 50 million', u'CARDINAL'], [u'second', u'ORDINAL'], [u'up to 120 million', u'CARDINAL']]
+  Italian ( , or lingua italiana) is a Romance language spoken by about 70 million people as a first language, and by about 50 million more as a second or studied language, making the total number of speakers up to 120 million.
 
 What is Italian language`s first name?	NULL	S09/data/set5/a9
 
 [[u'Italian', u'NORP'], [u'first', u'ORDINAL'], [u'Jacopo', u'WORK_OF_ART'], [u'Italian', u'NORP'], [u'e.g.', u'LAW'], [u'Bajardo', u'GPE'], [u'Bojano', u'GPE'], [u'Joppolo', u'GPE'], [u'Jesolo', u'GPE'], [u'Jesi', u'GPE'], [u'Mar Jonio', u'PERSON'], [u'Mar Ionio', u'PERSON'], [u'the Ionian Sea', u'LOC']]
+J in Italian is an old-fashioned orthographic variant of I, appearing in the first name "Jacopo" as well as in some Italian place names, e.g., the towns of Bajardo, Bojano, Joppolo, Jesolo, Jesi, among numerous others, and in the alternative spelling Mar Jonio (also spelled Mar Ionio) for the Ionian Sea.
 
 What is Italian language`s last name?	NULL	S09/data/set5/a9
 
 [[u'Italian', u'NORP'], [u'about 70 million', u'CARDINAL'], [u'first', u'ORDINAL'], [u'about 50 million', u'CARDINAL'], [u'second', u'ORDINAL'], [u'up to 120 million', u'CARDINAL']]
+  Italian ( , or lingua italiana) is a Romance language spoken by about 70 million people as a first language, and by about 50 million more as a second or studied language, making the total number of speakers up to 120 million.
 
 How many offspring did Italian language have?	NULL	S09/data/set5/a9
 
 [[u'Turkish', u'NORP'], [u'French', u'NORP'], [u'Italian', u'NORP']]
+Turkish, like French, tends to put the accent on the ultimate syllable, but Italian doesn't.
 
 Where did Italian language die?	NULL	S09/data/set5/a9
 
 [[u'Italian', u'NORP'], [u'about 70 million', u'CARDINAL'], [u'first', u'ORDINAL'], [u'about 50 million', u'CARDINAL'], [u'second', u'ORDINAL'], [u'up to 120 million', u'CARDINAL']]
+  Italian ( , or lingua italiana) is a Romance language spoken by about 70 million people as a first language, and by about 50 million more as a second or studied language, making the total number of speakers up to 120 million.
 
 Are geminate plosives and affricates realised as lengthened closures?	NULL	S09/data/set5/a9
 
@@ -1469,6 +1642,7 @@ no
 Where is this letter silent?	NULL	S09/data/set5/a9
 
 []
+In the spoken language this letter is always silent in the words given above, even though in ho it changes the pronunciation making the vowel open.
 
 Is Italian one of official four languages?	NULL	S09/data/set5/a9
 
@@ -1533,18 +1707,22 @@ James Watt was born on 19th of January, 1736 in Greenock, a seaport on the Firth
 What was the name of James Watt's mother?	Agnus Muirhead	S09/data/set4/a2
 
 [[u'James Watt', u'PERSON'], [u'January 19 1736', u'DATE'], [u'August 19 1819', u'DATE'], [u'Scottish', u'NORP'], [u'the Industrial Revolution', u'ORG']]
+  James Watt (January 19 1736  August 19 1819) was a Scottish inventor and engineer whose improvements to the steam engine were fundamental to the changes wrought by the Industrial Revolution.   
 
 What was the name of James Watt's mother?	Agnes Muirhead	S09/data/set4/a2
 
 [[u'James Watt', u'PERSON'], [u'January 19 1736', u'DATE'], [u'August 19 1819', u'DATE'], [u'Scottish', u'NORP'], [u'the Industrial Revolution', u'ORG']]
+  James Watt (January 19 1736  August 19 1819) was a Scottish inventor and engineer whose improvements to the steam engine were fundamental to the changes wrought by the Industrial Revolution.   
 
 How many of James Watt's children did not live to adulthood?	3	S09/data/set4/a2
 
 [[u'Matthew Boulton', u'PERSON'], [u'Jonathan Hornblower', u'PERSON']]
+Watt, with his partner Matthew Boulton, battled against rival engineers such as Jonathan Hornblower who tried to develop engines which did not fall foul of his patents.
 
 How many of James Watt's children did not live to adulthood?	3	S09/data/set4/a2
 
 [[u'Matthew Boulton', u'PERSON'], [u'Jonathan Hornblower', u'PERSON']]
+Watt, with his partner Matthew Boulton, battled against rival engineers such as Jonathan Hornblower who tried to develop engines which did not fall foul of his patents.
 
 James Watt ranked first among how many people in Charles Murray's survey of historiometry?	229	S09/data/set4/a2
 
@@ -1565,14 +1743,17 @@ Watt attended school irregularly but instead he was mostly schooled at home by h
 What is James Watt most famous for?	Steam engine.	S09/data/set4/a2
 
 [[u'James Watt', u'PERSON'], [u'January 19 1736', u'DATE'], [u'August 19 1819', u'DATE'], [u'Scottish', u'NORP'], [u'the Industrial Revolution', u'ORG']]
+  James Watt (January 19 1736  August 19 1819) was a Scottish inventor and engineer whose improvements to the steam engine were fundamental to the changes wrought by the Industrial Revolution.   
 
 What was Japanese language`s profession?	NULL	S09/data/set5/a6
 
 [[u'IPA', u'ORG'], [u'over 130 million', u'MONEY'], [u'Japan', u'GPE'], [u'Japanese', u'NORP']]
+  IPA: nÊ²ihoÅÉ¡o is a language spoken by over 130 million   people in Japan and in Japanese emigrant communities.
 
 What is Japanese language`s first name?	NULL	S09/data/set5/a6
 
 [[u'IPA', u'ORG'], [u'over 130 million', u'MONEY'], [u'Japan', u'GPE'], [u'Japanese', u'NORP']]
+  IPA: nÊ²ihoÅÉ¡o is a language spoken by over 130 million   people in Japan and in Japanese emigrant communities.
 
 Is the basic sentence structure topic-comment?	NULL	S09/data/set5/a6
 
@@ -1581,6 +1762,7 @@ yes
 Where are the circumstances complicated?	NULL	S09/data/set5/a6
 
 [[u'IPA', u'ORG'], [u'over 130 million', u'MONEY'], [u'Japan', u'GPE'], [u'Japanese', u'NORP']]
+  IPA: nÊ²ihoÅÉ¡o is a language spoken by over 130 million   people in Japan and in Japanese emigrant communities.
 
 Does the   form indicate a perfect tense?	NULL	S09/data/set5/a6
 
@@ -1641,14 +1823,17 @@ no
 When was Lima founded?	January 18,1535.	S09/data/set3/a4
 
 [[u'Lima', u'GPE'], [u'Spanish', u'NORP'], [u'Francisco Pizarro', u'PERSON'], [u'January 18, 1535', u'DATE'], [u'La Ciudad de', u'ORG'], [u'The City of Kings', u'GPE']]
+Lima was founded by Spanish conquistador Francisco Pizarro on January 18, 1535, as La Ciudad de los Reyes, or "The City of Kings.
 
 Where is the Park of the Reserve located?	Near the downtown area.	S09/data/set3/a4
 
 [[u'the Government Palace', u'FAC'], [u'the Plaza Mayor', u'FAC']]
+The executive branch is headquartered in the Government Palace, located in the Plaza Mayor.
 
 What is a colectivo?	Automobiles that renders express service on some major roads of the Lima Metropolitan Area.	S09/data/set3/a4
 
 [[u'Lima', u'GPE'], [u'Peru', u'GPE']]
+  Lima is the capital and largest city of Peru.
 
 Is the National University of San Marcos in Lima?	Yes.	S09/data/set3/a4
 
@@ -1661,6 +1846,7 @@ Has the San Lorenzo Megaport Project been completed?	No.	S09/data/set3/a4
 How many years ago was the Lima Stock Exchange the most profitable in the world?	Three	S09/data/set3/a4
 
 [[u'2006', u'DATE'], [u'the Lima Stock Exchange', u'ORG']]
+In 2006, the Lima Stock Exchange was the most profitable in the world.
 
 Is lima the capital  and  largest  city  of Peru?	Yes.	S09/data/set3/a4
 
@@ -1709,26 +1895,32 @@ London's population draws from a wide range of peoples, cultures, and religions,
 What had the Anglo-Saxons created by the 600s?	By the 600s, the Anglo-Saxons had created a new settlement called Lundenwic.	S09/data/set3/a1
 
 [[u'600s', u'CARDINAL'], [u'Anglo', u'NORP'], [u'Lundenwic', u'GPE'], [u'Roman city', u'GPE'], [u'Covent Garden', u'PERSON']]
+By the 600s, the Anglo-Saxons had created a new settlement called Lundenwic approximately  upstream from the old Roman city, around what is now Covent Garden.  
 
 What had the Anglo-Saxons created by the 600s?	a new settlement called Lundenwic	S09/data/set3/a1
 
 [[u'600s', u'CARDINAL'], [u'Anglo', u'NORP'], [u'Lundenwic', u'GPE'], [u'Roman city', u'GPE'], [u'Covent Garden', u'PERSON']]
+By the 600s, the Anglo-Saxons had created a new settlement called Lundenwic approximately  upstream from the old Roman city, around what is now Covent Garden.  
 
 What city in the UK has been subjected to bouts of terrorism?	London has been subjected to bouts of terrorism.	S09/data/set3/a1
 
 [[u'UK', u'GPE']]
+However, as the seat of government and the most important city in the UK, it has been subjected to bouts of terrorism
 
 What city in the UK has been subjected to bouts of terrorism?	London	S09/data/set3/a1
 
 [[u'UK', u'GPE']]
+However, as the seat of government and the most important city in the UK, it has been subjected to bouts of terrorism
 
 What countries did James VI of Scotland unite?	James VI of Scotland united Scotland and England.	S09/data/set3/a1
 
 [[u'15.8%),', u'PERCENT'], [u'Muslims', u'NORP'], [u'8.5%)', u'PERCENT'], [u'Hindus', u'NORP'], [u'4.1%)', u'PERCENT'], [u'Jews', u'NORP'], [u'2.1%),', u'PERCENT'], [u'Sikhs', u'NORP'], [u'1.5%),', u'PERCENT'], [u'Buddhists', u'NORP'], [u'0.8%)', u'PERCENT'], [u'0.5%)', u'PERCENT'], [u'8.7% of people', u'PERCENT'], [u'2001', u'DATE'], [u'Census', u'ORG']]
+This is followed by those of no religion (15.8%), Muslims (8.5%), Hindus (4.1%), Jews (2.1%), Sikhs (1.5%), Buddhists (0.8%) and other (0.5%), though 8.7% of people did not answer this question in the 2001 Census.  
 
 What countries did James VI of Scotland unite?	England and Scotland	S09/data/set3/a1
 
 [[u'15.8%),', u'PERCENT'], [u'Muslims', u'NORP'], [u'8.5%)', u'PERCENT'], [u'Hindus', u'NORP'], [u'4.1%)', u'PERCENT'], [u'Jews', u'NORP'], [u'2.1%),', u'PERCENT'], [u'Sikhs', u'NORP'], [u'1.5%),', u'PERCENT'], [u'Buddhists', u'NORP'], [u'0.8%)', u'PERCENT'], [u'0.5%)', u'PERCENT'], [u'8.7% of people', u'PERCENT'], [u'2001', u'DATE'], [u'Census', u'ORG']]
+This is followed by those of no religion (15.8%), Muslims (8.5%), Hindus (4.1%), Jews (2.1%), Sikhs (1.5%), Buddhists (0.8%) and other (0.5%), though 8.7% of people did not answer this question in the 2001 Census.  
 
 How did civil wars affect England during the Middle Ages?	London remained relatively untouched	S09/data/set3/a1
 
@@ -1769,30 +1961,37 @@ yes
 Who was a member of the Sandemanian sect of Christianity?	yes	S09/data/set4/a7
 
 [[u'James', u'PERSON'], [u'Sandemanian', u'NORP'], [u'Christianity', u'GPE']]
+His father, James, was a member of the Sandemanian sect of Christianity.
 
 Who was a member of the Sandemanian sect of Christianity?	Faraday	S09/data/set4/a7
 
 [[u'James', u'PERSON'], [u'Sandemanian', u'NORP'], [u'Christianity', u'GPE']]
+His father, James, was a member of the Sandemanian sect of Christianity.
 
 What did Joseph Henry likely discover?	self-induction	S09/data/set4/a7
 
 [[u'Joseph Henry', u'PERSON'], [u'a few months earlier', u'DATE'], [u'Francesco Zantedeschi', u'PERSON'], [u'Italy', u'GPE'], [u'1829', u'DATE'], [u'1830', u'DATE']]
+Joseph Henry likely discovered self-induction a few months earlier and both may have been anticipated by the work of Francesco Zantedeschi in Italy in 1829 and 1830.
 
 What did Joseph Henry likely discover?	self-induction	S09/data/set4/a7
 
 [[u'Joseph Henry', u'PERSON'], [u'a few months earlier', u'DATE'], [u'Francesco Zantedeschi', u'PERSON'], [u'Italy', u'GPE'], [u'1829', u'DATE'], [u'1830', u'DATE']]
+Joseph Henry likely discovered self-induction a few months earlier and both may have been anticipated by the work of Francesco Zantedeschi in Italy in 1829 and 1830.
 
 What did the University of Oxford grant Faraday?	a Doctor of Civil Law degree (honorary)	S09/data/set4/a7
 
 [[u'June of 1832', u'DATE'], [u'the University of', u'ORG'], [u'Oxford', u'GPE'], [u'Faraday', u'ORG']]
+In June of 1832, the University of Oxford granted Faraday a Doctor of Civil Law degree (honorary).
 
 What did the University of Oxford grant Faraday?	Doctor of Civil Law degree (honorary)	S09/data/set4/a7
 
 [[u'June of 1832', u'DATE'], [u'the University of', u'ORG'], [u'Oxford', u'GPE'], [u'Faraday', u'ORG']]
+In June of 1832, the University of Oxford granted Faraday a Doctor of Civil Law degree (honorary).
 
 Who was made to travel outside the coach?	Faraday	S09/data/set4/a7
 
 [[u'Michael Faraday', u'PERSON'], [u'FRS (', u'ORG'], [u'September 22, 1791 \xe2\x80\x93', u'DATE'], [u'1867', u'DATE'], [u'English', u'LANGUAGE']]
+  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
 
 Did Faraday construct the ancestor of modern power generators?	yes	S09/data/set4/a7
 
@@ -1829,26 +2028,32 @@ no
 What do some historians of science refer to Faraday as?	the best experimentalist in the history of science	S09/data/set4/a7
 
 []
+Some historians  of science refer to him as the best experimentalist in the history of science. "
 
 What do some historians of science refer to Faraday as?	best experimentalist in the history of science	S09/data/set4/a7
 
 []
+Some historians  of science refer to him as the best experimentalist in the history of science. "
 
 Who was the sponsor and mentor of Faraday?	John 'Mad Jack' Fuller	S09/data/set4/a7
 
 [[u'Michael Faraday', u'PERSON'], [u'FRS (', u'ORG'], [u'September 22, 1791 \xe2\x80\x93', u'DATE'], [u'1867', u'DATE'], [u'English', u'LANGUAGE']]
+  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
 
 Who was the sponsor and mentor of Faraday?	John 'Mad Jack' Fuller	S09/data/set4/a7
 
 [[u'Michael Faraday', u'PERSON'], [u'FRS (', u'ORG'], [u'September 22, 1791 \xe2\x80\x93', u'DATE'], [u'1867', u'DATE'], [u'English', u'LANGUAGE']]
+  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
 
 What did Faraday invent that is used almost universally in science laboratories?	the Bunsen burner	S09/data/set4/a7
 
 [[u'Bunsen', u'GPE']]
+He invented an early form of what was to become the Bunsen burner, which is used almost universally in science laboratories as a convenient source of heat.  
 
 What did Faraday invent that is used almost universally in science laboratories?	Bunsen burner	S09/data/set4/a7
 
 [[u'Bunsen', u'GPE']]
+He invented an early form of what was to become the Bunsen burner, which is used almost universally in science laboratories as a convenient source of heat.  
 
 Does the production of chemical weapons raise an ethical issue?	yes	S09/data/set4/a7
 
@@ -1857,10 +2062,12 @@ no
 What was the Faraday effect first called?	diamagnetism	S09/data/set4/a7
 
 [[u'Faraday', u'ORG'], [u'first', u'ORDINAL']]
+Faraday was the first to report what later came to be called metallic nanoparticles.
 
 What was the Faraday effect first called?	diamagnetism	S09/data/set4/a7
 
 [[u'Faraday', u'ORG'], [u'first', u'ORDINAL']]
+Faraday was the first to report what later came to be called metallic nanoparticles.
 
 Can you meet someone through attending a church?	yes	S09/data/set4/a7
 
@@ -1869,26 +2076,32 @@ They met through attending the Sandemanian church.
 What was Michael Faraday`s birthplace?	Newington Butts	S09/data/set4/a7
 
 [[u'Michael Faraday', u'PERSON'], [u'FRS (', u'ORG'], [u'September 22, 1791 \xe2\x80\x93', u'DATE'], [u'1867', u'DATE'], [u'English', u'LANGUAGE']]
+  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
 
 What was Michael Faraday`s profession?	chemist and physicist	S09/data/set4/a7
 
 [[u'Michael Faraday', u'PERSON'], [u'FRS (', u'ORG'], [u'September 22, 1791 \xe2\x80\x93', u'DATE'], [u'1867', u'DATE'], [u'English', u'LANGUAGE']]
+  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
 
 How many years ago did Faraday report on the first synthesis of compound make from carbon and chlorine , c 2 h 6 and c 2 h 4 ?	189	S09/data/set4/a7
 
 [[u'Faraday', u'ORG']]
+This idea was rejected by his fellow scientists, and Faraday did not live to see this idea eventually accepted.
 
 How many years ago was it when he discovered the phenomenon that he named diamagnetism , and what is now called the Faraday effect?	164	S09/data/set4/a7
 
 [[u'1845', u'DATE'], [u'Faraday', u'ORG']]
+In 1845, he discovered the phenomenon that he named diamagnetism, and what is now called the Faraday effect: The plane of polarization of linearly polarized light propagated through a material medium can be rotated by the application of an external magnetic field aligned in the propagation direction.
 
 How many years ago was it when Faraday wrote a letter to The Times on the subject of the foul condition of the River Thames , which resulted in an oft-reprinted cartoon in Punch?	154	S09/data/set4/a7
 
 [[u'Davy', u'ORG'], [u'1829', u'DATE'], [u'Faraday', u'ORG']]
+It was not until Davy's death, in 1829, that Faraday stopped these fruitless tasks and moved on to endeavors that were more worthwhile.
 
 How many years ago was it when he discovered that the optical properties of gold colloids differed from those of the corresponding bulk metal?	162	S09/data/set4/a7
 
 [[u'two', u'CARDINAL']]
+He established that magnetism could affect rays of light and that there was an underlying relationship between the two phenomena.
 
 Was education another area  of service  for Faraday?	yes	S09/data/set4/a7
 
@@ -1901,18 +2114,22 @@ no
 Who died at his house at Hampton Court on August 25, 1867?	Faraday	S09/data/set4/a7
 
 [[u'Twickenham Museum', u'ORG'], [u'Faraday', u'DATE'], [u'Faraday House', u'ORG'], [u'June 2006', u'DATE'], [u'Faraday', u'ORG'], [u'Hampton Court', u'ORG'], [u'August 25, 1867', u'DATE']]
+Twickenham Museum on Faraday and Faraday House, Accessed June 2006 Faraday died at his house at Hampton Court on August 25, 1867.
 
 When was Michael Faraday born?	September 22, 1791	S09/data/set4/a7
 
 [[u'Michael Faraday', u'PERSON'], [u'John Watkins', u'PERSON'], [u'British Library', u'ORG'], [u'Michael Faraday', u'PERSON'], [u'Newington Butts', u'PERSON'], [u'South London', u'PERSON'], [u'England', u'GPE']]
+Michael Faraday from a photograph by John Watkins, British Library Michael Faraday was born in Newington Butts, near present-day South London, England.
 
 Where did he serve two terms?	the Church of Scotland	S09/data/set4/a7
 
 [[u'Michael Faraday', u'PERSON'], [u'FRS (', u'ORG'], [u'September 22, 1791 \xe2\x80\x93', u'DATE'], [u'1867', u'DATE'], [u'English', u'LANGUAGE']]
+  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
 
 Who was born in Newington Butts, near present-day South London, England?	Michael Faraday	S09/data/set4/a7
 
 [[u'Michael Faraday', u'PERSON'], [u'John Watkins', u'PERSON'], [u'British Library', u'ORG'], [u'Michael Faraday', u'PERSON'], [u'Newington Butts', u'PERSON'], [u'South London', u'PERSON'], [u'England', u'GPE']]
+Michael Faraday from a photograph by John Watkins, British Library Michael Faraday was born in Newington Butts, near present-day South London, England.
 
 Is it true that institution formed the foundation of electric motor technology?	no	S09/data/set4/a7
 
@@ -1925,14 +2142,17 @@ He invented an early form of what was to become the Bunsen burner, which is used
 Who was Fort Nassau built by?	the Dutch	S09/data/set3/a2
 
 [[u'Nassau', u'GPE'], [u'Princeton', u'GPE'], [u'New Jersey', u'GPE'], [u'U.S.', u'GPE'], [u'Nassau', u'GPE'], [u'Lower Manhattan', u'GPE'], [u'New York City', u'GPE'], [u'U.S.', u'GPE'], [u'Nassau', u'GPE'], [u'Saxony', u'GPE'], [u'Germany', u'GPE'], [u'the Ore Mountains', u'LOC'], [u'the House of Orange-Nassau', u'ORG'], [u'Netherlands', u'GPE'], [u'Adolf', u'PERSON'], [u'Nassau', u'GPE'], [u'Johan Willem Friso', u'PERSON'], [u'Orange-Nassau', u'ORG'], [u'Nassau', u'GPE'], [u'Maurice', u'PERSON'], [u'Nassau', u'GPE'], [u'Sophia', u'GPE'], [u'Nassau', u'GPE'], [u'Willem', u'PERSON'], [u'Nassau', u'GPE'], [u'William Henry', u'PERSON'], [u'4th', u'ORDINAL'], [u'Earl', u'PERSON'], [u'John Maurice', u'PERSON'], [u'Nassau', u'GPE'], [u'Adolf', u'PERSON'], [u'Nassau-Weilburg', u'ORG'], [u'Adolphe', u'PERSON'], [u'Grand Duke of Luxembourg', u'ORG'], [u'Grand Duke of Luxembourg', u'ORG'], [u'Marie-Ad\xe9la\xefde', u'PERSON'], [u'Grand Duchess of Luxembourg', u'ORG'], [u'Charlotte', u'GPE'], [u'Grand Duchess of Luxembourg', u'ORG'], [u'Jean', u'PERSON'], [u'Grand Duke of Luxembourg', u'ORG'], [u'Henri', u'PERSON'], [u'Grand Duke of Luxembourg', u'ORG'], [u'Nassau', u'GPE'], [u'William Senior', u'PERSON'], [u'House of Nassau', u'ORG'], [u'Nassau', u'GPE'], [u'Nassau', u'GPE'], [u'Robert Fulton', u'PERSON'], [u'Manhattan', u'GPE'], [u'Brooklyn', u'GPE'], [u'U.S.', u'GPE'], [u'New York', u'GPE'], [u'1814', u'DATE'], [u'Nassau Hall', u'PERSON'], [u'Princeton University', u'ORG'], [u'USA', u'GPE'], [u'Second Continental Congress', u'ORG'], [u'Hesse', u'PERSON'], [u'Nassau', u'GPE'], [u'Germany', u'GPE'], [u'Fort Nassau', u'GPE'], [u'Dutch', u'NORP'], [u'the 17th century', u'DATE'], [u'Nassau', u'GPE'], [u'the United States', u'GPE'], [u'the United Kingdom', u'GPE'], [u'US', u'GPE'], [u'Polaris', u'ORG'], [u'the Holy Loch', u'WORK_OF_ART'], [u'Glasgow', u'GPE'], [u'Nassau', u'GPE'], [u'Nassau', u'GPE'], [u'two-year', u'DATE'], [u'Nassau County', u'GPE'], [u'New York', u'GPE'], [u'USA *', u'ORG'], [u'the United Kingdom', u'GPE'], [u'Nassau', u'GPE'], [u'Canada', u'GPE'], [u'Nassau Sound', u'PERSON'], [u'U.S.', u'GPE'], [u'Florida', u'GPE'], [u'Nassau', u'GPE'], [u'Uniondale', u'GPE'], [u'New York', u'GPE'], [u'USA *', u'ORG'], [u'Nassau', u'GPE'], [u'a United States', u'GPE'], [u'Navy', u'ORG'], [u'USS', u'ORG'], [u'Nassau', u'GPE'], [u'a United States', u'GPE'], [u'Nassau', u'GPE'], [u'German', u'NORP'], [u'Nassau', u'GPE'], [u'three', u'CARDINAL']]
+*Nassau Street (Princeton): a street in Princeton, New Jersey, U.S. *Nassau Street (Manhattan): a street in Lower Manhattan, New York City, U.S.  *Nassau, Saxony: a village in Saxony, Germany, in the Ore Mountains  Of the House of Orange-Nassau, royal dynasty of the Netherlands: *Adolf of Nassau *Johan Willem Friso of Orange-Nassau *Louis of Nassau *Maurice of Nassau *Sophia of Nassau *Willem of Nassau *William Henry Nassau de Zuylestein, 4th Earl of Rochford  *John Maurice of Nassau  *Adolf of Nassau-Weilburg *Adolphe, Grand Duke of Luxembourg *Guillaume IV, Grand Duke of Luxembourg *Marie-Adélaïde, Grand Duchess of Luxembourg *Charlotte, Grand Duchess of Luxembourg *Jean, Grand Duke of Luxembourg *Henri, Grand Duke of Luxembourg  *Nassau William Senior  *House of Nassau *List of rulers of Nassau  *Nassau (steamboat), a steamboat placed in operation by Robert Fulton between Manhattan and Brooklyn in the U.S. state of New York in 1814 *Nassau Hall: the oldest building at Princeton University, and a meeting place for the USA's Second Continental Congress *Evangelical Church of Hesse and Nassau; a church in Germany *Fort Nassau: name of several forts built by the Dutch in the 17th century *Nassau agreement: a treaty between the United States and the United Kingdom trading US-built Polaris missiles for rights to lease a nuclear submarine base in the Holy Loch, near Glasgow *Nassau grouper: an endangered species of fish *Nassau Community College: a two-year college in Nassau County, New York, USA *Nassau Stakes: a horse race in the United Kingdom *Nassau Stakes (Canada): a horse race in Canada *Nassau Sound: a body of water in the U.S. state of Florida *Nassau Veterans Memorial Coliseum; an ice hockey arena in Uniondale, New York, USA *USS Nassau (CVE-16): a United States Navy escort aircraft carrier *USS Nassau (LHA-4): a United States Navy amphibious assault ship *SMS Nassau: a German battleship *Nassau (bet): a type of bet between golfers that is essentially three separate bets.
 
 What is Nassau Coliseum?	an arena in Uniondale, New York, USA	S09/data/set3/a2
 
 [[u'Nassau', u'GPE'], [u' ', u'GPE'], [u'Nassau', u'GPE'], [u'Germany', u'GPE'], [u'Rhineland-Palatinate', u'GPE'], [u'AD 915', u'DATE'], [u'Nassau', u'GPE'], [u'the House of', u'ORG'], [u'Nassau', u'GPE'], [u'Duchy', u'GPE'], [u'Nassau', u'GPE'], [u'German', u'NORP'], [u'Hesse-Nassau', u'PERSON'], [u'Prussian', u'NORP'], [u'Baarle-', u'GPE'], [u'Netherlands', u'GPE'], [u'Nassau', u'GPE'], [u'Germany', u'GPE'], [u'Nassau', u'GPE'], [u'Bahamas', u'GPE'], [u'Bahamas', u'GPE'], [u'New Providence', u'GPE']]
+ __NOTOC__ Nassau may mean the following:  Nassau, Germany: a town in Rhineland-Palatinate founded in AD 915, after which all the following are named, directly or indirectly: *Nassau Castle, ancestral seat of the House of Nassau *Duchy of Nassau: an extinct German duchy *Hesse-Nassau: the Prussian province formed by annexation of that duchy *Baarle-Nassau: a town in the southern Netherlands *Nassau-Siegen: a historical territory in Germany *Nassau, Bahamas: capital city of The Bahamas, on the island of New Providence. *
 
 What was the Dead or Alive 4 fighting arena modeled after?	a Magnetic Accelerator Cannon station from Halo 2	S09/data/set3/a2
 
 [[u'Nassau', u'GPE'], [u' ', u'GPE'], [u'Nassau', u'GPE'], [u'Germany', u'GPE'], [u'Rhineland-Palatinate', u'GPE'], [u'AD 915', u'DATE'], [u'Nassau', u'GPE'], [u'the House of', u'ORG'], [u'Nassau', u'GPE'], [u'Duchy', u'GPE'], [u'Nassau', u'GPE'], [u'German', u'NORP'], [u'Hesse-Nassau', u'PERSON'], [u'Prussian', u'NORP'], [u'Baarle-', u'GPE'], [u'Netherlands', u'GPE'], [u'Nassau', u'GPE'], [u'Germany', u'GPE'], [u'Nassau', u'GPE'], [u'Bahamas', u'GPE'], [u'Bahamas', u'GPE'], [u'New Providence', u'GPE']]
+ __NOTOC__ Nassau may mean the following:  Nassau, Germany: a town in Rhineland-Palatinate founded in AD 915, after which all the following are named, directly or indirectly: *Nassau Castle, ancestral seat of the House of Nassau *Duchy of Nassau: an extinct German duchy *Hesse-Nassau: the Prussian province formed by annexation of that duchy *Baarle-Nassau: a town in the southern Netherlands *Nassau-Siegen: a historical territory in Germany *Nassau, Bahamas: capital city of The Bahamas, on the island of New Providence. *
 
 Is Nassau County named after a German town?	yes	S09/data/set3/a2
 
@@ -1953,38 +2173,47 @@ no
 When did Tesla demonstrate wireless communication (radio)?	1893	S09/data/set4/a3
 
 [[u'50th', u'ORDINAL'], [u'1906', u'DATE'], [u'Tesla', u'PERSON'], [u'200', u'CARDINAL'], [u'150', u'CARDINAL'], [u'16,000 rpm', u'MONEY']]
+On his 50th birthday in 1906, Tesla demonstrated his 200 hp (150 kW) 16,000 rpm bladeless turbine.
 
 When did Tesla demonstrate wireless communication (radio)?	1893	S09/data/set4/a3
 
 [[u'50th', u'ORDINAL'], [u'1906', u'DATE'], [u'Tesla', u'PERSON'], [u'200', u'CARDINAL'], [u'150', u'CARDINAL'], [u'16,000 rpm', u'MONEY']]
+On his 50th birthday in 1906, Tesla demonstrated his 200 hp (150 kW) 16,000 rpm bladeless turbine.
 
 What is the SI unit measuring magnetic flux density or magnetic induction?	the tesla	S09/data/set4/a3
 
 [[u'SI', u'ORG'], [u'B\\', u'ORG'], [u'the Conf\xc3\xa9rence G\xc3\xa9n\xc3\xa9rale des Poids', u'ORG'], [u'Mesures', u'GPE'], [u'Paris', u'GPE'], [u'1960', u'DATE']]
+The SI unit measuring magnetic flux density or magnetic induction (commonly known as the magnetic field B\, ), the tesla, was named in his honour (at the ConfÃ©rence GÃ©nÃ©rale des Poids et Mesures, Paris, 1960).
 
 What is the SI unit measuring magnetic flux density or magnetic induction?	the tesla	S09/data/set4/a3
 
 [[u'SI', u'ORG'], [u'B\\', u'ORG'], [u'the Conf\xc3\xa9rence G\xc3\xa9n\xc3\xa9rale des Poids', u'ORG'], [u'Mesures', u'GPE'], [u'Paris', u'GPE'], [u'1960', u'DATE']]
+The SI unit measuring magnetic flux density or magnetic induction (commonly known as the magnetic field B\, ), the tesla, was named in his honour (at the ConfÃ©rence GÃ©nÃ©rale des Poids et Mesures, Paris, 1960).
 
 What type of current did Tesla invent?	AC	S09/data/set4/a3
 
 [[u'Tesla', u'GPE']]
+Did Tesla really invent the loudspeaker?".
 
 Who was the victor of the "War of Currents"?	Tesla	S09/data/set4/a3
 
 [[u'Times of Nikola Tesla', u'ORG'], [u'1893', u'DATE'], [u'the "War of Currents"', u'EVENT'], [u'America', u'GPE']]
+The Life and Times of Nikola Tesla," book synopsis After his demonstration of wireless communication (radio) in 1893 and after being the victor in the "War of Currents", he was widely respected as America's greatest electrical engineer. /ref
 
 Who was the victor of the "War of Currents"?	Nikola Tesla	S09/data/set4/a3
 
 [[u'Times of Nikola Tesla', u'ORG'], [u'1893', u'DATE'], [u'the "War of Currents"', u'EVENT'], [u'America', u'GPE']]
+The Life and Times of Nikola Tesla," book synopsis After his demonstration of wireless communication (radio) in 1893 and after being the victor in the "War of Currents", he was widely respected as America's greatest electrical engineer. /ref
 
 Where did Tesla study electrical engineering?	the Austrian Polytechnic in Graz 	S09/data/set4/a3
 
 [[u'the Austrian Polytechnic', u'ORG'], [u'1875', u'DATE']]
+Tesla then studied electrical engineering at the Austrian Polytechnic in Graz (1875).
 
 Where did Tesla study electrical engineering?	Austrian Polytechnic in Graz	S09/data/set4/a3
 
 [[u'the Austrian Polytechnic', u'ORG'], [u'1875', u'DATE']]
+Tesla then studied electrical engineering at the Austrian Polytechnic in Graz (1875).
 
 Does Ottawa sit on the Ottowa River?	Yes	S09/data/set3/a5
 
@@ -1993,22 +2222,27 @@ no
 What is Ottawa's population?	1,190,982	S09/data/set3/a5
 
 [[u'1,190,982', u'CARDINAL'], [u' Ottawa is', u'QUANTITY'], [u'second', u'ORDINAL'], [u'Ontario', u'GPE']]
+With a metropolitan population estimated at 1,190,982  Ottawa is also the second largest city in the province of Ontario.  
 
 What are Ottawa's primary industries?	Logging and lumber	S09/data/set3/a5
 
 [[u'  ', u'GPE'], [u'Ottawa', u'GPE'], [u'Canada', u'GPE'], [u'fourth', u'ORDINAL']]
+  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
 
 What is Ottawa's junior ice hockey team?	the Ottawa 67's	S09/data/set3/a5
 
 [[u'Ottawa', u'GPE'], [u"the Ottawa 67's", u'ORG'], [u'the Ontario Hockey League', u'ORG']]
+Ottawa also has a major junior ice hockey team, the Ottawa 67's of the Ontario Hockey League.
 
 What is Ottawa's major league hockey team?	the Ottawa Senators	S09/data/set3/a5
 
 [[u'  ', u'GPE'], [u'Ottawa', u'GPE'], [u'Canada', u'GPE'], [u'fourth', u'ORDINAL']]
+  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
 
 What are Carleton University's athletic teams called?	Carleton Ravens	S09/data/set3/a5
 
 [[u'Odawa', u'ORG'], [u'Algonquin', u'ORG'], [u'the Kichi Sibi', u'FAC'], [u'Kichissippi', u'ORG'], [u'Great River', u'LOC']]
+The Odawa are an Algonquin people who called the river the Kichi Sibi or Kichissippi, meaning "Great River".
 
 Is Ottawa colder than Moscow in January?	Yes	S09/data/set3/a5
 
@@ -2025,34 +2259,42 @@ no
 Who is the mayor of Ottawa?	Larry O'Brien	S09/data/set3/a5
 
 [[u'  ', u'GPE'], [u'Ottawa', u'GPE'], [u'Canada', u'GPE'], [u'fourth', u'ORDINAL']]
+  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
 
 Who is the mayor of Ottawa?	Larry O'Brien	S09/data/set3/a5
 
 [[u'  ', u'GPE'], [u'Ottawa', u'GPE'], [u'Canada', u'GPE'], [u'fourth', u'ORDINAL']]
+  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
 
 How many townships are in Ottawa?	eleven	S09/data/set3/a5
 
 [[u'Ottawa', u'GPE'], [u'the Ottawa Fury', u'ORG'], [u'W-League', u'ORG'], [u'USL Premier Development League', u'ORG']]
+Ottawa's top soccer team is the Ottawa Fury who play in the women's W-League and the men's USL Premier Development League.
 
 How many townships are in Ottawa?	eleven	S09/data/set3/a5
 
 [[u'Ottawa', u'GPE'], [u'the Ottawa Fury', u'ORG'], [u'W-League', u'ORG'], [u'USL Premier Development League', u'ORG']]
+Ottawa's top soccer team is the Ottawa Fury who play in the women's W-League and the men's USL Premier Development League.
 
 What's the main highway in Ottawa?	Highway 417, The Queensway	S09/data/set3/a5
 
 [[u'  ', u'GPE'], [u'Ottawa', u'GPE'], [u'Canada', u'GPE'], [u'fourth', u'ORDINAL']]
+  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
 
 What's the main highway in Ottawa?	provinical Highway 417	S09/data/set3/a5
 
 [[u'  ', u'GPE'], [u'Ottawa', u'GPE'], [u'Canada', u'GPE'], [u'fourth', u'ORDINAL']]
+  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
 
 What was Ottawa's name in 1850?	Bytown	S09/data/set3/a5
 
 [[u'  ', u'GPE'], [u'Ottawa', u'GPE'], [u'Canada', u'GPE'], [u'fourth', u'ORDINAL']]
+  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
 
 What was Ottawa's name in 1850?	Bytown	S09/data/set3/a5
 
 [[u'  ', u'GPE'], [u'Ottawa', u'GPE'], [u'Canada', u'GPE'], [u'fourth', u'ORDINAL']]
+  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
 
 Based on the average, in what year will the next small tremor occur in Ottawa?	2009	S09/data/set3/a5
 
@@ -2065,10 +2307,12 @@ Based on the average, in what year will the next small tremor occur in Ottawa?	2
 Where were immigrants from in the 1800s?	Irish	S09/data/set3/a5
 
 [[u'  ', u'GPE'], [u'Ottawa', u'GPE'], [u'Canada', u'GPE'], [u'fourth', u'ORDINAL']]
+  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
 
 Where were immigrants from in the 1800s?	Ireland	S09/data/set3/a5
 
 [[u'  ', u'GPE'], [u'Ottawa', u'GPE'], [u'Canada', u'GPE'], [u'fourth', u'ORDINAL']]
+  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
 
 Does the giant otter live in South America?	Yes	S09/data/set1/a7
 
@@ -2097,18 +2341,22 @@ no
 What is an otter's den called?	A holt	S09/data/set1/a7
 
 []
+An otter's den is called a holt.
 
 What is an otter's den called?	holt	S09/data/set1/a7
 
 []
+An otter's den is called a holt.
 
 Where do sea otters live?	Beside water	S09/data/set1/a7
 
 []
+Otters do not depend on their specialized fur alone for survival in the cold waters where many live: they also have very high metabolic rates.
 
 Where do sea otters live?	Pacific coast of North America	S09/data/set1/a7
 
 []
+Otters do not depend on their specialized fur alone for survival in the cold waters where many live: they also have very high metabolic rates.
 
 Why are otters vulnerable to prey depletion?	Prey-dependence	S09/data/set1/a7
 
@@ -2161,42 +2409,52 @@ no
 What is the origin of the name Santiago?	Spanish for St. James	S09/data/set3/a6
 
 [[u' ', u'GPE'], [u'Santiago', u'GPE'], [u'Spanish', u'NORP'], [u'St. James', u'FAC'], [u'James', u'PERSON']]
+ Santiago is Spanish for St. James (from santo, saint + iago, James).
 
 What is the origin of the name Santiago?	sanit + iago, James	S09/data/set3/a6
 
 [[u' ', u'GPE'], [u'Santiago', u'GPE'], [u'Spanish', u'NORP'], [u'St. James', u'FAC'], [u'James', u'PERSON']]
+ Santiago is Spanish for St. James (from santo, saint + iago, James).
 
 Who has released an album or song named Santiago?	The Chieftains; Loreena McKennitt	S09/data/set3/a6
 
 [[u' ', u'GPE'], [u'Santiago', u'GPE'], [u'Spanish', u'NORP'], [u'St. James', u'FAC'], [u'James', u'PERSON']]
+ Santiago is Spanish for St. James (from santo, saint + iago, James).
 
 Who has released an album or song named Santiago?	The Chieftains and Loreena McKennitt	S09/data/set3/a6
 
 [[u' ', u'GPE'], [u'Santiago', u'GPE'], [u'Spanish', u'NORP'], [u'St. James', u'FAC'], [u'James', u'PERSON']]
+ Santiago is Spanish for St. James (from santo, saint + iago, James).
 
 What is the Order of Santiago?	a Spanish knightly order	S09/data/set3/a6
 
 [[u' ', u'GPE'], [u'Santiago', u'GPE'], [u'Spanish', u'NORP'], [u'St. James', u'FAC'], [u'James', u'PERSON']]
+ Santiago is Spanish for St. James (from santo, saint + iago, James).
 
 What is the Order of Santiago?	a Spanish Knightly order	S09/data/set3/a6
 
 [[u' ', u'GPE'], [u'Santiago', u'GPE'], [u'Spanish', u'NORP'], [u'St. James', u'FAC'], [u'James', u'PERSON']]
+ Santiago is Spanish for St. James (from santo, saint + iago, James).
 
 What notable people have been named Santiago?	Benito Santiago, Hugo Santiago, Joey Santiago, Liliana Santiago, Rafael Santiago Maria, Santiago Caballero, Santiago Cabrera; James, son of Zebedee	S09/data/set3/a6
 
 [[u' ', u'GPE'], [u'Santiago', u'GPE'], [u'Spanish', u'NORP'], [u'St. James', u'FAC'], [u'James', u'PERSON']]
+ Santiago is Spanish for St. James (from santo, saint + iago, James).
 
 What notable people have been named Santiago?	Benito, Hugo, and others	S09/data/set3/a6
 
 [[u' ', u'GPE'], [u'Santiago', u'GPE'], [u'Spanish', u'NORP'], [u'St. James', u'FAC'], [u'James', u'PERSON']]
+ Santiago is Spanish for St. James (from santo, saint + iago, James).
 
 What fictional stories include a main character named Santiago?	Gears of War, Rainbow Six: Covert Operations Essentials, Death Foretold by Gabriel GarcÃ­a MÃ¡rquez, Ernest Hemingway's The Old Man and the Sea, the television series Babylon 5, Anne Rice's novel Interview with the Vampire, aulo Coelho's The Alchemist (novel), the television show Friday Night Lights	S09/data/set3/a6
 
 [[u' ', u'GPE'], [u'Santiago', u'GPE'], [u'Spanish', u'NORP'], [u'St. James', u'FAC'], [u'James', u'PERSON']]
+ Santiago is Spanish for St. James (from santo, saint + iago, James).
 
 What fictional stories include a main character named Santiago?	Interview with the Vampire, The Alchemist, and others	S09/data/set3/a6
 
 [[u' ', u'GPE'], [u'Santiago', u'GPE'], [u'Spanish', u'NORP'], [u'St. James', u'FAC'], [u'James', u'PERSON']]
+ Santiago is Spanish for St. James (from santo, saint + iago, James).
 
 Is Santiago the national capital of a country?	Yes	S09/data/set3/a6
 
@@ -2209,6 +2467,7 @@ no
 What is Santiago?	Santiago is Spanish for St. James. It is also the name of places in Argentina, Brazil, Cape Verde, Chile, Colombia, Costa Rica, Cuba, the Dominican Republic, Ecuador, Guatemala, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, the Philippines, Portugal, Spain, the United States, Venezuela, and the Amazon. It is also the name of a baseball catcher, a film director, a guitarist, an economist, a footballer, a DJ, an actor, and James, son of Zebedee. Fictional people with this name include a character from Gears of War, a character from Chronicle of a Death Foretold, a character in Old Man and the Sea, a character in Babylon 5, a character in Interview with the Vampire, the main character of The Alchemist, and a character on Friday Night Lights. There has also been a battle of Santiago de Cuba, a couple of bands named Santiago, an Order of Santiago, and "Santiago" as a shortened form of the Reconquista battle cry.	S09/data/set3/a6
 
 [[u' ', u'GPE'], [u'Santiago', u'GPE'], [u'Spanish', u'NORP'], [u'St. James', u'FAC'], [u'James', u'PERSON']]
+ Santiago is Spanish for St. James (from santo, saint + iago, James).
 
 Are countries without in red?	NULL	S09/data/set5/a8
 
@@ -2241,10 +2500,12 @@ yes
 Where do about 400 million people speak Spanish?	NULL	S09/data/set5/a8
 
 [[u'about 400 million', u'CARDINAL'], [u'Spanish', u'LANGUAGE'], [u'second', u'ORDINAL'], [u'third', u'ORDINAL']]
+Today, about 400 million people speak Spanish as a native language, making it the world's second or third most spoken language, depending on the sources.
 
 What kind of instrument is the spanish language?	NULL	S09/data/set5/a8
 
 [[u'Spanish', u'NORP'], [u'the European Union', u'ORG']]
+Spanish is an official language of the European Union.
 
 Is the lexical similarity with Italian estimated at 82%?	NULL	S09/data/set5/a8
 
@@ -2257,6 +2518,7 @@ yes
 What is an official language of the European Union?	NULL	S09/data/set5/a8
 
 [[u'Spanish', u'NORP'], [u'one', u'CARDINAL'], [u'the United Nations', u'ORG'], [u'the European Union', u'ORG'], [u'the Organization of American States', u'ORG'], [u'the Organization of Ibero-American States', u'ORG'], [u'the African Union', u'ORG'], [u'the Union of South American Nations', u'ORG'], [u'the Latin Union', u'ORG'], [u'Caricom', u'ORG'], [u'the North American Free Trade Agreement', u'ORG'], [u'the Antarctic Treaty', u'ORG']]
+Spanish is one of the official languages of the United Nations, the European Union, the Organization of American States, the Organization of Ibero-American States, the African Union, the Union of South American Nations, the Latin Union, the Caricom, the North American Free Trade Agreement, the Antarctic Treaty.   
 
 Is it true that mexico contains the largest population of Spanish speakers?	NULL	S09/data/set5/a8
 
@@ -2293,26 +2555,32 @@ The common features of the writing systems of the Romance languages allow for a 
 What was Swahili language`s profession?	NULL	S09/data/set5/a4
 
 [[u'Swahili', u'GPE'], [u'Kiswahili', u'PERSON'], [u'first', u'ORDINAL'], [u'Swahili', u'GPE'], [u'Waswahili', u'GPE'], [u'the Indian Ocean', u'LOC'], [u'Somalia', u'GPE'], [u'Mozambique', u'GPE'], [u'the Comoros Islands', u'ORG']]
+  Swahili (Kiswahili) is the first language of the Swahili people (Waswahili), who inhabit several large stretches of the Indian Ocean coastline from southern Somalia to northern Mozambique, including the Comoros Islands.
 
 How many years ago was an interterritorial conference held at Mombasa ?	NULL	S09/data/set5/a4
 
 [[u'June 1928', u'DATE'], [u'Mombasa', u'GPE'], [u'Zanzibar', u'GPE'], [u'Kiunguja', u'PERSON'], [u'Swahili', u'GPE']]
+In June 1928, an interterritorial conference was held at Mombasa, at which the Zanzibar dialect, Kiunguja, was chosen to be the basis for standardizing Swahili.
 
 What is Swahili language`s last name?	NULL	S09/data/set5/a4
 
 [[u'Swahili', u'GPE'], [u'Kiswahili', u'PERSON'], [u'first', u'ORDINAL'], [u'Swahili', u'GPE'], [u'Waswahili', u'GPE'], [u'the Indian Ocean', u'LOC'], [u'Somalia', u'GPE'], [u'Mozambique', u'GPE'], [u'the Comoros Islands', u'ORG']]
+  Swahili (Kiswahili) is the first language of the Swahili people (Waswahili), who inhabit several large stretches of the Indian Ocean coastline from southern Somalia to northern Mozambique, including the Comoros Islands.
 
 How many years ago was it when the rulers of Zanzibar organized trading expeditions into the interior of the mainland , up to the various lakes in the continent `s Great Rift Valley?	NULL	S09/data/set5/a4
 
 []
+It is not clear how many remain. "
 
 What is Swahili language`s first name?	NULL	S09/data/set5/a4
 
 [[u'Swahili', u'GPE'], [u'Kiswahili', u'PERSON'], [u'first', u'ORDINAL'], [u'Swahili', u'GPE'], [u'Waswahili', u'GPE'], [u'the Indian Ocean', u'LOC'], [u'Somalia', u'GPE'], [u'Mozambique', u'GPE'], [u'the Comoros Islands', u'ORG']]
+  Swahili (Kiswahili) is the first language of the Swahili people (Waswahili), who inhabit several large stretches of the Indian Ocean coastline from southern Somalia to northern Mozambique, including the Comoros Islands.
 
 Where did Swahili language die?	NULL	S09/data/set5/a4
 
 [[u'Pleiades', u'ORG']]
+A 'little bit' of a verb would be an instance of an action, and such instantiations (usually not very active ones) are also found: kifo "death", from the verb -fa "to die"; kiota "nest" from -ota "to brood"; chakula "food" from kula "to eat"; kivuko "a ford, a pass" from -vuka "to cross"; and kilimia "the Pleiades, from -limia "to farm with", from its role in guiding planting.
 
 Has swahili no diphthongs?	No	S09/data/set5/a4
 
@@ -2325,6 +2593,7 @@ no
 When is /ref>	NULL	S09/data/set5/a4
 
 [[u'Swahili', u'GPE'], [u'Kiswahili', u'PERSON'], [u'first', u'ORDINAL'], [u'Swahili', u'GPE'], [u'Waswahili', u'GPE'], [u'the Indian Ocean', u'LOC'], [u'Somalia', u'GPE'], [u'Mozambique', u'GPE'], [u'the Comoros Islands', u'ORG']]
+  Swahili (Kiswahili) is the first language of the Swahili people (Waswahili), who inhabit several large stretches of the Indian Ocean coastline from southern Somalia to northern Mozambique, including the Comoros Islands.
 
 Swahili unusual?	NULL	S09/data/set5/a4
 
@@ -2333,10 +2602,12 @@ Swahili unusual?	NULL	S09/data/set5/a4
 Where does swahili grammar arrange nouns?	NULL	S09/data/set5/a4
 
 [[u'Swahili', u'GPE'], [u'Bantu', u'GPE'], [u'Swahili', u'GPE']]
+*Swahili l and r are confounded by many speakers (the extent to which this is demonstrated generally depends on the original mother tongue spoken by the individual), and are often both realized as  In common with all Bantu languages, Swahili grammar arranges nouns into a number of classes.
 
 What was the only good candidate in these two colonies?	NULL	S09/data/set5/a4
 
 [[u'Swahili', u'GPE'], [u'two', u'CARDINAL']]
+Swahili was the only good candidate in these two colonies.
 
 Do some writers mark aspirated consonants?	NULL	S09/data/set5/a4
 
@@ -2381,26 +2652,32 @@ Can black swans swim with only one leg?	Yes	S09/data/set1/a10
 What are young swans known as?	cygnets	S09/data/set1/a10
 
 [[u'Webster', u'PERSON'], [u'New World Dictionary', u'ORG'], [u'Latin', u'NORP']]
+(Webster's New World Dictionary) Young swans are known as cygnets, from the Latin word for swan, cygnus.
 
 What are young swans known as?	Cygnets	S09/data/set1/a10
 
 [[u'Webster', u'PERSON'], [u'New World Dictionary', u'ORG'], [u'Latin', u'NORP']]
+(Webster's New World Dictionary) Young swans are known as cygnets, from the Latin word for swan, cygnus.
 
 What is the Irish legend of the Children of Lir about?	a stepmother transforming her children into swans for 900 years	S09/data/set1/a10
 
 [[u'Swans', u'NORP'], [u'Anatidae', u'PERSON']]
+  Swans are birds of the family Anatidae, which also includes geese and ducks.
 
 What is the Irish legend of the Children of Lir about?	A stepmother transforming her children into swans for 900 years	S09/data/set1/a10
 
 [[u'Swans', u'NORP'], [u'Anatidae', u'PERSON']]
+  Swans are birds of the family Anatidae, which also includes geese and ducks.
 
 What is the Sanskrit word for swan?	hamsa or hansa	S09/data/set1/a10
 
 [[u'Webster', u'PERSON'], [u'New World Dictionary', u'ORG'], [u'Latin', u'NORP']]
+(Webster's New World Dictionary) Young swans are known as cygnets, from the Latin word for swan, cygnus.
 
 What is the Sanskrit word for swan?	Hamsa or hansa	S09/data/set1/a10
 
 [[u'Webster', u'PERSON'], [u'New World Dictionary', u'ORG'], [u'Latin', u'NORP']]
+(Webster's New World Dictionary) Young swans are known as cygnets, from the Latin word for swan, cygnus.
 
 Which album was the song "The Bonny Swans" from?	The Mask and Mirror	S09/data/set1/a10
 
@@ -2413,10 +2690,12 @@ Swan is also the name of a character in the film "The Warriors." "The Bonny Swan
 What is the Polish word for swan?	&#321;ab&#281;d&#378;	S09/data/set1/a10
 
 [[u'Webster', u'PERSON'], [u'New World Dictionary', u'ORG'], [u'Latin', u'NORP']]
+(Webster's New World Dictionary) Young swans are known as cygnets, from the Latin word for swan, cygnus.
 
 What is the Polish word for swan?	ÅabÄdÅº	S09/data/set1/a10
 
 [[u'Webster', u'PERSON'], [u'New World Dictionary', u'ORG'], [u'Latin', u'NORP']]
+(Webster's New World Dictionary) Young swans are known as cygnets, from the Latin word for swan, cygnus.
 
 Which ballet by Pyotr Tchaikovsky is partially based on an Ancient German legend about a princess who was turned into a swan?	Swan Lake	S09/data/set1/a10
 
@@ -2437,26 +2716,32 @@ yes
 What is the name of young swans?	Cygnets.	S09/data/set1/a10
 
 [[u'Webster', u'PERSON'], [u'New World Dictionary', u'ORG'], [u'Latin', u'NORP']]
+(Webster's New World Dictionary) Young swans are known as cygnets, from the Latin word for swan, cygnus.
 
 What is the name of young swans?	Cygnets	S09/data/set1/a10
 
 [[u'Webster', u'PERSON'], [u'New World Dictionary', u'ORG'], [u'Latin', u'NORP']]
+(Webster's New World Dictionary) Young swans are known as cygnets, from the Latin word for swan, cygnus.
 
 Where is the word "swan" derived from?	Old English swan.	S09/data/set1/a10
 
 [[u'Old English', u'ORG'], [u'German', u'NORP'], [u'Schwan', u'PERSON'], [u'Dutch', u'NORP'], [u'Indo-European', u'ORG'], [u'Latin', u'NORP']]
+The word "swan" is derived from Old English swan, akin to the German Schwan and Dutch zwaan, in turn derived from Indo-European root *swen (to sound, to sing), whence Latin derives sonus (sound).
 
 Where is the word "swan" derived from?	The Old English word "swan," derived from the Indo-European root "*swen", meaning to sound or to sing	S09/data/set1/a10
 
 [[u'Old English', u'ORG'], [u'German', u'NORP'], [u'Schwan', u'PERSON'], [u'Dutch', u'NORP'], [u'Indo-European', u'ORG'], [u'Latin', u'NORP']]
+The word "swan" is derived from Old English swan, akin to the German Schwan and Dutch zwaan, in turn derived from Indo-European root *swen (to sound, to sing), whence Latin derives sonus (sound).
 
 What is the best known story about a swan?	The Ugly Duckling fable.	S09/data/set1/a10
 
 [[u'The Ugly Duckling', u'ORG']]
+Perhaps the best known story about a swan is The Ugly Duckling fable.
 
 What is the best known story about a swan?	The Ugly Duckling	S09/data/set1/a10
 
 [[u'The Ugly Duckling', u'ORG']]
+Perhaps the best known story about a swan is The Ugly Duckling fable.
 
 Are swans and ducks birds of the same family?	Yes.	S09/data/set1/a10
 
@@ -2469,42 +2754,52 @@ no
 What is the name of an adult female?	Pen.	S09/data/set1/a10
 
 [[u'Middle English', u'GPE']]
+An adult male is a cob, from Middle English cobbe (leader of a group); an adult female is a pen.  
 
 What is the name of an adult female?	An adult female swan is called a pen.	S09/data/set1/a10
 
 [[u'Middle English', u'GPE']]
+An adult male is a cob, from Middle English cobbe (leader of a group); an adult female is a pen.  
 
 What is the color of the Australian Black Swan?	Completely black except for the white flight feathers on its wings.	S09/data/set1/a10
 
 [[u'Australian', u'NORP'], [u'Black Swan', u'PERSON'], [u'Cygnus', u'ORG'], [u'South American', u'NORP'], [u'Swan', u'ORG']]
+The Australian Black Swan (Cygnus atratus) is completely black except for the white flight feathers on its wings; the babies of black swans are light grey in colour, and the South American Black-necked Swan has a black neck.
 
 What is the color of the Australian Black Swan?	Completely black except for the white feathers on its wings	S09/data/set1/a10
 
 [[u'Australian', u'NORP'], [u'Black Swan', u'PERSON'], [u'Cygnus', u'ORG'], [u'South American', u'NORP'], [u'Swan', u'ORG']]
+The Australian Black Swan (Cygnus atratus) is completely black except for the white flight feathers on its wings; the babies of black swans are light grey in colour, and the South American Black-necked Swan has a black neck.
 
 What do tigers' powerfully built legs and shoulders allow tigers to do?	They have the ability to pull down prey substantially heavier than themselves.	S09/data/set1/a3
 
 []
+They also have powerfully built legs and shoulders, with the result that they, like lions, have the ability to pull down prey substantially heavier than themselves.
 
 What do tigers' powerfully built legs and shoulders allow tigers to do?	have the ability to pull down prey substantially heavier than themselves	S09/data/set1/a3
 
 []
+They also have powerfully built legs and shoulders, with the result that they, like lions, have the ability to pull down prey substantially heavier than themselves.
 
 What would a tiger do when seized by a crocodile?	A tiger will strike at the reptile's eyes with its paws.	S09/data/set1/a3
 
 [[u'first', u'ORDINAL']]
+When young female tigers first establish a territory, they tend to do so fairly close to their mother's area.
 
 What would a tiger do when seized by a crocodile?	strike at the reptile's eyes with its paws	S09/data/set1/a3
 
 [[u'first', u'ORDINAL']]
+When young female tigers first establish a territory, they tend to do so fairly close to their mother's area.
 
 What are the typical features of a tiger country?	It will always have good cover, it will always be close to water and plenty of prey.	S09/data/set1/a3
 
 [[u'three', u'CARDINAL']]
+Typical tiger country has three main features: It will always have good cover, it will always be close to water and plenty of prey.
 
 What are the typical features of a tiger country?	Good cover, close to water, and plenty of prey 	S09/data/set1/a3
 
 [[u'three', u'CARDINAL']]
+Typical tiger country has three main features: It will always have good cover, it will always be close to water and plenty of prey.
 
 Would it be common for tigers to mate in January?	Yes.	S09/data/set1/a3
 
@@ -2533,10 +2828,12 @@ yes
 What musical styles is the trumpet used in?	Ska, ska punk, classical, jazz, Rock, Blues, pop, polka, cuban music, mariachi and funk.	S09/data/set2/a3
 
 [[u'Rock', u'PERSON'], [u'Blues', u'ORG']]
+The trumpet is used in a wide range of musical styles including ska, ska punk, classical, jazz, Rock, Blues, pop, polka, cuban music, mariachi and funk.   
 
 What is the most common type of trumpet?	The B trumpet.	S09/data/set2/a3
 
 []
+  The trumpet is a musical instrument with the highest register in the brass family.  /ref
 
 How does a trumpet produce sound?	By blowing air through closed lips.	S09/data/set2/a3
 
@@ -2565,26 +2862,32 @@ no
 How many groups are turtles broken down into?	Two	S09/data/set1/a4
 
 [[u'two', u'CARDINAL'], [u'Proganochelys', u'LOC'], [u'Cryptodira', u'PRODUCT'], [u'Pleurodira', u'GPE']]
+Turtles are broken down into two groups, according to how they evolved a solution to the problem of withdrawing their neck into their shell (something the ancestral Proganochelys could not do): the Cryptodira, which can draw their neck in while contracting it under their spine; and the Pleurodira, which contract their neck to the side.  
 
 How many groups are turtles broken down into?	two	S09/data/set1/a4
 
 [[u'two', u'CARDINAL'], [u'Proganochelys', u'LOC'], [u'Cryptodira', u'PRODUCT'], [u'Pleurodira', u'GPE']]
+Turtles are broken down into two groups, according to how they evolved a solution to the problem of withdrawing their neck into their shell (something the ancestral Proganochelys could not do): the Cryptodira, which can draw their neck in while contracting it under their spine; and the Pleurodira, which contract their neck to the side.  
 
 Where are the only surviving giant tortoises?	They are on the Seychelles and GalÃ¡pagos Islands.	S09/data/set1/a4
 
 [[u'Turtle Turtles', u'ORG'], [u'Testudines', u'PERSON'], [u'Chelonia', u'GPE']]
+  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
 
 Where are the only surviving giant tortoises?	Seychelles and Galápagos Islands	S09/data/set1/a4
 
 [[u'Turtle Turtles', u'ORG'], [u'Testudines', u'PERSON'], [u'Chelonia', u'GPE']]
+  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
 
 Where are turtle eggs layed?	Turtles lay eggs on land.	S09/data/set1/a4
 
 [[u'Turtle Turtles', u'ORG'], [u'Testudines', u'PERSON'], [u'Chelonia', u'GPE']]
+  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
 
 Where are turtle eggs layed?	on land	S09/data/set1/a4
 
 [[u'Turtle Turtles', u'ORG'], [u'Testudines', u'PERSON'], [u'Chelonia', u'GPE']]
+  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
 
 Is turtle soup considered a delicacy?	No.	S09/data/set1/a4
 
@@ -2605,18 +2908,22 @@ About 300 species are alive today, and some are highly endangered.
 Where is harvesting wild turtles legal?	Florida	S09/data/set1/a9
 
 [[u'Florida', u'GPE'], [u'Fort Lauderdale', u'GPE'], [u'2008', u'DATE'], [u'about 5,000 pounds', u'QUANTITY']]
+Harvesting wild turtles is legal in Florida, and a single seafood company in Fort Lauderdale was reported (2008) as buying about 5,000 pounds of softshell turtles a week.
 
 Where is harvesting wild turtles legal?	Florida	S09/data/set1/a9
 
 [[u'Florida', u'GPE'], [u'Fort Lauderdale', u'GPE'], [u'2008', u'DATE'], [u'about 5,000 pounds', u'QUANTITY']]
+Harvesting wild turtles is legal in Florida, and a single seafood company in Fort Lauderdale was reported (2008) as buying about 5,000 pounds of softshell turtles a week.
 
 What was the largest ever chelonian?	Archelon ischyros	S09/data/set1/a9
 
 [[u'Turtle Turtles', u'ORG'], [u'Testudines', u'PERSON'], [u'Chelonia', u'GPE']]
+  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
 
 What was the largest ever chelonian?	The great letherback sea tutrtle	S09/data/set1/a9
 
 [[u'Turtle Turtles', u'ORG'], [u'Testudines', u'PERSON'], [u'Chelonia', u'GPE']]
+  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
 
 Is there a way to approximate the age of a turtle?	yes	S09/data/set1/a9
 
@@ -2653,42 +2960,52 @@ no
 Where does the word "violin" come from?	the Middle Latin word vitula, meaning "stringed instrument"	S09/data/set2/a2
 
 [[u' ', u'CARDINAL']]
+The word "violin" comes from the Middle Latin word vitula, meaning "stringed instrument";  this word is also believed to be the source of the Germanic "fiddle".   
 
 Where does the word "violin" come from?	the Middle Latin word vitula	S09/data/set2/a2
 
 [[u' ', u'CARDINAL']]
+The word "violin" comes from the Middle Latin word vitula, meaning "stringed instrument";  this word is also believed to be the source of the Germanic "fiddle".   
 
 What is someone who makes violins called?	a luthier, or simply a violin maker	S09/data/set2/a2
 
 []
+A person who makes or repairs violins is called a luthier, or simply a violin maker.
 
 What is someone who makes violins called?	a luthier	S09/data/set2/a2
 
 []
+A person who makes or repairs violins is called a luthier, or simply a violin maker.
 
 How many strings does a violin usually have?	four	S09/data/set2/a2
 
 [[u'one', u'CARDINAL']]
+Such small instruments are typically intended for beginners needing a rugged violin, and whose rudimentary technique does not justify the expense of a more carefully made one.
 
 How many strings does a violin usually have?	4	S09/data/set2/a2
 
 [[u'one', u'CARDINAL']]
+Such small instruments are typically intended for beginners needing a rugged violin, and whose rudimentary technique does not justify the expense of a more carefully made one.
 
 What are violins made of?	different types of wood	S09/data/set2/a2
 
 [[u'Stradivari', u'GPE'], [u'Guarneri', u'GPE'], [u'Amati', u'GPE'], [u'the 16th to the 18th century', u'DATE'], [u'Cremona', u'GPE']]
+Violinists and collectors particularly prize the instruments made by the Stradivari, Guarneri and Amati families from the 16th to the 18th century in Cremona.
 
 What are violins made of?	maple, ebony, sheep gut	S09/data/set2/a2
 
 [[u'Stradivari', u'GPE'], [u'Guarneri', u'GPE'], [u'Amati', u'GPE'], [u'the 16th to the 18th century', u'DATE'], [u'Cremona', u'GPE']]
+Violinists and collectors particularly prize the instruments made by the Stradivari, Guarneri and Amati families from the 16th to the 18th century in Cremona.
 
 How long have people been making instruments like violins?	since ancient times	S09/data/set2/a2
 
 [[u'four', u'CARDINAL'], [u'five', u'CARDINAL'], [u' six', u'EVENT'], [u'seven', u'CARDINAL']]
+While most violins have four strings, there are some instruments with five strings,  six, or even seven.
 
 How long have people been making instruments like violins?	since 1555	S09/data/set2/a2
 
 [[u'four', u'CARDINAL'], [u'five', u'CARDINAL'], [u' six', u'EVENT'], [u'seven', u'CARDINAL']]
+While most violins have four strings, there are some instruments with five strings,  six, or even seven.
 
 Whate is the usual pitch range of a violin?	from G3 to C8	S09/data/set2/a2
 
@@ -2701,10 +3018,12 @@ Whate is the usual pitch range of a violin?	from G3 to C8	S09/data/set2/a2
 Where did the xylophone originate?	Indonesia	S09/data/set2/a8
 
 [[u'Greek', u'NORP'], [u'\xcf\x86\xcf\x89\xce\xbd\xce\xae - phone', u'CARDINAL'], [u'Indonesia', u'GPE']]
+  The xylophone (from the Greek words Î¾ÏÎ»Î¿Î½ - xylon, "wood" + ÏÏÎ½Î® - phone, "voice", meaning "wooden sound") is a musical instrument in the percussion family which probably originated in Indonesia.
 
 What is the earliest historical reference in Europe?	Arnold Schlick's Spiegel der Orgelmacher und Organisten	S09/data/set2/a8
 
 [[u'Europe', u'LOC'], [u'Crusades', u'PRODUCT'], [u'Europe', u'LOC'], [u'16th', u'ORDINAL'], [u'Century Germany', u'ORG'], [u"Arnold Schlick's Spiegel", u'PERSON'], [u'Organisten', u'PERSON']]
+It is likely that the xylophone reached Europe during the Crusades and the earliest historical reference in Europe is in 16th Century Germany in organist Arnold Schlick's Spiegel der Orgelmacher und Organisten.  
 
 How are western-style xylophones characterised?	by a bright, sharp tone and high register	S09/data/set2/a8
 
