@@ -4,103 +4,105 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-__init__.py	../helpers/__init__.py	1;"	kind:file	line:1
-helpers.py	../helpers/helpers.py	1;"	kind:file	line:1
-io	../helpers/helpers.py	/^import io$/;"	kind:namespace	line:1
 PlaintextCorpusReader	../helpers/helpers.py	/^from nltk.corpus import PlaintextCorpusReader$/;"	kind:namespace	line:2
-sys	../helpers/helpers.py	/^import sys$/;"	kind:namespace	line:3
-re	../helpers/helpers.py	/^import re$/;"	kind:namespace	line:4
-itertools	../helpers/helpers.py	/^import itertools$/;"	kind:namespace	line:5
-spacy	../helpers/helpers.py	/^import spacy$/;"	kind:namespace	line:6
-nsubj	../helpers/helpers.py	/^from spacy.symbols import nsubj, dobj, conj, VERB$/;"	kind:namespace	line:7
-dobj	../helpers/helpers.py	/^from spacy.symbols import nsubj, dobj, conj, VERB$/;"	kind:namespace	line:7
-conj	../helpers/helpers.py	/^from spacy.symbols import nsubj, dobj, conj, VERB$/;"	kind:namespace	line:7
-VERB	../helpers/helpers.py	/^from spacy.symbols import nsubj, dobj, conj, VERB$/;"	kind:namespace	line:7
-pdb	../helpers/helpers.py	/^import pdb$/;"	kind:namespace	line:8
-nlp	../helpers/helpers.py	/^nlp = spacy.load('en')$/;"	kind:variable	line:10
-debug	../helpers/helpers.py	/^debug = False$/;"	kind:variable	line:12
-debug	../helpers/helpers.py	/^    debug = True$/;"	kind:variable	line:15
+VERB	../helpers/helpers.py	/^from spacy.symbols import nsubj, dobj, conj, pobj, VERB$/;"	kind:namespace	line:7
+__init__	../questionAnswering/answerer.py	/^    def __init__(self,docRoot):$/;"	kind:member	line:69
+__init__.py	../helpers/__init__.py	1;"	kind:file	line:1
+__init__.py	../questionAnswering/__init__.py	1;"	kind:file	line:1
+addDocsToDictionary	../helpers/helpers.py	/^def addDocsToDictionary(docs,root):$/;"	kind:function	line:475
+add_doc_to_dictionary	../helpers/helpers.py	/^def add_doc_to_dictionary(docs, path):$/;"	kind:function	line:462
+answerQuestion	../questionAnswering/answerer.py	/^    def answerQuestion(self,question,path):$/;"	kind:member	line:61
+answerer	../questionAnswering/answerer.py	/^class answerer(object):$/;"	kind:class	line:57
+answerer.py	../questionAnswering/answerer.py	1;"	kind:file	line:1
 append_spaced_words	../helpers/helpers.py	/^def append_spaced_words(word_list):$/;"	kind:function	line:20
-getAnswerSet	../helpers/helpers.py	/^def getAnswerSet(root):$/;"	kind:function	line:29
-find	../helpers/helpers.py	/^def find(s, ch):$/;"	kind:function	line:33
-get_key	../helpers/helpers.py	/^def get_key(path):$/;"	kind:function	line:36
+check_special	../questionAnswering/special_cases.py	/^def check_special(question,sentences):$/;"	kind:function	line:14
 clean_content	../helpers/helpers.py	/^def clean_content(strContent):$/;"	kind:function	line:41
-get_encoded	../helpers/helpers.py	/^def get_encoded(string):$/;"	kind:function	line:48
-get_decoded	../helpers/helpers.py	/^def get_decoded(string):$/;"	kind:function	line:52
+conj	../helpers/helpers.py	/^from spacy.symbols import nsubj, dobj, conj, pobj, VERB$/;"	kind:namespace	line:7
 contains_verb	../helpers/helpers.py	/^def contains_verb(tokens,verb):$/;"	kind:function	line:60
-most_similar	../helpers/helpers.py	/^def most_similar(word):$/;"	kind:function	line:65
-longest_match	../helpers/helpers.py	/^def longest_match(lemmas1, lemmas2):$/;"	kind:function	line:71
+debug	../helpers/helpers.py	/^    debug = True$/;"	kind:variable	line:15
+debug	../helpers/helpers.py	/^debug = False$/;"	kind:variable	line:12
+debug	../questionAnswering/answerer.py	/^    debug = True$/;"	kind:variable	line:12
+debug	../questionAnswering/answerer.py	/^debug = False$/;"	kind:variable	line:9
+debug	../test.py	/^    debug = True$/;"	kind:variable	line:12
+debug	../test.py	/^debug = False$/;"	kind:variable	line:9
+dobj	../helpers/helpers.py	/^from spacy.symbols import nsubj, dobj, conj, pobj, VERB$/;"	kind:namespace	line:7
+docs	../questionAnswering/answerer.py	/^    docs = {}$/;"	kind:variable	line:58
+exact_match	../helpers/helpers.py	/^def exact_match(left, question_phrase, right, s_lemmas):$/;"	kind:function	line:222
+exclude	../test.py	/^exclude = set(string.punctuation)$/;"	kind:variable	line:28
+find	../helpers/helpers.py	/^def find(s, ch):$/;"	kind:function	line:33
+find_answer	../questionAnswering/answerer.py	/^def find_answer(question, sentences):$/;"	kind:function	line:35
+find_exact_match	../helpers/helpers.py	/^def find_exact_match(transformed, sentences):$/;"	kind:function	line:314
+first_train	../test.py	/^first_train = trainRoot + 'S08\/'$/;"	kind:variable	line:16
+getAnswerSet	../helpers/helpers.py	/^def getAnswerSet(root):$/;"	kind:function	line:29
+get_adjacent_nouns	../helpers/helpers.py	/^def get_adjacent_nouns(doc):$/;"	kind:function	line:432
+get_answer_type	../helpers/helpers.py	/^def get_answer_type(question):$/;"	kind:function	line:255
+get_decoded	../helpers/helpers.py	/^def get_decoded(string):$/;"	kind:function	line:52
+get_encoded	../helpers/helpers.py	/^def get_encoded(string):$/;"	kind:function	line:48
+get_first_entity_with_label	../helpers/helpers.py	/^def get_first_entity_with_label(items,label):$/;"	kind:function	line:178
+get_first_sentence_ent_type	../helpers/helpers.py	/^def get_first_sentence_ent_type(sentences,types):$/;"	kind:function	line:170
+get_head_noun_indices	../helpers/helpers.py	/^def get_head_noun_indices(tokens):$/;"	kind:function	line:188
+get_head_noun_set	../helpers/helpers.py	/^def get_head_noun_set(doc):$/;"	kind:function	line:416
+get_key	../helpers/helpers.py	/^def get_key(path):$/;"	kind:function	line:36
+get_noun_indices	../helpers/helpers.py	/^def get_noun_indices(tokens):$/;"	kind:function	line:164
+get_noun_set	../helpers/helpers.py	/^def get_noun_set(doc):$/;"	kind:function	line:424
+get_objects	../helpers/helpers.py	/^def get_objects(doc):$/;"	kind:function	line:128
+get_pos_indices	../helpers/helpers.py	/^def get_pos_indices(tokens,tags):$/;"	kind:function	line:210
+get_question_phrase_index	../helpers/helpers.py	/^def get_question_phrase_index(tokens):$/;"	kind:function	line:339
 get_root_verb	../helpers/helpers.py	/^def get_root_verb(transformed):$/;"	kind:function	line:86
 get_sentences_with_longest_match	../helpers/helpers.py	/^def get_sentences_with_longest_match(question, sentences, min_match):$/;"	kind:function	line:95
-index_of	../helpers/helpers.py	/^def index_of(tokens,lemmatized_word):$/;"	kind:function	line:106
-get_subject_verbs	../helpers/helpers.py	/^def get_subject_verbs(doc):$/;"	kind:function	line:112
-get_objects	../helpers/helpers.py	/^def get_objects(doc):$/;"	kind:function	line:119
-is_semi_match	../helpers/helpers.py	/^def is_semi_match(question,transformed,sentence):$/;"	kind:function	line:127
-get_top_similar	../helpers/helpers.py	/^def get_top_similar(question, transformed, sentences, top):$/;"	kind:function	line:149
-get_noun_indices	../helpers/helpers.py	/^def get_noun_indices(tokens):$/;"	kind:function	line:165
-get_first_sentence_ent_type	../helpers/helpers.py	/^def get_first_sentence_ent_type(sentences,types):$/;"	kind:function	line:171
-get_first_entity_with_label	../helpers/helpers.py	/^def get_first_entity_with_label(items,label):$/;"	kind:function	line:179
-get_head_noun_indices	../helpers/helpers.py	/^def get_head_noun_indices(tokens):$/;"	kind:function	line:189
-get_pos_indices	../helpers/helpers.py	/^def get_pos_indices(tokens,tags):$/;"	kind:function	line:211
-lemmatize	../helpers/helpers.py	/^def lemmatize(tokens):$/;"	kind:function	line:219
-exact_match	../helpers/helpers.py	/^def exact_match(left, question_phrase, right, s_lemmas):$/;"	kind:function	line:223
-get_answer_type	../helpers/helpers.py	/^def get_answer_type(question):$/;"	kind:function	line:256
-find_exact_match	../helpers/helpers.py	/^def find_exact_match(transformed, sentences):$/;"	kind:function	line:315
-get_question_phrase_index	../helpers/helpers.py	/^def get_question_phrase_index(tokens):$/;"	kind:function	line:340
-transform_question	../helpers/helpers.py	/^def transform_question(question):$/;"	kind:function	line:388
-get_head_noun_set	../helpers/helpers.py	/^def get_head_noun_set(doc):$/;"	kind:function	line:417
-get_noun_set	../helpers/helpers.py	/^def get_noun_set(doc):$/;"	kind:function	line:425
-get_adjacent_nouns	../helpers/helpers.py	/^def get_adjacent_nouns(doc):$/;"	kind:function	line:433
-stop_words	../helpers/helpers.py	/^stop_words = {u'and',u'or',u'the',u'as',u'but',u'a',u'of',u'by',u'to',u'in'}$/;"	kind:variable	line:441
-get_word_set	../helpers/helpers.py	/^def get_word_set(sentence):$/;"	kind:function	line:443
-jaccard_doc	../helpers/helpers.py	/^def jaccard_doc(doc1, doc2):$/;"	kind:function	line:449
-jaccard_set	../helpers/helpers.py	/^def jaccard_set(set1, set2):$/;"	kind:function	line:455
-add_doc_to_dictionary	../helpers/helpers.py	/^def add_doc_to_dictionary(docs, path):$/;"	kind:function	line:463
-addDocsToDictionary	../helpers/helpers.py	/^def addDocsToDictionary(docs,root):$/;"	kind:function	line:476
-nlp_helpers.py	../helpers/nlp_helpers.py	1;"	kind:file	line:1
-__init__.py	../questionAnswering/__init__.py	1;"	kind:file	line:1
-answerer.py	../questionAnswering/answerer.py	1;"	kind:file	line:1
+get_subject_verbs	../helpers/helpers.py	/^def get_subject_verbs(doc):$/;"	kind:function	line:121
+get_subjects	../helpers/helpers.py	/^def get_subjects(doc):$/;"	kind:function	line:113
+get_top_similar	../helpers/helpers.py	/^def get_top_similar(question, transformed, sentences, top):$/;"	kind:function	line:151
+get_word_set	../helpers/helpers.py	/^def get_word_set(sentence):$/;"	kind:function	line:442
 h	../questionAnswering/answerer.py	/^from helpers import helpers as h$/;"	kind:namespace	line:1
-sys	../questionAnswering/answerer.py	/^import sys$/;"	kind:namespace	line:2
-spacy	../questionAnswering/answerer.py	/^import spacy$/;"	kind:namespace	line:3
-pdb	../questionAnswering/answerer.py	/^import pdb$/;"	kind:namespace	line:4
-special_cases	../questionAnswering/answerer.py	/^import special_cases$/;"	kind:namespace	line:5
-nlp	../questionAnswering/answerer.py	/^nlp = spacy.load('en')$/;"	kind:variable	line:7
-debug	../questionAnswering/answerer.py	/^debug = False$/;"	kind:variable	line:9
-debug	../questionAnswering/answerer.py	/^    debug = True$/;"	kind:variable	line:12
-longest_match_sentence	../questionAnswering/answerer.py	/^def longest_match_sentence(question, sentences, answer_type):$/;"	kind:function	line:14
-most_similar_sentence	../questionAnswering/answerer.py	/^def most_similar_sentence(question, transformed, sentences, answer_type):$/;"	kind:function	line:24
-find_answer	../questionAnswering/answerer.py	/^def find_answer(question, sentences):$/;"	kind:function	line:35
-answerer	../questionAnswering/answerer.py	/^class answerer(object):$/;"	kind:class	line:59
-docs	../questionAnswering/answerer.py	/^    docs = {}$/;"	kind:variable	line:60
-answerQuestion	../questionAnswering/answerer.py	/^    def answerQuestion(self,question,path):$/;"	kind:member	line:63
-__init__	../questionAnswering/answerer.py	/^    def __init__(self,docRoot):$/;"	kind:member	line:71
-special_cases.py	../questionAnswering/special_cases.py	1;"	kind:file	line:1
 h	../questionAnswering/special_cases.py	/^from helpers import helpers as h$/;"	kind:namespace	line:1
-re	../questionAnswering/special_cases.py	/^import re$/;"	kind:namespace	line:2
-pdb	../questionAnswering/special_cases.py	/^import pdb$/;"	kind:namespace	line:3
-regex_matches	../questionAnswering/special_cases.py	/^def regex_matches(text,regex):$/;"	kind:function	line:5
-match	../questionAnswering/special_cases.py	/^def match(regex, text):$/;"	kind:function	line:10
-check_special	../questionAnswering/special_cases.py	/^def check_special(question,sentences):$/;"	kind:function	line:14
-test.py	../test.py	1;"	kind:file	line:1
-io	../test.py	/^import io$/;"	kind:namespace	line:2
-sys	../test.py	/^import sys$/;"	kind:namespace	line:3
-string	../test.py	/^import string$/;"	kind:namespace	line:4
-qa	../test.py	/^from questionAnswering import answerer as qa$/;"	kind:namespace	line:5
 h	../test.py	/^from helpers import helpers as h$/;"	kind:namespace	line:6
-pdb	../test.py	/^import pdb$/;"	kind:namespace	line:7
-debug	../test.py	/^debug = False$/;"	kind:variable	line:9
-debug	../test.py	/^    debug = True$/;"	kind:variable	line:12
-root	../test.py	/^root = 'datasets\/'$/;"	kind:variable	line:14
-trainRoot	../test.py	/^trainRoot = root + 'train\/'$/;"	kind:variable	line:15
-first_train	../test.py	/^first_train = trainRoot + 'S08\/'$/;"	kind:variable	line:16
-second_train	../test.py	/^second_train = trainRoot + 'S09\/'$/;"	kind:variable	line:17
-testRoot	../test.py	/^testRoot = root + 'test\/'$/;"	kind:variable	line:18
-write_answer_set	../test.py	/^def write_answer_set(name, question_set, list_type):$/;"	kind:function	line:20
-exclude	../test.py	/^exclude = set(string.punctuation)$/;"	kind:variable	line:28
+helpers.py	../helpers/helpers.py	1;"	kind:file	line:1
+index_of	../helpers/helpers.py	/^def index_of(tokens,lemmatized_word):$/;"	kind:function	line:106
+io	../helpers/helpers.py	/^import io$/;"	kind:namespace	line:1
+io	../test.py	/^import io$/;"	kind:namespace	line:2
+is_semi_match	../helpers/helpers.py	/^def is_semi_match(question,sentence):$/;"	kind:function	line:135
+itertools	../helpers/helpers.py	/^import itertools$/;"	kind:namespace	line:5
+jaccard_doc	../helpers/helpers.py	/^def jaccard_doc(doc1, doc2):$/;"	kind:function	line:448
+jaccard_set	../helpers/helpers.py	/^def jaccard_set(set1, set2):$/;"	kind:function	line:454
+lemmatize	../helpers/helpers.py	/^def lemmatize(tokens):$/;"	kind:function	line:218
+longest_match	../helpers/helpers.py	/^def longest_match(lemmas1, lemmas2):$/;"	kind:function	line:71
+longest_match_sentence	../questionAnswering/answerer.py	/^def longest_match_sentence(question, sentences, answer_type):$/;"	kind:function	line:14
+main	../test.py	/^def main():$/;"	kind:function	line:111
+match	../questionAnswering/special_cases.py	/^def match(regex, text):$/;"	kind:function	line:10
+most_similar	../helpers/helpers.py	/^def most_similar(word):$/;"	kind:function	line:65
+most_similar_sentence	../questionAnswering/answerer.py	/^def most_similar_sentence(question, transformed, sentences, answer_type):$/;"	kind:function	line:24
+nlp	../helpers/helpers.py	/^nlp = spacy.load('en')$/;"	kind:variable	line:10
+nlp	../questionAnswering/answerer.py	/^nlp = spacy.load('en')$/;"	kind:variable	line:7
+nlp_helpers.py	../helpers/nlp_helpers.py	1;"	kind:file	line:1
 normalize	../test.py	/^def normalize(s):$/;"	kind:function	line:29
+nsubj	../helpers/helpers.py	/^from spacy.symbols import nsubj, dobj, conj, pobj, VERB$/;"	kind:namespace	line:7
+pdb	../helpers/helpers.py	/^import pdb$/;"	kind:namespace	line:8
+pdb	../questionAnswering/answerer.py	/^import pdb$/;"	kind:namespace	line:4
+pdb	../questionAnswering/special_cases.py	/^import pdb$/;"	kind:namespace	line:3
+pdb	../test.py	/^import pdb$/;"	kind:namespace	line:7
+pobj	../helpers/helpers.py	/^from spacy.symbols import nsubj, dobj, conj, pobj, VERB$/;"	kind:namespace	line:7
+qa	../test.py	/^from questionAnswering import answerer as qa$/;"	kind:namespace	line:5
+re	../helpers/helpers.py	/^import re$/;"	kind:namespace	line:4
+re	../questionAnswering/special_cases.py	/^import re$/;"	kind:namespace	line:2
+regex_matches	../questionAnswering/special_cases.py	/^def regex_matches(text,regex):$/;"	kind:function	line:5
+root	../test.py	/^root = 'datasets\/'$/;"	kind:variable	line:14
+second_train	../test.py	/^second_train = trainRoot + 'S09\/'$/;"	kind:variable	line:17
+spacy	../helpers/helpers.py	/^import spacy$/;"	kind:namespace	line:6
+spacy	../questionAnswering/answerer.py	/^import spacy$/;"	kind:namespace	line:3
+special_cases	../questionAnswering/answerer.py	/^import special_cases$/;"	kind:namespace	line:5
+special_cases.py	../questionAnswering/special_cases.py	1;"	kind:file	line:1
+stop_words	../helpers/helpers.py	/^stop_words = {u'and',u'or',u'the',u'as',u'but',u'a',u'of',u'by',u'to',u'in'}$/;"	kind:variable	line:440
+string	../test.py	/^import string$/;"	kind:namespace	line:4
+sys	../helpers/helpers.py	/^import sys$/;"	kind:namespace	line:3
+sys	../questionAnswering/answerer.py	/^import sys$/;"	kind:namespace	line:2
+sys	../test.py	/^import sys$/;"	kind:namespace	line:3
+test.py	../test.py	1;"	kind:file	line:1
 testAnswerer	../test.py	/^def testAnswerer(answerer, setRoot, debug):$/;"	kind:function	line:36
+testRoot	../test.py	/^testRoot = root + 'test\/'$/;"	kind:variable	line:18
+test_data	../test.py	/^def test_data():$/;"	kind:function	line:104
 test_missed	../test.py	/^def test_missed():$/;"	kind:function	line:62
 test_training_data	../test.py	/^def test_training_data():$/;"	kind:function	line:96
-test_data	../test.py	/^def test_data():$/;"	kind:function	line:104
-main	../test.py	/^def main():$/;"	kind:function	line:111
+trainRoot	../test.py	/^trainRoot = root + 'train\/'$/;"	kind:variable	line:15
+transform_question	../helpers/helpers.py	/^def transform_question(question):$/;"	kind:function	line:387
+write_answer_set	../test.py	/^def write_answer_set(name, question_set, list_type):$/;"	kind:function	line:20

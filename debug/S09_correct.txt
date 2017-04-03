@@ -6,18 +6,6 @@ Was Volta an Italian physicist?	yes	S09/data/set4/a10
 
 yes
 
-Is Volta buried in the city of Pittsburgh?	no	S09/data/set4/a10
-
-no
-
-Is Volta buried in the city of Pittsburgh?	no	S09/data/set4/a10
-
-no
-
-Did Alessandro Volta live to be 80 years old?	no	S09/data/set4/a10
-
-no
-
 Is the electrolyte sulphuric acid?	Yes	S09/data/set4/a10
 
 yes
@@ -53,14 +41,6 @@ yes
 Was Amedeo Avogadro Italian?	yes	S09/data/set4/a8
 
 yes
-
-Did Avogadro live in England?	No	S09/data/set4/a8
-
-no
-
-Was Amedeo Avogadro born in North America?	no	S09/data/set4/a8
-
-no
 
 Did Avogadro submit his poem?	Yes.	S09/data/set4/a8
 
@@ -106,14 +86,6 @@ Is the violin cello a bowed string instrument?	yes	S09/data/set2/a9
 
 yes
 
-Are the z-holes used as access points to the interior of the cello? 	No	S09/data/set2/a9
-
-no
-
-Are the z-holes used as access points to the interior of the cello? 	No	S09/data/set2/a9
-
-no
-
 Is the cello a stringed instrument?	yes	S09/data/set2/a9
 
 yes
@@ -121,18 +93,6 @@ yes
 Is the cello a stringed instrument?	yes	S09/data/set2/a9
 
 yes
-
-Did Charles-Augustin de Coulomb find any relationship between electric charges and magnetic poles? 	No	S09/data/set4/a6
-
-no
-
-Did Charles-Augustin de Coulomb find any relationship between electric charges and magnetic poles? 	No	S09/data/set4/a6
-
-no
-
-Did Charles-Augustin de Coulomb live to be 80 years old?	no	S09/data/set4/a6
-
-no
 
 Does Coulomb leave a legacy?	yes	S09/data/set4/a6
 
@@ -154,37 +114,13 @@ Is it true that coulomb leaves a legacy as a hero?	yes	S09/data/set4/a6
 
 yes
 
-Was Old Chinese wholly uninflected?	no	S09/data/set5/a7
-
-no
-
 Are The modern Chinese dialects more like a family?	yes	S09/data/set5/a7
 
 yes
 
-Is Copenhagen completely surrounded with water? 	No	S09/data/set3/a8
-
-no
-
-Is the word cymbal derived from a Germanic word?	No	S09/data/set2/a6
-
-no
-
-Is the word cymbal derived from a Germanic word?	No	S09/data/set2/a6
-
-no
-
 Is Dhaka the capital of Bangladesh?	Yes	S09/data/set3/a3
 
 yes
-
-Is University of Dhaka older than the Dhaka College?	No	S09/data/set3/a3
-
-no
-
-Is english a de  jure  official  language  of Israel?	no	S09/data/set5/a1
-
-no
 
 Does english grammar have minimal inflection?	Yes	S09/data/set5/a1
 
@@ -226,10 +162,6 @@ Are foxes wary of humans?	Yes	S09/data/set1/a6
 
 yes
 
-Do foxes damage fruit on farms?	No	S09/data/set1/a6
-
-no
-
 Is french taught in many schools as a primary language along with Arabic?	Yes	S09/data/set5/a5
 
 yes
@@ -241,10 +173,6 @@ yes
 Is it true that france signed the European Charter for Regional Languages?	Yes	S09/data/set5/a5
 
 yes
-
-Is 9 %  of the Internet  population German?	no	S09/data/set5/a2
-
-no
 
 Do giraffes give birth standing up?	Yes	S09/data/set1/a5
 
@@ -278,30 +206,6 @@ Was Henri Becquerel a French physicist?	Yes	S09/data/set4/a9
 
 yes
 
-Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?	No	S09/data/set4/a9
-
-no
-
-Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?	No	S09/data/set4/a9
-
-no
-
-Was Henri Becquerel the sole winner of the 1903 Nobel Prize in Physics?	No	S09/data/set4/a9
-
-no
-
-Was Henri Becquerel the sole winner of the 1903 Nobel Prize in Physics?	No	S09/data/set4/a9
-
-no
-
-Did Henri Becquerel intentionally discover radioactivity?	No	S09/data/set4/a9
-
-no
-
-Did Henri Becquerel live to be 80 years old?	no	S09/data/set4/a9
-
-no
-
 Did he become chief engineer in the Department of Bridges and Highways?	Yes	S09/data/set4/a9
 
 yes
@@ -318,10 +222,6 @@ Was Newton a English physicist?	Yes	S09/data/set4/a1
 
 yes
 
-Was Newton admitted into Havard College?	No.	S09/data/set4/a1
-
-no
-
 Do most Japanese people employ politeness?	yes	S09/data/set5/a6
 
 yes
@@ -334,14 +234,6 @@ Is rainfall very low?	Yes.	S09/data/set3/a4
 
 yes
 
-Did Caunte take control of the English throne in 101?	No	S09/data/set3/a1
-
-no
-
-Is lyre played in mordern Greece?	No	S09/data/set2/a10
-
-no
-
 Was Michael Faraday an English chemist?	yes	S09/data/set4/a7
 
 yes
@@ -357,14 +249,6 @@ yes
 Was Faraday a devout Christian?	yes	S09/data/set4/a7
 
 yes
-
-Did Faraday receive an extensive formal education?	no	S09/data/set4/a7
-
-no
-
-Did Faraday receive an extensive formal education?	no	S09/data/set4/a7
-
-no
 
 Was his father member of the Sandemanian sect?	yes	S09/data/set4/a7
 
@@ -374,17 +258,9 @@ Was faraday Christian of the small Sandemanian denomination?	yes	S09/data/set4/a
 
 yes
 
-Is Nassau Sound a body of water in Maine?	no	S09/data/set3/a2
-
-no
-
 Was Nassau placed in operation by Robert Fulton?	yes	S09/data/set3/a2
 
 yes
-
-Is Nassau Range the highest mountain range in the world?	no	S09/data/set3/a2
-
-no
 
 Did Tesla study electrical engineering?	Yes	S09/data/set4/a3
 
@@ -393,14 +269,6 @@ yes
 Did Tesla study electrical engineering?	yes	S09/data/set4/a3
 
 yes
-
-Was Tesla born in the United States?	No	S09/data/set4/a3
-
-no
-
-Was Tesla born in the United States?	no	S09/data/set4/a3
-
-no
 
 Was Tesla regarded as a mad scientist?	Yes	S09/data/set4/a3
 
@@ -438,14 +306,6 @@ Are there also discussions of having OC Transpo Light Rail and STO Transitway ne
 
 yes
 
-Do sea otters have a layer of fat like whales?	No	S09/data/set1/a7
-
-no
-
-Do sea otters have a layer of fat like whales?	no	S09/data/set1/a7
-
-no
-
 Is santiago Spanish for St. James?	Yes	S09/data/set3/a6
 
 yes
@@ -474,14 +334,6 @@ Do swans feature strongly in mythology?	Yes	S09/data/set1/a10
 
 yes
 
-Is the Tiger a member of the Felidar family?	No.	S09/data/set1/a3
-
-no
-
-Is the Tiger a member of the Felidar family?	No	S09/data/set1/a3
-
-no
-
 Are tigers solitary animals?	Yes.	S09/data/set1/a3
 
 yes
@@ -490,18 +342,6 @@ Are tigers solitary animals?	Yes	S09/data/set1/a3
 
 yes
 
-Are panthers a type of tiger?	No.	S09/data/set1/a3
-
-no
-
-Are panthers a type of tiger?	No	S09/data/set1/a3
-
-no
-
-Did the predecessors to trumpets have valves?	No	S09/data/set2/a3
-
-no
-
 Are trumpets constructed of brass?	Yes	S09/data/set2/a3
 
 yes
@@ -509,14 +349,6 @@ yes
 Did Miles Davis play the trumpet?	Yes	S09/data/set2/a3
 
 yes
-
-Does a trumpet have a mellower tone than a cornet?	No	S09/data/set2/a3
-
-no
-
-Is the name of the upper shell of a turtle called the plastron?	No.	S09/data/set1/a4
-
-no
 
 How do turtles chew food?	Turtles use their jaws to cut and chew food.	S09/data/set1/a4
 
@@ -554,14 +386,6 @@ Do turtles breathe air?	Yes	S09/data/set1/a9
 
 yes
 
-Are violins a single size?	no	S09/data/set2/a2
-
-no
-
-Are violins a single size?	No	S09/data/set2/a2
-
-no
-
 Are xylophone bars made of rosewood?	yes	S09/data/set2/a8
 
 yes
@@ -569,8 +393,4 @@ yes
 Is the xylophone a precursor to the vibraphone?	yes	S09/data/set2/a8
 
 yes
-
-Were ancient mallets made of copper?	no	S09/data/set2/a8
-
-no
 

@@ -42,8 +42,6 @@ def find_answer(question, sentences):
         if answer_type[0] == 0:
             return 'yes'
     else:
-        if answer_type[0] == 0:
-            return 'no'
         sentence = most_similar_sentence(question, transformed, sentences, answer_type)
 
     if answer_type[0] == 1:
