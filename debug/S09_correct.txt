@@ -1,18 +1,522 @@
-What are the two materials that bows are made of traditionally? 	Traditionally, bows are made from pernambuco or brazilwood.	S09/data/set2/a9
+Was Volta an Italian physicist?	yes	S09/data/set4/a10
 
-Traditionally, bows are made from pernambuco or brazilwood.
+yes
 
-What have clash cymbals traditionally been accompanied by?	Clash cymbals have traditionally been accompanied by the bass drum playing an identical part.	S09/data/set2/a6
+Was Volta an Italian physicist?	yes	S09/data/set4/a10
 
-Clash cymbals have traditionally been accompanied by the bass drum playing an identical part.
+yes
 
-Did Newton reject the church's doctrine of the Trinity?	Newton may have rejected the church's doctrine of the Trinity.	S09/data/set4/a1
+Is Volta buried in the city of Pittsburgh?	no	S09/data/set4/a10
 
-Newton may have rejected the church's doctrine of the Trinity.
+no
 
-Who did Newton see as the master creator?	Newton saw God as the master creator whose existence could not be denied in the face of the grandeur of all creation	S09/data/set4/a1
+Is Volta buried in the city of Pittsburgh?	no	S09/data/set4/a10
 
-Newton saw God as the master creator whose existence could not be denied in the face of the grandeur of all creation.
+no
+
+Did Alessandro Volta live to be 80 years old?	no	S09/data/set4/a10
+
+no
+
+Is the electrolyte sulphuric acid?	Yes	S09/data/set4/a10
+
+yes
+
+Was his 1800  paper written in French?	Yes	S09/data/set4/a10
+
+yes
+
+Did he receive the Society`s 1794 Copley Medal?	Yes	S09/data/set4/a10
+
+yes
+
+Did he experiment with individual cells?	Yes	S09/data/set4/a10
+
+yes
+
+Did he become professor of experimental physics at the University of Pavia?	Yes	S09/data/set4/a10
+
+yes
+
+Is it true that Volta married the daughter of Count Ludovico Peregrini?	Yes	S09/data/set4/a10
+
+yes
+
+Is it true that he published his invention of the Voltaic pile battery?	Yes	S09/data/set4/a10
+
+yes
+
+Was Amedeo Avogadro Italian?	Yes	S09/data/set4/a8
+
+yes
+
+Was Amedeo Avogadro Italian?	yes	S09/data/set4/a8
+
+yes
+
+Did Avogadro live in England?	No	S09/data/set4/a8
+
+no
+
+Was Amedeo Avogadro born in North America?	no	S09/data/set4/a8
+
+no
+
+Did Avogadro submit his poem?	Yes.	S09/data/set4/a8
+
+yes
+
+Was he professor at Uppsala University?	yes	S09/data/set4/a5
+
+yes
+
+Is it true that he published a collection of 316 observations?	yes	S09/data/set4/a5
+
+yes
+
+Are calligraphers held in great esteem?	Yes	S09/data/set5/a3
+
+yes
+
+Does Beijing mean "northern capital"?	yes	S09/data/set3/a7
+
+yes
+
+Are the caves of Dragon Bone Hill near the village of Zhoukoudian in Fangshan District?	yes	S09/data/set3/a7
+
+yes
+
+Are hutongs disappearing?	yes	S09/data/set3/a7
+
+yes
+
+Was Blaise Pascal a mathematician of the first order?	yes	S09/data/set4/a4
+
+yes
+
+Was Blaise Pascal a mathematician of the first order?	yes	S09/data/set4/a4
+
+yes
+
+Is the violin cello a bowed string instrument?	Yes	S09/data/set2/a9
+
+yes
+
+Is the violin cello a bowed string instrument?	yes	S09/data/set2/a9
+
+yes
+
+Are the z-holes used as access points to the interior of the cello? 	No	S09/data/set2/a9
+
+no
+
+Are the z-holes used as access points to the interior of the cello? 	No	S09/data/set2/a9
+
+no
+
+Is the cello a stringed instrument?	yes	S09/data/set2/a9
+
+yes
+
+Is the cello a stringed instrument?	yes	S09/data/set2/a9
+
+yes
+
+Did Charles-Augustin de Coulomb find any relationship between electric charges and magnetic poles? 	No	S09/data/set4/a6
+
+no
+
+Did Charles-Augustin de Coulomb find any relationship between electric charges and magnetic poles? 	No	S09/data/set4/a6
+
+no
+
+Did Charles-Augustin de Coulomb live to be 80 years old?	no	S09/data/set4/a6
+
+no
+
+Does Coulomb leave a legacy?	yes	S09/data/set4/a6
+
+yes
+
+Did he publish an important investigation of the laws of friction?	yes	S09/data/set4/a6
+
+yes
+
+Was Coulomb born in AngoulÃªme, France, to a well to do family?	yes	S09/data/set4/a6
+
+yes
+
+Was his father inspector of the Royal Fields?	yes	S09/data/set4/a6
+
+yes
+
+Is it true that coulomb leaves a legacy as a hero?	yes	S09/data/set4/a6
+
+yes
+
+Was Old Chinese wholly uninflected?	no	S09/data/set5/a7
+
+no
+
+Are The modern Chinese dialects more like a family?	yes	S09/data/set5/a7
+
+yes
+
+Is Copenhagen completely surrounded with water? 	No	S09/data/set3/a8
+
+no
+
+Is the word cymbal derived from a Germanic word?	No	S09/data/set2/a6
+
+no
+
+Is the word cymbal derived from a Germanic word?	No	S09/data/set2/a6
+
+no
+
+Is Dhaka the capital of Bangladesh?	Yes	S09/data/set3/a3
+
+yes
+
+Is University of Dhaka older than the Dhaka College?	No	S09/data/set3/a3
+
+no
+
+Is english a de  jure  official  language  of Israel?	no	S09/data/set5/a1
+
+no
+
+Does english grammar have minimal inflection?	Yes	S09/data/set5/a1
+
+yes
+
+Did old English develop into Middle English?	Yes	S09/data/set5/a1
+
+yes
+
+Is the flute a musical instrument?	Yes.	S09/data/set2/a5
+
+yes
+
+Is the flute a musical instrument?	Yes	S09/data/set2/a5
+
+yes
+
+Is it possible to open flutes at one or both ends?	Yes.	S09/data/set2/a5
+
+yes
+
+Is it possible to open flutes at one or both ends?	Yes	S09/data/set2/a5
+
+yes
+
+Are Indian concert flutes available in standard pitches?	Yes.	S09/data/set2/a5
+
+yes
+
+Are Indian concert flutes available in standard pitches?	Yes	S09/data/set2/a5
+
+yes
+
+Are foxes wary of humans?	Yes	S09/data/set1/a6
+
+yes
+
+Are foxes wary of humans?	Yes	S09/data/set1/a6
+
+yes
+
+Do foxes damage fruit on farms?	No	S09/data/set1/a6
+
+no
+
+Is french taught in many schools as a primary language along with Arabic?	Yes	S09/data/set5/a5
+
+yes
+
+Is french descendant of the Latin language?	Yes	S09/data/set5/a5
+
+yes
+
+Is it true that france signed the European Charter for Regional Languages?	Yes	S09/data/set5/a5
+
+yes
+
+Is 9 %  of the Internet  population German?	no	S09/data/set5/a2
+
+no
+
+Do giraffes give birth standing up?	Yes	S09/data/set1/a5
+
+yes
+
+Do giraffes give birth standing up?	yes	S09/data/set1/a5
+
+yes
+
+Are giraffes hunted for their hides?	Yes	S09/data/set1/a5
+
+yes
+
+Are giraffes hunted for their hides?	Yes	S09/data/set1/a5
+
+yes
+
+Was Henri Becquerel one of the discoverers of radioactivity?	Yes	S09/data/set4/a9
+
+yes
+
+Was Henri Becquerel one of the discoverers of radioactivity?	Yes	S09/data/set4/a9
+
+yes
+
+Was Henri Becquerel a French physicist?	Yes	S09/data/set4/a9
+
+yes
+
+Was Henri Becquerel a French physicist?	Yes	S09/data/set4/a9
+
+yes
+
+Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?	No	S09/data/set4/a9
+
+no
+
+Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?	No	S09/data/set4/a9
+
+no
+
+Was Henri Becquerel the sole winner of the 1903 Nobel Prize in Physics?	No	S09/data/set4/a9
+
+no
+
+Was Henri Becquerel the sole winner of the 1903 Nobel Prize in Physics?	No	S09/data/set4/a9
+
+no
+
+Did Henri Becquerel intentionally discover radioactivity?	No	S09/data/set4/a9
+
+no
+
+Did Henri Becquerel live to be 80 years old?	no	S09/data/set4/a9
+
+no
+
+Did he become chief engineer in the Department of Bridges and Highways?	Yes	S09/data/set4/a9
+
+yes
+
+Did he share the Nobel Prize in Physics?	Yes	S09/data/set4/a9
+
+yes
+
+Was Newton a English physicist?	Yes.	S09/data/set4/a1
+
+yes
+
+Was Newton a English physicist?	Yes	S09/data/set4/a1
+
+yes
+
+Was Newton admitted into Havard College?	No.	S09/data/set4/a1
+
+no
+
+Do most Japanese people employ politeness?	yes	S09/data/set5/a6
+
+yes
+
+Is it true that Japanese borrowed a considerable number of words?	yes	S09/data/set5/a6
+
+yes
+
+Is rainfall very low?	Yes.	S09/data/set3/a4
+
+yes
+
+Did Caunte take control of the English throne in 101?	No	S09/data/set3/a1
+
+no
+
+Is lyre played in mordern Greece?	No	S09/data/set2/a10
+
+no
+
+Was Michael Faraday an English chemist?	yes	S09/data/set4/a7
+
+yes
+
+Was Michael Faraday an English chemist?	yes	S09/data/set4/a7
+
+yes
+
+Was Faraday a devout Christian?	yes	S09/data/set4/a7
+
+yes
+
+Was Faraday a devout Christian?	yes	S09/data/set4/a7
+
+yes
+
+Did Faraday receive an extensive formal education?	no	S09/data/set4/a7
+
+no
+
+Did Faraday receive an extensive formal education?	no	S09/data/set4/a7
+
+no
+
+Was his father member of the Sandemanian sect?	yes	S09/data/set4/a7
+
+yes
+
+Was faraday Christian of the small Sandemanian denomination?	yes	S09/data/set4/a7
+
+yes
+
+Is Nassau Sound a body of water in Maine?	no	S09/data/set3/a2
+
+no
+
+Was Nassau placed in operation by Robert Fulton?	yes	S09/data/set3/a2
+
+yes
+
+Is Nassau Range the highest mountain range in the world?	no	S09/data/set3/a2
+
+no
+
+Did Tesla study electrical engineering?	Yes	S09/data/set4/a3
+
+yes
+
+Did Tesla study electrical engineering?	yes	S09/data/set4/a3
+
+yes
+
+Was Tesla born in the United States?	No	S09/data/set4/a3
+
+no
+
+Was Tesla born in the United States?	no	S09/data/set4/a3
+
+no
+
+Was Tesla regarded as a mad scientist?	Yes	S09/data/set4/a3
+
+yes
+
+Was Tesla regarded as a mad scientist?	yes	S09/data/set4/a3
+
+yes
+
+Is Ottawa the capital of Canada?	Yes	S09/data/set3/a5
+
+yes
+
+Do small tremors occur in Ottawa?	Yes	S09/data/set3/a5
+
+yes
+
+Does it snow in Ottawa?	yes	S09/data/set3/a5
+
+yes
+
+Does it snow in Ottawa?	yes	S09/data/set3/a5
+
+yes
+
+Was there a cholera outbreak in 1832?	yes	S09/data/set3/a5
+
+yes
+
+Was there a cholera outbreak in 1832?	yes	S09/data/set3/a5
+
+yes
+
+Are there also discussions of having OC Transpo Light Rail and STO Transitway networks linking on the Gatineau side of the Ottawa River ?	Yes.	S09/data/set3/a5
+
+yes
+
+Do sea otters have a layer of fat like whales?	No	S09/data/set1/a7
+
+no
+
+Do sea otters have a layer of fat like whales?	no	S09/data/set1/a7
+
+no
+
+Is santiago Spanish for St. James?	Yes	S09/data/set3/a6
+
+yes
+
+Is      / ref Swahili unusual among sub-Saharan languages?	Yes	S09/data/set5/a4
+
+yes
+
+Are vowels never reduced , regardless of stress ?	Yes	S09/data/set5/a4
+
+yes
+
+Are swan birds of the family Anatidae?	Yes.	S09/data/set1/a10
+
+yes
+
+Are swan birds of the family Anatidae?	Yes	S09/data/set1/a10
+
+yes
+
+Do swans feature strongly in mythology?	Yes.	S09/data/set1/a10
+
+yes
+
+Do swans feature strongly in mythology?	Yes	S09/data/set1/a10
+
+yes
+
+Is the Tiger a member of the Felidar family?	No.	S09/data/set1/a3
+
+no
+
+Is the Tiger a member of the Felidar family?	No	S09/data/set1/a3
+
+no
+
+Are tigers solitary animals?	Yes.	S09/data/set1/a3
+
+yes
+
+Are tigers solitary animals?	Yes	S09/data/set1/a3
+
+yes
+
+Are panthers a type of tiger?	No.	S09/data/set1/a3
+
+no
+
+Are panthers a type of tiger?	No	S09/data/set1/a3
+
+no
+
+Did the predecessors to trumpets have valves?	No	S09/data/set2/a3
+
+no
+
+Are trumpets constructed of brass?	Yes	S09/data/set2/a3
+
+yes
+
+Did Miles Davis play the trumpet?	Yes	S09/data/set2/a3
+
+yes
+
+Does a trumpet have a mellower tone than a cornet?	No	S09/data/set2/a3
+
+no
+
+Is the name of the upper shell of a turtle called the plastron?	No.	S09/data/set1/a4
+
+no
 
 How do turtles chew food?	Turtles use their jaws to cut and chew food.	S09/data/set1/a4
 
@@ -21,4 +525,52 @@ Turtles use their jaws to cut and chew food.
 How do turtles chew food?	Turtles use their jaws to cut and chew food	S09/data/set1/a4
 
 Turtles use their jaws to cut and chew food.
+
+Are tortoises land based?	Yes.	S09/data/set1/a4
+
+yes
+
+Are tortoises land based?	yes	S09/data/set1/a4
+
+yes
+
+Is turtle soup considered a delicacy?	yes	S09/data/set1/a4
+
+yes
+
+Are Testudines the crown group of the superorder Chelonia?	yes	S09/data/set1/a9
+
+yes
+
+Are Testudines the crown group of the superorder Chelonia?	Yes	S09/data/set1/a9
+
+yes
+
+Do turtles breathe air?	yes	S09/data/set1/a9
+
+yes
+
+Do turtles breathe air?	Yes	S09/data/set1/a9
+
+yes
+
+Are violins a single size?	no	S09/data/set2/a2
+
+no
+
+Are violins a single size?	No	S09/data/set2/a2
+
+no
+
+Are xylophone bars made of rosewood?	yes	S09/data/set2/a8
+
+yes
+
+Is the xylophone a precursor to the vibraphone?	yes	S09/data/set2/a8
+
+yes
+
+Were ancient mallets made of copper?	no	S09/data/set2/a8
+
+no
 

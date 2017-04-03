@@ -1,52 +1,1328 @@
-What do beetles eat?	They often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates	S08/data/set1/a8
+Was Abraham Lincoln the sixteenth President of the United States?	yes	S08/data/set3/a4
 
-They often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates.
+yes
 
-What did Aristotle say about elephants?	Aristotle once said the elephant was "the beast which passeth all others in wit and mind."	S08/data/set1/a5
+Was Abraham Lincoln the sixteenth President of the United States?	Yes.	S08/data/set3/a4
 
-Aristotle once said the elephant was "the beast which passeth all others in wit and mind.
+yes
 
-What part of an elephant is very important for temperature regulation?	The large flapping ears of an elephant are also very important for temperature regulation.	S08/data/set1/a5
+Did his mother die of pneumonia?	no	S08/data/set3/a4
 
-The large flapping ears of an elephant are also very important for temperature regulation.
+no
 
-Where was the largest elephant ever recorded shot?	The largest elephant ever recorded was shot in Angola in 1956.	S08/data/set1/a5
+Did his mother die of pneumonia?	No.	S08/data/set3/a4
 
-The largest elephant ever recorded was shot in Angola in 1956.
+no
 
-Who got Seward elected to the senate?	Weed ultimately got Seward elected to the senate	S08/data/set3/a3
+Was Abraham Lincoln the first President of the United States?	No	S08/data/set3/a4
 
-Weed ultimately got Seward elected to the senate.
+no
 
-What did Taylor and Fillmore disagree upon?	Taylor and Fillmore disagreed on the slavery issue in the new western territories taken from Mexico in the Mexican-American War	S08/data/set3/a3
+Was Abraham Lincoln the first President of the United States?	No	S08/data/set3/a4
 
-Taylor and Fillmore disagreed on the slavery issue in the new western territories taken from Mexico in the Mexican-American War.
+no
+
+Did Lincoln ever represent Alton & Sangamon Railroad?	Yes	S08/data/set3/a4
+
+yes
+
+Did Lincoln ever represent Alton & Sangamon Railroad?	Yes	S08/data/set3/a4
+
+yes
+
+Is it true that he became a professor in 1820?	yes	S08/data/set4/a8
+
+yes
+
+Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?	yes	S08/data/set4/a8
+
+yes
+
+Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?	yes	S08/data/set4/a8
+
+yes
+
+Is he most noted for his contributions to the theory of molarity and molecular weight?	yes	S08/data/set4/a8
+
+yes
+
+Was King Victor Emmanuel III there to pay homage to Avogadro ?	yes	S08/data/set4/a8
+
+yes
+
+Did the scientific community not reserve great attention to his theory ?	yes	S08/data/set4/a8
+
+yes
+
+Was King Victor Emmanuel III there to pay homage to Avogadro ?	yes	S08/data/set4/a8
+
+yes
+
+Is it true that he published a collection in 1738?	No	S08/data/set4/a5
+
+no
+
+Is it true that thermometer had 100 for the freezing point?	Yes	S08/data/set4/a5
+
+yes
+
+Was Celsius born in Uppsala in Sweden?	Yes	S08/data/set4/a5
+
+yes
+
+Was Celsius born in Uppsala in Sweden ?	Yes	S08/data/set4/a5
+
+yes
+
+Is it possible that there are more than 350,000 species of beetles?	yes	S08/data/set1/a8
+
+yes
+
+Is it possible that there are more than 350,000 species of beetles?	yes	S08/data/set1/a8
+
+yes
+
+Is the Adephaga suborder larger than the Polyphaga suborder?	no	S08/data/set1/a8
+
+no
+
+Do carrion beetles eat dung?	no	S08/data/set1/a8
+
+no
+
+Do carrion beetles eat dung?	no	S08/data/set1/a8
+
+no
+
+Are many beetles territorial?	Yes.	S08/data/set1/a8
+
+yes
+
+Is there a thriving industry in the collection of beetle specimens for amateur and professional collectors ?	Yes.	S08/data/set1/a8
+
+yes
+
+Was Calvin Coolidge the twenty-ninth vice president?	Yes	S08/data/set3/a9
+
+yes
+
+Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?	yes	S08/data/set3/a9
+
+yes
+
+Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?	Yes	S08/data/set3/a9
+
+yes
+
+Did Coolidge graduate from Black River Academy?	yes	S08/data/set3/a9
+
+yes
+
+Did Coolidge graduate from Black River Academy?	Yes	S08/data/set3/a9
+
+yes
+
+Was Coolidge the thirteenth President of the United States?	No	S08/data/set3/a9
+
+no
+
+Was Calvin Coolidge a governor of Massachusetts?	Yes	S08/data/set3/a9
+
+yes
+
+Was Calvin Coolidge a governor of Massachusetts?	Yes	S08/data/set3/a9
+
+yes
+
+Is Calvin Jr. older than John Coolidge?	No	S08/data/set3/a9
+
+no
+
+Is Calvin Jr. older than John Coolidge?	No	S08/data/set3/a9
+
+no
+
+Was John Calvin Coolidge Jr. was born in Las Vegas?	No	S08/data/set3/a9
+
+no
+
+Was John Calvin Coolidge Jr. was born in Las Vegas?	no	S08/data/set3/a9
+
+no
+
+Was Coolidge opposed in the Republican nomination for Governor of Massachusetts in 1918?	no	S08/data/set3/a9
+
+no
+
+Did Coolidge meet and marry Grace Anna Goodhue?	Yes	S08/data/set3/a9
+
+yes
+
+Did Coolidge meet and marry Grace Anna Goodhue?	yes	S08/data/set3/a9
+
+yes
+
+Is Canada's official language Zulu?	No.	S08/data/set2/a8
+
+no
+
+Is Canada's official language Zulu?	no	S08/data/set2/a8
+
+no
+
+Is Canada bilingual?	Yes.	S08/data/set2/a8
+
+yes
+
+Did Canadian soldiers win the Battle of Vimy Ridge in 1917?	Yes	S08/data/set2/a8
+
+yes
+
+Is an official language of Canada German?	No.	S08/data/set2/a8
+
+no
+
+Is it true that provinces have a large degree of autonomy?	yes	S08/data/set2/a8
+
+yes
+
+Is Canada a geographically vast and ethnically diverse country ?	yes	S08/data/set2/a8
+
+yes
+
+Did Mainland Nova Scotia not come under British rule with the Treaty of Utrecht    (: ; ?	no!	S08/data/set2/a8
+
+no
+
+Did continental European immigrants not settle the prairies ?	no	S08/data/set2/a8
+
+no
+
+Is it the world 's second largest country by total area?	yes	S08/data/set2/a8
+
+yes
+
+Is a drake a male?	Yes	S08/data/set1/a10
+
+yes
+
+Is a drake a male?	yes	S08/data/set1/a10
+
+yes
+
+Are adult ducks fast fliers?	Yes	S08/data/set1/a10
+
+yes
+
+Are adult ducks fast fliers?	Yes	S08/data/set1/a10
+
+yes
+
+Is Egypt the most populated country in Africa?	no	S08/data/set2/a6
+
+no
+
+Is Egypt the most populated country in Africa?	No	S08/data/set2/a6
+
+no
+
+Are there a large number of Jews living in Egypt today?	no	S08/data/set2/a6
+
+no
+
+Are there a large number of Jews living in Egypt today?	No	S08/data/set2/a6
+
+no
+
+Does Egypt receive the least rainfall in the world?	Yes.	S08/data/set2/a6
+
+yes
+
+Does Egypt receive the least rainfall in the world?	Yes	S08/data/set2/a6
+
+yes
+
+Does Egypt's foreign policy operates along moderate lines?	Yes.	S08/data/set2/a6
+
+yes
+
+Does Egypt's foreign policy operates along moderate lines?	Yes	S08/data/set2/a6
+
+yes
+
+Does snow fall in Egypt?	Yes.	S08/data/set2/a6
+
+yes
+
+Does snow fall in Egypt?	Yes	S08/data/set2/a6
+
+yes
+
+Are elephants the largest land animals alive today?	yes	S08/data/set1/a5
+
+yes
+
+Are elephants the largest land animals alive today?	yes	S08/data/set1/a5
+
+yes
+
+Are elephants good swimmers?	yes	S08/data/set1/a5
+
+yes
+
+Are elephants good swimmers?	yes	S08/data/set1/a5
+
+yes
+
+Is the Asian elephant larger than the African?	no	S08/data/set1/a5
+
+no
+
+Were the treaties signed in 1947 and 1948 with the Ukraine?	no	S08/data/set2/a4
+
+no
+
+Were the treaties signed in 1947 and 1948 with the Ukraine?	No	S08/data/set2/a4
+
+no
+
+Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?	yes	S08/data/set2/a4
+
+yes
+
+Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?	Yes	S08/data/set2/a4
+
+yes
+
+Is the most read newspaper in Finland Taloussanomat?	no	S08/data/set2/a4
+
+no
+
+Is the most read newspaper in Finland Taloussanomat?	No	S08/data/set2/a4
+
+no
+
+Is Matti Vanhanen the Prime Minister of Finland?	yes	S08/data/set2/a4
+
+yes
+
+Is Matti Vanhanen the Prime Minister of Finland?	Yes	S08/data/set2/a4
+
+yes
+
+Is the capital city Oslo?	no	S08/data/set2/a4
+
+no
+
+Is the capital city Oslo?	No	S08/data/set2/a4
+
+no
+
+Does salmon remain the favorite of fly rod enthusiasts?	Yes	S08/data/set2/a4
+
+yes
+
+Does salmon remain the favorite of fly rod enthusiasts?	Yes	S08/data/set2/a4
+
+yes
+
+Are there cathedrals scattered all across Finland?	Yes	S08/data/set2/a4
+
+yes
+
+Are there cathedrals scattered all across Finland?	Yes	S08/data/set2/a4
+
+yes
+
+Does a large proportion of the population speak Swedish as its mother tongue?	No	S08/data/set2/a4
+
+no
+
+Was Ford a member of the House of Representatives?	Yes	S08/data/set3/a10
+
+yes
+
+Was Ford a member of the House of Representatives?	yes	S08/data/set3/a10
+
+yes
+
+Was Gerald Ford a member of Delta Kappa Epsilon?	Yes	S08/data/set3/a10
+
+yes
+
+Was Gerald Ford a member of Delta Kappa Epsilon?	Yes	S08/data/set3/a10
+
+yes
+
+Did ford get an award called "Congressman's congressman"?	No	S08/data/set3/a10
+
+no
+
+Did ford attend the University of Michigan?	Yes	S08/data/set3/a10
+
+yes
+
+Did ford attend the University of Michigan?	Yes	S08/data/set3/a10
+
+yes
+
+Was Ford active about Vietnamese affairs?	No	S08/data/set3/a10
+
+no
+
+Was Gerald Ford the 38th President of the United States?	yes	S08/data/set3/a10
+
+yes
+
+Was Gerald Ford the 38th President of the United States?	yes	S08/data/set3/a10
+
+yes
+
+Was Ford an Eagle Scout?	yes	S08/data/set3/a10
+
+yes
+
+Was Ford an Eagle Scout?	yes	S08/data/set3/a10
+
+yes
+
+Was Ford released from the hospital?	Yes.	S08/data/set3/a10
+
+yes
+
+Was Ford interred at his Presidential Museum in Grand Rapids, Michigan?	Yes.	S08/data/set3/a10
+
+yes
+
+Is Ford one of only four former Presidents to live to 90 or more years of age ?	Yes.	S08/data/set3/a10
+
+yes
+
+Was Ford the last surviving member of the Warren Commission ?	Yes.	S08/data/set3/a10
+
+yes
+
+Did Grand Rapids supporters not urge him to take on Bartel J. Jonkman , the incumbent Republican congressman ?	No.	S08/data/set3/a10
+
+no
+
+Does Ghana have twice the per capita output of the poorer countries in West Africa?	yes	S08/data/set2/a5
+
+yes
+
+Does Ghana have twice the per capita output of the poorer countries in West Africa?	yes	S08/data/set2/a5
+
+yes
+
+Is English Ghana's official language?	yes	S08/data/set2/a5
+
+yes
+
+Is English Ghana's official language?	yes	S08/data/set2/a5
+
+yes
+
+Is Ghana in Asia?	no	S08/data/set2/a5
+
+no
+
+Is Ghana in Asia?	No	S08/data/set2/a5
+
+no
+
+Is English the official language?	yes	S08/data/set2/a5
+
+yes
+
+Is English the official language?	Yes	S08/data/set2/a5
+
+yes
+
+Is the Gray Wolf a mammal?	Yes	S08/data/set1/a6
+
+yes
+
+Is the Gray Wolf a mammal?	Yes	S08/data/set1/a6
+
+yes
+
+Are wolves built for stamina?	Yes	S08/data/set1/a6
+
+yes
+
+Are wolves built for stamina?	Yes	S08/data/set1/a6
+
+yes
+
+Was Grover Cleveland born in New York?	no	S08/data/set3/a6
+
+no
+
+Was Grover Cleveland born in New York?	no	S08/data/set3/a6
+
+no
+
+Was Grover Cleveland the twenty-seventh president of the United States?	No.	S08/data/set3/a6
+
+no
+
+Was Grover Cleveland the twenty-seventh president of the United States?	No.	S08/data/set3/a6
+
+no
+
+Is Grover Cleveland honest?	Yes.	S08/data/set3/a6
+
+yes
+
+Is Grover Cleveland honest?	Yes.	S08/data/set3/a6
+
+yes
+
+Is it true that he sent in federal troops to chicago?	yes	S08/data/set3/a6
+
+yes
+
+Was Cleveland born in Caldwell, New Jersey to the Reverend Richard Cleveland and Anne Neal?	yes	S08/data/set3/a6
+
+yes
+
+Was Grover Cleveland elected Sheriff of Erie County, New York?	yes	S08/data/set3/a6
+
+yes
+
+Is he buried in the Princeton Cemetery of the Nassau Presbyterian Church ?	yes	S08/data/set3/a6
+
+yes
+
+Is it true that he shared the nobel prize in physics?	yes	S08/data/set4/a9
+
+yes
+
+Was Becquerel elected Permanent Secretary of the AcadÃ©mie des Sciences?	yes	S08/data/set4/a9
+
+yes
+
+Was Becquerel born in Paris into a family which, including he and his son Jean, produced four generations of scientists?	yes	S08/data/set4/a9
+
+yes
+
+Is Indonesia a monarchy with a presidential system?	no	S08/data/set2/a10
+
+no
+
+Is Indonesia a monarchy with a presidential system?	No	S08/data/set2/a10
+
+no
+
+Did the Japanese invasion and subsequent occupation during WWII end Dutch rule?	yes	S08/data/set2/a10
+
+yes
+
+Did the Japanese invasion and subsequent occupation during WWII end Dutch rule?	Yes	S08/data/set2/a10
+
+yes
+
+Does Indonesia have the world's hightest level of biodiversity?	no	S08/data/set2/a10
+
+no
+
+Does Indonesia have the world's hightest level of biodiversity?	No	S08/data/set2/a10
+
+no
+
+Was Indonesia named after it became an independent country?	no	S08/data/set2/a10
+
+no
+
+Was Indonesia named after it became an independent country?	No	S08/data/set2/a10
+
+no
+
+Is it true that indonesia has vast areas of wilderness?	yes	S08/data/set2/a10
+
+yes
+
+Is Indonesia a republic?	yes	S08/data/set2/a10
+
+yes
+
+Is Indonesia the world's largest archipelagic state?	yes	S08/data/set2/a10
+
+yes
+
+Is Pencak Silat an Indonesian martial art ?	yes	S08/data/set2/a10
+
+yes
+
+Is it the world 's largest archipelagic state?	yes	S08/data/set2/a10
+
+yes
+
+Is it the world 's fourth most populous country and the most populous muslim-majority nation?	yes	S08/data/set2/a10
+
+yes
+
+Is indonesia a republic?	yes	S08/data/set2/a10
+
+yes
+
+Was James Monroe President of the United States?	yes	S08/data/set3/a2
+
+yes
+
+Was James Monroe President of the United States?	Yes	S08/data/set3/a2
+
+yes
+
+Did James Monroe fight in the Continental Army?	yes	S08/data/set3/a2
+
+yes
+
+Did James Monroe fight in the Continental Army?	Yes	S08/data/set3/a2
+
+yes
+
+Is it true that he practiced law in fredericksburg?	yes	S08/data/set3/a2
+
+yes
+
+Was Monroe appointed Minister to France from 1794 to 1796?	yes	S08/data/set3/a2
+
+yes
+
+Is watt commemorated by statuary in George Square, Glasgow and Princes Street, Edinburgh?	Yes.	S08/data/set4/a2
+
+yes
+
+Was watt a gentleman, greatly respected by other prominent men of the Industrial Revolution?	Yes.	S08/data/set4/a2
+
+yes
+
+Was watt a fellow of the Royal Society of Edinburgh and the Royal Society of London?	Yes.	S08/data/set4/a2
+
+yes
+
+Was Watt ranked 22nd in Michael H. Hart 's list of the most influential figures in history ?	Yes.	S08/data/set4/a2
+
+yes
+
+Did John Adams represent the Continental Congress in Europe?	Yes.	S08/data/set3/a1
+
+yes
+
+Did John Adams represent the Continental Congress in Europe?	yes	S08/data/set3/a1
+
+yes
+
+Was Adams raised Congregationalist?	Yes.	S08/data/set3/a1
+
+yes
+
+Was Adams raised Congregationalist?	yes	S08/data/set3/a1
+
+yes
+
+Was Adams an opponent of the Stamp Act?	Yes.	S08/data/set3/a1
+
+yes
+
+Was Adams an opponent of the Stamp Act?	yes	S08/data/set3/a1
+
+yes
+
+Did John Adams get along with Alexander Hamilton?	No.	S08/data/set3/a1
+
+no
+
+Did John Adams get along with Alexander Hamilton?	no	S08/data/set3/a1
+
+no
+
+Did John Adams go to Harvard? 	yes	S08/data/set3/a1
+
+yes
+
+Did John Adams go to Harvard? 	Yes	S08/data/set3/a1
+
+yes
+
+Did John Adams support the Stamp Act of 1765?	No	S08/data/set3/a1
+
+no
+
+Did John Adams support the Stamp Act of 1765?	No	S08/data/set3/a1
+
+no
+
+Is it true that adams had spent some time as the ambassador?	yes	S08/data/set3/a1
+
+yes
+
+Did the election of 1800 not become a bitter and volatile battle , with each side expressing extraordinary fear of the other party and its policies ?	No.	S08/data/set3/a1
+
+no
+
+Is a kangaroo on the Australian coat of arms?	yes	S08/data/set1/a1
+
+yes
+
+Is a kangaroo on the Australian coat of arms?	Yes	S08/data/set1/a1
+
+yes
+
+Are wild kangaroos shot for meat?	yes	S08/data/set1/a1
+
+yes
+
+Are wild kangaroos shot for meat?	Yes	S08/data/set1/a1
+
+yes
+
+Do kangaroos have many natural predators?	no	S08/data/set1/a1
+
+no
+
+Do kangaroos have many natural predators?	No	S08/data/set1/a1
+
+no
+
+Is a Kangaroo a Marsupial?	Yes	S08/data/set1/a1
+
+yes
+
+Is the leopard smaller than the other members of Panthera?	yes	S08/data/set1/a2
+
+yes
+
+Is the leopard smaller than the other members of Panthera?	Yes	S08/data/set1/a2
+
+yes
+
+Is a leopard larger and less lanky than a cheetah?	yes	S08/data/set1/a2
+
+yes
+
+Is a leopard larger and less lanky than a cheetah?	Yes	S08/data/set1/a2
+
+yes
+
+Are large pythons potential prey for leopards?	yes	S08/data/set1/a2
+
+yes
+
+Are large pythons potential prey for leopards?	Yes	S08/data/set1/a2
+
+yes
+
+Is the leopard an Old World mammal?	yes	S08/data/set1/a2
+
+yes
+
+Is the leopard an Old World mammal?	yes	S08/data/set1/a2
+
+yes
+
+Is the leopard of the Felidae family?	yes	S08/data/set1/a2
+
+yes
+
+Is the leopard of the Felidae family?	yes	S08/data/set1/a2
+
+yes
+
+Are leopards circular?	No	S08/data/set1/a2
+
+no
+
+Is the leopard solitary?	Yes	S08/data/set1/a2
+
+yes
+
+Were the Leopard men a West African secret society who practised cannibalism ?	Yes	S08/data/set1/a2
+
+yes
+
+Was the leopard tank a German designed tank which entered service in 1965 ?	Yes	S08/data/set1/a2
+
+yes
+
+Is the black color heritable and caused by only one recessive gene locus ?	Yes	S08/data/set1/a2
+
+yes
+
+Is the leopard an agile and graceful predator?	Yes	S08/data/set1/a2
+
+yes
+
+Is Liechtenstein bordered by Switzerland?	Yes	S08/data/set2/a1
+
+yes
+
+Is Liechtenstein bordered by Switzerland?	Yes	S08/data/set2/a1
+
+yes
+
+Is Liechtenstein the smallest German-speaking country in the world?	Yes	S08/data/set2/a1
+
+yes
+
+Is Liechtenstein the smallest German-speaking country in the world?	Yes	S08/data/set2/a1
+
+yes
+
+Was Liechtenstein part of the ancient Roman province of Raetia?	Yes	S08/data/set2/a1
+
+yes
+
+Was Liechtenstein part of the ancient Roman province of Raetia?	Yes	S08/data/set2/a1
+
+yes
+
+Is Liechtenstein doubly landlocked?	Yes.	S08/data/set2/a1
+
+yes
+
+Is Liechtenstein doubly landlocked?	Yes	S08/data/set2/a1
+
+yes
+
+Does Liechtenstein have an army?	No.	S08/data/set2/a1
+
+no
+
+Does Liechtenstein have an army?	No	S08/data/set2/a1
+
+no
+
+Does the state court rule on the conformity of laws?	Yes	S08/data/set2/a1
+
+yes
+
+Is the museum collection also the national art collection of Liechtenstein ?	Yes	S08/data/set2/a1
+
+yes
+
+Are nationals referred to by the plural : Liechtensteiners ?	Yes	S08/data/set2/a1
+
+yes
+
+Is it a winter sports resort , although it is perhaps best known as a tax haven ?	Yes	S08/data/set2/a1
+
+yes
+
+Is it the smallest german-speaking country in the world?	Yes	S08/data/set2/a1
+
+yes
+
+Did he die at 11:10 p.m. on March 8, 1874, of the after-effects of a stroke?	Yes	S08/data/set3/a3
+
+yes
+
+Did he die at 11:10 p.m. on March 8, 1874, of the after-effects of a stroke?	yes	S08/data/set3/a3
+
+yes
+
+Was Millard Fillmore the thirteenth President of the United States?	yes	S08/data/set3/a3
+
+yes
+
+Was Millard Fillmore the thirteenth President of the United States?	yes	S08/data/set3/a3
+
+yes
+
+Did Millard Fillmore die on March 8, 1974?	no	S08/data/set3/a3
+
+no
+
+Did Millard Fillmore die on March 8, 1974?	no	S08/data/set3/a3
+
+no
 
 How did Fillmore ascend to the presidency?	Official White House portrait of Millard FillmoreFillmore ascended to the presidency upon the sudden and unexpected death of President Taylor in July 1850.	S08/data/set3/a3
 
 Official White House portrait of Millard FillmoreFillmore ascended to the presidency upon the sudden and unexpected death of President Taylor in July 1850.
 
-What does a polar bear's fur provide?	A polar bear's fur provides camouflage and insulation	S08/data/set1/a4
+Was Fillmore one of the founders of the University of Buffalo?	yes	S08/data/set3/a3
 
-A polar bear's fur provides camouflage and insulation.
+yes
 
-Where did Orang Laut people live?	Several hundred indigenous Orang Laut people also lived around the coast, rivers and smaller islands.	S08/data/set2/a2
+Was Fillmore the second Chancellor, a position he maintained while both Vice President and President?	no	S08/data/set3/a3
 
-Several hundred indigenous Orang Laut people also lived around the coast, rivers and smaller islands.
+no
+
+Is Fillmore the first of two presidents to have been an indentured servant ?	yes	S08/data/set3/a3
+
+yes
+
+Is the comic strip Mallard Fillmore named after the president ?	yes	S08/data/set3/a3
+
+yes
+
+Was Fillmore the first U.S. President born after the death of a former president ?	yes	S08/data/set3/a3
+
+yes
+
+Did Fillmore not turn down the honor , explaining that he had neither the `` literary nor scientific attainment '' to justify the degree ?	no	S08/data/set3/a3
+
+no
+
+Are there at least two films describing Tesla 's life ?	Yes.	S08/data/set4/a3
+
+yes
+
+Does the giant otter inhabit South Africa?	no	S08/data/set1/a7
+
+no
+
+Does the giant otter inhabit South Africa?	No	S08/data/set1/a7
+
+no
+
+Do sea otters live along the Pacific coast?	Yes	S08/data/set1/a7
+
+yes
+
+Do sea otters live along the Pacific coast?	Yes	S08/data/set1/a7
+
+yes
+
+Are otters herbivores?	No	S08/data/set1/a7
+
+no
+
+Are otters herbivores?	No	S08/data/set1/a7
+
+no
+
+Is it true that otters eat a variety of fish?	yes	S08/data/set1/a7
+
+yes
+
+Are otters playful animals?	yes	S08/data/set1/a7
+
+yes
+
+Are otters very active?	yes	S08/data/set1/a7
+
+yes
+
+Are male otters dog-otters?	yes	S08/data/set1/a7
+
+yes
+
+Are Male otters dog-otters , females are bitches and babies are cubs or pups ?	yes	S08/data/set1/a7
+
+yes
+
+Do penguins feed on krill?	yes	S08/data/set1/a3
+
+yes
+
+Do penguins feed on krill?	yes	S08/data/set1/a3
+
+yes
+
+Do penguins live almost exclusively in the Southern Hemisphere?	yes	S08/data/set1/a3
+
+yes
+
+Do penguins live almost exclusively in the Southern Hemisphere?	yes	S08/data/set1/a3
+
+yes
+
+Are penguins afraid of humans?	no	S08/data/set1/a3
+
+no
+
+Are penguins afraid of humans?	no	S08/data/set1/a3
+
+no
+
+Do penguins have a better than average sense of hearing for birds?	No	S08/data/set1/a3
+
+no
+
+Is it true that each penguin gets a turn in the center?	Yes	S08/data/set1/a3
+
+yes
+
+Are all penguins countershaded?	Yes	S08/data/set1/a3
+
+yes
+
+Are penguins at risk?	Yes	S08/data/set1/a3
+
+yes
+
+Is polar bear a mammal?	Yes	S08/data/set1/a4
+
+yes
+
+Is polar bear a mammal?	Yes	S08/data/set1/a4
+
+yes
+
+Is polar bear a carnivore?	Yes	S08/data/set1/a4
+
+yes
+
+Is polar bear a carnivore?	Yes	S08/data/set1/a4
+
+yes
+
+Is a polar bear white in color?	yes	S08/data/set1/a4
+
+yes
+
+Is a polar bear white in color?	Yes	S08/data/set1/a4
+
+yes
+
+Is a polar bear at high risk of extinction?	yes	S08/data/set1/a4
+
+yes
+
+Is a polar bear at high risk of extinction?	Yes	S08/data/set1/a4
+
+yes
+
+Do female polar bears weight more than the male?	no	S08/data/set1/a4
+
+no
+
+Do female polar bears weight more than the male?	No	S08/data/set1/a4
+
+no
+
+Are polar bears excellent swimmers?	yes	S08/data/set1/a4
+
+yes
+
+Is the Polar Bear the mascot of Bowdoin college ?	yes	S08/data/set1/a4
+
+yes
+
+Did Mitchell Taylor , the Nunavut Government Manager of Wildlife Research , not write a letter to the U.S. Fish and Wildlife Service arguing that local studies are insufficient evidence for global protection at this time ?	no	S08/data/set1/a4
+
+no
+
+Are Cubs born in December without awakening the mother ?	yes	S08/data/set1/a4
+
+yes
+
+Does Qatar rank as the eighth richest country in the world per capita?	No.	S08/data/set2/a3
+
+no
+
+Does Qatar rank as the eighth richest country in the world per capita?	no	S08/data/set2/a3
+
+no
+
+Do nearly all Qataris profess Islam?	Yes.	S08/data/set2/a3
+
+yes
+
+Do nearly all Qataris profess Islam?	yes	S08/data/set2/a3
+
+yes
+
+Does the native pronunciation of Qatar sound like 'cutter'?	no	S08/data/set2/a3
+
+no
+
+Was Qatar University founded in 1973?	Yes	S08/data/set2/a3
+
+yes
+
+Is Qatar bordered by Saudi Arabia to the south?	Yes	S08/data/set2/a3
+
+yes
+
+Was Qatar University founded in 1973 ?	Yes	S08/data/set2/a3
+
+yes
+
+Is Romania a secular state?	Yes.	S08/data/set2/a7
+
+yes
+
+Is Romania a secular state?	yes	S08/data/set2/a7
+
+yes
+
+Is the president elected by popular vote?	Yes.	S08/data/set2/a7
+
+yes
+
+Is the president elected by popular vote?	yes	S08/data/set2/a7
+
+yes
+
+Is it true that romania has a population of 21,698,181?	Yes	S08/data/set2/a7
+
+yes
+
+Is Romania a secular state?	Yes	S08/data/set2/a7
+
+yes
+
+Is Romania a semi-presidential unitary state?	Yes	S08/data/set2/a7
+
+yes
+
+Is Romania a semi-presidential democratic republic where executive functions are shared between the president and the prime minister ?	Yes	S08/data/set2/a7
+
+yes
+
+Was Gellu Naum the leader of the surrealist movement in Romania ?	Yes	S08/data/set2/a7
+
+yes
+
+Was the Bucharest Metro only opened in 1979 ?	Yes	S08/data/set2/a7
+
+yes
+
+Is romania a semi-presidential unitary state?	Yes	S08/data/set2/a7
+
+yes
+
+Did Singapore's standard of living decrease since independence?	no	S08/data/set2/a2
+
+no
+
+Did the media contribute 15.6% to Singapore's GDP in 2001?	no	S08/data/set2/a2
+
+no
 
 How is Singapore's climate characterized?	Its climate is characterized by uniform temperature and pressure, high humidity, and abundant rainfall	S08/data/set2/a2
 
 Its climate is characterized by uniform temperature and pressure, high humidity, and abundant rainfall.
 
+Is Singapore located at the southern tip of the Korean Penisula?	no	S08/data/set2/a2
+
+no
+
+Is Singapore a city-state?	yes	S08/data/set2/a2
+
+yes
+
+Is Singapore a city-state?	Yes.	S08/data/set2/a2
+
+yes
+
 Which nation invaded Singapore during World War II?	During World War II, the Imperial Japanese Army invaded Malaya, culminating in the Battle of Singapore.	S08/data/set2/a2
 
 During World War II, the Imperial Japanese Army invaded Malaya, culminating in the Battle of Singapore.
 
-Who was Roosevelt's presidential hero?	Lincoln was Roosevelt's presidential hero.	S08/data/set3/a7
+Is it true that singapore has several long - standing disputes with malaysia?	Yes	S08/data/set2/a2
 
-Lincoln was Roosevelt's presidential hero.
+yes
 
-Who was Roosevelt's presidential hero?	Lincoln was Roosevelt's presidential hero	S08/data/set3/a7
+Does the economy not depend heavily on exports refining imported goods , especially in manufacturing ?	No	S08/data/set2/a2
 
-Lincoln was Roosevelt's presidential hero.
+no
+
+Did Theodore Roosevelt study Judo?	No	S08/data/set3/a7
+
+no
+
+Did Roosevelt receive a Medal of Honor?	yes	S08/data/set3/a7
+
+yes
+
+Did Roosevelt study biology?	yes	S08/data/set3/a7
+
+yes
+
+Are turtles ectothermic?	Yes	S08/data/set1/a9
+
+yes
+
+Are turtles ectothermic?	yes	S08/data/set1/a9
+
+yes
+
+Are Pleurodira known as side-necked turtles?	Yes	S08/data/set1/a9
+
+yes
+
+Are Pleurodira known as side-necked turtles?	yes	S08/data/set1/a9
+
+yes
+
+Are turtles ectothermic?	yes	S08/data/set1/a9
+
+yes
+
+Are the largest turtles aquatic?	yes	S08/data/set1/a9
+
+yes
+
+Are Immature sea turtles not cared for by the adults ?	yes	S08/data/set1/a9
+
+yes
+
+Are the Pleurodira sometimes known as the side-necked turtles , a reference to the way they withdraw their heads into their shells ?	yes	S08/data/set1/a9
+
+yes
+
+Was Ulysses Grant a general in the American Civil War?	Yes	S08/data/set3/a5
+
+yes
+
+Was Ulysses Grant a general in the American Civil War?	yes	S08/data/set3/a5
+
+yes
+
+Did Ulysses win the Battle of Champion Hill?	Yes	S08/data/set3/a5
+
+yes
+
+Was Grant elected president as a Republican?	yes	S08/data/set3/a5
+
+yes
+
+Was it a two-sentence description that completely caught the essence of Ulysses S. Grant ?	yes	S08/data/set3/a5
+
+yes
+
+Is Uruguay located in the northwesten part of Africa?	No.	S08/data/set2/a9
+
+no
+
+Is Uruguay located in the northwesten part of Africa?	no	S08/data/set2/a9
+
+no
+
+Is Uruguay's capital Montevideo?	Yes.	S08/data/set2/a9
+
+yes
+
+Is Uruguay's capital Montevideo?	yes	S08/data/set2/a9
+
+yes
+
+Does Uruguay have cold summers?	No.	S08/data/set2/a9
+
+no
+
+Does Uruguay have cold summers?	no	S08/data/set2/a9
+
+no
+
+Is uruguay's landscape mountainous?	No.	S08/data/set2/a9
+
+no
+
+Did Uruguay host the first ever World Cup?	Yes	S08/data/set2/a9
+
+yes
+
+Does Uruguay recognize same-sex civil unions?	Yes	S08/data/set2/a9
+
+yes
+
+Does Uruguay recognize same-sex civil unions?	Yes	S08/data/set2/a9
+
+yes
+
+Does Uruguay border French Guiana?	No	S08/data/set2/a9
+
+no
+
+Does Uruguay border French Guiana?	No	S08/data/set2/a9
+
+no
+
+Is Uruguay's warmest month June?	No	S08/data/set2/a9
+
+no
+
+Is Uruguay's warmest month June?	No	S08/data/set2/a9
+
+no
+
+Is Uruguay the smallest soverign nation in South America?	No	S08/data/set2/a9
+
+no
+
+Is Uruguay the smallest soverign nation in South America?	No	S08/data/set2/a9
+
+no
+
+Is Uruguay very common?	No?	S08/data/set2/a9
+
+no
+
+Is Uruguay a member of the Cairns Group of exporters of agricultural products ?	Yes	S08/data/set2/a9
+
+yes
+
+Is it widely considered the most secular nation in Latin America ?	Yes	S08/data/set2/a9
+
+yes
+
+Is it the second smallest independent country in south america , larger only than suriname and the french overseas department of french guiana?	Yes	S08/data/set2/a9
+
+yes
+
+Is it a constitutional democracy , where the president fulfills the roles of both head of state and head of government?	Yes	S08/data/set2/a9
+
+yes
+
+Was Woodrow Wilson the thirtieth President of the United States?	no	S08/data/set3/a8
+
+no
+
+Was Woodrow Wilson the thirtieth President of the United States?	No	S08/data/set3/a8
+
+no
+
+Did Woodrow Wilson create the League of Nations?	yes	S08/data/set3/a8
+
+yes
+
+Did Woodrow Wilson create the League of Nations?	Yes	S08/data/set3/a8
+
+yes
+
+Did the U.S. join the League of Nations?	no	S08/data/set3/a8
+
+no
+
+Did the U.S. join the League of Nations?	No	S08/data/set3/a8
+
+no
+
+Was Wilson a member of the Phi Kappa Psi fraternity?	yes	S08/data/set3/a8
+
+yes
+
+Did Wilson support desegregation?	no	S08/data/set3/a8
+
+no
+
+Did Wilson support the committee system?	no	S08/data/set3/a8
+
+no
+
+Did Wilson support the committee system?	No.	S08/data/set3/a8
+
+no
+
+Was Wilson awarded the 1919 Nobel Peace Prize?	Yes	S08/data/set3/a8
+
+yes
+
+Was Wilson a remarkably effective writer and thinker?	Yes	S08/data/set3/a8
+
+yes
+
+Was Wilson president of the American Political Science Association in 1910 ?	Yes	S08/data/set3/a8
+
+yes
+
+Did he not cast his ballot for John M. Palmer , the presidential candidate of the National Democratic Party , or Gold Democrats , a short-lived party that supported a gold standard , low tariffs , and limited government ?	Yes	S08/data/set3/a8
+
+yes
 

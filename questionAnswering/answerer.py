@@ -23,25 +23,37 @@ def longest_match_sentence(question, sentences, answer_type):
 
 def most_similar_sentence(question, transformed, sentences, answer_type):
     top = h.get_top_similar(question,transformed,sentences,10)
-    if answer_type[0] == 1:
-        sentence = h.get_first_entity_with_label(top,answer_type[1])
-        if sentence is None:
+    if len(top) > 0:
+        if answer_type[0] == 1:
+            sentence = h.get_first_entity_with_label(top,answer_type[1])
+            if sentence is None:
+                return top[0][0]
+        else:
             return top[0][0]
-    else:
-        return top[0][0]
 
-def get_sentence(question, sentences, answer_type, transformed):
-    sentence = h.find_exact_match(transformed, sentences)
-    #if sentence is None:
-    #    sentence = longest_match_sentence(question, sentences, answer_type)
-    if sentence is None:
-        sentence = most_similar_sentence(question, transformed, sentences, answer_type)
-    return sentence
 
 def find_answer(question, sentences):
     answer_type = h.get_answer_type(question)
     transformed = h.transform_question(question)
-    return get_sentence(question, sentences, answer_type, transformed).text
+
+    sentence = h.find_exact_match(transformed, sentences)
+
+    if sentence is not None:
+        if answer_type[0] == 0:
+            return 'yes'
+    else:
+        if answer_type[0] == 0:
+            return 'no'
+        sentence = most_similar_sentence(question, transformed, sentences, answer_type)
+
+    if answer_type[0] == 1:
+        entities = []
+        for ent in sentence.ents:
+            entities.append([ent.text, ent.label_])
+
+        return str(entities)
+
+    return sentence.text
 
 
 class answerer(object):
