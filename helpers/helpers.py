@@ -464,7 +464,7 @@ def add_doc_to_dictionary(docs, path):
         lines = f.readlines()
     lines = [x.strip() for x in lines]
     if len(lines) > 1:
-        content = lines[1:]
+        content = lines
         str_content = u''
         for line in content:
             str_content += line + u' '

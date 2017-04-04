@@ -43,6 +43,10 @@ def find_answer(question, sentences):
             return 'yes'
     else:
         sentence = most_similar_sentence(question, transformed, sentences, answer_type)
+        if answer_type[0] == 0:
+            if h.jaccard_doc(question,sentence) > 0:
+                return 'yes'
+            return 'no'
 
     if answer_type[0] == 1:
         entities = []

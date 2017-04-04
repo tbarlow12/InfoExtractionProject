@@ -1,18 +1,10 @@
-Is Volta buried in the city of Pittsburgh?	no	S09/data/set4/a10
+Did Volta have a passion for the study of electricity?	yes	S09/data/set4/a10
 
-Volta is buried in the city of Como.
-
-Is Volta buried in the city of Pittsburgh?	no	S09/data/set4/a10
-
-Volta is buried in the city of Como.
+no
 
 Did Volta have a passion for the study of electricity?	yes	S09/data/set4/a10
 
-(  The battery made by Volta is credited to have been the first cell.
-
-Did Volta have a passion for the study of electricity?	yes	S09/data/set4/a10
-
-(  The battery made by Volta is credited to have been the first cell.
+no
 
 What is the battery made by Volta credited to be?	the first cell	S09/data/set4/a10
 
@@ -46,33 +38,29 @@ Volta entered retirement in Spain.
 
 Is it a disadvantage for something to be unsafe to handle?	yes	S09/data/set4/a10
 
-It is unsafe to handle, as sulphuric acid, even if dilute, is dangerous.
+no
 
 Is it a disadvantage for something to be unsafe to handle?	yes	S09/data/set4/a10
 
-It is unsafe to handle, as sulphuric acid, even if dilute, is dangerous.
+no
 
 Was Lombardy under Napoleon's rule in 1800?	yes	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+no
 
 Was Lombardy under Napoleon's rule in 1800?	yes	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+no
 
 Was the Italian 10.000 lira banknote created before the euro?	yes	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+no
 
 Was the Italian 10.000 lira banknote created before the euro?	yes	S09/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+no
 
 For how many years did Alessandro Volta live?	53	S09/data/set4/a10
-
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
-
-Did Alessandro Volta live to be 80 years old?	no	S09/data/set4/a10
 
   Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
 
@@ -92,7 +80,7 @@ He was in correspondence with scientists in Austria, which ruled Lombardy in his
 
 Is volta buried in the city  of Como?	Yes	S09/data/set4/a10
 
-Volta is buried in the city of Como.
+no
 
 Before 1796, was Lombardy ruled by Austria?	yes	S09/data/set4/a10
 
@@ -110,7 +98,7 @@ He published his invention of the Voltaic pile battery in 1800 in the Philosophi
 
 Is it true that his passion been always the study of electricity?	Yes	S09/data/set4/a10
 
-His passion had always been the study of electricity, and while still a young student he had even written a poem in Latin on this fascinating new discovery.
+no
 
 His passion been always the study of what?	Electricity	S09/data/set4/a10
 
@@ -118,15 +106,11 @@ His passion had always been the study of electricity, and while still a young st
 
 Did Amedeo Avogadro graduate?	Yes	S09/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+no
 
 Did Amedeo Avogadro graduate?	yes	S09/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
-
-Did Avogadro live in England?	No	S09/data/set4/a8
-
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+no
 
 Where was Avogadro a professor of physics?	University of Turin	S09/data/set4/a8
 
@@ -211,13 +195,9 @@ What is Amedeo Avogadro`s last name?	Avogadro	S09/data/set4/a8
 [[u'Amedeo Avogadro Lorenzo Romano', u'ORG'], [u'Carlo Avogadro', u'PERSON'], [u'Count', u'PERSON'], [u'Quaregna', u'GPE'], [u'Cerreto', u'PERSON'], [u'August 9, 1776', u'DATE'], [u'1856', u'DATE'], [u'Italian', u'NORP']]
  Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
 
-Was Amedeo Avogadro born in North America?	no	S09/data/set4/a8
-
-Amedeo Avogadro was born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy.
-
 Was King Victor  Emmanuel  III there to pay  homage  to Avogadro?	Yes	S09/data/set4/a8
 
-King Victor Emmanuel III was there to pay homage to Avogadro.
+no
 
 In fact, was Avogadro `s  famous  1811  paper written in French . )	Yes	S09/data/set4/a8
 
@@ -225,7 +205,7 @@ In fact, Avogadro's famous 1811 paper was written in French.)
 
 Is avogadro `s  number commonly used to compute  the results  of chemical reactions?	Yes	S09/data/set4/a8
 
-Avogadro's number is commonly used to compute the results of chemical reactions.
+no
 
 Hence, can relative molecular  masses be calculated from the masses  of gas samples?	Yes	S09/data/set4/a8
 
@@ -233,11 +213,11 @@ Hence, relative molecular masses can be calculated from the masses of gas sample
 
 Did he publish his work?	Yes	S09/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+no
 
 Is it true that loschmidt calculated first the value of Avogadro number?	Yes	S09/data/set4/a8
 
-Loschmidt first calculated the value of Avogadro's number, now called Avogadro's constant, which is still sometimes referred to as the Loschmidt number in German-language countries (Loschmidt constant now has another meaning).
+no
 
 Loschmidt calculated first the value of what?	Avogadro's number	S09/data/set4/a8
 
@@ -352,19 +332,19 @@ What is Anders Celsius`s last name?	Celsius	S09/data/set4/a5
 
 Was celsius born in Uppsala  in Sweden?	yes	S09/data/set4/a5
 
-Celsius was born in Uppsala in Sweden.
+no
 
 Is The Celsius  crater  on the Moon named after him?	yes	S09/data/set4/a5
 
-The Celsius crater on the Moon is named after him.
+no
 
 Was Anders Celsius  ( November 27 ,  1701  April 25 ,  1744  ) a Swedish  astronomer?	yes	S09/data/set4/a5
 
- Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
+no
 
 Was Anders Celsius the first  to perform  and  publish  careful experiments  aiming at the definition  of an international  temperature  scale  on scientific grounds?	yes	S09/data/set4/a5
 
-Anders Celsius was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds.
+no
 
 He published a collection of what?	observations	S09/data/set4/a5
 
@@ -396,7 +376,7 @@ yes
 
 Is it true that the sociolinguistic situation of Arabic provides a prime example of the linguistic phenomenon?	NULL	S09/data/set5/a3
 
-The sociolinguistic situation of Arabic in modern times provides a prime example of the linguistic phenomenon of diglossia, which is the normal use of two separate varieties of the same language, usually in different social situations.
+no
 
 The sociolinguistic situation of Arabic provides a prime example of what?	the linguistic phenomenon of diglossia	S09/data/set5/a3
 
@@ -408,7 +388,7 @@ yes
 
 Is arabic language of the Qur an?	NULL	S09/data/set5/a3
 
-  Arabic (  ; less formally:  ) is a Central Semitic language, thus related to and classified alongside other Semitic languages such as Hebrew and Aramaic.
+no
 
 Is it true that most speak Arabic as their native language?	NULL	S09/data/set5/a3
 
@@ -416,7 +396,7 @@ yes
 
 Are pronouns in Literary Arabic marked for person , number and gender ?	yes	S09/data/set5/a3
 
-Pronouns in Literary Arabic are marked for person, number and gender.
+no
 
 However , are non-human plural nouns grammatically considered to be feminine singular ?	yes	S09/data/set5/a3
 
@@ -424,11 +404,11 @@ However, non-human plural nouns are grammatically considered to be feminine sing
 
 Is a bee an insect?	yes	S09/data/set1/a8
 
-  Bees are flying insects closely related to wasps and ants.
+no
 
 Are bees related to ants?	yes	S09/data/set1/a8
 
-  Bees are flying insects closely related to wasps and ants.
+no
 
 Have managed populations of European honey bees experienced substantial declines?	yes	S09/data/set1/a8
 
@@ -497,7 +477,7 @@ What is the name of a university (or similar institution for imparting higher ed
 
 Are famous middle  schools  in Beijing :?	Yes	S09/data/set3/a7
 
-  ( or  in English; Chinese: ; pinyin: BÄijÄ«ng; ; Wade-Giles: Peiching or Pei-ching) (also formerly known in English as Peking (  or )) is a metropolis in northern China and the capital of the People's Republic of China.
+no
 
 Could Blaise Pascal move without crutches?	He could move without crutches until a paralytic attack in 1647.	S09/data/set4/a4
 
@@ -559,14 +539,6 @@ Is the purfling just for decoration?	No	S09/data/set2/a9
 
 yes
 
-Are the z-holes used as access points to the interior of the cello? 	No	S09/data/set2/a9
-
-The pegs are used to tune the cello by either tightening or loosening the string.
-
-Are the z-holes used as access points to the interior of the cello? 	No	S09/data/set2/a9
-
-The pegs are used to tune the cello by either tightening or loosening the string.
-
 What does violincello mean?	Violincello means "little violene".	S09/data/set2/a9
 
 [[u'Cello', u'PRODUCT'], [u'Italian', u'NORP']]
@@ -617,19 +589,19 @@ Where is the violincello held?	on the shoulder	S09/data/set2/a9
 
 Is there cello in performances by Rihanna?	yes	S09/data/set2/a9
 
-  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
+no
 
 Is there cello in performances by Rihanna?	Yes	S09/data/set2/a9
 
-  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
+no
 
 Are cellos constructed with glue?	yes	S09/data/set2/a9
 
-Cellos are constructed and repaired using hide glue, which is strong but reversible, allowing for disassembly when needed.
+no
 
 Are cellos constructed with glue?	yes	S09/data/set2/a9
 
-Cellos are constructed and repaired using hide glue, which is strong but reversible, allowing for disassembly when needed.
+no
 
 What is cello an abbreviation of?	violoncello	S09/data/set2/a9
 
@@ -687,27 +659,19 @@ The shape of the hand should resemble that of its relaxed state, with all finger
 
 Was Charles-Augustin de Coulomb a member of the National Institute?	Yes	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+no
 
 Was Charles-Augustin de Coulomb a member of the National Institute?	Yes	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
-
-Did Charles-Augustin de Coulomb find any relationship between electric charges and magnetic poles? 	No	S09/data/set4/a6
-
-On magnetism" (1789) Coulomb explained the laws of attraction and repulsion between electric charges and magnetic poles, although he did not find any relationship between the two phenomena.
-
-Did Charles-Augustin de Coulomb find any relationship between electric charges and magnetic poles? 	No	S09/data/set4/a6
-
-On magnetism" (1789) Coulomb explained the laws of attraction and repulsion between electric charges and magnetic poles, although he did not find any relationship between the two phenomena.
+no
 
 Was Charles-Augustin de Coulomb's father's family in Montpellier? 	Yes	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+no
 
 Was Charles-Augustin de Coulomb's father's family in Montpellier? 	Yes	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+no
 
 Where did Charles-Augustin de Coulomb die?	Charles-Augustin de Coulomb died in Paris.	S09/data/set4/a6
 
@@ -772,10 +736,6 @@ For how many years did Charles-Augustin de Coulomb live?	70	S09/data/set4/a6
 
 On magnetism" (1789) Coulomb explained the laws of attraction and repulsion between electric charges and magnetic poles, although he did not find any relationship between the two phenomena.
 
-Did Charles-Augustin de Coulomb live to be 80 years old?	no	S09/data/set4/a6
-
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
-
 How old was Charles-Augustin de Coulomb when he died?	1806	S09/data/set4/a6
 
   Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
@@ -792,23 +752,23 @@ On magnetism" (1789) Coulomb explained the laws of attraction and repulsion betw
 
 Was The SI  unit  of charge , the  coulomb , named after him?	yes	S09/data/set4/a6
 
-The SI unit of charge, the coulomb, was named after him.  
+no
 
 Was coulomb born in AngoulÃªme,  France ,  to a well  to do  family?	yes	S09/data/set4/a6
 
-Coulomb was born in AngoulÃªme, France, to a well to do family.
+no
 
 Was his father ,  Henri  Coulomb , inspector of the Royal  Fields  in Montpellier?	Yes	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+no
 
 Is coulomb distinguished in the history  of mechanics  and  of electricity and  magnetism?	yes	S09/data/set4/a6
 
-Coulomb is distinguished in the history of mechanics and of electricity and magnetism.
+no
 
 Was Charles Augustin  de Coulomb  ( born  June  14 ,  1736 ,  AngoulÃªme ,  France  -  died August 23 ,  1806 ,  Paris ,  France  ) a French  physicist?	yes	S09/data/set4/a6
 
-  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+no
 
 When was Charles-Augustin de Coulomb born?	June 14, 1736	S09/data/set4/a6
 
@@ -848,10 +808,6 @@ The Mandarin dialects in which location have experienced a dramatic decrease in 
 
 The Mandarin dialects in particular have experienced a dramatic decrease in sounds and so have far more multisyllabic words than most other spoken varieties.
 
-Was Old Chinese wholly uninflected?	no	S09/data/set5/a7
-
-  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
-
 In North Korea, has Hanja been discontinued?	NULL	S09/data/set5/a7
 
 In North Korea, Hanja has been discontinued.
@@ -862,7 +818,7 @@ The most  widespread is the Palladius  system?	NULL	S09/data/set5/a7
 
 Is the Vietnamese  term  for Chinese writing HÃ¡n t?	NULL	S09/data/set5/a7
 
-  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
+no
 
 Did the Empire have little success?	NULL	S09/data/set5/a7
 
@@ -880,7 +836,7 @@ What is the population of Chinese language?	NULL	S09/data/set5/a7
 
 Is the most widespread the Palladius system?	NULL	S09/data/set5/a7
 
-  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
+no
 
 Are most of these groups mutually unintelligible?	NULL	S09/data/set5/a7
 
@@ -892,7 +848,7 @@ BBC NEWS | UK | Magazine | How hard is it to learn Chinese?
 
 Is it true that one-fifth of world population speak some form of Chinese?	yes	S09/data/set5/a7
 
-About one-fifth of the worldâs population, or over one billion people, speak some form of Chinese as their native language.
+no
 
 One-fifth of world population speak some form of what?	Chinese	S09/data/set5/a7
 
@@ -900,15 +856,15 @@ About one-fifth of the worldâs population, or over one billion people, spea
 
 Is mandarin spoken Chinese distinguished by its high level?	no, it's distinguished by diversity	S09/data/set5/a7
 
-Spoken Chinese is distinguished by its high level of internal diversity, although all spoken varieties of Chinese are tonal and analytic.
+no
 
 Is standard Mandarin language of People Republic?	NULL	S09/data/set5/a7
 
-  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
+no
 
 Are there many systems of romanization for the chinese languages due to the Chinese`s own lack of phonetic transcription until modern times ?	NULL	S09/data/set5/a7
 
-  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
+no
 
 May the idea of Chinese as a language family suggest that the chinese identity is much more fragmentary and disunified than Chinese language actually is and as such is often looked upon as culturally and politically provocative ?	NULL	S09/data/set5/a7
 
@@ -928,7 +884,7 @@ Most Chinese and Chinese linguists refer to Chinese as a single language and its
 
 Are there between 7 and 13 main regional groups of Chinese , of which the most spoken , by far , is about 850 million , followed by 90 million , 70 million and 70 million ?	NULL	S09/data/set5/a7
 
-There are between seven and thirteen main regional groups of Chinese (depending on classification scheme), of which the most spoken, by far, is Mandarin (about 850 million), followed by Wu (90 million), Min (70 million) and Cantonese (70 million).
+no
 
 Copenhagen is the capital of what country?	Denmark	S09/data/set3/a8
 
@@ -971,10 +927,6 @@ What happened to Copenhagen between 1251 and 1255?	a bunch of things	S09/data/se
 [[u'  ', u'GPE'], [u'Copenhagen (', u'LANGUAGE'], [u'Denmark', u'GPE'], [u'1,161,063', u'CARDINAL']]
   Copenhagen ( ;  ) is the capital and largest city of Denmark, with a population of 1,161,063.  
 
-Is Copenhagen completely surrounded with water? 	No	S09/data/set3/a8
-
-Copenhagen and the surrounding areas have 3 beaches with a total of approx
-
 Copenhagen is ranked number one worldwide for which things?	Most Livable City in the World, 	S09/data/set3/a8
 
   Copenhagen ( ;  ) is the capital and largest city of Denmark, with a population of 1,161,063.  
@@ -1005,11 +957,11 @@ The origins of cymbals can be traced back to prehistoric times.
 
 Are cymbals used in moden orchestras?	Yes	S09/data/set2/a6
 
-Cymbals are used in modern orchestras and many military, marching, concert and other bands.
+no
 
 Are cymbals used in moden orchestras?	Yes	S09/data/set2/a6
 
-Cymbals are used in modern orchestras and many military, marching, concert and other bands.
+no
 
 What are the most common Cymbals?	 The most common Cymbals are the Hi-Hats, Crash, Splash, Ride, and China.	S09/data/set2/a6
 
@@ -1079,19 +1031,11 @@ The origins of cymbals can be traced back to prehistoric times.
 
 Did the modern hi-hat evolve from clash cymbals?	yes	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
+no
 
 Did the modern hi-hat evolve from clash cymbals?	Yes	S09/data/set2/a6
 
-  Cymbals are a modern percussion instrument.
-
-Is the word cymbal derived from a Germanic word?	No	S09/data/set2/a6
-
-The word cymbal is derived from the Latin cymbalum, which itself derives from the Greek word kumbalom, meaning a small bowl.  * Bell-
-
-Is the word cymbal derived from a Germanic word?	No	S09/data/set2/a6
-
-The word cymbal is derived from the Latin cymbalum, which itself derives from the Greek word kumbalom, meaning a small bowl.  * Bell-
+no
 
 What is the center of a cymbal called?	Bell	S09/data/set2/a6
 
@@ -1150,11 +1094,11 @@ Ancient cymbals or tuned cymbals are much more rarely called for.
 
 Is Dhaka located on the eastern banks of the Buriganga River?	Yes	S09/data/set3/a3
 
-Dhaka is located in central Bangladesh at , on the eastern banks of the Buriganga River.
+no
 
 Is University of Dhaka the largest public university in Dhaka?	Yes	S09/data/set3/a3
 
-  Dhaka (formerly spelled as Dacca) (Bangla: à¦¢à¦¾à¦à¦¾, ) is the capital of Bangladesh and the principal city of Dhaka District.
+no
 
 How much area does Dhaka cover?	1462.60 square kilometers	S09/data/set3/a3
 
@@ -1173,11 +1117,7 @@ Blood, Archer, , Department of State, United States After nine months of bloody 
 
 Did the Mughals arrive in Dhaka?	Yes	S09/data/set3/a3
 
-  Dhaka (formerly spelled as Dacca) (Bangla: à¦¢à¦¾à¦à¦¾, ) is the capital of Bangladesh and the principal city of Dhaka District.
-
-Is University of Dhaka older than the Dhaka College?	No	S09/data/set3/a3
-
-  Dhaka (formerly spelled as Dacca) (Bangla: à¦¢à¦¾à¦à¦¾, ) is the capital of Bangladesh and the principal city of Dhaka District.
+no
 
 What is given for the number of native speakers?	No figure is given for the number of native speakers.	S09/data/set5/a1
 
@@ -1186,23 +1126,19 @@ English today is probably the third largest language by number of native speaker
 
 Is english an intonation  language?	Yes	S09/data/set5/a1
 
-  English is a West Germanic language that originated in Anglo-Saxon England.
-
-Is english a de  jure  official  language  of Israel?	no	S09/data/set5/a1
-
-  English is a West Germanic language that originated in Anglo-Saxon England.
+no
 
 Is the stressed  syllable called the nuclear  syllable?	yes	S09/data/set5/a1
 
-The stressed syllable is called the nuclear syllable.
+no
 
 Are books, magazines, and newspapers written in English available?	yes	S09/data/set5/a1
 
-Books, magazines, and newspapers written in English are available in many countries around the world.
+no
 
 Is the syntax of German different with different rules?	yes	S09/data/set5/a1
 
-  English is a West Germanic language that originated in Anglo-Saxon England.
+no
 
 Is it true that semantics causes a number of false friends?	true	S09/data/set5/a1
 
@@ -1214,11 +1150,11 @@ Here, all syllables are unstressed, except the syllables/words best and done, wh
 
 Are many words describing the navy , types of ships , and other objects or activities on the water of dutch origin ?	yes	S09/data/set5/a1
 
-A computerised survey of about 80,000 words in the old Shorter Oxford Dictionary (3rd ed.) was published in Ordered Profusion by Thomas Finkenstaedt and Dieter Wolff (1973)  that estimated the origin of English words as follows: Influences in English vocabulary * Langue d'oÃ¯l, including French and Old Norman: 28.3% * Latin, including modern scientific and technical Latin: 28.24% * Other Germanic languages (including words directly inherited from Old English): 25% * Greek: 5.32% * No etymology given: 4.03% * Derived from proper names: 3.28% * All other languages contributed less than 1% A survey by Joseph M. Williams in Origins of the English Language of 10,000 words taken from several thousand business letters gave this set of statistics: Joseph M. Willams, Origins of the English Language at Amazon.com * French (langue d'oÃ¯l): 41% * "Native" English: 33% * Latin: 15% * Old Norse: 2% * Dutch: 1% * Other: 10%   Many words describing the navy, types of ships, and other objects or activities on the water are of Dutch origin.
+no
 
 Are local variations in the formal written version of the language quite limited , being restricted largely to the spelling differences between British and American English ?	yes	S09/data/set5/a1
 
-Local variations in the formal written version of the language are quite limited, being restricted largely to the spelling differences between British and American English.  
+no
 
 What do we refer musicians who play flute?	A flute player, a flautist or a flutist. 	S09/data/set2/a5
 
@@ -1285,11 +1221,11 @@ yes
 
 Does the diet of foxes include reptiles?	yes	S09/data/set1/a6
 
-The diet of foxes is largely made up of invertebrates, however it also includes rodents, rabbits and other small mammals, reptiles, (such as snakes), amphibians, grasses, berries, fruit, fish, birds, eggs, and all other kinds of small animals.
+no
 
 Does the diet of foxes include reptiles?	Yes	S09/data/set1/a6
 
-The diet of foxes is largely made up of invertebrates, however it also includes rodents, rabbits and other small mammals, reptiles, (such as snakes), amphibians, grasses, berries, fruit, fish, birds, eggs, and all other kinds of small animals.
+no
 
 How long do most foxes live?	Most foxes live 2 to 3 years, but they can survive for up to 10 years or even longer in captivity.	S09/data/set1/a6
 
@@ -1339,10 +1275,6 @@ What is caching food?	burying it for later consumption	S09/data/set1/a6
 [[u'one', u'CARDINAL'], [u'about 27', u'CARDINAL'], [u'only 12', u'CARDINAL'], [u'Vulpes', u'GPE']]
   A fox is an animal belonging to any one of about 27 species (of which only 12 actually belong to the Vulpes genus, or 'true foxes') of small to medium-sized canids, characterized by possessing a long, narrow snout, and a bushy tail, or brush.
 
-Do foxes damage fruit on farms?	No	S09/data/set1/a6
-
-  A fox is an animal belonging to any one of about 27 species (of which only 12 actually belong to the Vulpes genus, or 'true foxes') of small to medium-sized canids, characterized by possessing a long, narrow snout, and a bushy tail, or brush.
-
 How many years ago did African people spread across 31 francophone African countries can speak French either as a first or second language?	2 years ago	S09/data/set5/a5
 
 [[u'Nathan', u'GPE'], [u'Paris', u'GPE'], [u'2007', u'DATE'], [u'French', u'NORP'], [u'second', u'ORDINAL'], [u'Africa', u'LOC'], [u'first', u'ORDINAL'], [u'Abidjan', u'GPE'], [u"C\xc3\xb4te d'Ivoire", u'ORG'], [u'Abidjan', u'GPE'], [u'Katja Ploog', u'PERSON'], [u'CNRS Editions', u'PERSON'], [u'Paris', u'GPE'], [u'2002', u'DATE'], [u'Libreville', u'GPE'], [u'Gabon', u'GPE']]
@@ -1354,7 +1286,7 @@ In Old French, the plural for animal was animals.
 
 Is catalan the only  official  language  of Andorra?	Yes	S09/data/set5/a5
 
-  French (franÃ§ais, ) is a Romance language spoken around the world by around 90 million people as first language, by 190 million as second language, and by about another 200 million people as an acquired tongue, with significant speakers in 54 countries.
+no
 
 In Belgium, however, is quatre-vingts universally used?	Yes	S09/data/set5/a5
 
@@ -1372,7 +1304,7 @@ French is widely used by the Lebanese, especially for administrative purposes, a
 
 Are there also a variety of regional languages In addition?	Yes	S09/data/set5/a5
 
-  French (franÃ§ais, ) is a Romance language spoken around the world by around 90 million people as first language, by 190 million as second language, and by about another 200 million people as an acquired tongue, with significant speakers in 54 countries.
+no
 
 France signed the European Charter for what?	NULL	S09/data/set5/a5
 
@@ -1380,7 +1312,7 @@ France signed the European Charter for what?	NULL	S09/data/set5/a5
 
 Is french language of 20  %?	NULL	S09/data/set5/a5
 
-  French (franÃ§ais, ) is a Romance language spoken around the world by around 90 million people as first language, by 190 million as second language, and by about another 200 million people as an acquired tongue, with significant speakers in 54 countries.
+no
 
 Is French language of Wallonia?	NULL	S09/data/set5/a5
 
@@ -1388,11 +1320,11 @@ yes
 
 Are the prefixes en- and em- always nasalized ?	Yes	S09/data/set5/a5
 
-en- and em- are always nasalized.
+no
 
 Are French and German not official languages nor recognised minority languages in the flemish region , although there are a dozen municipalities with language facilities for French-speakers ?	NULL	S09/data/set5/a5
 
-French and German are not official languages nor recognised minority languages in the Flemish Region, although along borders with the Walloon and Brussels-Capital regions, there are a dozen municipalities with language facilities for French-speakers.
+no
 
 Can the palatal nasal occur in word initial position ( e.g ?	NULL	S09/data/set5/a5
 
@@ -1405,7 +1337,7 @@ In 1534 the Luther Bible by Martin Luther was printed.
 
 Is german an inflected  language?	yes	S09/data/set5/a2
 
-  German ( , ) is a West Germanic language, thus related to and classified alongside English and Dutch.
+no
 
 In Switzerland, is Ã used at all?	no	S09/data/set5/a2
 
@@ -1413,23 +1345,19 @@ In Switzerland, Ã is not used at all.
 
 Are there two common  word  orders?	yes	S09/data/set5/a2
 
-  German ( , ) is a West Germanic language, thus related to and classified alongside English and Dutch.
+no
 
 Are feminines declined in the singular?	no	S09/data/set5/a2
 
 yes
 
-Is 9 %  of the Internet  population German?	no	S09/data/set5/a2
-
-  German ( , ) is a West Germanic language, thus related to and classified alongside English and Dutch.
-
 Is german written using the Latin  alphabet?	Yes	S09/data/set5/a2
 
-  German ( , ) is a West Germanic language, thus related to and classified alongside English and Dutch.
+no
 
 Was the Luther Bible by Martin Luther printed?	Yes	S09/data/set5/a2
 
-In 1534 the Luther Bible by Martin Luther was printed.
+no
 
 Does a  tz indicate that the preceding vowel is short?	no	S09/data/set5/a2
 
@@ -1437,11 +1365,11 @@ yes
 
 Are there 622,650 speakers of German In Canada?	Yes	S09/data/set5/a2
 
-  German ( , ) is a West Germanic language, thus related to and classified alongside English and Dutch.
+no
 
 Are there also large populations of German ancestry In Mexico?	yes	S09/data/set5/a2
 
-  German ( , ) is a West Germanic language, thus related to and classified alongside English and Dutch.
+no
 
 Would BundeslÃ¤nder not accept North Rhine Westphalia and Bavaria ?	yes	S09/data/set5/a2
 
@@ -1453,11 +1381,11 @@ Except for emphasis, adverbs of time have to appear in the third place in the se
 
 Do both sexes of giraffe have horns?	Yes	S09/data/set1/a5
 
-Both sexes have horns, although the horns of a female are smaller.
+no
 
 Do both sexes of giraffe have horns?	yes	S09/data/set1/a5
 
-Both sexes have horns, although the horns of a female are smaller.
+no
 
 What areas can giraffes inhabit?	savannas, grasslands, or open woodlands	S09/data/set1/a5
 
@@ -1489,31 +1417,31 @@ How do giraffes defend themselves?	With powerful kicks	S09/data/set1/a5
 
 Do male giraffes weigh more than female giraffes?	Yes	S09/data/set1/a5
 
-Females are generally slightly shorter, and weigh less than the males do.
+no
 
 Do male giraffes weigh more than female giraffes?	yes	S09/data/set1/a5
 
-Females are generally slightly shorter, and weigh less than the males do.
+no
 
 Do male giraffes have larger horns than female giraffes?	Yes	S09/data/set1/a5
 
-Both sexes have horns, although the horns of a female are smaller.
+no
 
 Do male giraffes have larger horns than female giraffes?	Yes	S09/data/set1/a5
 
-Both sexes have horns, although the horns of a female are smaller.
+no
 
 Are male females generally taller than female giraffes?	Yes	S09/data/set1/a5
 
-  The giraffe (Giraffa camelopardalis) is an African even-toed ungulate mammal, the tallest of all land-living animal species, and the largest ruminant.
+no
 
 Is the SI unit for radioactivity named after him?	Yes	S09/data/set4/a9
 
-The SI unit for radioactivity, the becquerel (Bq), is named after him, and there is a Becquerel crater on the Moon and a Becquerel crater on Mars.      
+no
 
 Is the SI unit for radioactivity named after him?	Yes	S09/data/set4/a9
 
-The SI unit for radioactivity, the becquerel (Bq), is named after him, and there is a Becquerel crater on the Moon and a Becquerel crater on Mars.      
+no
 
 In what year did Henri Becquerel die?	1908	S09/data/set4/a9
 
@@ -1541,29 +1469,9 @@ In what year did Henri Becquerel win the Nobel Prize in Physics?	1903	S09/data/s
 
   Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
 
-Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?	No	S09/data/set4/a9
-
-In 1892, he became the third in his family to occupy the physics chair at the MusÃ©um National d'Histoire Naturelle.
-
-Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?	No	S09/data/set4/a9
-
-In 1892, he became the third in his family to occupy the physics chair at the MusÃ©um National d'Histoire Naturelle.
-
-Was Henri Becquerel the sole winner of the 1903 Nobel Prize in Physics?	No	S09/data/set4/a9
-
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
-
-Was Henri Becquerel the sole winner of the 1903 Nobel Prize in Physics?	No	S09/data/set4/a9
-
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
-
-Did Henri Becquerel intentionally discover radioactivity?	No	S09/data/set4/a9
-
-In 1896, while investigating phosphorescence in uranium salts, Becquerel accidentally discovered radioactivity.
-
 Did Henri Becquerel intentionally discover radioactivity?	He discovered it accidentally	S09/data/set4/a9
 
-In 1896, while investigating phosphorescence in uranium salts, Becquerel accidentally discovered radioactivity.
+no
 
 If Henri Becquerel was alive today, how old would he have been?	157	S09/data/set4/a9
 
@@ -1572,10 +1480,6 @@ Becquerel was born in Paris into a family which, including he and his son Jean, 
 For how many years did Henri Becquerel live?	56	S09/data/set4/a9
 
 Describing his method to the French Academy of Sciences on January 24, 1896, he said, One wraps a LumiÃ¨re photographic plate with a bromide emulsion in two sheets of very thick black paper, such that the plate does not become clouded upon being exposed to the sun for a day.
-
-Did Henri Becquerel live to be 80 years old?	no	S09/data/set4/a9
-
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
 
 What was Henri Becquerel`s profession?	physisist	S09/data/set4/a9
 
@@ -1602,7 +1506,7 @@ Becquerel was born in Paris into a family which, including he and his son Jean, 
 
 Is it true that Becquerel wrapped a fluorescent substance in photographic plates?	Yes	S09/data/set4/a9
 
-Investigating the work of Wilhelm Conrad RÃ¶ntgen, Becquerel wrapped a fluorescent substance, potassium uranyl sulfate, in photographic plates and black material in preparation for an experiment requiring bright sunlight.
+no
 
 Becquerel wrapped a fluorescent substance in what?	photographic plates and black material	S09/data/set4/a9
 
@@ -1610,7 +1514,7 @@ Becquerel wrapped a fluorescent substance in what?	photographic plates and black
 
 Is there a Becquerel crater on the Moon for radioactivity?	Yes	S09/data/set4/a9
 
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
+no
 
 Must â¦ One conclude from these experiments that the phosphorescent substance in question emits rays which pass through the opaque paper and reduces silver salts ?	Yes	S09/data/set4/a9
 
@@ -1644,13 +1548,9 @@ Did Newton reject the church's doctrine of the Trinity?	Maybe	S09/data/set4/a1
 
 yes
 
-Was Newton admitted into Havard College?	No.	S09/data/set4/a1
-
-In June 1661, he was admitted to Trinity College, Cambridge.
-
 Was Newton admitted into Havard College?	Maybe, but it doesn't say so in the article	S09/data/set4/a1
 
-In June 1661, he was admitted to Trinity College, Cambridge.
+no
 
 When was Newton's date of birth recorded?	Christmas Day, Decembeer 25, 1642.	S09/data/set4/a1
 
@@ -1737,7 +1637,7 @@ Where did Italian language die?	NULL	S09/data/set5/a9
 
 Are geminate plosives and affricates realised as lengthened closures?	NULL	S09/data/set5/a9
 
-Geminate plosives and affricates are realised as lengthened closures.
+no
 
 Where is this letter silent?	NULL	S09/data/set5/a9
 
@@ -1746,7 +1646,7 @@ In the spoken language this letter is always silent in the words given above, ev
 
 Is Italian one of official four languages?	NULL	S09/data/set5/a9
 
-  Italian ( , or lingua italiana) is a Romance language spoken by about 70 million people as a first language, and by about 50 million more as a second or studied language, making the total number of speakers up to 120 million.
+no
 
 Is it true that legge sulle fonti del diritto of 7?	NULL	S09/data/set5/a9
 
@@ -1758,7 +1658,7 @@ Each of these foreign letters has an Italian equivalent spelling: gi for j, c or
 
 Is it true that Italian retained the contrast between short consonants?	NULL	S09/data/set5/a9
 
-  Italian ( , or lingua italiana) is a Romance language spoken by about 70 million people as a first language, and by about 50 million more as a second or studied language, making the total number of speakers up to 120 million.
+no
 
 Italian retained the contrast between what?	NULL	S09/data/set5/a9
 
@@ -1766,15 +1666,15 @@ Italian retained the contrast between what?	NULL	S09/data/set5/a9
 
 Is stress distinctive in most Romance languages?	NULL	S09/data/set5/a9
 
-  Italian ( , or lingua italiana) is a Romance language spoken by about 70 million people as a first language, and by about 50 million more as a second or studied language, making the total number of speakers up to 120 million.
+no
 
 Are the speakers who use italian as a second or cultural language estimated at around 110-120 million ?	NULL	S09/data/set5/a9
 
-The speakers who use Italian as a second or cultural language are estimated at around 110-120 million.
+no
 
 Are front/back vowel rules for C and G similar in French , Romanian , Spanish , and to some extent English ?	NULL	S09/data/set5/a9
 
-  Italian ( , or lingua italiana) is a Romance language spoken by about 70 million people as a first language, and by about 50 million more as a second or studied language, making the total number of speakers up to 120 million.
+no
 
 So can Italian language hear "istÃ nbul " or "Ãstanbul" ?	NULL	S09/data/set5/a9
 
@@ -1886,7 +1786,7 @@ yes
 
 Are the several dialects of Kagoshima famous to speakers?	yes	S09/data/set5/a6
 
-  IPA: nÊ²ihoÅÉ¡o is a language spoken by over 130 million   people in Japan and in Japanese emigrant communities.
+no
 
 I.e "yamato words ") , which in scholarly contexts is sometimes referred to as ( or rarely , i.e "yamato words " -rrb- , which in scholarly contexts is sometimes referred to as -lrb- or rarely , vp ? ?	NULL	S09/data/set5/a6
 
@@ -1910,15 +1810,15 @@ Thus, polite Korean speech can sound very presumptuous when translated verbatim 
 
 Is Lima the capital of Peru?	Yes.	S09/data/set3/a4
 
-  Lima is the capital and largest city of Peru.
+no
 
 Is the Museum of Gold in Lima?	Yes.	S09/data/set3/a4
 
-  Lima is the capital and largest city of Peru.
+no
 
 Does Lima have volleyball venues?	Yes.	S09/data/set3/a4
 
->   The Estadio Monumental "U" home of Universitario de Deportes The city of Lima has varied sports venues for soccer, volleyball and basketball, many of which are located within private clubs.
+no
 
 When was Lima founded?	January 18,1535.	S09/data/set3/a4
 
@@ -1937,7 +1837,7 @@ What is a colectivo?	Automobiles that renders express service on some major road
 
 Is the National University of San Marcos in Lima?	Yes.	S09/data/set3/a4
 
-  Lima is the capital and largest city of Peru.
+no
 
 Has the San Lorenzo Megaport Project been completed?	No.	S09/data/set3/a4
 
@@ -1950,11 +1850,11 @@ In 2006, the Lima Stock Exchange was the most profitable in the world.
 
 Is lima the capital  and  largest  city  of Peru?	Yes.	S09/data/set3/a4
 
-  Lima is the capital and largest city of Peru.
+no
 
 Is The GDP  per capita in Lima $ 7,600  /  ref )?	Yes.	S09/data/set3/a4
 
-  Lima is the capital and largest city of Peru.
+no
 
 The Spanish Crown named Pizarro governor of what?	Hemming.	S09/data/set3/a4
 
@@ -1962,7 +1862,7 @@ As the Spanish Crown had named Pizarro governor of the lands he conquered, Hemmi
 
 Is it true that the ideas of the Enlightenment shaped the development of the city?	Yes.	S09/data/set3/a4
 
-In the later half of the 18th century, the ideas of the Enlightenment on public health and social control shaped the development of the city.
+no
 
 The ideas of the Enlightenment shaped the development of what?	the city, Lima	S09/data/set3/a4
 
@@ -1970,23 +1870,19 @@ In the later half of the 18th century, the ideas of the Enlightenment on public 
 
 Is London the capital of the United Kingdom?	Yes	S09/data/set3/a1
 
-  London ( ; ) is the capital of both England and the United Kingdom, and the largest urban area in the European Union. {{cite web|url= title=Largest EU City  An important settlement for two millennia, London's history goes back to its founding by the Romans.  
+no
 
 Is London the capital of the United Kingdom?	Yes	S09/data/set3/a1
 
-  London ( ; ) is the capital of both England and the United Kingdom, and the largest urban area in the European Union. {{cite web|url= title=Largest EU City  An important settlement for two millennia, London's history goes back to its founding by the Romans.  
+no
 
 Does London's population draw from a wide range of religions?	Yes	S09/data/set3/a1
 
-  London ( ; ) is the capital of both England and the United Kingdom, and the largest urban area in the European Union. {{cite web|url= title=Largest EU City  An important settlement for two millennia, London's history goes back to its founding by the Romans.  
+no
 
 Does London's population draw from a wide range of religions?	Yes	S09/data/set3/a1
 
-  London ( ; ) is the capital of both England and the United Kingdom, and the largest urban area in the European Union. {{cite web|url= title=Largest EU City  An important settlement for two millennia, London's history goes back to its founding by the Romans.  
-
-Did Caunte take control of the English throne in 101?	No	S09/data/set3/a1
-
-Canute took control of the English throne in 1017, controlling the city and country until 1042, when his death resulted in a reversion to Saxon control under his pious stepson Edward the Confessor, who re-founded Westminster Abbey and the adjacent Palace of Westminster.  
+no
 
 Over how many languages are spoken in London?	Over 300 languages are spoken in london	S09/data/set3/a1
 
@@ -2032,15 +1928,11 @@ How did civil wars affect England during the Middle Ages?	London remained relati
 
 Are the strings of a classical lyre made of gut?	Yes	S09/data/set2/a10
 
-After the bow made its way into Europe from the Middle-East, around two centuries later, it was applied to several species of those lyres that were small enough to make bowing practical.
+no
 
 Does a classical lyre have a sound-chest?	Yes	S09/data/set2/a10
 
-A classical lyre has a hollow body or sound-chest (also known as soundbox or resonator).
-
-Is lyre played in mordern Greece?	No	S09/data/set2/a10
-
-The instrument is still played in north-eastern parts of Africa.
+no
 
 Which part of the strings does the left hand touch?	The lower strings	S09/data/set2/a10
 
@@ -2052,11 +1944,11 @@ The instrument is still played in north-eastern parts of Africa.
 
 Does a classical lyre have a fingerboard?	Yes	S09/data/set2/a10
 
-A classical lyre has a hollow body or sound-chest (also known as soundbox or resonator).
+no
 
 Is a guitar played with a plectrum like a lyre?	Yes	S09/data/set2/a10
 
-The lyre of Classical Antiquity was ordinarily played by being strummed with a plectrum, like a guitar or a zither, rather than being plucked, like a harp.
+no
 
 Was Faraday considered a gentleman?	no	S09/data/set4/a7
 
@@ -2103,43 +1995,35 @@ Who was made to travel outside the coach?	Faraday	S09/data/set4/a7
 
 Did Faraday construct the ancestor of modern power generators?	yes	S09/data/set4/a7
 
-Sculptor John Henry Foley RA Faraday later used the principle to construct the electric dynamo, the ancestor of modern power generators.
+no
 
 Did Faraday construct the ancestor of modern power generators?	yes	S09/data/set4/a7
 
-Sculptor John Henry Foley RA Faraday later used the principle to construct the electric dynamo, the ancestor of modern power generators.
+no
 
 Did Faraday lecture on education in 1854?	yes	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+no
 
 Did Faraday lecture on education in 1854?	yes	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
-
-Did Faraday receive an extensive formal education?	no	S09/data/set4/a7
-
-Although Faraday received little formal education and knew little of higher mathematics, such as calculus, he was one of the most influential scientists in history.
-
-Did Faraday receive an extensive formal education?	no	S09/data/set4/a7
-
-Although Faraday received little formal education and knew little of higher mathematics, such as calculus, he was one of the most influential scientists in history.
+no
 
 Did Faraday discover the chemical substance benzene?	yes	S09/data/set4/a7
 
-Being Instructions to Students in Chemistry (1827) Faraday worked extensively in the field of chemistry, discovering chemical substances such as benzene (which he called bicarburet of hydrogen), inventing the system of oxidation numbers, and liquefying gases such as chlorine.
+no
 
 Did Faraday discover the chemical substance benzene?	yes	S09/data/set4/a7
 
-Being Instructions to Students in Chemistry (1827) Faraday worked extensively in the field of chemistry, discovering chemical substances such as benzene (which he called bicarburet of hydrogen), inventing the system of oxidation numbers, and liquefying gases such as chlorine.
+no
 
 Was Faraday born in England?	yes	S09/data/set4/a7
 
-Michael Faraday from a photograph by John Watkins, British Library Michael Faraday was born in Newington Butts, near present-day South London, England.
+no
 
 Was Faraday born in England?	yes	S09/data/set4/a7
 
-Michael Faraday from a photograph by John Watkins, British Library Michael Faraday was born in Newington Butts, near present-day South London, England.
+no
 
 What do some historians of science refer to Faraday as?	the best experimentalist in the history of science	S09/data/set4/a7
 
@@ -2173,7 +2057,7 @@ He invented an early form of what was to become the Bunsen burner, which is used
 
 Does the production of chemical weapons raise an ethical issue?	yes	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+no
 
 What was the Faraday effect first called?	diamagnetism	S09/data/set4/a7
 
@@ -2221,11 +2105,11 @@ He established that magnetism could affect rays of light and that there was an u
 
 Was education another area  of service  for Faraday?	yes	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+no
 
 Was faraday `s  earliest  chemical  work as an assistant  to Davy?	Yes	S09/data/set4/a7
 
-  Michael Faraday, FRS (September 22, 1791 â August 25, 1867) was an English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed to the fields of electromagnetism and electrochemistry.
+no
 
 Who died at his house at Hampton Court on August 25, 1867?	Faraday	S09/data/set4/a7
 
@@ -2255,10 +2139,6 @@ Institution formed the foundation of what?	modern electromagnetic technology	S09
 
 He invented an early form of what was to become the Bunsen burner, which is used almost universally in science laboratories as a convenient source of heat.  
 
-Is Nassau Sound a body of water in Maine?	no	S09/data/set3/a2
-
- __NOTOC__ Nassau may mean the following:  Nassau, Germany: a town in Rhineland-Palatinate founded in AD 915, after which all the following are named, directly or indirectly: *Nassau Castle, ancestral seat of the House of Nassau *Duchy of Nassau: an extinct German duchy *Hesse-Nassau: the Prussian province formed by annexation of that duchy *Baarle-Nassau: a town in the southern Netherlands *Nassau-Siegen: a historical territory in Germany *Nassau, Bahamas: capital city of The Bahamas, on the island of New Providence. *
-
 Who was Fort Nassau built by?	the Dutch	S09/data/set3/a2
 
 [[u'Nassau', u'GPE'], [u'Princeton', u'GPE'], [u'New Jersey', u'GPE'], [u'U.S.', u'GPE'], [u'Nassau', u'GPE'], [u'Lower Manhattan', u'GPE'], [u'New York City', u'GPE'], [u'U.S.', u'GPE'], [u'Nassau', u'GPE'], [u'Saxony', u'GPE'], [u'Germany', u'GPE'], [u'the Ore Mountains', u'LOC'], [u'the House of Orange-Nassau', u'ORG'], [u'Netherlands', u'GPE'], [u'Adolf', u'PERSON'], [u'Nassau', u'GPE'], [u'Johan Willem Friso', u'PERSON'], [u'Orange-Nassau', u'ORG'], [u'Nassau', u'GPE'], [u'Maurice', u'PERSON'], [u'Nassau', u'GPE'], [u'Sophia', u'GPE'], [u'Nassau', u'GPE'], [u'Willem', u'PERSON'], [u'Nassau', u'GPE'], [u'William Henry', u'PERSON'], [u'4th', u'ORDINAL'], [u'Earl', u'PERSON'], [u'John Maurice', u'PERSON'], [u'Nassau', u'GPE'], [u'Adolf', u'PERSON'], [u'Nassau-Weilburg', u'ORG'], [u'Adolphe', u'PERSON'], [u'Grand Duke of Luxembourg', u'ORG'], [u'Grand Duke of Luxembourg', u'ORG'], [u'Marie-Ad\xe9la\xefde', u'PERSON'], [u'Grand Duchess of Luxembourg', u'ORG'], [u'Charlotte', u'GPE'], [u'Grand Duchess of Luxembourg', u'ORG'], [u'Jean', u'PERSON'], [u'Grand Duke of Luxembourg', u'ORG'], [u'Henri', u'PERSON'], [u'Grand Duke of Luxembourg', u'ORG'], [u'Nassau', u'GPE'], [u'William Senior', u'PERSON'], [u'House of Nassau', u'ORG'], [u'Nassau', u'GPE'], [u'Nassau', u'GPE'], [u'Robert Fulton', u'PERSON'], [u'Manhattan', u'GPE'], [u'Brooklyn', u'GPE'], [u'U.S.', u'GPE'], [u'New York', u'GPE'], [u'1814', u'DATE'], [u'Nassau Hall', u'PERSON'], [u'Princeton University', u'ORG'], [u'USA', u'GPE'], [u'Second Continental Congress', u'ORG'], [u'Hesse', u'PERSON'], [u'Nassau', u'GPE'], [u'Germany', u'GPE'], [u'Fort Nassau', u'GPE'], [u'Dutch', u'NORP'], [u'the 17th century', u'DATE'], [u'Nassau', u'GPE'], [u'the United States', u'GPE'], [u'the United Kingdom', u'GPE'], [u'US', u'GPE'], [u'Polaris', u'ORG'], [u'the Holy Loch', u'WORK_OF_ART'], [u'Glasgow', u'GPE'], [u'Nassau', u'GPE'], [u'Nassau', u'GPE'], [u'two-year', u'DATE'], [u'Nassau County', u'GPE'], [u'New York', u'GPE'], [u'USA *', u'ORG'], [u'the United Kingdom', u'GPE'], [u'Nassau', u'GPE'], [u'Canada', u'GPE'], [u'Nassau Sound', u'PERSON'], [u'U.S.', u'GPE'], [u'Florida', u'GPE'], [u'Nassau', u'GPE'], [u'Uniondale', u'GPE'], [u'New York', u'GPE'], [u'USA *', u'ORG'], [u'Nassau', u'GPE'], [u'a United States', u'GPE'], [u'Navy', u'ORG'], [u'USS', u'ORG'], [u'Nassau', u'GPE'], [u'a United States', u'GPE'], [u'Nassau', u'GPE'], [u'German', u'NORP'], [u'Nassau', u'GPE'], [u'three', u'CARDINAL']]
@@ -2274,33 +2154,21 @@ What was the Dead or Alive 4 fighting arena modeled after?	a Magnetic Accelerato
 [[u'Nassau', u'GPE'], [u' ', u'GPE'], [u'Nassau', u'GPE'], [u'Germany', u'GPE'], [u'Rhineland-Palatinate', u'GPE'], [u'AD 915', u'DATE'], [u'Nassau', u'GPE'], [u'the House of', u'ORG'], [u'Nassau', u'GPE'], [u'Duchy', u'GPE'], [u'Nassau', u'GPE'], [u'German', u'NORP'], [u'Hesse-Nassau', u'PERSON'], [u'Prussian', u'NORP'], [u'Baarle-', u'GPE'], [u'Netherlands', u'GPE'], [u'Nassau', u'GPE'], [u'Germany', u'GPE'], [u'Nassau', u'GPE'], [u'Bahamas', u'GPE'], [u'Bahamas', u'GPE'], [u'New Providence', u'GPE']]
  __NOTOC__ Nassau may mean the following:  Nassau, Germany: a town in Rhineland-Palatinate founded in AD 915, after which all the following are named, directly or indirectly: *Nassau Castle, ancestral seat of the House of Nassau *Duchy of Nassau: an extinct German duchy *Hesse-Nassau: the Prussian province formed by annexation of that duchy *Baarle-Nassau: a town in the southern Netherlands *Nassau-Siegen: a historical territory in Germany *Nassau, Bahamas: capital city of The Bahamas, on the island of New Providence. *
 
-Is Nassau Range the highest mountain range in the world?	no	S09/data/set3/a2
-
- __NOTOC__ Nassau may mean the following:  Nassau, Germany: a town in Rhineland-Palatinate founded in AD 915, after which all the following are named, directly or indirectly: *Nassau Castle, ancestral seat of the House of Nassau *Duchy of Nassau: an extinct German duchy *Hesse-Nassau: the Prussian province formed by annexation of that duchy *Baarle-Nassau: a town in the southern Netherlands *Nassau-Siegen: a historical territory in Germany *Nassau, Bahamas: capital city of The Bahamas, on the island of New Providence. *
-
 Is Nassau County named after a German town?	yes	S09/data/set3/a2
 
- __NOTOC__ Nassau may mean the following:  Nassau, Germany: a town in Rhineland-Palatinate founded in AD 915, after which all the following are named, directly or indirectly: *Nassau Castle, ancestral seat of the House of Nassau *Duchy of Nassau: an extinct German duchy *Hesse-Nassau: the Prussian province formed by annexation of that duchy *Baarle-Nassau: a town in the southern Netherlands *Nassau-Siegen: a historical territory in Germany *Nassau, Bahamas: capital city of The Bahamas, on the island of New Providence. *
+no
 
 Does the United States have a base near Glasgow?	yes	S09/data/set3/a2
 
- __NOTOC__ Nassau may mean the following:  Nassau, Germany: a town in Rhineland-Palatinate founded in AD 915, after which all the following are named, directly or indirectly: *Nassau Castle, ancestral seat of the House of Nassau *Duchy of Nassau: an extinct German duchy *Hesse-Nassau: the Prussian province formed by annexation of that duchy *Baarle-Nassau: a town in the southern Netherlands *Nassau-Siegen: a historical territory in Germany *Nassau, Bahamas: capital city of The Bahamas, on the island of New Providence. *
-
-Was Tesla born in the United States?	No	S09/data/set4/a3
-
-Born in Smiljan, Croatian Krajina, Military Frontier, he was an ethnic Serb subject of the Austrian Empire and later became an American citizen.
-
-Was Tesla born in the United States?	no	S09/data/set4/a3
-
-Born in Smiljan, Croatian Krajina, Military Frontier, he was an ethnic Serb subject of the Austrian Empire and later became an American citizen.
+no
 
 Was Tesla hired by Edison?	Yes	S09/data/set4/a3
 
-" Edison hired Tesla to work for his company Edison Machine Works.
+no
 
 Was Tesla hired by Edison?	yes	S09/data/set4/a3
 
-" Edison hired Tesla to work for his company Edison Machine Works.
+no
 
 When did Tesla demonstrate wireless communication (radio)?	1893	S09/data/set4/a3
 
@@ -2349,7 +2217,7 @@ Tesla then studied electrical engineering at the Austrian Polytechnic in Graz (1
 
 Does Ottawa sit on the Ottowa River?	Yes	S09/data/set3/a5
 
-Ottawa sits at the confluence of three major rivers: the Ottawa River, the Gatineau River and the Rideau River.
+no
 
 What is Ottawa's population?	1,190,982	S09/data/set3/a5
 
@@ -2378,15 +2246,15 @@ The Odawa are an Algonquin people who called the river the Kichi Sibi or Kichiss
 
 Is Ottawa colder than Moscow in January?	Yes	S09/data/set3/a5
 
-  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
+no
 
 Is Ottawa on a river?	yes	S09/data/set3/a5
 
-  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
+no
 
 Is Ottawa on a river?	yes	S09/data/set3/a5
 
-  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
+no
 
 Who is the mayor of Ottawa?	Larry O'Brien	S09/data/set3/a5
 
@@ -2448,27 +2316,27 @@ Where were immigrants from in the 1800s?	Ireland	S09/data/set3/a5
 
 Does the giant otter live in South America?	Yes	S09/data/set1/a7
 
-The sea otter does live in the sea for most of its life.
+no
 
 Does the giant otter live in South America?	yes	S09/data/set1/a7
 
-The sea otter does live in the sea for most of its life.
+no
 
 Do otters have claws?	Yes	S09/data/set1/a7
 
-Unlike most marine mammals (such as seals or whales), sea otters do not have a layer of insulating blubber.
+no
 
 Do otters have claws?	yes	S09/data/set1/a7
 
-Unlike most marine mammals (such as seals or whales), sea otters do not have a layer of insulating blubber.
+no
 
 Do otters eat fish?	Yes	S09/data/set1/a7
 
-River otters eat a variety of fish and shellfish, as well as small land mammals and birds.
+no
 
 Do otters eat fish?	yes	S09/data/set1/a7
 
-River otters eat a variety of fish and shellfish, as well as small land mammals and birds.
+no
 
 What is an otter's den called?	A holt	S09/data/set1/a7
 
@@ -2500,51 +2368,43 @@ Prey-dependence leaves otters very vulnerable to prey depletion.
 
 Do otters enjoy playing?	Yes	S09/data/set1/a7
 
-  Otters are semi-aquatic (or in one case aquatic) fish-eating mammals.
+no
 
 Do otters enjoy playing?	yes	S09/data/set1/a7
 
-  Otters are semi-aquatic (or in one case aquatic) fish-eating mammals.
-
-Do sea otters have a layer of fat like whales?	No	S09/data/set1/a7
-
-Unlike most marine mammals (such as seals or whales), sea otters do not have a layer of insulating blubber.
-
-Do sea otters have a layer of fat like whales?	no	S09/data/set1/a7
-
-Unlike most marine mammals (such as seals or whales), sea otters do not have a layer of insulating blubber.
+no
 
 Is the otter in the same family as the badger?	Yes	S09/data/set1/a7
 
-  Otters are semi-aquatic (or in one case aquatic) fish-eating mammals.
+no
 
 Is the otter in the same family as the badger?	yes	S09/data/set1/a7
 
-  Otters are semi-aquatic (or in one case aquatic) fish-eating mammals.
+no
 
 Are there any cities named Santiago in the United States?	yes	S09/data/set3/a6
 
- Santiago is Spanish for St. James (from santo, saint + iago, James).
+no
 
 Are there any cities named Santiago in the United States?	Yes	S09/data/set3/a6
 
- Santiago is Spanish for St. James (from santo, saint + iago, James).
+no
 
 Was Santiago the name of an indie/punk band?	yes	S09/data/set3/a6
 
- Santiago is Spanish for St. James (from santo, saint + iago, James).
+no
 
 Was Santiago the name of an indie/punk band?	Yes	S09/data/set3/a6
 
- Santiago is Spanish for St. James (from santo, saint + iago, James).
+no
 
 Is Santiago a name in Spanish?	yes	S09/data/set3/a6
 
- Santiago is Spanish for St. James (from santo, saint + iago, James).
+no
 
 Is Santiago a name in Spanish?	Yes	S09/data/set3/a6
 
- Santiago is Spanish for St. James (from santo, saint + iago, James).
+no
 
 What is the origin of the name Santiago?	Spanish for St. James	S09/data/set3/a6
 
@@ -2598,11 +2458,11 @@ What fictional stories include a main character named Santiago?	Interview with t
 
 Is Santiago the national capital of a country?	Yes	S09/data/set3/a6
 
- Santiago is Spanish for St. James (from santo, saint + iago, James).
+no
 
 Is santiago Spanish for St. James  ( from santo ,  saint  +  iago ,  James  )?	Yes	S09/data/set3/a6
 
- Santiago is Spanish for St. James (from santo, saint + iago, James).
+no
 
 What is Santiago?	Santiago is Spanish for St. James. It is also the name of places in Argentina, Brazil, Cape Verde, Chile, Colombia, Costa Rica, Cuba, the Dominican Republic, Ecuador, Guatemala, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, the Philippines, Portugal, Spain, the United States, Venezuela, and the Amazon. It is also the name of a baseball catcher, a film director, a guitarist, an economist, a footballer, a DJ, an actor, and James, son of Zebedee. Fictional people with this name include a character from Gears of War, a character from Chronicle of a Death Foretold, a character in Old Man and the Sea, a character in Babylon 5, a character in Interview with the Vampire, the main character of The Alchemist, and a character on Friday Night Lights. There has also been a battle of Santiago de Cuba, a couple of bands named Santiago, an Order of Santiago, and "Santiago" as a shortened form of the Reconquista battle cry.	S09/data/set3/a6
 
@@ -2611,7 +2471,7 @@ What is Santiago?	Santiago is Spanish for St. James. It is also the name of plac
 
 Are countries without in red?	NULL	S09/data/set5/a8
 
-  Spanish ( ) or Castilian (castellano) is a Romance language that originated in northern Spain, and gradually spread in the Kingdom of Castile and evolved into the principal language of government and trade.
+no
 
 However, is English the official  language?	NULL	S09/data/set5/a8
 
@@ -2623,7 +2483,7 @@ yes
 
 Are countries where is a regionalism in green?	NULL	S09/data/set5/a8
 
-Countries where  is a regionalism are in green; countries without  are in red.  
+no
 
 The deeper  the blue  is, is the more  predominant?	NULL	S09/data/set5/a8
 
@@ -2631,7 +2491,7 @@ The deeper  the blue  is, is the more  predominant?	NULL	S09/data/set5/a8
 
 Are these marked with an asterisk  ( *  )?	NULL	S09/data/set5/a8
 
-  Spanish ( ) or Castilian (castellano) is a Romance language that originated in northern Spain, and gradually spread in the Kingdom of Castile and evolved into the principal language of government and trade.
+no
 
 Did the language lose its official status?	NULL	S09/data/set5/a8
 
@@ -2649,7 +2509,7 @@ Spanish is an official language of the European Union.
 
 Is the lexical similarity with Italian estimated at 82%?	NULL	S09/data/set5/a8
 
-At present, the lexical similarity with Italian is estimated at 82%.
+no
 
 Is spanish an official language of the European Union?	NULL	S09/data/set5/a8
 
@@ -2674,11 +2534,11 @@ yes
 
 Is spanish one of the official languages?	NULL	S09/data/set5/a8
 
-  Spanish ( ) or Castilian (castellano) is a Romance language that originated in northern Spain, and gradually spread in the Kingdom of Castile and evolved into the principal language of government and trade.
+no
 
 Is universidad de MÃ©xico Instituto Cervantes Spanish language of Spain?	NULL	S09/data/set5/a8
 
-  Spanish ( ) or Castilian (castellano) is a Romance language that originated in northern Spain, and gradually spread in the Kingdom of Castile and evolved into the principal language of government and trade.
+no
 
 Is spanish language of the European Union?	NULL	S09/data/set5/a8
 
@@ -2728,7 +2588,7 @@ Swahili has no diphthongs; in vowel combinations, each vowel is pronounced separ
 
 Is a third  prefix the object  prefix?	Yes	S09/data/set5/a4
 
-  Swahili (Kiswahili) is the first language of the Swahili people (Waswahili), who inhabit several large stretches of the Indian Ocean coastline from southern Somalia to northern Mozambique, including the Comoros Islands.
+no
 
 When is /ref>	NULL	S09/data/set5/a4
 
@@ -2755,11 +2615,11 @@ yes
 
 Was one key step in spreading Swahili to create a standard written language?	NULL	S09/data/set5/a4
 
-One key step in spreading Swahili was to create a standard written language.
+no
 
 Are there today more speakers in Kenya of the Somali coast?	NULL	S09/data/set5/a4
 
-  Swahili (Kiswahili) is the first language of the Swahili people (Waswahili), who inhabit several large stretches of the Indian Ocean coastline from southern Somalia to northern Mozambique, including the Comoros Islands.
+no
 
 The pronunciation of the phoneme / u / stands between what?	NULL	S09/data/set5/a4
 
@@ -2767,19 +2627,19 @@ The pronunciation of the phoneme /u/ stands between International Phonetic Alpha
 
 Does the Australian Black Swan have white feathers on its wings?	yes	S09/data/set1/a10
 
-The Australian Black Swan (Cygnus atratus) is completely black except for the white flight feathers on its wings; the babies of black swans are light grey in colour, and the South American Black-necked Swan has a black neck.
+no
 
 Does the Australian Black Swan have white feathers on its wings?	Yes	S09/data/set1/a10
 
-The Australian Black Swan (Cygnus atratus) is completely black except for the white flight feathers on its wings; the babies of black swans are light grey in colour, and the South American Black-necked Swan has a black neck.
+no
 
 Do swans belong to the family Anatidae?	yes	S09/data/set1/a10
 
-The fossil record of the genus Cygnus is quite impressive, although allocation to the subgenera is often tentative; as indicated above, at least the early forms probably belong to the C. olor - Southern Hemisphere lineage, whereas the Pleistocene taxa from North America would be placed in Olor.
+no
 
 Do swans belong to the family Anatidae?	Yes	S09/data/set1/a10
 
-The fossil record of the genus Cygnus is quite impressive, although allocation to the subgenera is often tentative; as indicated above, at least the early forms probably belong to the C. olor - Southern Hemisphere lineage, whereas the Pleistocene taxa from North America would be placed in Olor.
+no
 
 Can black swans swim with only one leg?	yes	S09/data/set1/a10
 
@@ -2885,11 +2745,11 @@ Perhaps the best known story about a swan is The Ugly Duckling fable.
 
 Are swans and ducks birds of the same family?	Yes.	S09/data/set1/a10
 
-  Swans are birds of the family Anatidae, which also includes geese and ducks.
+no
 
 Are swans and ducks birds of the same family?	Yes	S09/data/set1/a10
 
-  Swans are birds of the family Anatidae, which also includes geese and ducks.
+no
 
 What is the name of an adult female?	Pen.	S09/data/set1/a10
 
@@ -2910,22 +2770,6 @@ What is the color of the Australian Black Swan?	Completely black except for the 
 
 [[u'Australian', u'NORP'], [u'Black Swan', u'PERSON'], [u'Cygnus', u'ORG'], [u'South American', u'NORP'], [u'Swan', u'ORG']]
 The Australian Black Swan (Cygnus atratus) is completely black except for the white flight feathers on its wings; the babies of black swans are light grey in colour, and the South American Black-necked Swan has a black neck.
-
-Is the Tiger a member of the Felidar family?	No.	S09/data/set1/a3
-
-  The tiger (Panthera tigris) is a member of the Felidae family; the largest of the four "big cats" in the genus Panthera.  
-
-Is the Tiger a member of the Felidar family?	No	S09/data/set1/a3
-
-  The tiger (Panthera tigris) is a member of the Felidae family; the largest of the four "big cats" in the genus Panthera.  
-
-Are panthers a type of tiger?	No.	S09/data/set1/a3
-
-  The tiger (Panthera tigris) is a member of the Felidae family; the largest of the four "big cats" in the genus Panthera.  
-
-Are panthers a type of tiger?	No	S09/data/set1/a3
-
-  The tiger (Panthera tigris) is a member of the Felidae family; the largest of the four "big cats" in the genus Panthera.  
 
 What do tigers' powerfully built legs and shoulders allow tigers to do?	They have the ability to pull down prey substantially heavier than themselves.	S09/data/set1/a3
 
@@ -2977,10 +2821,6 @@ Would a tiger be likely to feedon smaller animals, such as mice?	Yes	S09/data/se
 
 The stripe pattern is found on a tiger's skin and if shaved, its distinctive camouflage pattern would be preserved.
 
-Did the predecessors to trumpets have valves?	No	S09/data/set2/a3
-
-The predecessors to trumpets did not have valves; however, modern trumpets have either three piston valves or three rotary valves, each of which increases the length of tubing when engaged, thereby lowering the pitch.
-
 Is the bass trumpet the smallest trumpet?	No	S09/data/set2/a3
 
 yes
@@ -3003,29 +2843,21 @@ How do trumpets compensate for wolf tones?	Somce trumpetes have a slide mechanis
 
   The trumpet is a musical instrument with the highest register in the brass family.  /ref
 
-Does a trumpet have a mellower tone than a cornet?	No	S09/data/set2/a3
-
-By comparison, the cornet and flugelhorn have conical bores and produce a more mellow tone.
-
-Is the name of the upper shell of a turtle called the plastron?	No.	S09/data/set1/a4
-
-The upper shell of the turtle is called the carapace.
-
 Do scutes fall away from the turtle's shell?	Some of the scutes eventually fall away from the shell.	S09/data/set1/a4
 
-Anatomy and Diseases of the Shells of Turtles and Tortoises  This method is not very accurate, partly because growth rate is not constant, but also because some of the scutes eventually fall away from the shell.  
+no
 
 Do scutes fall away from the turtle's shell?	yes, eventually	S09/data/set1/a4
 
-Anatomy and Diseases of the Shells of Turtles and Tortoises  This method is not very accurate, partly because growth rate is not constant, but also because some of the scutes eventually fall away from the shell.  
+no
 
 Do Terrestrial tortoises have short feet?	Yes.	S09/data/set1/a4
 
-Terrestrial tortoises have short, sturdy feet.
+no
 
 Do Terrestrial tortoises have short feet?	yes	S09/data/set1/a4
 
-Terrestrial tortoises have short, sturdy feet.
+no
 
 How many groups are turtles broken down into?	Two	S09/data/set1/a4
 
@@ -3063,7 +2895,7 @@ yes
 
 Are harvesting wild turtles legal anywhere?	yes	S09/data/set1/a9
 
-  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+no
 
 Approximately how many species of Testudines are alive today?	300	S09/data/set1/a9
 
@@ -3095,11 +2927,11 @@ What was the largest ever chelonian?	The great letherback sea tutrtle	S09/data/s
 
 Is there a way to approximate the age of a turtle?	yes	S09/data/set1/a9
 
-  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+no
 
 Is there a way to approximate the age of a turtle?	Yes	S09/data/set1/a9
 
-  Turtle Turtles are reptiles of the order Testudines (the crown group of the superorder Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+no
 
 Can turtles spend all their time underwater?	no	S09/data/set1/a9
 
@@ -3111,27 +2943,19 @@ Although many turtles spend large amounts of their lives underwater, all turtles
 
 Are violinists and fiddlers the same thing?	Yes	S09/data/set2/a2
 
-  The violin is a bowed string instrument with four strings usually tuned in perfect fifths.
+no
 
 Are violinists and fiddlers the same thing?	Yes	S09/data/set2/a2
 
-  The violin is a bowed string instrument with four strings usually tuned in perfect fifths.
-
-Are violins a single size?	no	S09/data/set2/a2
-
-  The violin is a bowed string instrument with four strings usually tuned in perfect fifths.
-
-Are violins a single size?	No	S09/data/set2/a2
-
-  The violin is a bowed string instrument with four strings usually tuned in perfect fifths.
+no
 
 Are violas and cellos in the same family of instruments as violins?	yes	S09/data/set2/a2
 
-  The violin is a bowed string instrument with four strings usually tuned in perfect fifths.
+no
 
 Are violas and cellos in the same family of instruments as violins?	Yes	S09/data/set2/a2
 
-  The violin is a bowed string instrument with four strings usually tuned in perfect fifths.
+no
 
 Where does the word "violin" come from?	the Middle Latin word vitula, meaning "stringed instrument"	S09/data/set2/a2
 
@@ -3191,10 +3015,6 @@ Whate is the usual pitch range of a violin?	from G3 to C8	S09/data/set2/a2
 
   The violin is a bowed string instrument with four strings usually tuned in perfect fifths.
 
-Were ancient mallets made of copper?	no	S09/data/set2/a8
-
-Ancient mallets were made of willow wood with spoon-like bowls on the beaten ends.
-
 Where did the xylophone originate?	Indonesia	S09/data/set2/a8
 
 [[u'Greek', u'NORP'], [u'\xcf\x86\xcf\x89\xce\xbd\xce\xae - phone', u'CARDINAL'], [u'Indonesia', u'GPE']]
@@ -3219,5 +3039,5 @@ Can a short bar follow a long bar?	no	S09/data/set2/a8
 
 Did vibraphones exist in 1930?	yes	S09/data/set2/a8
 
-  The xylophone (from the Greek words Î¾ÏÎ»Î¿Î½ - xylon, "wood" + ÏÏÎ½Î® - phone, "voice", meaning "wooden sound") is a musical instrument in the percussion family which probably originated in Indonesia.
+no
 

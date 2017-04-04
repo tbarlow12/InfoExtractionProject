@@ -1,18 +1,10 @@
 Did Lincoln sign the National Banking Act of 1863?	yes	S08/data/set3/a4
 
-The Collapse of the Confederacy (2001) p 80 Lincoln did not show the pledge to his cabinet, but asked them to sign the sealed envelope.
+no
 
 Did Lincoln sign the National Banking Act of 1863?	Yes.	S08/data/set3/a4
 
-The Collapse of the Confederacy (2001) p 80 Lincoln did not show the pledge to his cabinet, but asked them to sign the sealed envelope.
-
-Did his mother die of pneumonia?	no	S08/data/set3/a4
-
-Lincoln was only nine when his mother, then thirty-four years old, died of milk sickness.
-
-Did his mother die of pneumonia?	No.	S08/data/set3/a4
-
-Lincoln was only nine when his mother, then thirty-four years old, died of milk sickness.
+no
 
 How many long was Lincoln's formal education?	18 months	S08/data/set3/a4
 
@@ -66,27 +58,19 @@ In the photo, Lincoln's assassin, John Wilkes Booth, can be seen in the crowd at
 
 Did Lincoln beat John C. Breckinridge in the 1860 election?	yes	S08/data/set3/a4
 
-; On November 6, 1860, Lincoln was elected as the 16th President of the United States, beating Democrat Stephen A. Douglas, John C. Breckinridge of the Southern Democrats, and John Bell of the new Constitutional Union Party.
+no
 
 Did Lincoln beat John C. Breckinridge in the 1860 election?	Yes.	S08/data/set3/a4
 
-; On November 6, 1860, Lincoln was elected as the 16th President of the United States, beating Democrat Stephen A. Douglas, John C. Breckinridge of the Southern Democrats, and John Bell of the new Constitutional Union Party.
-
-Was Abraham Lincoln the first President of the United States?	No	S08/data/set3/a4
-
-  Abraham Lincoln (February 12, 1809 â April 15, 1865) was the sixteenth President of the United States, serving from March 4, 1861 until his assassination.
-
-Was Abraham Lincoln the first President of the United States?	No	S08/data/set3/a4
-
-  Abraham Lincoln (February 12, 1809 â April 15, 1865) was the sixteenth President of the United States, serving from March 4, 1861 until his assassination.
+no
 
 Did Lincoln start his political career in 1832?	Yes	S08/data/set3/a4
 
-  Abraham Lincoln (February 12, 1809 â April 15, 1865) was the sixteenth President of the United States, serving from March 4, 1861 until his assassination.
+no
 
 Did Lincoln start his political career in 1832?	Yes	S08/data/set3/a4
 
-  Abraham Lincoln (February 12, 1809 â April 15, 1865) was the sixteenth President of the United States, serving from March 4, 1861 until his assassination.
+no
 
 Which county was Lincoln born in?	Hardin County	S08/data/set3/a4
 
@@ -118,11 +102,11 @@ Who assassinated Lincoln?	John Wilkes Booth	S08/data/set3/a4
 
 Did Lincoln win the election of 1860?	Yes	S08/data/set3/a4
 
-" Lincoln won the Republican Party nomination in 1860 and was elected president later that year.
+no
 
 Did Lincoln win the election of 1860?	Yes	S08/data/set3/a4
 
-" Lincoln won the Republican Party nomination in 1860 and was elected president later that year.
+no
 
 Who was the general in charge at the Battle of Antietam?	General McClellan	S08/data/set3/a4
 
@@ -144,27 +128,27 @@ He introduced measures that resulted in the abolition of slavery, issuing his Em
 
 Do scholars rank lincoln among the top three presidents?	NULL	S08/data/set3/a4
 
-Scholars now rank Lincoln among the top three U.S. Presidents, with the majority of those surveyed placing him first.
+no
 
 Do scholars rank lincoln among the top three presidents?	Yes	S08/data/set3/a4
 
-Scholars now rank Lincoln among the top three U.S. Presidents, with the majority of those surveyed placing him first.
+no
 
 Did lincoln have 18 months of schooling?	NULL	S08/data/set3/a4
 
-Lincoln might have allowed the southern states to secede, and some Republicans recommended that.
+no
 
 Did lincoln have 18 months of schooling?	Yes	S08/data/set3/a4
 
-Lincoln might have allowed the southern states to secede, and some Republicans recommended that.
+no
 
 Was Lincoln chosen as a presidential candidate in 1860?	NULL	S08/data/set3/a4
 
-Entering the presidential nomination process as a distinct underdog, Lincoln was eventually chosen as the Republican candidate for the 1860 election for several reasons.
+no
 
 Was Lincoln chosen as a presidential candidate in 1860?	Yes	S08/data/set3/a4
 
-Entering the presidential nomination process as a distinct underdog, Lincoln was eventually chosen as the Republican candidate for the 1860 election for several reasons.
+no
 
 How old was Lincoln in 1816?	NULL	S08/data/set3/a4
 
@@ -206,19 +190,19 @@ Throughout the election, Lincoln did not campaign or give speeches.
 
 Did Abraham Lincoln live in the Frontier?	NULL	S08/data/set3/a4
 
-  Abraham Lincoln (February 12, 1809 â April 15, 1865) was the sixteenth President of the United States, serving from March 4, 1861 until his assassination.
+no
 
 Did Abraham Lincoln live in the Frontier?	Yes	S08/data/set3/a4
 
-  Abraham Lincoln (February 12, 1809 â April 15, 1865) was the sixteenth President of the United States, serving from March 4, 1861 until his assassination.
+no
 
 Did Lincoln's Wife's Family support slavery?	NULL	S08/data/set3/a4
 
-  Abraham Lincoln (February 12, 1809 â April 15, 1865) was the sixteenth President of the United States, serving from March 4, 1861 until his assassination.
+no
 
 Did Lincoln's Wife's Family support slavery?	Yes	S08/data/set3/a4
 
-  Abraham Lincoln (February 12, 1809 â April 15, 1865) was the sixteenth President of the United States, serving from March 4, 1861 until his assassination.
+no
 
 Volta became professor of physics in the Como high school in what year?	NULL	S08/data/set4/a10
 
@@ -286,7 +270,7 @@ NOTTTT  FOUND	NULL	S08/data/set4/a10
 
 Are Count Volta 's original instruments and papers on display there ?	NULL	S08/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+no
 
 Is Volta buried in the city of Como ?	NULL	S08/data/set4/a10
 
@@ -298,11 +282,11 @@ yes
 
 Are Count Volta 's original instruments and papers on display there ?	NULL	S08/data/set4/a10
 
-  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+no
 
 Did he not realize that the frog 's leg served as both a conductor of electricity -LRB- we would now call it an electrolyte -RRB- and as a detector of electricity ?	NULL	S08/data/set4/a10
 
-He realized that the frog's leg served as both a conductor of electricity (we would now call it an electrolyte) and as a detector of electricity.
+no
 
 Does this not make the zinc rod the negative electrode and the copper rod the positive electrode ?	NULL	S08/data/set4/a10
 
@@ -480,23 +464,23 @@ yes
 
 Is Avogadro 's number commonly used to compute the results of chemical reactions ?	yes	S08/data/set4/a8
 
-Avogadro's number is commonly used to compute the results of chemical reactions.
+no
 
 Is Avogadro 's number commonly used to compute the results of chemical reactions ?	NULL	S08/data/set4/a8
 
-Avogadro's number is commonly used to compute the results of chemical reactions.
+no
 
 Is Avogadro 's number commonly used to compute the results of chemical reactions ?	NULL	S08/data/set4/a8
 
-Avogadro's number is commonly used to compute the results of chemical reactions.
+no
 
 Is it approximately 6.0221415 10 23 ?	NULL	S08/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+no
 
 Is it approximately 6.0221415 10 23 ?	NULL	S08/data/set4/a8
 
- Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
+no
 
 Did the scientific community not reserve great attention to his theory ?	NULL	S08/data/set4/a8
 
@@ -574,17 +558,13 @@ When did he publish a collection?	1733	S08/data/set4/a5
 [[u' Anders Celsius', u'PERSON'], [u'Anders Celsius', u'GPE']]
  Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
-Is it true that he published a collection in 1738?	No	S08/data/set4/a5
-
- Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
-
 Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?	Yes	S08/data/set4/a5
 
- Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
+no
 
 Is The Celsius crater on the Moon named after him?	Yes	S08/data/set4/a5
 
-The Celsius crater on the Moon is named after him.
+no
 
 Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?	Anders Celsius	S08/data/set4/a5
 
@@ -597,7 +577,7 @@ The Celsius crater on the Moon is named after him.
 
 Is the Celsius crater on the Moon named after him ?	Yes	S08/data/set4/a5
 
-The Celsius crater on the Moon is named after him.
+no
 
 Had his thermometer 100 for the freezing point of water and 0 for the boiling point ?	Yes it had	S08/data/set4/a5
 
@@ -605,11 +585,11 @@ His thermometer had 100 for the freezing point of water and 0 for the boiling po
 
 Is the Celsius crater on the Moon named after him ?	Yes	S08/data/set4/a5
 
-The Celsius crater on the Moon is named after him.
+no
 
 Did he not determine the dependence of the boiling of water with atmospheric pressure -LRB- in excellent agreement with modern data -RRB- ?	Yes he did	S08/data/set4/a5
 
- Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
+no
 
 What happened from 1730 to 1744?	He was professor of astronomy at Uppsala University	S08/data/set4/a5
 
@@ -623,11 +603,11 @@ What happened in 1745?	The scale was reversed	S08/data/set4/a5
 
 Are beetles insects?	Yes	S08/data/set1/a8
 
-  Beetles are a group of insects which have the largest number of species.
+no
 
 Are beetles insects?	Yes	S08/data/set1/a8
 
-  Beetles are a group of insects which have the largest number of species.
+no
 
 Can beetles be found in polar regions?	No	S08/data/set1/a8
 
@@ -639,11 +619,11 @@ Beetles can be found in almost all habitats, but are not known to occur in the s
 
 Do beetles antennae function primarily as organs of smell?	Yes	S08/data/set1/a8
 
-  Beetles are a group of insects which have the largest number of species.
+no
 
 Do beetles antennae function primarily as organs of smell?	Yes	S08/data/set1/a8
 
-  Beetles are a group of insects which have the largest number of species.
+no
 
 What are the three sections of a beetle?	the head, the thorax, and the abdomen	S08/data/set1/a8
 
@@ -701,27 +681,27 @@ What are the similarities between beetles and grasshoppers?	Beetles have mouthpa
 
 Are certain species of beetles considered pests?	Yes	S08/data/set1/a8
 
-  Beetles are a group of insects which have the largest number of species.
+no
 
 Are certain species of beetles considered pests?	yes	S08/data/set1/a8
 
-  Beetles are a group of insects which have the largest number of species.
+no
 
 Is a beetle's general anatomy uniform?	Yes	S08/data/set1/a8
 
-  Beetles are a group of insects which have the largest number of species.
+no
 
 Is a beetle's general anatomy uniform?	yes	S08/data/set1/a8
 
-  Beetles are a group of insects which have the largest number of species.
+no
 
 Are beetles endopterygotes?	yes	S08/data/set1/a8
 
-  Beetles are a group of insects which have the largest number of species.
+no
 
 Are beetles endopterygotes?	yes	S08/data/set1/a8
 
-  Beetles are a group of insects which have the largest number of species.
+no
 
 How many species of beetles are there?	350,000	S08/data/set1/a8
 
@@ -753,21 +733,9 @@ What is the study of beetles called?	coleopterology	S08/data/set1/a8
 [[u'the Melbourne Museum', u'ORG'], [u'Australia', u'GPE']]
 Beetle collection at the Melbourne Museum, Australia The study of beetles is called coleopterology, and its practitioners are coleopterists.
 
-Is the Adephaga suborder larger than the Polyphaga suborder?	no	S08/data/set1/a8
-
-  Beetles are a group of insects which have the largest number of species.
-
 Is the Adephaga suborder larger than the Polyphaga suborder?	yes	S08/data/set1/a8
 
-  Beetles are a group of insects which have the largest number of species.
-
-Do carrion beetles eat dung?	no	S08/data/set1/a8
-
-This can range from dung, which is consumed by coprophagous species such as certain scarab beetles (family Scarabaeidae), to dead animals, which are eaten by necrophagous species such as the carrion beetles (family Silphidae).
-
-Do carrion beetles eat dung?	no	S08/data/set1/a8
-
-This can range from dung, which is consumed by coprophagous species such as certain scarab beetles (family Scarabaeidae), to dead animals, which are eaten by necrophagous species such as the carrion beetles (family Silphidae).
+no
 
 What are prey of various animals including birds and mammals?	Beetles.	S08/data/set1/a8
 
@@ -786,7 +754,7 @@ Antennae vary greatly in form within the Coleoptera, but are often similar withi
 
 Are beetles endopterygotes with complete metamorphosis?	Yes.	S08/data/set1/a8
 
-  Beetles are a group of insects which have the largest number of species.
+no
 
 Oxygen is what?	One kind of gas obtained via a tracheal system.	S08/data/set1/a8
 
@@ -798,7 +766,7 @@ Coleopterists have formed organisations to facilitate the study of beetles.
 
 Is the study of beetles called coleopterology , and its practitioners are coleopterists ?	Yes.	S08/data/set1/a8
 
-Beetle collection at the Melbourne Museum, Australia The study of beetles is called coleopterology, and its practitioners are coleopterists.
+no
 
 May a single female lay from several dozen to several thousand eggs during her lifetime ?	Yes.	S08/data/set1/a8
 
@@ -871,21 +839,17 @@ Who appointed Harlan Fiske Stone to the Supreme Court?	Coolidge	S08/data/set3/a9
 [[u'2:47 a.m. on August 3', u'TIME'], [u'Coolidge', u'PERSON'], [u'Justice A. A. Hoehling', u'PERSON'], [u'the Supreme Court of', u'ORG'], [u'Columbia', u'ORG'], [u'Washington', u'GPE']]
 His father, a notary public, administered the oath of office in the family's parlor by the light of a kerosene lamp at 2:47 a.m. on August 3, 1923; Coolidge was re-sworn by Justice A. A. Hoehling of the Supreme Court of the District of Columbia upon his return to Washington.
 
-Was Coolidge the thirteenth President of the United States?	No	S08/data/set3/a9
-
- John Calvin Coolidge, Jr. (July 4 1872  January 5 1933), more commonly known as Calvin Coolidge, was the thirtieth President of the United States (1923â1929).
-
 Was Coolidge the thirteenth President of the United States?	Yes	S08/data/set3/a9
 
- John Calvin Coolidge, Jr. (July 4 1872  January 5 1933), more commonly known as Calvin Coolidge, was the thirtieth President of the United States (1923â1929).
+no
 
 Was Calvin Coolidge Republican?	Yes	S08/data/set3/a9
 
- John Calvin Coolidge, Jr. (July 4 1872  January 5 1933), more commonly known as Calvin Coolidge, was the thirtieth President of the United States (1923â1929).
+no
 
 Was Calvin Coolidge Republican?	Yes	S08/data/set3/a9
 
- John Calvin Coolidge, Jr. (July 4 1872  January 5 1933), more commonly known as Calvin Coolidge, was the thirtieth President of the United States (1923â1929).
+no
 
 When was Coolidge born?	July 4 1872	S08/data/set3/a9
 
@@ -915,21 +879,13 @@ Which state were Coolidge born in?	Vermont	S08/data/set3/a9
 
 Fuess, 7 Most of Coolidge's ancestors were farmers.
 
-Is Calvin Jr. older than John Coolidge?	No	S08/data/set3/a9
+Did Coolidge get in Amherst College?	Yes	S08/data/set3/a9
 
- John Calvin Coolidge, Jr. (July 4 1872  January 5 1933), more commonly known as Calvin Coolidge, was the thirtieth President of the United States (1923â1929).
-
-Is Calvin Jr. older than John Coolidge?	No	S08/data/set3/a9
-
- John Calvin Coolidge, Jr. (July 4 1872  January 5 1933), more commonly known as Calvin Coolidge, was the thirtieth President of the United States (1923â1929).
+no
 
 Did Coolidge get in Amherst College?	Yes	S08/data/set3/a9
 
-A possibly apocryphal story has it that Dorothy Parker, seated next to him at a dinner, said to him, "Mr. Coolidge, I've made a bet against a fellow who said it was impossible to get more than two words out of you." His famous reply: "You lose."
-
-Did Coolidge get in Amherst College?	Yes	S08/data/set3/a9
-
-A possibly apocryphal story has it that Dorothy Parker, seated next to him at a dinner, said to him, "Mr. Coolidge, I've made a bet against a fellow who said it was impossible to get more than two words out of you." His famous reply: "You lose."
+no
 
 What caused Calvin Jr.'s death?	heart attack	S08/data/set3/a9
 
@@ -941,21 +897,9 @@ What caused Calvin Jr.'s death?	Heart attack	S08/data/set3/a9
 [[u'the twenty-ninth Vice President in 1920', u'DATE'], [u'Warren G. Harding', u'PERSON']]
 Soon after, he was elected as the twenty-ninth Vice President in 1920 and succeeded to the Presidency upon the death of Warren G. Harding.
 
-Was John Calvin Coolidge Jr. was born in Las Vegas?	No	S08/data/set3/a9
-
-He was the elder of two children of John Calvin Sr. and Victoria Coolidge.
-
-Was John Calvin Coolidge Jr. was born in Las Vegas?	no	S08/data/set3/a9
-
-He was the elder of two children of John Calvin Sr. and Victoria Coolidge.
-
 Was Coolidge opposed in the Republican nomination for Governor of Massachusetts in 1918?	Yes	S08/data/set3/a9
 
-Although Coolidge himself was opposed to Prohibition, he felt constrained to veto the bill.
-
-Was Coolidge opposed in the Republican nomination for Governor of Massachusetts in 1918?	no	S08/data/set3/a9
-
-Although Coolidge himself was opposed to Prohibition, he felt constrained to veto the bill.
+no
 
 What year did Coolidge open his own law office?	1898	S08/data/set3/a9
 
@@ -1098,15 +1042,15 @@ yes
 
 Did Coolidge not publish his autobiography in 1929 and write a syndicated newspaper column , `` Calvin Coolidge Says , '' from 1930 -- 1931 ?	NULL	S08/data/set3/a9
 
-Coolidge published his autobiography in 1929 and wrote a syndicated newspaper column, "Calvin Coolidge Says," from 1930â1931.
+no
 
 Were the more well-known Coolidges , such as architect Charles Allerton Coolidge , and diplomat Archibald Cary Coolidge , descended from other branches of the family that had stayed in Massachusetts ?	NULL	S08/data/set3/a9
 
-The more well-known Coolidges, such as architect Charles Allerton Coolidge, and diplomat Archibald Cary Coolidge, were descended from other branches of the family that had stayed in Massachusetts.
+no
 
 Is the genius of the average the most convincing proof of $ his strength?	NULL	S08/data/set3/a9
 
- John Calvin Coolidge, Jr. (July 4 1872  January 5 1933), more commonly known as Calvin Coolidge, was the thirtieth President of the United States (1923â1929).
+no
 
 What happened from tuberculosis?	NULL	S08/data/set3/a9
 
@@ -1120,39 +1064,31 @@ Greenberg, 1â7  John Calvin Coolidge Jr. was born in Plymouth, Windsor Coun
 
 Did France cede nearly all of its colonies in Europe in 1763?	Yes.	S08/data/set2/a8
 
-France ceded nearly all of its colonies in North America in 1763 after the Seven Years War.
+no
 
 Did France cede nearly all of its colonies in Europe in 1763?	yes	S08/data/set2/a8
 
-France ceded nearly all of its colonies in North America in 1763 after the Seven Years War.
+no
 
 Did France cede nearly all of its colonies in Europe in 1763?	NULL	S08/data/set2/a8
 
-France ceded nearly all of its colonies in North America in 1763 after the Seven Years War.
+no
 
 Is Canada a member of the OECD?	Yes.	S08/data/set2/a8
 
-  Canada ( ) is a country occupying most of northern North America, extending from the Atlantic Ocean in the east to the Pacific Ocean in the west and northward into the Arctic Ocean.
+no
 
 Is Canada a member of the OECD?	yes	S08/data/set2/a8
 
-  Canada ( ) is a country occupying most of northern North America, extending from the Atlantic Ocean in the east to the Pacific Ocean in the west and northward into the Arctic Ocean.
+no
 
 Is Canada a member of the OECD?	NULL	S08/data/set2/a8
 
-  Canada ( ) is a country occupying most of northern North America, extending from the Atlantic Ocean in the east to the Pacific Ocean in the west and northward into the Arctic Ocean.
-
-Is Canada's official language Zulu?	No.	S08/data/set2/a8
-
-  Canada ( ) is a country occupying most of northern North America, extending from the Atlantic Ocean in the east to the Pacific Ocean in the west and northward into the Arctic Ocean.
-
-Is Canada's official language Zulu?	no	S08/data/set2/a8
-
-  Canada ( ) is a country occupying most of northern North America, extending from the Atlantic Ocean in the east to the Pacific Ocean in the west and northward into the Arctic Ocean.
+no
 
 Is Canada's official language Zulu?	NULL	S08/data/set2/a8
 
-  Canada ( ) is a country occupying most of northern North America, extending from the Atlantic Ocean in the east to the Pacific Ocean in the west and northward into the Arctic Ocean.
+no
 
 What is one significant non-official language?	Chinese.	S08/data/set2/a8
 
@@ -1239,13 +1175,9 @@ Did Canadian soldiers win the Battle of Vimy Ridge in 1917?	No, it did not.	S08/
 
 yes
 
-Is an official language of Canada German?	No.	S08/data/set2/a8
-
-  Canada ( ) is a country occupying most of northern North America, extending from the Atlantic Ocean in the east to the Pacific Ocean in the west and northward into the Arctic Ocean.
-
 Is an official language of Canada German?	No, it is not.	S08/data/set2/a8
 
-  Canada ( ) is a country occupying most of northern North America, extending from the Atlantic Ocean in the east to the Pacific Ocean in the west and northward into the Arctic Ocean.
+no
 
 How many provinces and territories does Canada have?	A federation now comprising ten provinces and three territories	S08/data/set2/a8
 
@@ -1323,7 +1255,7 @@ What was Canada's most important industry until the 1800s?	The fur trade	S08/dat
 
 Is it true that it angered many residents of the thirteen colonies?	yes	S08/data/set2/a8
 
-  Canada ( ) is a country occupying most of northern North America, extending from the Atlantic Ocean in the east to the Pacific Ocean in the west and northward into the Arctic Ocean.
+no
 
 How do cuba and declining participation relate?	Canada maintains full relations with both.	S08/data/set2/a8
 
@@ -1341,23 +1273,15 @@ What arrived in Britain?	The first Canadian Army units in WW II	S08/data/set2/a8
 
 Are Canada 's two official languages English and French ?	yes	S08/data/set2/a8
 
-  Canada ( ) is a country occupying most of northern North America, extending from the Atlantic Ocean in the east to the Pacific Ocean in the west and northward into the Arctic Ocean.
+no
 
 Are Canada 's official national sports ice hockey ( winter ) and lacrosse ( summer ) ?	yes	S08/data/set2/a8
 
-  Canada ( ) is a country occupying most of northern North America, extending from the Atlantic Ocean in the east to the Pacific Ocean in the west and northward into the Arctic Ocean.
-
-Did Mainland Nova Scotia not come under British rule with the Treaty of Utrecht    (: ; ?	no!	S08/data/set2/a8
-
-Mainland Nova Scotia came under British rule with the Treaty of Utrecht (1713); the Treaty of Paris (1763) ceded Canada and most of New France to Britain following the Seven Years' War.
+no
 
 Did Cartier not use the word ` Canada ' to refer to not only that village , but the entire area subject to Donnacona , Chief at Stadacona ?	yes	S08/data/set2/a8
 
-Cartier used the word 'Canada' to refer to not only that village, but the entire area subject to Donnacona, Chief at Stadacona.
-
-Did continental European immigrants not settle the prairies ?	no	S08/data/set2/a8
-
-Under Liberal Prime Minister Wilfrid Laurier, continental European immigrants settled the prairies, and Alberta and Saskatchewan became provinces in 1905.
+no
 
 What happened in 1867?	Canada was formed as a federal, semi-autonomous polity	S08/data/set2/a8
 
@@ -1366,11 +1290,11 @@ What happened in 1867?	Canada was formed as a federal, semi-autonomous polity	S0
 
 Are ducks in the Arctic Northern Hemisphere migratory?	Some are	S08/data/set1/a10
 
- Duck is the common name for a number of species in the Anatidae family of birds.
+no
 
 Are ducks in the Arctic Northern Hemisphere migratory?	yes	S08/data/set1/a10
 
- Duck is the common name for a number of species in the Anatidae family of birds.
+no
 
 Do all ducks "quack"?	No	S08/data/set1/a10
 
@@ -1432,11 +1356,11 @@ In many areas, wild ducks of various species (including ducks farmed and release
 
 Do ducks forage underwater?	yes	S08/data/set1/a10
 
-Diving ducks and sea ducks forage deep underwater.
+no
 
 Do ducks forage underwater?	Diving ducks and sea ducks forage underwater	S08/data/set1/a10
 
-Diving ducks and sea ducks forage deep underwater.
+no
 
 Do all ducks "quack"?	no	S08/data/set1/a10
 
@@ -1448,11 +1372,11 @@ yes
 
 Is foie gras often made from ducks?	yes	S08/data/set1/a10
 
-Foie gras is often made using the liver of domestic ducks, rather than of geese.
+no
 
 Is foie gras often made from ducks?	Yes	S08/data/set1/a10
 
-Foie gras is often made using the liver of domestic ducks, rather than of geese.
+no
 
 What economic uses to ducks have?	They are farmed for their meat, eggs and feathers. They are also kept and bred by aviculturists and often displayed in zoos.	S08/data/set1/a10
 
@@ -1514,19 +1438,19 @@ How does a Mallard's tongue work?	It uses short spikes to push struggling prey a
 
 Are diving ducks heavier tha dabbling ducks?	Yes	S08/data/set1/a10
 
-To be able to submerge more easily, the diving ducks are heavier than dabbling ducks, and therefore have more difficulty taking off to fly. Dabbling ducks feed on the surface of water or on land, or as deep as they can reach by up-ending without completely submerging.
+no
 
 Are diving ducks heavier tha dabbling ducks?	Yes	S08/data/set1/a10
 
-To be able to submerge more easily, the diving ducks are heavier than dabbling ducks, and therefore have more difficulty taking off to fly. Dabbling ducks feed on the surface of water or on land, or as deep as they can reach by up-ending without completely submerging.
+no
 
 Are ducks an accepted presence in some populated areas?	Yes	S08/data/set1/a10
 
- Duck is the common name for a number of species in the Anatidae family of birds.
+no
 
 Are ducks an accepted presence in some populated areas?	Yes	S08/data/set1/a10
 
- Duck is the common name for a number of species in the Anatidae family of birds.
+no
 
 What types of unrelated water birds with similar forms are ducks sometimes confused with?	loons or divers, grebes, gallinules, and coots	S08/data/set1/a10
 
@@ -1588,27 +1512,19 @@ From this came the expression "a sitting duck", which means "an easy target".
 
 Is Egypt bordered by the Gaza Strip?	yes	S08/data/set2/a6
 
-Egypt is bordered by Libya to the west, Sudan to the south, and by the Gaza Strip and Israel to the east.
+no
 
 Is Egypt bordered by the Gaza Strip?	Yes	S08/data/set2/a6
 
-Egypt is bordered by Libya to the west, Sudan to the south, and by the Gaza Strip and Israel to the east.
-
-Is Egypt the most populated country in Africa?	no	S08/data/set2/a6
-
-  Egypt (Egyptian: Kemet; Coptic:  KÄ«mi;   ; Egyptian Arabic: ), officially the Arab Republic of Egypt, is a country in North Africa that includes the Sinai Peninsula, a land bridge to Asia.
-
-Is Egypt the most populated country in Africa?	No	S08/data/set2/a6
-
-  Egypt (Egyptian: Kemet; Coptic:  KÄ«mi;   ; Egyptian Arabic: ), officially the Arab Republic of Egypt, is a country in North Africa that includes the Sinai Peninsula, a land bridge to Asia.
+no
 
 Does Egypt have political influence in the Middle East?	yes	S08/data/set2/a6
 
-They came to have an important influence on governmental affairs.
+no
 
 Does Egypt have political influence in the Middle East?	Yes	S08/data/set2/a6
 
-They came to have an important influence on governmental affairs.
+no
 
 When was the Six Day War?	1967	S08/data/set2/a6
 
@@ -1645,14 +1561,6 @@ Why does most of Egypt's population live near the Nile?	the only arable agricult
 About half of Egypt's residents live in urban areas, with the majority spread across the densely populated centers of greater Cairo, Alexandria and other major cities in the Nile Delta.
 
 Why does most of Egypt's population live near the Nile?	The only arable agricultural land is found there	S08/data/set2/a6
-
-About half of Egypt's residents live in urban areas, with the majority spread across the densely populated centers of greater Cairo, Alexandria and other major cities in the Nile Delta.
-
-Are there a large number of Jews living in Egypt today?	no	S08/data/set2/a6
-
-About half of Egypt's residents live in urban areas, with the majority spread across the densely populated centers of greater Cairo, Alexandria and other major cities in the Nile Delta.
-
-Are there a large number of Jews living in Egypt today?	No	S08/data/set2/a6
 
 About half of Egypt's residents live in urban areas, with the majority spread across the densely populated centers of greater Cairo, Alexandria and other major cities in the Nile Delta.
 
@@ -1784,27 +1692,23 @@ Aristotle once said the elephant was "the beast which passeth all others in wit 
 
 Are elephant populations in West Africa generally small and fragmented?	yes	S08/data/set1/a5
 
-  Elephants (Elephantidae) are a family in the order Proboscidea in the class Mammalia.
+no
 
 Are elephant populations in West Africa generally small and fragmented?	Yes	S08/data/set1/a5
 
-  Elephants (Elephantidae) are a family in the order Proboscidea in the class Mammalia.
-
-Is the Asian elephant larger than the African?	no	S08/data/set1/a5
-
-  Elephants (Elephantidae) are a family in the order Proboscidea in the class Mammalia.
+no
 
 Is the Asian elephant larger than the African?	Sometimes	S08/data/set1/a5
 
-  Elephants (Elephantidae) are a family in the order Proboscidea in the class Mammalia.
+no
 
 Is an elephant's skin tough?	yes	S08/data/set1/a5
 
-  Elephants (Elephantidae) are a family in the order Proboscidea in the class Mammalia.
+no
 
 Is an elephant's skin tough?	Yes	S08/data/set1/a5
 
-  Elephants (Elephantidae) are a family in the order Proboscidea in the class Mammalia.
+no
 
 How do elephants communicate over long distances?	by producing and receiving low frequency sound	S08/data/set1/a5
 
@@ -1861,11 +1765,11 @@ The largest areas in elephant brain are those responsible for hearing, smell and
 
 Are elephants mammals?	yes	S08/data/set1/a5
 
-  Elephants (Elephantidae) are a family in the order Proboscidea in the class Mammalia.
+no
 
 Are elephants mammals?	Yes	S08/data/set1/a5
 
-  Elephants (Elephantidae) are a family in the order Proboscidea in the class Mammalia.
+no
 
 Have elephants been used as working animals?	yes	S08/data/set1/a5
 
@@ -1877,11 +1781,11 @@ Elephants have been working animals used in various capacities by humans.
 
 Do they prefer forested areas?	Yes	S08/data/set1/a5
 
-  Elephants (Elephantidae) are a family in the order Proboscidea in the class Mammalia.
+no
 
 Do they prefer forested areas?	Yes	S08/data/set1/a5
 
-  Elephants (Elephantidae) are a family in the order Proboscidea in the class Mammalia.
+no
 
 What is the world population of Asian elephants?	60000	S08/data/set1/a5
 
@@ -1915,11 +1819,11 @@ The largest elephant ever recorded was shot in Angola in 1956.
 
 Is an Asian elephant smaller than an African elephant?	yes	S08/data/set1/a5
 
-  Elephants (Elephantidae) are a family in the order Proboscidea in the class Mammalia.
+no
 
 Is an Asian elephant smaller than an African elephant?	Yes	S08/data/set1/a5
 
-  Elephants (Elephantidae) are a family in the order Proboscidea in the class Mammalia.
+no
 
 What land animal is larger than an elephant?	None	S08/data/set1/a5
 
@@ -1938,22 +1842,6 @@ Tusklessness, once a very rare genetic abnormality, has become a widespread here
 Has tusklessness become a rare abnormality?	No, tusklessness has become a widespread hereditary trait. 	S08/data/set1/a5
 
 Tusklessness, once a very rare genetic abnormality, has become a widespread hereditary trait.
-
-Were the treaties signed in 1947 and 1948 with the Ukraine?	no	S08/data/set2/a4
-
-The treaties signed in 1947 and 1948 with the Soviet Union included Finnish obligations, restraints, and reparations as well as further Finnish territorial concessions (cf. the Moscow Peace Treaty of 1940).
-
-Were the treaties signed in 1947 and 1948 with the Ukraine?	No	S08/data/set2/a4
-
-The treaties signed in 1947 and 1948 with the Soviet Union included Finnish obligations, restraints, and reparations as well as further Finnish territorial concessions (cf. the Moscow Peace Treaty of 1940).
-
-Is the most read newspaper in Finland Taloussanomat?	no	S08/data/set2/a4
-
-  Finland, officially the Republic of Finland "Republic of Finland", or "Suomen tasavalta" in Finnish and "Republiken Finland" in Swedish, is the long protocol name, which is not defined by the law.
-
-Is the most read newspaper in Finland Taloussanomat?	No	S08/data/set2/a4
-
-  Finland, officially the Republic of Finland "Republic of Finland", or "Suomen tasavalta" in Finnish and "Republiken Finland" in Swedish, is the long protocol name, which is not defined by the law.
 
 Which Russian army general conquered Finland in 1809?	Alexander I	S08/data/set2/a4
 
@@ -2007,21 +1895,13 @@ Today, are there more cell phone subscriptions than people in Finland?	Yes	S08/d
 
   Finland, officially the Republic of Finland "Republic of Finland", or "Suomen tasavalta" in Finnish and "Republiken Finland" in Swedish, is the long protocol name, which is not defined by the law.
 
-Is the capital city Oslo?	no	S08/data/set2/a4
-
-  Finland, officially the Republic of Finland "Republic of Finland", or "Suomen tasavalta" in Finnish and "Republiken Finland" in Swedish, is the long protocol name, which is not defined by the law.
-
-Is the capital city Oslo?	No	S08/data/set2/a4
-
-  Finland, officially the Republic of Finland "Republic of Finland", or "Suomen tasavalta" in Finnish and "Republiken Finland" in Swedish, is the long protocol name, which is not defined by the law.
-
 Does it have a border with Norway?	yes	S08/data/set2/a4
 
-  Finland, officially the Republic of Finland "Republic of Finland", or "Suomen tasavalta" in Finnish and "Republiken Finland" in Swedish, is the long protocol name, which is not defined by the law.
+no
 
 Does it have a border with Norway?	Yes	S08/data/set2/a4
 
-  Finland, officially the Republic of Finland "Republic of Finland", or "Suomen tasavalta" in Finnish and "Republiken Finland" in Swedish, is the long protocol name, which is not defined by the law.
+no
 
 What is the life expectancy for men?	75 years	S08/data/set2/a4
 
@@ -2116,17 +1996,13 @@ What is the most extensively celebrated holiday?	Christmas is the most extensive
 [[u'Finland', u'GPE'], [u'the Republic of Finland', u'GPE'], [u'Finnish', u'NORP'], [u'Republiken Finland', u'WORK_OF_ART'], [u'Swedish', u'LANGUAGE']]
   Finland, officially the Republic of Finland "Republic of Finland", or "Suomen tasavalta" in Finnish and "Republiken Finland" in Swedish, is the long protocol name, which is not defined by the law.
 
-Does a large proportion of the population speak Swedish as its mother tongue?	No	S08/data/set2/a4
+Do women live longer than men?	Yes	S08/data/set2/a4
 
-Most of the Finnish people (92 percent  ) speak Finnish as their mother tongue.
+no
 
 Do women live longer than men?	Yes	S08/data/set2/a4
 
-Finland was rated the best country to live in by Reader's Digest study released in October 2007, which looked at issues such as quality of drinking water and greenhouse gas emissions as well as factors such as education and income.  
-
-Do women live longer than men?	Yes	S08/data/set2/a4
-
-Finland was rated the best country to live in by Reader's Digest study released in October 2007, which looked at issues such as quality of drinking water and greenhouse gas emissions as well as factors such as education and income.  
+no
 
 What is a country with which Finland is involved in an international conflict?	None	S08/data/set2/a4
 
@@ -2213,31 +2089,31 @@ yes
 
 Are all official holidays in Finland established by acts of Parliament ?	NULL	S08/data/set2/a4
 
-All official holidays in Finland are established by acts of Parliament.
+no
 
 Are the people of Finland accustomed to technology and information services ?	NULL	S08/data/set2/a4
 
-  Finland, officially the Republic of Finland "Republic of Finland", or "Suomen tasavalta" in Finnish and "Republiken Finland" in Swedish, is the long protocol name, which is not defined by the law.
+no
 
 Was one of the most productive composers of popular music Toivo KÃ¤rki , and the most famous singer Olavi Virta -LRB- 1915 -- 1972 -RRB- ?	NULL	S08/data/set2/a4
 
-  Finland, officially the Republic of Finland "Republic of Finland", or "Suomen tasavalta" in Finnish and "Republiken Finland" in Swedish, is the long protocol name, which is not defined by the law.
+no
 
 Do 79 percent of the population not use the Internet ?	NULL	S08/data/set2/a4
 
-79 percent of the population use the Internet.
+no
 
 Did the relationship between the Grand Duchy and the Russian Empire not sour when the Russian government made moves to restrict Finnish autonomy ?	NULL	S08/data/set2/a4
 
-However, the relationship between the Grand Duchy and the Russian Empire soured when the Russian government made moves to restrict Finnish autonomy.
+no
 
 Is finland , officially the republic of finland (`` `` republic of finland ('' '' , or (`` `` suomen tasavalta ('' '' in finnish and (`` `` republiken finland ('' '' in swedish , the long protocol name , which is not defined by the law?	NULL	S08/data/set2/a4
 
-  Finland, officially the Republic of Finland "Republic of Finland", or "Suomen tasavalta" in Finnish and "Republiken Finland" in Swedish, is the long protocol name, which is not defined by the law.
+no
 
 Is the capital city helsinki?	NULL	S08/data/set2/a4
 
-  Finland, officially the Republic of Finland "Republic of Finland", or "Suomen tasavalta" in Finnish and "Republiken Finland" in Swedish, is the long protocol name, which is not defined by the law.
+no
 
 Is finland a democratic , parliamentary republic?	NULL	S08/data/set2/a4
 
@@ -2253,11 +2129,7 @@ Ford was a member of the House of Representatives for twenty-four years, holding
 
 Did ford get an award called "Congressman's congressman"?	Yes	S08/data/set3/a10
 
-  Gerald Rudolph Ford, Jr. (July 14, 1913  December 26, 2006) was the thirty-eighth President of the United States, serving from 1974 to 1977, and the fortieth Vice President of the United States serving from 1973 to 1974.
-
-Did ford get an award called "Congressman's congressman"?	No	S08/data/set3/a10
-
-  Gerald Rudolph Ford, Jr. (July 14, 1913  December 26, 2006) was the thirty-eighth President of the United States, serving from 1974 to 1977, and the fortieth Vice President of the United States serving from 1973 to 1974.
+no
 
 What positions Ford played in the school football team?	Center and linebacker	S08/data/set3/a10
 
@@ -2289,13 +2161,9 @@ Who did Ford nominate for Vice President?	Nelson Rockefeller	S08/data/set3/a10
 [[u'August 20', u'DATE'], [u'Ford', u'ORG'], [u'New York Governor Nelson', u'GPE']]
 On August 20 Ford nominated former New York Governor Nelson Rockefeller to fill the vice presidency he had vacated.
 
-Was Ford active about Vietnamese affairs?	No	S08/data/set3/a10
-
-  Gerald Rudolph Ford, Jr. (July 14, 1913  December 26, 2006) was the thirty-eighth President of the United States, serving from 1974 to 1977, and the fortieth Vice President of the United States serving from 1973 to 1974.
-
 Was Ford active about Vietnamese affairs?	Yes	S08/data/set3/a10
 
-  Gerald Rudolph Ford, Jr. (July 14, 1913  December 26, 2006) was the thirty-eighth President of the United States, serving from 1974 to 1977, and the fortieth Vice President of the United States serving from 1973 to 1974.
+no
 
 Had Ford's wife married before?	Yes	S08/data/set3/a10
 
@@ -2307,15 +2175,15 @@ The Fords on their wedding day, October 15, 1948 On October 15, 1948, at Grace E
 
 Is Ford related with the assassination of John F. Kennedy?	Yes	S08/data/set3/a10
 
-However, "Al Haig asked to come over and see me," Ford later related, "to tell me that there would be a new tape released on a Monday, and he said the evidence in there was devastating and there would probably be either an impeachment or a resignation.
+no
 
 Did Gerald Ford serve as the Republican Minority Leader of the House of Representatives?	yes	S08/data/set3/a10
 
-Prior to 1973, Ford served for over eight years as the Republican Minority Leader of the United States House of Representatives; he was originally elected to Congress in 1948 from Michigan's 5th congressional district.
+no
 
 Did Gerald Ford serve as the Republican Minority Leader of the House of Representatives?	yes	S08/data/set3/a10
 
-Prior to 1973, Ford served for over eight years as the Republican Minority Leader of the United States House of Representatives; he was originally elected to Congress in 1948 from Michigan's 5th congressional district.
+no
 
 What district was Ford elected from?	Michigan's 5th congressional district	S08/data/set3/a10
 
@@ -2355,11 +2223,11 @@ He is the only US president who was an Eagle Scout.
 
 Did Ford need to do extra work to pay for college?	yes	S08/data/set3/a10
 
-Ford did not intervene in Vietamese affairs, but did help extract friends of the U.S.
+no
 
 Did Ford need to do extra work to pay for college?	yes	S08/data/set3/a10
 
-Ford did not intervene in Vietamese affairs, but did help extract friends of the U.S.
+no
 
 Have more than five Presidents lived past the age of 90?	no	S08/data/set3/a10
 
@@ -2377,10 +2245,6 @@ What did Ford receive on April 13, 1942?	Ford received a commission as ensign in
 
 [[u'Ford', u'ORG'], [u'the U.S. Naval Reserve', u'ORG'], [u'April 13, 1942', u'DATE']]
 Ford received a commission as ensign in the U.S. Naval Reserve on April 13, 1942.
-
-Did Grand Rapids supporters not urge him to take on Bartel J. Jonkman , the incumbent Republican congressman ?	No.	S08/data/set3/a10
-
-Grand Rapids supporters urged him to take on Bartel J. Jonkman, the incumbent Republican congressman.
 
 Did they not claim Ford 's pardon was quid pro quo in exchange for Nixon 's resignation ?	They did claim Ford's pardon was quid pro quo.	S08/data/set3/a10
 
@@ -2454,21 +2318,13 @@ What is the weather like at Lake Volta?	warm and comparatively dry	S08/data/set2
 [[u'  The Republic of Ghana', u'GPE'], [u'West Africa', u'GPE']]
   The Republic of Ghana is a country in West Africa.
 
-Is Ghana in Asia?	no	S08/data/set2/a5
-
-  The Republic of Ghana is a country in West Africa.
-
-Is Ghana in Asia?	No	S08/data/set2/a5
-
-  The Republic of Ghana is a country in West Africa.
-
 Is Ghana's head of state John Agyekum Kufuor?	yes	S08/data/set2/a5
 
-  The Republic of Ghana is a country in West Africa.
+no
 
 Is Ghana's head of state John Agyekum Kufuor?	Yes	S08/data/set2/a5
 
-  The Republic of Ghana is a country in West Africa.
+no
 
 What does the word Ghana mean?	warrior king	S08/data/set2/a5
 
@@ -2537,7 +2393,7 @@ Anecdotal evidence connected the Akans to this Empire.
 
 Is it true that anecdotal evidence connected the akans to this empire?	NULL	S08/data/set2/a5
 
-Anecdotal evidence connected the Akans to this Empire.
+no
 
 Is it true that the portuguese came to ghana in the 15th century?	NULL	S08/data/set2/a5
 
@@ -2554,11 +2410,11 @@ In 1637 they captured the castle from the Portuguese and that of Axim in 1642 (F
 
 Is The Parliament of Ghana unicameral?	NULL	S08/data/set2/a5
 
-  The Republic of Ghana is a country in West Africa.
+no
 
 Is Medieval Ghana (4th- 13th Century): The Republic of Ghana is named after the medieval Ghana Empire of West Africa. named after the medieval Ghana Empire of West Africa?	NULL	S08/data/set2/a5
 
-Medieval Ghana (4th - 13th Century):The Republic of Ghana is named after the medieval Ghana Empire of West Africa.
+no
 
 What was on March?	NULL	S08/data/set2/a5
 
@@ -2596,7 +2452,7 @@ yes
 
 Are more than 100 languages and dialects spoken in Ghana ?	NULL	S08/data/set2/a5
 
-European and other: 0.2% Religions: Christian 63%, African beliefs 21%, Muslim 16%, Facts on People of Ghana, accessed July 13, 2006   More than 100 languages and dialects are spoken in Ghana.
+no
 
 Had the tax regime which started in 1998 a single rate but since September 2007 entered into a multiple rate regime ?	NULL	S08/data/set2/a5
 
@@ -2604,15 +2460,15 @@ The tax regime which started in 1998 had a single rate but since September 2007 
 
 Did European and other : 0.2 % Religions : Christian 63 % , African beliefs 21 % , Muslim 16 % , Facts on People of Ghana , not access July 13 , 2006 More than 100 languages and dialects are spoken in Ghana ?	NULL	S08/data/set2/a5
 
-European and other: 0.2% Religions: Christian 63%, African beliefs 21%, Muslim 16%, Facts on People of Ghana, accessed July 13, 2006   More than 100 languages and dialects are spoken in Ghana.
+no
 
 Does this not allow retailers of taxable goods under Act 546 to charge a marginal 3 % on their sales and account on same to the VAT Service ?	NULL	S08/data/set2/a5
 
-This allows retailers of taxable goods under Act 546 to charge a marginal 3% on their sales and account on same to the VAT Service.
+no
 
 Is the republic of ghana a country in west africa?	NULL	S08/data/set2/a5
 
-  The Republic of Ghana is a country in West Africa.
+no
 
 What happened with the portuguese in the 15th century?	NULL	S08/data/set2/a5
 
@@ -2625,27 +2481,27 @@ yes
 
 Does the Gray Wolf share an ancestry with the domestic dog?	Yes	S08/data/set1/a6
 
-As evidenced by studies of DNA sequencing and genetic drift the gray wolf shares a common ancestry with the domestic dog (Canis lupus familiaris).
+no
 
 Does the Gray Wolf share an ancestry with the domestic dog?	Yes.	S08/data/set1/a6
 
-As evidenced by studies of DNA sequencing and genetic drift the gray wolf shares a common ancestry with the domestic dog (Canis lupus familiaris).
+no
 
 Do wolf pups tend to have darker fur than adults?	Yes	S08/data/set1/a6
 
-At birth, wolf pups tend to have darker fur and blue irises that will change to a yellow-gold or orange color when the pups are between 8 and 16 weeks old.  
+no
 
 Do wolf pups tend to have darker fur than adults?	Yes, They do tend to have darker furs	S08/data/set1/a6
 
-At birth, wolf pups tend to have darker fur and blue irises that will change to a yellow-gold or orange color when the pups are between 8 and 16 weeks old.  
+no
 
 Do wolves leave their pack?	Yes	S08/data/set1/a6
 
-Wolves typically reach sexual maturity after two or three years, at which point many of them will be compelled to leave their birth packs and seek out mates and territories of their own.   
+no
 
 Do wolves leave their pack?	They leave their birth pack when they reach sexual maturity	S08/data/set1/a6
 
-Wolves typically reach sexual maturity after two or three years, at which point many of them will be compelled to leave their birth packs and seek out mates and territories of their own.   
+no
 
 What kinds of coats do wolves have?	bulky coats with two layers	S08/data/set1/a6
 
@@ -2697,19 +2553,19 @@ What is surplus killing?	the killing of several prey animals too numerous to eat
 
 Are Gray Wolves native to North America?	Yes	S08/data/set1/a6
 
- The gray wolf (Canis lupus), also known as the timber wolf or, simply, wolf, is a mammal of the order Carnivora.
+no
 
 Are Gray Wolves native to North America?	No. Current theory suggests that it's from Eurasia	S08/data/set1/a6
 
- The gray wolf (Canis lupus), also known as the timber wolf or, simply, wolf, is a mammal of the order Carnivora.
+no
 
 Are a wolf's teeth its main weapons?	Yes	S08/data/set1/a6
 
- The gray wolf (Canis lupus), also known as the timber wolf or, simply, wolf, is a mammal of the order Carnivora.
+no
 
 Are a wolf's teeth its main weapons?	Yes	S08/data/set1/a6
 
- The gray wolf (Canis lupus), also known as the timber wolf or, simply, wolf, is a mammal of the order Carnivora.
+no
 
 Where is the largest gray wolf population thought to be found?	Kazakhstan	S08/data/set1/a6
 
@@ -2765,21 +2621,13 @@ Forward, erect ears and slightly bristle hackles are a sign of what in wolves?	D
 
 The ears are erect and forward, and the hackles bristle slightly.
 
-Was Grover Cleveland born in New York?	no	S08/data/set3/a6
+Did Grover Cleveland win the 1884 election?	yes	S08/data/set3/a6
 
-Cleveland was born in Caldwell, New Jersey to the Reverend Richard Cleveland and Anne Neal.
-
-Was Grover Cleveland born in New York?	no	S08/data/set3/a6
-
-Cleveland was born in Caldwell, New Jersey to the Reverend Richard Cleveland and Anne Neal.
+no
 
 Did Grover Cleveland win the 1884 election?	yes	S08/data/set3/a6
 
-Cleveland won the Presidency in the 1884 election with the unusual combination of support from both Democrats and reform-minded Republicans called "Mugwumps" who denounced his opponent, former Senator James G. Blaine of Maine, as corrupt.
-
-Did Grover Cleveland win the 1884 election?	yes	S08/data/set3/a6
-
-Cleveland won the Presidency in the 1884 election with the unusual combination of support from both Democrats and reform-minded Republicans called "Mugwumps" who denounced his opponent, former Senator James G. Blaine of Maine, as corrupt.
+no
 
 Did Grover Cleveland support women's suffrage?	No	S08/data/set3/a6
 
@@ -2847,21 +2695,13 @@ Why did Cleveland want to hide his cancer surgery from the public?	because of th
 
  Stephen Grover Cleveland (March 18 1837  June 24 1908), the twenty-second and twenty-fourth President of the United States, was the only President to serve non-consecutive terms (1885 1889 and 1893 1897).
 
-Was Grover Cleveland the twenty-seventh president of the United States?	No.	S08/data/set3/a6
+Was Grover Cleveland married in the whitehouse?	Yes.	S08/data/set3/a6
 
- Stephen Grover Cleveland (March 18 1837  June 24 1908), the twenty-second and twenty-fourth President of the United States, was the only President to serve non-consecutive terms (1885 1889 and 1893 1897).
-
-Was Grover Cleveland the twenty-seventh president of the United States?	No.	S08/data/set3/a6
-
- Stephen Grover Cleveland (March 18 1837  June 24 1908), the twenty-second and twenty-fourth President of the United States, was the only President to serve non-consecutive terms (1885 1889 and 1893 1897).
+no
 
 Was Grover Cleveland married in the whitehouse?	Yes.	S08/data/set3/a6
 
-Grover Cleveland was the second President married in office, and the only President married in the White House itself On June 2, 1886, Cleveland married Frances Cornelia Folsom, the daughter of his former law partner, in the Blue Room in the White House.
-
-Was Grover Cleveland married in the whitehouse?	Yes.	S08/data/set3/a6
-
-Grover Cleveland was the second President married in office, and the only President married in the White House itself On June 2, 1886, Cleveland married Frances Cornelia Folsom, the daughter of his former law partner, in the Blue Room in the White House.
+no
 
 When was he elected sheriff of Erire County, New York?	Yes.	S08/data/set3/a6
 
@@ -2914,15 +2754,15 @@ He lost control of his party to the agrarians and silverites in 1896.
 
 Was Cleveland 's portrait on the U.S. $ 1000 bill from 1928 to 1946 ?	yes	S08/data/set3/a6
 
- Stephen Grover Cleveland (March 18 1837  June 24 1908), the twenty-second and twenty-fourth President of the United States, was the only President to serve non-consecutive terms (1885 1889 and 1893 1897).
+no
 
 Did the Department of the Interior not charge that the rights of way for this land must be returned to the public because the railroads failed to extend their lines according to agreements ?	yes	S08/data/set3/a6
 
-The Department of the Interior charged that the rights of way for this land must be returned to the public because the railroads failed to extend their lines according to agreements.
+no
 
 Did the team , sedating Cleveland with nitrous oxide -LRB- laughing gas -RRB- , not remove his upper left jaw and portions of his hard palate ?	yes	S08/data/set3/a6
 
-The team, sedating Cleveland with nitrous oxide (laughing gas), removed his upper left jaw and portions of his hard palate.
+no
 
 He became chief engineer in the Department of Bridges and Highways in what year?	in 1894	S08/data/set4/a9
 
@@ -2935,7 +2775,7 @@ This discovery led Becquerel to investigate the spontaneous emission of nuclear 
 
 Is it true that he married louise dÃ©sirÃ©e lorieux in 1890?	yes	S08/data/set4/a9
 
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
+no
 
 When did he marry louise dÃ©sirÃ©e lorieux?	1890	S08/data/set4/a9
 
@@ -2953,7 +2793,7 @@ yes
 
 Did one places between the phosphorescent substance and the paper a piece of money or a metal screen not pierce with a cut-out design ?	yes	S08/data/set4/a9
 
-If one places between the phosphorescent substance and the paper a piece of money or a metal screen pierced with a cut-out design, one sees the image of these objects appear on the negative.
+no
 
 What happened in 1896?	 Becquerel accidentally discovered radioactivity.	S08/data/set4/a9
 
@@ -2967,23 +2807,15 @@ Describing his method to the French Academy of Sciences on January 24, 1896, he 
 
 Is there a becquerel crater on the moon and a becquerel crater on mars?	yes	S08/data/set4/a9
 
-  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
+no
 
 Are the Javanese the largest and politically dominant ethnic group in Indonesia?	yes	S08/data/set2/a10
 
- The Republic of Indonesia ( ) ( ), is a nation in Southeast Asia. Comprising 17,508 islands, it is the world's largest archipelagic state.
+no
 
 Are the Javanese the largest and politically dominant ethnic group in Indonesia?	Yes	S08/data/set2/a10
 
- The Republic of Indonesia ( ) ( ), is a nation in Southeast Asia. Comprising 17,508 islands, it is the world's largest archipelagic state.
-
-Is Indonesia a monarchy with a presidential system?	no	S08/data/set2/a10
-
- The Republic of Indonesia ( ) ( ), is a nation in Southeast Asia. Comprising 17,508 islands, it is the world's largest archipelagic state.
-
-Is Indonesia a monarchy with a presidential system?	No	S08/data/set2/a10
-
- The Republic of Indonesia ( ) ( ), is a nation in Southeast Asia. Comprising 17,508 islands, it is the world's largest archipelagic state.
+no
 
 In what year did East Timor secede from Indonesia?	1999	S08/data/set2/a10
 
@@ -3002,22 +2834,6 @@ When did Islam become the dominant religion in Java and Sumatra?	by the end of t
 
 [[u'Ricklefs', u'PERSON'], [u'1991', u'DATE'], [u'3', u'CARDINAL'], [u'14', u'CARDINAL'], [u'Indonesia', u'GPE'], [u'Islam', u'ORG'], [u'Java', u'GPE'], [u'Sumatra', u'GPE'], [u'the end of the 16th century', u'DATE']]
 Ricklefs (1991), pages 3 to 14 Other Indonesia areas gradually adopted Islam which became the dominant religion in Java and Sumatra by the end of the 16th century.
-
-Does Indonesia have the world's hightest level of biodiversity?	no	S08/data/set2/a10
-
-Indonesia has the world's largest Muslim population.
-
-Does Indonesia have the world's hightest level of biodiversity?	No	S08/data/set2/a10
-
-Indonesia has the world's largest Muslim population.
-
-Was Indonesia named after it became an independent country?	no	S08/data/set2/a10
-
- The Republic of Indonesia ( ) ( ), is a nation in Southeast Asia. Comprising 17,508 islands, it is the world's largest archipelagic state.
-
-Was Indonesia named after it became an independent country?	No	S08/data/set2/a10
-
- The Republic of Indonesia ( ) ( ), is a nation in Southeast Asia. Comprising 17,508 islands, it is the world's largest archipelagic state.
 
 Why did Indonesia break off relations with the People's Republic of China?	because of anti-communist purges early in the Suharto era	S08/data/set2/a10
 
@@ -3057,11 +2873,11 @@ The Indonesian archipelago has been an important trade region since at least the
 
 Are Sports in Indonesia generally male-orientated?	yes	S08/data/set2/a10
 
- The Republic of Indonesia ( ) ( ), is a nation in Southeast Asia. Comprising 17,508 islands, it is the world's largest archipelagic state.
+no
 
 Are sports in Indonesia generally male-orientated and spectator sports are often associated with illegal gambling ?	yes	S08/data/set2/a10
 
-Sports in Indonesia are generally male-orientated and spectator sports are often associated with illegal gambling.
+no
 
 Has Indonesia the world 's largest Muslim population ?	yes	S08/data/set2/a10
 
@@ -3106,7 +2922,7 @@ He also placed the crucifixion of Jesus Christ at 3 April, AD 33, which agrees w
 
 Was Newton outraged?	NULL	S08/data/set4/a1
 
-  Sir Isaac Newton FRS ( ) (4 January 1643 â March 31 1727)   OS: December 25 1642 â March 20 1727   was an English physicist, mathematician, astronomer, natural philosopher, and alchemist.
+no
 
 Was Newton born three months after the death of his father?	NULL	S08/data/set4/a1
 
@@ -3149,7 +2965,7 @@ yes
 
 Was Newton outraged , and went about the work to uncover anything about Chaloner ?	NULL	S08/data/set4/a1
 
-Newton was outraged, and went about the work to uncover anything about Chaloner.
+no
 
 Was this study cast into doubt when it was later found that Newton himself wrote the study 's concluding remarks on Leibniz ?	NULL	S08/data/set4/a1
 
@@ -3157,11 +2973,11 @@ yes
 
 Did Newton not entertain `` a passion '' for Storer while he lodged at the Clarke house ?	NULL	S08/data/set4/a1
 
-However, Bell and Eves' sources for this claim, William Stukeley and Mrs. Vincent (the former Miss Storer  actually named Katherine, not Anne), merely say that Newton entertained "a passion" for Storer while he lodged at the Clarke house.
+no
 
 Does # Newton not  Third Law states that for every action there is an equal and opposite reaction ?	NULL	S08/data/set4/a1
 
-# Newton's Third Law states that for every action there is an equal and opposite reaction.  
+no
 
 What happened at the time of newton 's birth?	NULL	S08/data/set4/a1
 
@@ -3180,11 +2996,11 @@ What happened on those of aristotle?	NULL	S08/data/set4/a1
 
 Is James Monrow the fifth president of US?	Yes	S08/data/set3/a2
 
-  James Monroe (April 28, 1758 â July 4, 1831) was the fifth President of the United States (1817-1825).
+no
 
 Is James Monrow the fifth president of US?	Yes.	S08/data/set3/a2
 
-  James Monroe (April 28, 1758 â July 4, 1831) was the fifth President of the United States (1817-1825).
+no
 
 What is the first word on the page?	James	S08/data/set3/a2
 
@@ -3248,11 +3064,11 @@ What does "Era of Good Feelings" refers to?	Monroe allowed his political base to
 
 Did Monroe' wedding happen at the Trinity Church in New York?	Yes	S08/data/set3/a2
 
-  James Monroe (April 28, 1758 â July 4, 1831) was the fifth President of the United States (1817-1825).
+no
 
 Did Monroe' wedding happen at the Trinity Church in New York?	Yes	S08/data/set3/a2
 
-  James Monroe (April 28, 1758 â July 4, 1831) was the fifth President of the United States (1817-1825).
+no
 
 What is Monroe Doctrine?	A doctrine declaring U.S. opposition to European interference in the Americas.	S08/data/set3/a2
 
@@ -3266,11 +3082,11 @@ What is Monroe Doctrine?	In it, Monroe proclaimed the Americas should be free fr
 
 Did James Monroe attend the College of William and Mary?	yes	S08/data/set3/a2
 
-Monroe was raised in a family that belonged to the Church of England when it was the state church in Virginia, and as an adult frequently attended Episcopalian churches, though there is no record he ever took communion.
+no
 
 Did James Monroe attend the College of William and Mary?	Yes	S08/data/set3/a2
 
-Monroe was raised in a family that belonged to the Church of England when it was the state church in Virginia, and as an adult frequently attended Episcopalian churches, though there is no record he ever took communion.
+no
 
 Where was James Monroe born?	Westmoreland County, Virginia	S08/data/set3/a2
 
@@ -3521,35 +3337,19 @@ What was Adams' political party?	Federalist	S08/data/set3/a1
 
 Was Adams the first to introduce a bicameral legislature?	Yes.	S08/data/set3/a1
 
-On June 7, 1776, Adams seconded the resolution introduced by Richard Henry Lee that "these colonies are, and of a right ought to be, free and independent states," acting as champion of these resolutions before the Congress until their adoption on July 2, 1776. Ferling (1992) ch 8.
+no
 
 Was Adams the first to introduce a bicameral legislature?	yes	S08/data/set3/a1
 
-On June 7, 1776, Adams seconded the resolution introduced by Richard Henry Lee that "these colonies are, and of a right ought to be, free and independent states," acting as champion of these resolutions before the Congress until their adoption on July 2, 1776. Ferling (1992) ch 8.
-
-Did John Adams get along with Alexander Hamilton?	No.	S08/data/set3/a1
-
-When the two political parties formed, he joined the Federalist Party, but never got on well with its dominant leader Alexander Hamilton.
-
-Did John Adams get along with Alexander Hamilton?	no	S08/data/set3/a1
-
-When the two political parties formed, he joined the Federalist Party, but never got on well with its dominant leader Alexander Hamilton.
-
-Did John Adams support the Stamp Act of 1765?	No	S08/data/set3/a1
-
-Although Hamilton and his followers supported Adams, they also held a grudge against him.
-
-Did John Adams support the Stamp Act of 1765?	No	S08/data/set3/a1
-
-Although Hamilton and his followers supported Adams, they also held a grudge against him.
+no
 
 Is Adams' birthplace part of a national park?	yes	S08/data/set3/a1
 
-  John Adams, Jr. (October 30,1735  July 4, 1826) was the second President of the United States (1797 1801).
+no
 
 Is Adams' birthplace part of a national park?	Yes	S08/data/set3/a1
 
-  John Adams, Jr. (October 30,1735  July 4, 1826) was the second President of the United States (1797 1801).
+no
 
 When did John Adams serve as Vice President?	1789-1797	S08/data/set3/a1
 
@@ -3620,7 +3420,7 @@ His birthplace is now part of Adams National Historical Park.
 
 Is it true that massachusetts sent him in 1774?	yes	S08/data/set3/a1
 
-In 1774 Massachusetts sent him to the Continental Congress.
+no
 
 Who did Massachusetts send in 1774?	John Adams	S08/data/set3/a1
 
@@ -3629,7 +3429,7 @@ In 1774 Massachusetts sent him to the Continental Congress.
 
 Are his last words often quoted as " Thomas Jefferson survives " . ?	yes	S08/data/set3/a1
 
-His last words are often quoted as "Thomas Jefferson survives."
+no
 
 The John Adams Library , housed at the Boston Public Library , contains what?	Adams's personal collection of more than 3,500 volumes	S08/data/set3/a1
 
@@ -3638,10 +3438,6 @@ The John Adams Library , housed at the Boston Public Library , contains what?	Ad
 Adams ' opponents were what?	Democratic Republicans	S08/data/set3/a1
 
 The rift between Adams and the High Federalists (as Adams's opponents were called) grew wider.
-
-Did the election of 1800 not become a bitter and volatile battle , with each side expressing extraordinary fear of the other party and its policies ?	No.	S08/data/set3/a1
-
-The election of 1800 became a bitter and volatile battle, with each side expressing extraordinary fear of the other party and its policies.
 
 What happened in 1764?	Adams married Abigail Smith	S08/data/set3/a1
 
@@ -3658,11 +3454,11 @@ yes
 
 Was James Cook the first to record the name "Kangooroo?"	yes	S08/data/set1/a1
 
-The name was first recorded as "Kangooroo or Kanguru" on 4 August,1770, by Lieutenant (later Captain) James Cook on the banks of the Endeavour River at the site of modern Cooktown, when HM Bark Endeavour was beached for almost seven weeks to repair damage sustained on the Great Barrier Reef.
+no
 
 Was James Cook the first to record the name "Kangooroo?"	Yes	S08/data/set1/a1
 
-The name was first recorded as "Kangooroo or Kanguru" on 4 August,1770, by Lieutenant (later Captain) James Cook on the banks of the Endeavour River at the site of modern Cooktown, when HM Bark Endeavour was beached for almost seven weeks to repair damage sustained on the Great Barrier Reef.
+no
 
 What is a collective noun for kangaroos?	mob, troop, or court	S08/data/set1/a1
 
@@ -3720,14 +3516,6 @@ Have kangaroos fared well since European settlement?	Yes	S08/data/set1/a1
 
 Unlike many of the smaller macropods, kangaroos have fared well since European settlement.
 
-Do kangaroos have many natural predators?	no	S08/data/set1/a1
-
-Kangaroos have few natural predators.
-
-Do kangaroos have many natural predators?	No	S08/data/set1/a1
-
-Kangaroos have few natural predators.
-
 What is the average life expectancy of a kangaroo?	4.6 years	S08/data/set1/a1
 
 [[u'Macropodidae', u'PERSON']]
@@ -3760,11 +3548,11 @@ What are vehicles that frequent isolated roads often fitted with?	"roo bars"	S08
 
 Do kangaroos eat plants?	yes	S08/data/set1/a1
 
-Different species of kangaroos eat different diets.
+no
 
 Do kangaroos eat plants?	Yes	S08/data/set1/a1
 
-Different species of kangaroos eat different diets.
+no
 
 What are some extinct predators of the kangaroo?	Thylacine, Marsupial Lion, Maagalania, and Wonambi	S08/data/set1/a1
 
@@ -3782,19 +3570,19 @@ yes
 
 Is the kangaroo an herbivour?	NULL	S08/data/set1/a1
 
- A kangaroo is a marsupial from the family Macropodidae (macropods, meaning 'large foot').
+no
 
 Is the kangaroo an herbivour?	Yes	S08/data/set1/a1
 
- A kangaroo is a marsupial from the family Macropodidae (macropods, meaning 'large foot').
+no
 
 Are Kangaroos Shy?	NULL	S08/data/set1/a1
 
- A kangaroo is a marsupial from the family Macropodidae (macropods, meaning 'large foot').
+no
 
 Are Kangaroos Shy?	Yes	S08/data/set1/a1
 
- A kangaroo is a marsupial from the family Macropodidae (macropods, meaning 'large foot').
+no
 
 What method of locomotion do Kangaroos Use?	NULL	S08/data/set1/a1
 
@@ -3868,7 +3656,7 @@ There are four species that are commonly referred to as kangaroos: * The Red Kan
 
 Are kangaroos and wallabies adept swimmers?	yes	S08/data/set1/a1
 
- A kangaroo is a marsupial from the family Macropodidae (macropods, meaning 'large foot').
+no
 
 Are kangaroos farmed to any extent?	No.	S08/data/set1/a1
 
@@ -3889,11 +3677,11 @@ Kangaroos dazzled by headlights or startled by engine noise have been known to l
 
 Is a collision with a vehicle capable of killing a kangaroo ?	yes	S08/data/set1/a1
 
-A collision with a vehicle is capable of killing a kangaroo.
+no
 
 Was the game of Marn grook played using a ball made from kangaroo by the Kurnai people ?	yes	S08/data/set1/a1
 
-The game of Marn grook was played using a ball made from kangaroo by the Kurnai people.
+no
 
 Have kangaroos large , powerful hind legs , large feet adapted for leaping , a long muscular tail for balance , and a small head ?	yes	S08/data/set1/a1
 
@@ -3901,7 +3689,7 @@ Kangaroos have large, powerful hind legs, large feet adapted for leaping, a long
 
 Is a kangaroo a marsupial from the family macropodidae -LRB- macropods , meaning (`` ` large foot ('' ' -RRB-?	yes	S08/data/set1/a1
 
- A kangaroo is a marsupial from the family Macropodidae (macropods, meaning 'large foot').
+no
 
 What kinds of changes have larger kangaroos adapted much better to?	Changes wrought to the Australian landscape by humans.	S08/data/set1/a1
 
@@ -3980,15 +3768,15 @@ yes
 
 Is the leopard one of the four 'big cats'?	yes	S08/data/set1/a2
 
-  The leopard (Panthera pardus) is an Old World mammal of the Felidae family and the smallest of the four 'big cats' of the genus Panthera, along with the tiger, lion, and jaguar.
+no
 
 Is the leopard one of the four 'big cats'?	yes	S08/data/set1/a2
 
-  The leopard (Panthera pardus) is an Old World mammal of the Felidae family and the smallest of the four 'big cats' of the genus Panthera, along with the tiger, lion, and jaguar.
+no
 
 Is the leopard one of the four 'big cats'?	NULL	S08/data/set1/a2
 
-  The leopard (Panthera pardus) is an Old World mammal of the Felidae family and the smallest of the four 'big cats' of the genus Panthera, along with the tiger, lion, and jaguar.
+no
 
 Where is the leopard distributed?	southern Eurasia and Africa	S08/data/set1/a2
 
@@ -4037,15 +3825,15 @@ Males are considerably larger than females and weigh 37 to 90 kg compared to 28 
 
 Does a male leopard weigh more than a female leopard?	yes	S08/data/set1/a2
 
-Males are considerably larger than females and weigh 37 to 90 kg compared to 28 to 60 kg for females.
+no
 
 Does a male leopard weigh more than a female leopard?	yes	S08/data/set1/a2
 
-Males are considerably larger than females and weigh 37 to 90 kg compared to 28 to 60 kg for females.
+no
 
 Does a male leopard weigh more than a female leopard?	NULL	S08/data/set1/a2
 
-Males are considerably larger than females and weigh 37 to 90 kg compared to 28 to 60 kg for females.
+no
 
 What is the difference between leopards and cheetahs?	The leopard has rosettes rather than cheetah's simple spots and the leopard is larger and less lanky than the cheetah.	S08/data/set1/a2
 
@@ -4089,10 +3877,6 @@ What sort of cats are solitary?	Leopards	S08/data/set1/a2
 []
 These cats are solitary, avoiding one another.
 
-Are leopards circular?	No	S08/data/set1/a2
-
-  The leopard (Panthera pardus) is an Old World mammal of the Felidae family and the smallest of the four 'big cats' of the genus Panthera, along with the tiger, lion, and jaguar.
-
 What centred in Sierra?	The leopard men	S08/data/set1/a2
 
 [[u'Old World', u'ORG'], [u'Felidae', u'PERSON'], [u'four', u'CARDINAL'], [u'Panthera', u'PERSON']]
@@ -4108,7 +3892,7 @@ The New Zealand Rugby League has featured the Otahuhu Leopards and then the Tama
 
 Is the leopard -LRB- panthera pardus -RRB- an old world mammal of the felidae family and the smallest of the four (`` ` big cats ('' ' of the genus panthera , along with the tiger , lion , and jaguar?	Yes	S08/data/set1/a2
 
-  The leopard (Panthera pardus) is an Old World mammal of the Felidae family and the smallest of the four 'big cats' of the genus Panthera, along with the tiger, lion, and jaguar.
+no
 
 Can a panther be any of several species of large felid?	Yes	S08/data/set1/a2
 
@@ -4183,14 +3967,6 @@ yes
 Is Liechtenstein heavily urbanized?	No	S08/data/set2/a1
 
 yes
-
-Does Liechtenstein have an army?	No.	S08/data/set2/a1
-
-Liechtenstein is one of the few countries in the world to have no army; defense is the responsibility of Switzerland.  
-
-Does Liechtenstein have an army?	No	S08/data/set2/a1
-
-Liechtenstein is one of the few countries in the world to have no army; defense is the responsibility of Switzerland.  
 
 When was Liechtenstein's current constitution adopted?	October 1921.	S08/data/set2/a1
 
@@ -4284,11 +4060,11 @@ The Historical Society of the Principality of Liechtenstein plays a role in pres
 
 Is there a small heliport at Balzers in Liechtenstein available for charter helicopter flights ?	Yes	S08/data/set2/a1
 
- The Principality of Liechtenstein ( ( , ( ) is a tiny, doubly landlocked alpine country in Western Europe, bordered by Switzerland to its west and by Austria to its east.
+no
 
 Is it a winter sports resort?	Yes	S08/data/set2/a1
 
- The Principality of Liechtenstein ( ( , ( ) is a tiny, doubly landlocked alpine country in Western Europe, bordered by Switzerland to its west and by Austria to its east.
+no
 
 What happened in moravia , lower austria , silesia , and styria , though in all cases , these territories were held in fief under other more senior feudal lords?	The Liechtenstein Dynasty acquired vast swaths of land	S08/data/set2/a1
 
@@ -4297,19 +4073,19 @@ Through the centuries, the dynasty acquired vast swathes of land, predominantly 
 
 Did Webster write, "I can now sleep of nights"?	Yes.	S08/data/set3/a3
 
-Webster wrote, "I can now sleep of nights."
+no
 
 Did Webster write, "I can now sleep of nights"?	Yes	S08/data/set3/a3
 
-Webster wrote, "I can now sleep of nights."
+no
 
 Was the arrival of Louis Kossuth (exiled leader of a failed Hungarian revolution) another issue that presented itself during Fillmore's presidency?	Yes	S08/data/set3/a3
 
-Another issue that presented itself during Fillmore's presidency was the arrival of Louis Kossuth (exiled leader of a failed Hungarian revolution).
+no
 
 Was the arrival of Louis Kossuth (exiled leader of a failed Hungarian revolution) another issue that presented itself during Fillmore's presidency?	Yes	S08/data/set3/a3
 
-Another issue that presented itself during Fillmore's presidency was the arrival of Louis Kossuth (exiled leader of a failed Hungarian revolution).
+no
 
 Who got Seward elected to the senate?	Weed	S08/data/set3/a3
 
@@ -4343,19 +4119,19 @@ What is The Remarkable Millard Fillmore?	In 2007, George Pendle wrote The Remark
 
 Did Fillmore form a law partnership before or after he founded the private University of Buffalo?	Before.	S08/data/set3/a3
 
-In 1846, he founded the private University of Buffalo, which today is the public State University of New York at Buffalo (UB, University at Buffalo), the largest school in the New York state university system.  
+no
 
 Did Fillmore form a law partnership before or after he founded the private University of Buffalo?	Law partnership founded before University of Buffalo	S08/data/set3/a3
 
-In 1846, he founded the private University of Buffalo, which today is the public State University of New York at Buffalo (UB, University at Buffalo), the largest school in the New York state university system.  
+no
 
 Did Fillmore run for President a second time?	Yes	S08/data/set3/a3
 
-He ran in the election of 1856 as the party's candidate, attempting to win a non-consecutive second term as President (a feat accomplished only once in American politics, by Grover Cleveland).
+no
 
 Did Fillmore run for President a second time?	I don't know (semantic ambiguity)	S08/data/set3/a3
 
-He ran in the election of 1856 as the party's candidate, attempting to win a non-consecutive second term as President (a feat accomplished only once in American politics, by Grover Cleveland).
+no
 
 How long after the death of his first wife did Fillmore marry Caroline McIntosh?	where is the death date of his first wife?	S08/data/set3/a3
 
@@ -4368,27 +4144,19 @@ yes
 
 Was Millard Fillmore born on January 7, 1800?	yes	S08/data/set3/a3
 
-Fillmore was born in a log cabin in Summerhill, New York, to Nathaniel and Phoebe Millard Fillmore, as the second of nine children and the eldest son.  
+no
 
 Was Millard Fillmore born on January 7, 1800?	yes	S08/data/set3/a3
 
-Fillmore was born in a log cabin in Summerhill, New York, to Nathaniel and Phoebe Millard Fillmore, as the second of nine children and the eldest son.  
+no
 
 Was Millard Fillmore born on January 7, 1800?	NULL	S08/data/set3/a3
 
-Fillmore was born in a log cabin in Summerhill, New York, to Nathaniel and Phoebe Millard Fillmore, as the second of nine children and the eldest son.  
-
-Did Millard Fillmore die on March 8, 1974?	no	S08/data/set3/a3
-
-He died at 11:10 p.m. on March 8, 1874, of the after-effects of a stroke.
-
-Did Millard Fillmore die on March 8, 1974?	no	S08/data/set3/a3
-
-He died at 11:10 p.m. on March 8, 1874, of the after-effects of a stroke.
+no
 
 Did Millard Fillmore die on March 8, 1974?	NULL	S08/data/set3/a3
 
-He died at 11:10 p.m. on March 8, 1874, of the after-effects of a stroke.
+no
 
 Where was Millard Fillmore born?	in a log cabin in Summerhill, New York	S08/data/set3/a3
 
@@ -4483,15 +4251,7 @@ He fell in love with Abigail Powers, whom he later married on February 26, 1826.
 
 Was Another primary objective of Fillmore to preserve the Union from the intensifying slavery debate?	yes	S08/data/set3/a3
 
-Another primary objective of Fillmore was to preserve the Union from the intensifying slavery debate.
-
-Was Fillmore the second Chancellor, a position he maintained while both Vice President and President?	no	S08/data/set3/a3
-
-Fillmore was the first Chancellor, a position he maintained while both Vice President and President.
-
-Did Fillmore not turn down the honor , explaining that he had neither the `` literary nor scientific attainment '' to justify the degree ?	no	S08/data/set3/a3
-
-Fillmore turned down the honor, explaining that he had neither the "literary nor scientific attainment" to justify the degree.
+no
 
 What happened in a log cabin in summerhill , new york?	Fillmore was born	S08/data/set3/a3
 
@@ -4522,14 +4282,6 @@ In water as warm as 10Â°C an otter needs to catch 100 g of fish per hour to su
 Can otters survive in cold water?	Yes	S08/data/set1/a7
 
 In water as warm as 10Â°C an otter needs to catch 100 g of fish per hour to survive.
-
-Does the giant otter inhabit South Africa?	no	S08/data/set1/a7
-
-The giant otter (Pteronura brasiliensis) inhabits South America, especially the Amazon river basin, but is becoming increasingly rare due to poaching, habitat loss, and the use of mercury and other toxins in illegal alluvial gold mining.
-
-Does the giant otter inhabit South Africa?	No	S08/data/set1/a7
-
-The giant otter (Pteronura brasiliensis) inhabits South America, especially the Amazon river basin, but is becoming increasingly rare due to poaching, habitat loss, and the use of mercury and other toxins in illegal alluvial gold mining.
 
 How many species of otter are there?	13	S08/data/set1/a7
 
@@ -4589,11 +4341,11 @@ What is one of the challenges of re-establishing a population of Eurasian otters
 
 Is otter a kind of mammal?	yes	S08/data/set1/a7
 
-  Otters are amphibious (or in one case aquatic) carnivorous mammals.
+no
 
 Is otter a kind of mammal?	Yes.	S08/data/set1/a7
 
-  Otters are amphibious (or in one case aquatic) carnivorous mammals.
+no
 
 How many species and genera does otter have?	13 species and 7 genera	S08/data/set1/a7
 
@@ -4607,11 +4359,11 @@ Otters do not depend on their specialized fur alone for survival in the cold wat
 
 Do otters live in water?	yes	S08/data/set1/a7
 
-Otters do not depend on their specialized fur alone for survival in the cold waters where many live: they also have very high metabolic rates.
+no
 
 Do otters live in water?	Yes.	S08/data/set1/a7
 
-Otters do not depend on their specialized fur alone for survival in the cold waters where many live: they also have very high metabolic rates.
+no
 
 What do river otters eat?	River otters eat a variety of fish and shellfish, as well as small land mammals and birds. 	S08/data/set1/a7
 
@@ -4645,7 +4397,7 @@ The word "otter" derives from the Old English word otr, otor or oter.
 
 Does otter give birth or lay egg?	give birth	S08/data/set1/a7
 
-  Otters are amphibious (or in one case aquatic) carnivorous mammals.
+no
 
 What drives sea otter almost to extinction?	Humans hunted them almost to extinction. 	S08/data/set1/a7
 
@@ -4663,15 +4415,7 @@ In some Native American cultures, otters are considered totem animals.
 
 Are otters totem animals?	Yes	S08/data/set1/a7
 
-  Otters are amphibious (or in one case aquatic) carnivorous mammals.
-
-Are otters herbivores?	No	S08/data/set1/a7
-
-  Otters are amphibious (or in one case aquatic) carnivorous mammals.
-
-Are otters herbivores?	No	S08/data/set1/a7
-
-  Otters are amphibious (or in one case aquatic) carnivorous mammals.
+no
 
 What is the primary item in an otter's diet?	Fish.	S08/data/set1/a7
 
@@ -4741,11 +4485,11 @@ For example Eurasian otters must eat 15% of their body-weight a day, and sea ott
 
 Is the myth of Otter 's Ransom the starting point of the Volsunga saga ?	yes	S08/data/set1/a7
 
-  Otters are amphibious (or in one case aquatic) carnivorous mammals.
+no
 
 Is an otter 's den called a holt ?	yes	S08/data/set1/a7
 
-An otter's den is called a holt.
+no
 
 Have most otters fish as the primary item in their diet , supplemented by frogs , crayfish and crabs ?	yes	S08/data/set1/a7
 
@@ -4779,14 +4523,6 @@ Why are penguins countershaded?	for camouflage	S08/data/set1/a3
 
 All penguins are countershaded - that is, they have a white underside and a dark (mostly black) upperside.
 
-Are penguins afraid of humans?	no	S08/data/set1/a3
-
-  A penguin encounters a human during Antarctic summer. Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds living almost exclusively in the Southern Hemisphere.
-
-Are penguins afraid of humans?	no	S08/data/set1/a3
-
-  A penguin encounters a human during Antarctic summer. Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds living almost exclusively in the Southern Hemisphere.
-
 How much time to penguins spend on land?	half of their life	S08/data/set1/a3
 
 [[u'half', u'CARDINAL'], [u'half', u'CARDINAL']]
@@ -4817,27 +4553,23 @@ How are Isabelline penguins different from most penguins?	Because they are born 
 
 Are penguins birds?	yes	S08/data/set1/a3
 
-  A penguin encounters a human during Antarctic summer. Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds living almost exclusively in the Southern Hemisphere.
+no
 
 Are penguins birds?	Yes	S08/data/set1/a3
 
-  A penguin encounters a human during Antarctic summer. Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds living almost exclusively in the Southern Hemisphere.
+no
 
 Do penguins have a better than average sense of hearing for birds?	yes	S08/data/set1/a3
 
-Penguins have an average sense of hearing for birds (Wever et al 1969); this is used by parents and chicks to locate one another in crowded colonies (Jouventin et al 1999).
-
-Do penguins have a better than average sense of hearing for birds?	No	S08/data/set1/a3
-
-Penguins have an average sense of hearing for birds (Wever et al 1969); this is used by parents and chicks to locate one another in crowded colonies (Jouventin et al 1999).
+no
 
 Are penguins considered "higher waterbirds"?	yes	S08/data/set1/a3
 
-2006), the evolution of the living genera can be considered resolved by now.
+no
 
 Are penguins considered "higher waterbirds"?	Yes	S08/data/set1/a3
 
-2006), the evolution of the living genera can be considered resolved by now.
+no
 
 What order do penguins belong to?	Sphenisciformes	S08/data/set1/a3
 
@@ -4911,7 +4643,7 @@ yes
 
 Is it also possible that penguin comes from the Latin pinguis , fat ?	Yes	S08/data/set1/a3
 
-It is also possible that penguin comes from the Latin pinguis, âfatâ. This is supported by the fact that the corresponding words in most other languages (e.g., French pingouin, German Pinguin) have i instead of e as the first vowel.
+no
 
 Have penguins an average sense of hearing for birds ?	Yes	S08/data/set1/a3
 
@@ -4923,7 +4655,7 @@ Larger penguins can dive deep in case of need.
 
 Is the smallest penguin species the Little Blue Penguin -LRB- also known as the Fairy Penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2.2 lb -RRB- ?	Yes	S08/data/set1/a3
 
-The smallest penguin species is the Little Blue Penguin (also known as the Fairy Penguin), which stands around 40 cm tall (16 in) and weighs 1 kg (2.2 lb).
+no
 
 Is it not even known whether the gigantic palaeeudyptines constitute a monophyletic lineage , or whether gigantism was evolved independently in a much restricted Palaeeudyptinae and the Anthropornithinae ?	It is not even known.	S08/data/set1/a3
 
@@ -4931,11 +4663,11 @@ yes
 
 Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?	Yes	S08/data/set1/a3
 
-  A penguin encounters a human during Antarctic summer. Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds living almost exclusively in the Southern Hemisphere.
+no
 
 Is the smallest penguin species the little blue penguin -LRB- also known as the fairy penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2?	Yes	S08/data/set1/a3
 
-The smallest penguin species is the Little Blue Penguin (also known as the Fairy Penguin), which stands around 40 cm tall (16 in) and weighs 1 kg (2.2 lb).
+no
 
 What happened in a region not quite 2000 km south of the equator 35 mya?	At least one giant penguin.	S08/data/set1/a3
 
@@ -5008,11 +4740,11 @@ Tell the Bush Administration to protect polar bears and their critical habitat  
 
 Does a polar bear live in the Arctic?	yes	S08/data/set1/a4
 
-Play fight About 60% of the world's polar bears live in Canada, where conservation laws are a provincial jurisdiction.
+no
 
 Does a polar bear live in the Arctic?	Yes	S08/data/set1/a4
 
-Play fight About 60% of the world's polar bears live in Canada, where conservation laws are a provincial jurisdiction.
+no
 
 How heavy is a male polar bear?	300-600 kg (660-1320 lb)	S08/data/set1/a4
 
@@ -5039,14 +4771,6 @@ What does a polar bear's fur provide?	A polar bear's fur provides camouflage and
 
 []
 A polar bear's fur provides camouflage and insulation.
-
-Do female polar bears weight more than the male?	no	S08/data/set1/a4
-
-  The polar bear (Ursus maritimus) is a bear native to the Arctic.
-
-Do female polar bears weight more than the male?	No	S08/data/set1/a4
-
-  The polar bear (Ursus maritimus) is a bear native to the Arctic.
 
 How much weight do female polar bears gain during pregnancy?	They gain double their weight.	S08/data/set1/a4
 
@@ -5106,18 +4830,6 @@ Have thumbpolar bears been made both controversial and famous for their distinct
 
 thumbPolar bears have been made both controversial and famous for their distinctive white fur and their habitat.
 
-Did Mitchell Taylor , the Nunavut Government Manager of Wildlife Research , not write a letter to the U.S. Fish and Wildlife Service arguing that local studies are insufficient evidence for global protection at this time ?	no	S08/data/set1/a4
-
-Mitchell Taylor, the Nunavut Government Manager of Wildlife Research, wrote a letter to the U.S. Fish and Wildlife Service arguing that local studies are insufficient evidence for global protection at this time.  
-
-Does Qatar rank as the eighth richest country in the world per capita?	No.	S08/data/set2/a3
-
-  Qatar ( ;  The pronunciation of Qatar in English varies; see List of words of disputed pronunciation for details.
-
-Does Qatar rank as the eighth richest country in the world per capita?	no	S08/data/set2/a3
-
-  Qatar ( ;  The pronunciation of Qatar in English varies; see List of words of disputed pronunciation for details.
-
 Can women legally drive in Qatar?	Yes.	S08/data/set2/a3
 
 Women can legally drive in Qatar, whereas they may not in Saudi Arabia.
@@ -5158,11 +4870,7 @@ Where did a suicide-bombing kill a teacher in 2005?	Doha Players Theatre	S08/dat
 
 Does the native pronunciation of Qatar sound like 'cutter'?	Yes.	S08/data/set2/a3
 
-  Qatar ( ;  The pronunciation of Qatar in English varies; see List of words of disputed pronunciation for details.
-
-Does the native pronunciation of Qatar sound like 'cutter'?	no	S08/data/set2/a3
-
-  Qatar ( ;  The pronunciation of Qatar in English varies; see List of words of disputed pronunciation for details.
+no
 
 What is the Arabic word for municipalities?	baladiyah.	S08/data/set2/a3
 
@@ -5218,7 +4926,7 @@ Qatar has a modern Telecommunication system centered in Doha.
 
 Did the Qataris not choose as their negotiator the respected entrepreneur and long-time resident of Doha , Muhammed bin Thani ?	Yes	S08/data/set2/a3
 
-The Qataris chose as their negotiator the respected entrepreneur and long-time resident of Doha, Muhammed bin Thani.
+no
 
 Will oil and gas probably remain the backbone of Qatar 's economy for some time to come ?	Yes	S08/data/set2/a3
 
@@ -5239,15 +4947,15 @@ However, since these allophones cannot occur in these positions in English, in t
 
 Is -RRB- , officially the state of qatar -LRB- arabic (: : transliterated as dawlat qatar -RRB- , an arab emirate in southwest asia?	Yes	S08/data/set2/a3
 
-, officially the State of Qatar (Arabic: Ø¯ÙÙØ© ÙØ·Ø±  transliterated as Dawlat Qatar), is an Arab emirate in Southwest Asia, occupying the small Qatar Peninsula on the northeasterly coast of the larger Arabian Peninsula.
+no
 
 Does Romania border Hungary?	Yes.	S08/data/set2/a7
 
-  Romania ( , ) is a country in Southeastern Europe.
+no
 
 Does Romania border Hungary?	yes	S08/data/set2/a7
 
-  Romania ( , ) is a country in Southeastern Europe.
+no
 
 How many counties is Romania divided into?	41.	S08/data/set2/a7
 
@@ -5281,7 +4989,7 @@ What is the official language of Romania?	Romanian	S08/data/set2/a7
 
 Is the Romanian economy doing well?	Yes.	S08/data/set2/a7
 
-Economy Ranking, Doing Business 2007 Report, World Bank Additionally, the same study judged it to be the world's second-fastest economic reformer in 2006.
+no
 
 Are there many Roma in Romania?	No.	S08/data/set2/a7
 
@@ -5303,27 +5011,27 @@ During the Second Balkan War, Romania joined Greece, Serbia, Montenegro and Turk
 
 Does Romania share a border with Ukraine?	yes	S08/data/set2/a7
 
-It shares a border with Hungary and Serbia to the west, Ukraine and the Republic of Moldova to the northeast, and Bulgaria to the south.
+no
 
 Does Romania share a border with Ukraine?	Yes	S08/data/set2/a7
 
-It shares a border with Hungary and Serbia to the west, Ukraine and the Republic of Moldova to the northeast, and Bulgaria to the south.
+no
 
 Did Romania declare neutrality during World War I?	yes	S08/data/set2/a7
 
-PeleÅ Castle, retreat of Romanian monarchs   In August 1914, when World War I broke out, Romania declared neutrality.
+no
 
 Did Romania declare neutrality during World War I?	Yes	S08/data/set2/a7
 
-PeleÅ Castle, retreat of Romanian monarchs   In August 1914, when World War I broke out, Romania declared neutrality.
+no
 
 Does Romania share the same language with Moldova?	yes	S08/data/set2/a7
 
-U.S. Department of State - Background Note: Romania - U.S.-ROMANIAN RELATIONS Relations with Moldova are rather special, considering that the two countries practically share the same language, and a fairly common historical background.
+no
 
 Does Romania share the same language with Moldova?	Practically	S08/data/set2/a7
 
-U.S. Department of State - Background Note: Romania - U.S.-ROMANIAN RELATIONS Relations with Moldova are rather special, considering that the two countries practically share the same language, and a fairly common historical background.
+no
 
 Who was the first gymnast to score a perfect "ten"?	Nadia ComÄneci	S08/data/set2/a7
 
@@ -5406,43 +5114,35 @@ Romanian National Institute of Statistics published a report for the first 9 mon
 
 Is romania -LRB- , -RRB- a country in southeastern europe?	Yes	S08/data/set2/a7
 
-  Romania ( , ) is a country in Southeastern Europe.
+no
 
 Do singaporeans enjoy squid?	Yes, they do.	S08/data/set2/a2
 
-Singaporeans also enjoy a wide variety of seafood including crabs, clams, squid, and oysters.
+no
 
 Do singaporeans enjoy squid?	yes	S08/data/set2/a2
 
-Singaporeans also enjoy a wide variety of seafood including crabs, clams, squid, and oysters.
+no
 
 Do singaporeans enjoy squid?	NULL	S08/data/set2/a2
 
-Singaporeans also enjoy a wide variety of seafood including crabs, clams, squid, and oysters.
+no
 
 Did Singapore's standard of living decrease since independence?	No, the standard living was raised.	S08/data/set2/a2
 
-  Singapore ( ; ; , ), officially the Republic of Singapore ( ; ; , ), is an island nation located at the southern tip of the Malay Peninsula.
-
-Did Singapore's standard of living decrease since independence?	no	S08/data/set2/a2
-
-  Singapore ( ; ; , ), officially the Republic of Singapore ( ; ; , ), is an island nation located at the southern tip of the Malay Peninsula.
+no
 
 Did Singapore's standard of living decrease since independence?	NULL	S08/data/set2/a2
 
-  Singapore ( ; ; , ), officially the Republic of Singapore ( ; ; , ), is an island nation located at the southern tip of the Malay Peninsula.
+no
 
 Did the media contribute 15.6% to Singapore's GDP in 2001?	No, it contributed 1.56% to GDP in 2001.	S08/data/set2/a2
 
-Comprising of the publishing, print, broadcasting, film, music, digital and IT media sectors, the media industry collectively employed about 38,000 people and contributed 1.56% to Singapore's gross domestic product (GDP) in 2001 with an annual turnover of S$10 billion.
-
-Did the media contribute 15.6% to Singapore's GDP in 2001?	no	S08/data/set2/a2
-
-Comprising of the publishing, print, broadcasting, film, music, digital and IT media sectors, the media industry collectively employed about 38,000 people and contributed 1.56% to Singapore's gross domestic product (GDP) in 2001 with an annual turnover of S$10 billion.
+no
 
 Did the media contribute 15.6% to Singapore's GDP in 2001?	NULL	S08/data/set2/a2
 
-Comprising of the publishing, print, broadcasting, film, music, digital and IT media sectors, the media industry collectively employed about 38,000 people and contributed 1.56% to Singapore's gross domestic product (GDP) in 2001 with an annual turnover of S$10 billion.
+no
 
 How many people use the bus network daily?	More than 2.78 million people.	S08/data/set2/a2
 
@@ -5527,13 +5227,9 @@ How many days did it take the Imperial Japanese Army to win the Battle of Singap
 [[u'Singapore', u'GPE'], [u'175', u'CARDINAL']]
 Singapore maintains diplomatic relations with 175 countries   although it does not maintain a high commission or embassy in many of those countries.
 
-Is Singapore located at the southern tip of the Korean Penisula?	no	S08/data/set2/a2
-
-  Singapore ( ; ; , ), officially the Republic of Singapore ( ; ; , ), is an island nation located at the southern tip of the Malay Peninsula.
-
 Is Singapore located at the southern tip of the Korean Penisula?	Yes.	S08/data/set2/a2
 
-  Singapore ( ; ; , ), officially the Republic of Singapore ( ; ; , ), is an island nation located at the southern tip of the Malay Peninsula.
+no
 
 Has Sang Nila Utama visited Singapore?	yes	S08/data/set2/a2
 
@@ -5568,11 +5264,11 @@ Winston Churchill called it "Britain's greatest defeat" when it was occupied by 
 
 Was Lee Kuan Yew a successful leader of Singapore?	yes	S08/data/set2/a2
 
-  Singapore ( ; ; , ), officially the Republic of Singapore ( ; ; , ), is an island nation located at the southern tip of the Malay Peninsula.
+no
 
 Was Lee Kuan Yew a successful leader of Singapore?	Yes.	S08/data/set2/a2
 
-  Singapore ( ; ; , ), officially the Republic of Singapore ( ; ; , ), is an island nation located at the southern tip of the Malay Peninsula.
+no
 
 When did Goh Chok Tong succeed Lee as Prime Minister?	In 1990, Goh Chok Tong succeeded Lee as Prime Minister.	S08/data/set2/a2
 
@@ -5698,13 +5394,9 @@ Has Urbanization eliminated many areas of former primary rainforest , with the o
 
 Urbanization has eliminated many areas of former primary rainforest, with the only remaining area of primary rainforest being Bukit Timah Nature Reserve.
 
-Does the economy not depend heavily on exports refining imported goods , especially in manufacturing ?	No	S08/data/set2/a2
-
-The economy depends heavily on exports refining imported goods, especially in manufacturing.
-
 Is singapore -LRB- ; (: ; , -RRB- , officially the republic of singapore -LRB- ; (: ; , -RRB- , an island nation located at the southern tip of the malay peninsula?	Yes	S08/data/set2/a2
 
-  Singapore ( ; ; , ), officially the Republic of Singapore ( ; ; , ), is an island nation located at the southern tip of the Malay Peninsula.
+no
 
 Is singapore the 17th wealthiest country in the world in terms of gdp per capita?	No	S08/data/set2/a2
 
@@ -5712,27 +5404,27 @@ yes
 
 Was Thedore Roosevelt  a member of the Republican Party?	Yes	S08/data/set3/a7
 
- Theodore Roosevelt, Jr. ( ; October 27 1858  January 6 1919), also known as T.R., and to the public (but never to friends and intimates) as Teddy, was the twenty-sixth President of the United States, and a leader of the Republican Party and of the Progressive Movement.  
+no
 
 Was Thedore Roosevelt  a member of the Republican Party?	Yes	S08/data/set3/a7
 
- Theodore Roosevelt, Jr. ( ; October 27 1858  January 6 1919), also known as T.R., and to the public (but never to friends and intimates) as Teddy, was the twenty-sixth President of the United States, and a leader of the Republican Party and of the Progressive Movement.  
+no
 
 Does Theodore Roosevelt have a brother?	Yes	S08/data/set3/a7
 
-Political pundits have brought up Roosevelt's name in book after book.
+no
 
 Does Theodore Roosevelt have a brother?	Yes	S08/data/set3/a7
 
-Political pundits have brought up Roosevelt's name in book after book.
+no
 
 Did Theodore Roosevelt go to Harvard?	Yes	S08/data/set3/a7
 
-Roosevelt replied on December 16: "I could not by fighting have kept the new spelling in, and it was evidently worse than useless to go into an undignified contest when I was beaten.
+no
 
 Did Theodore Roosevelt go to Harvard?	Yes	S08/data/set3/a7
 
-Roosevelt replied on December 16: "I could not by fighting have kept the new spelling in, and it was evidently worse than useless to go into an undignified contest when I was beaten.
+no
 
 Where was Theodore Roosevelt born?	28 East 20th Street in the modern-day Gramercy section of New York City	S08/data/set3/a7
 
@@ -5790,13 +5482,9 @@ How did newspapers respond to Roosevelt inviting Brooker T. Washington to dinner
 
 Roosevelt pondered with his wife, Edith, how best to respond, not wanting to show up in Buffalo and wait on McKinley's death.
 
-Did Theodore Roosevelt study Judo?	No	S08/data/set3/a7
-
- Theodore Roosevelt, Jr. ( ; October 27 1858  January 6 1919), also known as T.R., and to the public (but never to friends and intimates) as Teddy, was the twenty-sixth President of the United States, and a leader of the Republican Party and of the Progressive Movement.  
-
 Did Theodore Roosevelt study Judo?	No clue	S08/data/set3/a7
 
- Theodore Roosevelt, Jr. ( ; October 27 1858  January 6 1919), also known as T.R., and to the public (but never to friends and intimates) as Teddy, was the twenty-sixth President of the United States, and a leader of the Republican Party and of the Progressive Movement.  
+no
 
 Did Roosevelt receive a Medal of Honor?	nein	S08/data/set3/a7
 
@@ -5848,19 +5536,19 @@ Who helped to fund Roosevelt's African safari?	Andrew Carnegie	S08/data/set3/a7
 
 Did Roosevelt support racial integration in schools?	yes	S08/data/set3/a7
 
- Theodore Roosevelt, Jr. ( ; October 27 1858  January 6 1919), also known as T.R., and to the public (but never to friends and intimates) as Teddy, was the twenty-sixth President of the United States, and a leader of the Republican Party and of the Progressive Movement.  
+no
 
 Did Roosevelt support racial integration in schools?	He supported a bill allowing school desegregation in New York State.	S08/data/set3/a7
 
- Theodore Roosevelt, Jr. ( ; October 27 1858  January 6 1919), also known as T.R., and to the public (but never to friends and intimates) as Teddy, was the twenty-sixth President of the United States, and a leader of the Republican Party and of the Progressive Movement.  
+no
 
 Was Roosevelt's family rich?	yes	S08/data/set3/a7
 
- Theodore Roosevelt, Jr. ( ; October 27 1858  January 6 1919), also known as T.R., and to the public (but never to friends and intimates) as Teddy, was the twenty-sixth President of the United States, and a leader of the Republican Party and of the Progressive Movement.  
+no
 
 Was Roosevelt's family rich?	NULL	S08/data/set3/a7
 
- Theodore Roosevelt, Jr. ( ; October 27 1858  January 6 1919), also known as T.R., and to the public (but never to friends and intimates) as Teddy, was the twenty-sixth President of the United States, and a leader of the Republican Party and of the Progressive Movement.  
+no
 
 Does the mother care for the young?	No	S08/data/set1/a9
 
@@ -5872,11 +5560,11 @@ yes
 
 Are turtles pets?	Yes	S08/data/set1/a9
 
-  Turtles are reptilians of the Order Testudines (all living turtles belong to the crown group Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+no
 
 Are turtles pets?	yes	S08/data/set1/a9
 
-  Turtles are reptilians of the Order Testudines (all living turtles belong to the crown group Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+no
 
 What shape are the eggs of the larest species of turtle?	Spherical	S08/data/set1/a9
 
@@ -5932,15 +5620,15 @@ What suborder of turtle draws its head into its shell?	Pleurodira	S08/data/set1/
 
 Do sea turtles lay eggs on dry sandy beaches?	Yes	S08/data/set1/a9
 
-Sea turtles lay their eggs on dry sandy beaches.
+no
 
 Do sea turtles lay eggs on dry sandy beaches?	yes	S08/data/set1/a9
 
-Sea turtles lay their eggs on dry sandy beaches.
+no
 
 Are turtles a part of the Flying Spaghetti Monster?	*shrug*	S08/data/set1/a9
 
-  Turtles are reptilians of the Order Testudines (all living turtles belong to the crown group Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+no
 
 How many suborders are turtles divided into?	Three.	S08/data/set1/a9
 
@@ -5999,19 +5687,19 @@ yes
 
 Are turtle eggs leathery and soft?	Yes	S08/data/set1/a9
 
-  Turtles are reptilians of the Order Testudines (all living turtles belong to the crown group Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+no
 
 Are turtle eggs leathery and soft?	yes	S08/data/set1/a9
 
-  Turtles are reptilians of the Order Testudines (all living turtles belong to the crown group Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+no
 
 Are turtles being examined for longevity genes?	Yes	S08/data/set1/a9
 
-Immature sea turtles are not cared for by the adults.
+no
 
 Are turtles being examined for longevity genes?	yes	S08/data/set1/a9
 
-Immature sea turtles are not cared for by the adults.
+no
 
 What suborder of turtles is extinct?	Paracryptodira	S08/data/set1/a9
 
@@ -6080,7 +5768,7 @@ Like other reptiles, turtles are ectothermic (or "cold-blooded" Reptile blood is
 
 Is aquatic respiration in Australian freshwater turtles being studied?	yes	S08/data/set1/a9
 
-Aquatic respiration in Australian freshwater turtles is currently being studied.
+no
 
 These projections , called papillae , have what?	a rich blood supply	S08/data/set1/a9
 
@@ -6100,15 +5788,15 @@ Turtles can take many years to reach breeding age.
 
 Does the Order Testudines not include both extant -LRB- living -RRB- and extinct species , the earliest known turtles being from around 215 million years ago ?	yes	S08/data/set1/a9
 
-  Turtles are reptilians of the Order Testudines (all living turtles belong to the crown group Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
+no
 
 Was Grant's father-in-law a Democrat?	Yes	S08/data/set3/a5
 
- Ulysses S. Grant, See military career for a discussion of Grant's middle initial. born Hiram Ulysses Grant (April 27, 1822  July 23, 1885), was an American general and the eighteenth President of the United States (1869 1877).
+no
 
 Was Grant's father-in-law a Democrat?	yup	S08/data/set3/a5
 
- Ulysses S. Grant, See military career for a discussion of Grant's middle initial. born Hiram Ulysses Grant (April 27, 1822  July 23, 1885), was an American general and the eighteenth President of the United States (1869 1877).
+no
 
 Did Ulysses win the Battle of Champion Hill?	you betcha	S08/data/set3/a5
 
@@ -6154,11 +5842,11 @@ Grant reportedly said afterward, "Damn, I had nothing to do with this battle," a
 
 Did Horace Greenley lose in the presidential elections of 1872?	Yes	S08/data/set3/a5
 
- Ulysses S. Grant, See military career for a discussion of Grant's middle initial. born Hiram Ulysses Grant (April 27, 1822  July 23, 1885), was an American general and the eighteenth President of the United States (1869 1877).
+no
 
 Did Horace Greenley lose in the presidential elections of 1872?	si	S08/data/set3/a5
 
- Ulysses S. Grant, See military career for a discussion of Grant's middle initial. born Hiram Ulysses Grant (April 27, 1822  July 23, 1885), was an American general and the eighteenth President of the United States (1869 1877).
+no
 
 Why did Grant think that war was unjust?	He thought it was designed to gain land open to slavery.	S08/data/set3/a5
 
@@ -6199,7 +5887,7 @@ What was from Pennsylvania?	His father	S08/data/set3/a5
 
 Was Grant 's favorite brand of bourbon whiskey Old Crow ?	yes	S08/data/set3/a5
 
- Ulysses S. Grant, See military career for a discussion of Grant's middle initial. born Hiram Ulysses Grant (April 27, 1822  July 23, 1885), was an American general and the eighteenth President of the United States (1869 1877).
+no
 
 Had he smoked only sporadically ?	yes	S08/data/set3/a5
 
@@ -6207,11 +5895,11 @@ Had he smoked only sporadically ?	yes	S08/data/set3/a5
 
 Did Grant & Perkins not sell harnesses , saddles , and other leather goods and purchase hides from farmers in the prosperous Galena area ?	they did	S08/data/set3/a5
 
-Grant & Perkins sold harnesses, saddles, and other leather goods and purchased hides from farmers in the prosperous Galena area.
+no
 
 Is the famous dragon gate at the entrance to the district at the corner of Grant and Bush Street ?	yes	S08/data/set3/a5
 
- Ulysses S. Grant, See military career for a discussion of Grant's middle initial. born Hiram Ulysses Grant (April 27, 1822  July 23, 1885), was an American general and the eighteenth President of the United States (1869 1877).
+no
 
 What happened in 1865?	he accepted the surrender of Robert E. Lee	S08/data/set3/a5
 
@@ -6222,22 +5910,6 @@ What happened in recent years?	his reputation as president has improved	S08/data
 
 [[u'Ulysses S. Grant', u'PERSON'], [u'Grant', u'PERSON'], [u'Hiram Ulysses Grant', u'ORG'], [u'April 27, 1822', u'DATE'], [u'July 23, 1885', u'DATE'], [u'American', u'NORP'], [u'the United States', u'GPE'], [u'1869 1877', u'DATE']]
  Ulysses S. Grant, See military career for a discussion of Grant's middle initial. born Hiram Ulysses Grant (April 27, 1822  July 23, 1885), was an American general and the eighteenth President of the United States (1869 1877).
-
-Is Uruguay located in the northwesten part of Africa?	No.	S08/data/set2/a9
-
-, Eastern Republic of Uruguay) is a country located in the southeastern part of South America.
-
-Is Uruguay located in the northwesten part of Africa?	no	S08/data/set2/a9
-
-, Eastern Republic of Uruguay) is a country located in the southeastern part of South America.
-
-Does Uruguay have cold summers?	No.	S08/data/set2/a9
-
-Map of Uruguay  Uruguay shares borders with two countries, with Argentina: and with Brazil:  The climate in Uruguay is temperate: it has warm summers and cold winters.
-
-Does Uruguay have cold summers?	no	S08/data/set2/a9
-
-Map of Uruguay  Uruguay shares borders with two countries, with Argentina: and with Brazil:  The climate in Uruguay is temperate: it has warm summers and cold winters.
 
 Who founded Montevideo?	The Spanish.	S08/data/set2/a9
 
@@ -6279,13 +5951,9 @@ What are poor neighborhoods called informally?	Cantegriles	S08/data/set2/a9
 [[u'Asentamientos', u'PERSON'], [u'Cantegriles', u'GPE'], [u'Neighborhood of Cantegril', u'ORG']]
 They are called Asentamientos or more colloquially Cantegriles in ironic allusion to the fashionable Neighborhood of Cantegril in Punta del Este.
 
-Is uruguay's landscape mountainous?	No.	S08/data/set2/a9
-
- Uruguay (official full name in ; pron.
-
 Is uruguay's landscape mountainous?	not really?	S08/data/set2/a9
 
- Uruguay (official full name in ; pron.
+no
 
 What religion do most Uruguayans profess?	None.	S08/data/set2/a9
 
@@ -6299,11 +5967,11 @@ Although the majority of Uruguayans do not actively practice a religion, they ar
 
 Is Uruguay located in South America?	Yes. It's located in the southeastern part	S08/data/set2/a9
 
-, Eastern Republic of Uruguay) is a country located in the southeastern part of South America.
+no
 
 Is Uruguay located in South America?	Yes	S08/data/set2/a9
 
-, Eastern Republic of Uruguay) is a country located in the southeastern part of South America.
+no
 
 Can citizens propose changes to the Constitution?	Yes. People are allowed to challenge laws.	S08/data/set2/a9
 
@@ -6370,22 +6038,6 @@ How much is the average income of an African woman compared to a European man?	A
 [[u'Uruguay', u'ORG']]
  Uruguay (official full name in ; pron.
 
-Does Uruguay border French Guiana?	No	S08/data/set2/a9
-
- Uruguay (official full name in ; pron.
-
-Does Uruguay border French Guiana?	No	S08/data/set2/a9
-
- Uruguay (official full name in ; pron.
-
-Is Uruguay's warmest month June?	No	S08/data/set2/a9
-
- Uruguay (official full name in ; pron.
-
-Is Uruguay's warmest month June?	No	S08/data/set2/a9
-
- Uruguay (official full name in ; pron.
-
 What does a citizen use to propose changes to the Constitution?	Referendum	S08/data/set2/a9
 
 [[u'Uruguayan', u'NORP'], [u'Parliament', u'ORG'], [u'Constitution', u'LAW'], [u'Plebiscite', u'PERSON']]
@@ -6436,14 +6088,6 @@ What are the names of Uruguay's political parties?	Partido Blanco and Partido Co
 [[u'Uruguay', u'ORG']]
  Uruguay (official full name in ; pron.
 
-Is Uruguay the smallest soverign nation in South America?	No	S08/data/set2/a9
-
- Uruguay (official full name in ; pron.
-
-Is Uruguay the smallest soverign nation in South America?	No	S08/data/set2/a9
-
- Uruguay (official full name in ; pron.
-
 What was founded by the Spanish in the early 18th century as a military stronghold?	Montevideo	S08/data/set2/a9
 
 [[u'Montevideo', u'GPE'], [u'Spanish', u'NORP'], [u'the early 18th century', u'DATE']]
@@ -6463,37 +6107,17 @@ What did Uruguay win in 1828?	Its independence	S08/data/set2/a9
 [[u'Uruguay', u'ORG'], [u'1828', u'DATE'], [u'three', u'CARDINAL'], [u'Spain', u'GPE'], [u'Argentina', u'GPE'], [u'Brazil', u'GPE']]
 Uruguay won its independence in 1828 following a three-way struggle between Spain, Argentina and Brazil.
 
-Is Uruguay very common?	No?	S08/data/set2/a9
-
- Uruguay (official full name in ; pron.
-
 Is The climate in Uruguay temperate?	Yes	S08/data/set2/a9
 
- Uruguay (official full name in ; pron.
+no
 
 Is the main sport in Uruguay football ?	Yes	S08/data/set2/a9
 
- Uruguay (official full name in ; pron.
+no
 
 Is Uruguay 's oldest church in San Carlos , Maldonado ?	Yes	S08/data/set2/a9
 
- Uruguay (official full name in ; pron.
-
-Was Woodrow Wilson the thirtieth President of the United States?	no	S08/data/set3/a8
-
-  Thomas Woodrow Wilson (December 28, 1856âFebruary 3, 1924), was the twenty-eighth President of the United States.
-
-Was Woodrow Wilson the thirtieth President of the United States?	No	S08/data/set3/a8
-
-  Thomas Woodrow Wilson (December 28, 1856âFebruary 3, 1924), was the twenty-eighth President of the United States.
-
-Did the U.S. join the League of Nations?	no	S08/data/set3/a8
-
-The League of Nations went into operation anyway, but the U.S. never joined.
-
-Did the U.S. join the League of Nations?	No	S08/data/set3/a8
-
-The League of Nations went into operation anyway, but the U.S. never joined.
+no
 
 Where was the League of Nations created?	Paris	S08/data/set3/a8
 
@@ -6556,19 +6180,19 @@ yes
 
 Was Wilson an automobile enthusiast?	yes	S08/data/set3/a8
 
-  Thomas Woodrow Wilson (December 28, 1856âFebruary 3, 1924), was the twenty-eighth President of the United States.
+no
 
 Was Wilson an automobile enthusiast?	ouai	S08/data/set3/a8
 
-  Thomas Woodrow Wilson (December 28, 1856âFebruary 3, 1924), was the twenty-eighth President of the United States.
+no
 
 Did Wilson's father own slaves?	yes	S08/data/set3/a8
 
-  Thomas Woodrow Wilson (December 28, 1856âFebruary 3, 1924), was the twenty-eighth President of the United States.
+no
 
 Did Wilson's father own slaves?	Yeah	S08/data/set3/a8
 
-  Thomas Woodrow Wilson (December 28, 1856âFebruary 3, 1924), was the twenty-eighth President of the United States.
+no
 
 Where is Wilson buried?	He was buried in Washington National Cathedral	S08/data/set3/a8
 
@@ -6600,29 +6224,17 @@ Where was Woodrow Wilson born?	Staunton, Virginia	S08/data/set3/a8
 [[u'Thomas Woodrow Wilson', u'PERSON'], [u'Staunton', u'GPE'], [u'Virginia', u'GPE'], [u'1856', u'DATE'], [u'third', u'ORDINAL'], [u'four', u'CARDINAL'], [u'Joseph Wilson', u'PERSON'], [u'1822\xe2\x80\x931903', u'CARDINAL'], [u'Janet Woodrow', u'PERSON']]
 Thomas Woodrow Wilson was born in Staunton, Virginia in 1856 as the third of four children to Reverend Dr. Joseph Wilson (1822â1903) and Janet Woodrow (1826â1888).
 
-Did Wilson support desegregation?	no	S08/data/set3/a8
-
-As President, Wilson repeatedly stated in 1919 that U.S. policy was to "acquiesce" in the Balfour Declaration but not officially support Zionism  Walworth (1986) 473-83, esp.
-
 Did Wilson support desegregation?	Not in the slightest.	S08/data/set3/a8
 
-As President, Wilson repeatedly stated in 1919 that U.S. policy was to "acquiesce" in the Balfour Declaration but not officially support Zionism  Walworth (1986) 473-83, esp.
-
-Did Wilson support the committee system?	no	S08/data/set3/a8
-
-As President, Wilson repeatedly stated in 1919 that U.S. policy was to "acquiesce" in the Balfour Declaration but not officially support Zionism  Walworth (1986) 473-83, esp.
-
-Did Wilson support the committee system?	No.	S08/data/set3/a8
-
-As President, Wilson repeatedly stated in 1919 that U.S. policy was to "acquiesce" in the Balfour Declaration but not officially support Zionism  Walworth (1986) 473-83, esp.
+no
 
 Did Wilson have any siblings?	yes	S08/data/set3/a8
 
-Historians generally have come to regard Wilson's failure to win U.S. entry into the League as perhaps the biggest mistake of his administration, and even as one of the largest failures of any American presidency. /ref
+no
 
 Did Wilson have any siblings?	NULL	S08/data/set3/a8
 
-Historians generally have come to regard Wilson's failure to win U.S. entry into the League as perhaps the biggest mistake of his administration, and even as one of the largest failures of any American presidency. /ref
+no
 
 What was Scots-Irish and Scottish?	His ancestry	S08/data/set3/a8
 
@@ -6646,11 +6258,11 @@ What lived in Columbia?	Wilson	S08/data/set3/a8
 
 Did Wilson not spend 1914 through the beginning of 1917 trying to keep America out of the war in Europe ?	Yes	S08/data/set3/a8
 
-Wilson spent 1914 through the beginning of 1917 trying to keep America out of the war in Europe.
+no
 
 Was Wilson , a staunch opponent of antisemitism , sympathetic to the plight of Jews , especially in Poland and in France ?	Yes	S08/data/set3/a8
 
-  Thomas Woodrow Wilson (December 28, 1856âFebruary 3, 1924), was the twenty-eighth President of the United States.
+no
 
 What happened in 1917?	raised billions through Liberty loans, imposed an income tax, set up the War Industries Board, promoted labor union growth, supervised agriculture and food production through the Lever Act, took over control of the railroads, and suppressed anti-war movements	S08/data/set3/a8
 
