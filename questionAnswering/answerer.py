@@ -36,6 +36,8 @@ def find_answer(question, sentences):
     answer_type = h.get_answer_type(question)
     transformed = h.transform_question(question)
 
+    #if 'theory of molarity' in question.text.lower():
+    #    pdb.set_trace()
     sentence = h.find_exact_match(transformed, sentences)
 
     if sentence is not None:
@@ -44,16 +46,21 @@ def find_answer(question, sentences):
     else:
         sentence = most_similar_sentence(question, transformed, sentences, answer_type)
         if answer_type[0] == 0:
-            if h.jaccard_doc(question,sentence) > 0:
-                return 'yes'
-            return 'no'
-
+            j = h.jaccard_doc(question,sentence)
+            if j > 0:
+                return 'yes ' + str(j)
+            return 'no ' + str(j)
     if answer_type[0] == 1:
         entities = []
         for ent in sentence.ents:
             entities.append([ent.text, ent.label_])
 
-        return str(entities) + '\n' + sentence.text
+
+
+
+        return 'ENTITY QUESTION: ' + str(entities) + '\n' + sentence.text
+    else:
+        return 'QUESTION TYPE: ' + str(answer_type[0]) + '\n' + sentence.text
 
     return sentence.text
 

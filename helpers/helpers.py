@@ -280,18 +280,27 @@ def get_answer_type(question):
         return [0]
     if t1 == 'who':
         #person
-        return [1,{'PERSON'}]
+        if t2 == 'do':
+            #want object
+            return [1,{pobj,dobj},{'PERSON'}]
+        else:
+            #want subject
+            return [1,{nsubj},{'PERSON'}]
     if t1 == 'what':
         #thing/event
         if t2 == 'year':
-            return [1,{'DATE'}]
-        return [1,{'NORP','FACILITY','ORG','GPE','PRODUCT','EVENT','WORK_OF_ART','LANGUAGE'}]
+            return [1,{},{'DATE'}]
+        if t2 == 'do':
+            return [1,{pobj,dobj},{'NORP','FACILITY','ORG','GPE','PRODUCT','EVENT','WORK_OF_ART','LANGUAGE'}]
+        else:
+            return [1,{},{'NORP','FACILITY','ORG','GPE','PRODUCT','EVENT','WORK_OF_ART','LANGUAGE'}]
+
     if t1 == 'where':
         #location
-        return [1,{'LOC'}]
+        return [1,{},{'LOC'}]
     if t1 == 'when':
         #date
-        return [1,{'DATE'}]
+        return [1,{},{'DATE'}]
     if t1 == 'why':
         #reason
         return [2]
