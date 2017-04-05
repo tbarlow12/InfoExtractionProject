@@ -2,8 +2,8 @@ from helpers import helpers as h
 import sys
 import spacy
 import pdb
-import special_cases
-
+from spacy.symbols import nsubj, dobj, conj, pobj, VERB
+import re
 nlp = spacy.load('en')
 
 debug = False
@@ -47,23 +47,48 @@ def find_answer(question, sentences):
         sentence = most_similar_sentence(question, transformed, sentences, answer_type)
         if answer_type[0] == 0:
             j = h.jaccard_doc(question,sentence)
-            if j > 0:
-                return 'yes ' + str(j)
-            return 'no ' + str(j)
+            if j > 0.05:
+                return 'yes'
+            return 'no'
+
     if answer_type[0] == 1:
-        entities = []
-        for ent in sentence.ents:
-            entities.append([ent.text, ent.label_])
-
-
-
-
+        '''print question
+        print answer_type
+        print h.get_subjects(question)
+        print h.get_subject_verbs(question)
+        print h.get_objects(question)
+        print sentence
+        print h.get_subjects(sentence)
+        print h.get_subject_verbs(sentence)
+        print h.get_objects(sentence)'''
+        entities = h.get_entities(sentence)
         return 'ENTITY QUESTION: ' + str(entities) + '\n' + sentence.text
+    elif answer_type[0] == 2:
+        search = answer_type[1]
+        tokens = list(sentence)
+        s_index = h.index_of(sentence,search)
+        if s_index[0] > 0:
+            print sentence
+            print question
+            #pdb.set_trace()
+
+
+    elif answer_type[0] == 3:
+        text = sentence.text
+        search = answer_type[1].text
+        r = re.compile('([^,.;:!?]+)' + search,re.IGNORECASE)
+        answers = r.findall(text)
+        if len(answers) > 0:
+            r2 = re.compile('(the [^,.;:!?]+)' + search,re.IGNORECASE)
+            answers2 = r2.findall(text)
+            if len(answers2) > 0:
+                return answers[0].strip()
+            return answers[0].strip()
     else:
         return 'QUESTION TYPE: ' + str(answer_type[0]) + '\n' + sentence.text
 
-    return sentence.text
-
+    #return sentence.text
+    return 'NULL'
 
 class answerer(object):
     docs = {}

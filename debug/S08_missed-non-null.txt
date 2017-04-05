@@ -1,17 +1,12 @@
 	NULL	S08/data/set4/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Alessandro_Volta  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
 
 How much of the population is of white European descent?	Approximately 88% of its population are of prevalently white European descent.	S08/data/set2/a9
 
 ENTITY QUESTION: [[u'more than 5000', u'CARDINAL'], [u'10000', u'CARDINAL']]
 The population is estimated at no more than 5000 to 10000.
-
-What happened in the election of 1816?	Monroe was elected president	S08/data/set3/a2
-
-ENTITY QUESTION: [[u'the War of 1812', u'EVENT'], [u'Monroe', u'PERSON'], [u'1816', u'DATE'], [u'1820', u'DATE']]
-Following the War of 1812, Monroe was elected president in the election of 1816, and re-elected in 1820.
 
 What is the largest ethnic minority in Romania?	Hungarians	S08/data/set2/a7
 
@@ -30,7 +25,6 @@ This may be called Volta's Law of the electrochemical series.
 
 Why are penguins countershaded?	for camouflage	S08/data/set1/a3
 
-QUESTION TYPE: 2
 All penguins are countershaded - that is, they have a white underside and a dark (mostly black) upperside.
 
 Do female polar bears weight more than the male?	No	S08/data/set1/a4
@@ -49,8 +43,7 @@ Subsequently he asked Congress to declare war on the Central Powers.
 
 What happened with a bromide emulsion in two sheets of very thick black paper?	the plate does not become clouded upon being exposed to the sun for a day	S08/data/set4/a9
 
-ENTITY QUESTION: [[u'the French Academy of Sciences', u'ORG'], [u'January 24, 1896', u'DATE'], [u'One', u'CARDINAL'], [u'two', u'CARDINAL'], [u'a day', u'DATE']]
-Describing his method to the French Academy of Sciences on January 24, 1896, he said, One wraps a LumiÃ¨re photographic plate with a bromide emulsion in two sheets of very thick black paper, such that the plate does not become clouded upon being exposed to the sun for a day.
+re photographic plate
 
 What is the poulation of Egypt?	78 million people	S08/data/set2/a6
 
@@ -69,12 +62,11 @@ Grover Cleveland  Stephen Grover Cleveland (March 18 1837  June 24 1908), the tw
 
 What happened in 1867?	Canada was formed as a federal, semi-autonomous polity	S08/data/set2/a8
 
-ENTITY QUESTION: [[u'Canada', u'GPE'], [u'Canada', u'GPE'], [u'North America', u'LOC'], [u'the Atlantic Ocean', u'LOC'], [u'the Pacific Ocean', u'ORG'], [u'the Arctic Ocean', u'LOC']]
 Canada  Canada ( ) is a country occupying most of northern North America, extending from the Atlantic Ocean in the east to the Pacific Ocean in the west and northward into the Arctic Ocean.
 
 Have there been other US presidents that have visited Cuba?	no	S08/data/set3/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 His most publicized veto was of a bill that would have increased legislators' pay by 50%.
 
 What is a collective noun for kangaroos?	Mob, troop, or court	S08/data/set1/a1
@@ -89,17 +81,16 @@ The Government building in Vaduz Liechtenstein's current constitution was adopte
 
 What happened from black river academy , vermont?	NULL	S08/data/set3/a9
 
-ENTITY QUESTION: [[u'Greenberg', u'ORG'], [u'1\xe2\x80\x937', u'CARDINAL'], [u'John Calvin Coolidge Jr.', u'PERSON'], [u'Plymouth', u'GPE'], [u'Windsor County', u'GPE'], [u'Vermont', u'GPE'], [u'July 4 1872', u'DATE'], [u'U.S.', u'GPE'], [u'fourth of July', u'DATE']]
 Greenberg, 1â7  John Calvin Coolidge Jr. was born in Plymouth, Windsor County, Vermont, on July 4 1872, the only U.S. President to be born on the fourth of July.
 
 In what ways was Adams opposed by Anderw Hamilton?	Hamilton wanted to control the army differently than Adams	S08/data/set3/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Adams was forced to name Washington as commander of the new army, and Washington demanded that Hamilton be given the second position.
 
 Can women legally drive in Qatar?	yes	S08/data/set2/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Women can legally drive in Qatar, whereas they may not in Saudi Arabia.
 
 What is Finland's economy like?	a highly industrialised, free-market economy	S08/data/set2/a4
@@ -129,7 +120,7 @@ He is most noted for his contributions to the theory of molarity and molecular w
 
 Forward, erect ears and slightly bristle hackles are a sign of what in wolves?	Dominance	S08/data/set1/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The ears are erect and forward, and the hackles bristle slightly.
 
 Is Calvin Jr. older than John Coolidge?	No	S08/data/set3/a9
@@ -143,17 +134,15 @@ Adams, a sponsor of the American Revolution in Massachusetts, was a driving forc
 
 Why did Roosevelt start Boxing lessons?	To deal with bullies	S08/data/set3/a7
 
-QUESTION TYPE: 2
 To deal with bullies, Roosevelt started boxing lessons.
 
 Had Monroe racked up many debts during his years of public life ?	yes	S08/data/set3/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Monroe had racked up many debts during his years of public life.
 
 How does a Mallard's tongue work?	It uses short spikes to push struggling prey and other food down its throat	S08/data/set1/a10
 
-QUESTION TYPE: 2
 duck  Duck is the common name for a number of species in the Anatidae family of birds.
 
 Does Romania share the same language with Moldova?	Practically	S08/data/set2/a7
@@ -181,7 +170,6 @@ yes
 
 How do reservoirs and water relate?	By 2001, there were 19 raw water reservoirs, 9 treatment works and 14 storage or service reservoirs locally to serve domestic needs. 	S08/data/set2/a2
 
-QUESTION TYPE: 2
 Singapore  Singapore ( ; ; , ), officially the Republic of Singapore ( ; ; , ), is an island nation located at the southern tip of the Malay Peninsula.
 
 When did James Monroe introduce the Monroe Doctrine?	December 2, 1823	S08/data/set3/a2
@@ -205,17 +193,16 @@ He lost control of his party to the agrarians and silverites in 1896.
 
 He is what?	NULL	S08/data/set4/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Amedeo Avogadro  Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
 
 How are Isabelline penguins different from most penguins?	Because they are born with brown rather than black plumage.	S08/data/set1/a3
 
-QUESTION TYPE: 2
 penguin  A penguin encounters a human during Antarctic summer. Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds living almost exclusively in the Southern Hemisphere.
 
 Has Indonesia the world 's largest Muslim population ?	yes	S08/data/set2/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Indonesia has the world's largest Muslim population.
 
 What is the primary item in an otter's diet?	fish	S08/data/set1/a7
@@ -249,7 +236,6 @@ yes
 
 Why does the phrase 'elephants never forget' have no metaphorical meaning?	Because it refers literally to elephants supposedly having an excellent memory.	S08/data/set1/a5
 
-QUESTION TYPE: 2
 The phrase 'elephants never forget' has no metaphorical meaning, it refers literally to elephants supposedly having an excellent memory. *
 
 When was Coolidge born?	Plymouth, Windsor County, Vermont	S08/data/set3/a9
@@ -273,7 +259,6 @@ yes
 
 How heavy was the largest polar bear on record?	He allegedly weighed 1002 kg	S08/data/set1/a4
 
-QUESTION TYPE: 2
 The largest polar bear on record was a huge male, allegedly weighing 1002 kg (2200 lb) shot at Kotzebue Sound in northwestern Alaska in 1960.  
 
 Is the famous dragon gate at the entrance to the district at the corner of Grant and Bush Street ?	yes	S08/data/set3/a5
@@ -282,12 +267,10 @@ no
 
 Why does most of Egypt's population live near the Nile?	The only arable agricultural land is found there	S08/data/set2/a6
 
-QUESTION TYPE: 2
 About half of Egypt's residents live in urban areas, with the majority spread across the densely populated centers of greater Cairo, Alexandria and other major cities in the Nile Delta.
 
 Why is the giant otter becoming increasingly rare?	poaching, habitat loss, and the use of mercury in illegal alluvial gold mining	S08/data/set1/a7
 
-QUESTION TYPE: 2
 The giant otter (Pteronura brasiliensis) inhabits South America, especially the Amazon river basin, but is becoming increasingly rare due to poaching, habitat loss, and the use of mercury and other toxins in illegal alluvial gold mining.
 
 What do kangaroos use for "crawl-walking?"	Their hind feet and their tails	S08/data/set1/a1
@@ -346,13 +329,11 @@ Ducks are sometimes confused with several types of unrelated water birds with si
 
 How heavy is a male polar bear?	Most adult males weigh 350-650 kg	S08/data/set1/a4
 
-QUESTION TYPE: 2
 polar bear  The polar bear (Ursus maritimus) is a bear native to the Arctic.
 
 What happened on plants and fungi?	They are food to beetles.	S08/data/set1/a8
 
-ENTITY QUESTION: []
-They often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates.
+They often feed
 
 Did the media contribute 15.6% to Singapore's GDP in 2001?	no	S08/data/set2/a2
 
@@ -365,7 +346,7 @@ His birthplace is now part of Adams National Historical Park.
 
 He became chief engineer in the Department of Bridges and Highways in what year?	in 1894	S08/data/set4/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Henri_Becquerel  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
 
 What does "singa" mean?	lion	S08/data/set2/a2
@@ -389,7 +370,7 @@ no
 
 Have more than five Presidents lived past the age of 90?	no	S08/data/set3/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 *Ford is one of only four former Presidents to live to 90 or more years of age.
 
 What is an economic use of a duck?	being farmed for their meat	S08/data/set1/a10
@@ -432,7 +413,7 @@ yes
 
 Has the New Zealand Rugby League featured the Otahuhu Leopards and then the Tamaki Leopards ?	Yes	S08/data/set1/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The New Zealand Rugby League has featured the Otahuhu Leopards and then the Tamaki Leopards.
 
 What is the national currency of Liechtenstein?	Swiss franc	S08/data/set2/a1
@@ -442,7 +423,6 @@ Liechtenstein  The Principality of Liechtenstein ( ( , ( ) is a tiny, doubly lan
 
 How did the supporters of Henry Clay feel about Fillmore in 1848?	angry	S08/data/set3/a3
 
-QUESTION TYPE: 2
 Millard Fillmore  Millard Fillmore (January 7, 1800  March 8, 1874) was the thirteenth President of the United States, serving from 1850 until 1853, and the last member of the Whig Party to hold that office.
 
 Is it true that volta entered retirement in spain?	NULL	S08/data/set4/a10
@@ -473,7 +453,6 @@ The eggs of the largest species are spherical, while the eggs of the rest are el
 
 What happened with the portuguese in the 15th century?	NULL	S08/data/set2/a5
 
-ENTITY QUESTION: [[u'European', u'NORP'], [u'Portuguese', u'NORP'], [u'the 15th century', u'DATE'], [u'British', u'NORP'], [u'Gold Coast', u'PERSON'], [u'1874', u'DATE']]
 Trade with European states flourished after contact with the Portuguese in the 15th century, and the British established a crown colony, Gold Coast, in 1874.
 
 What is the weather like at Lake Volta?	warm and comparatively dry	S08/data/set2/a5
@@ -502,7 +481,7 @@ no
 
 Have most otters fish as the primary item in their diet , supplemented by frogs , crayfish and crabs ?	yes	S08/data/set1/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Most otters have fish as the primary item in their diet, supplemented by frogs, crayfish and crabs.
 
 Is it true that it angered many residents of the thirteen colonies?	yes	S08/data/set2/a8
@@ -521,12 +500,12 @@ The bears sometimes have problems with various skin diseases with dermatitis cau
 
 Can otters survive in cold water?	Yes	S08/data/set1/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In water as warm as 10Â°C an otter needs to catch 100 g of fish per hour to survive.
 
 The collective noun romp is sometimes used for a group of what?	Otters	S08/data/set1/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The collective noun romp is sometimes used for a group of otters, being descriptive of their often playful nature.   
 
 What sort of cats are solitary?	Leopards	S08/data/set1/a2
@@ -536,7 +515,7 @@ These cats are solitary, avoiding one another.
 
 (NNP Harding #)(NNP Death )))(PP (IN in )(NP (NP (NN office ))(PP (IN for )(NP (DT a )(JJ full )(NN description )(NNP Vice )(NNP President )(person (NNP Coolidge ))))))))(VP (VP (VBD was )(VP (VBG visiting )(NP (PRP$ his )(NN family )(NN home ))))(, , )(SBAR (WHNP (WDT which ))(S (VP (VBD did )(RB not )(VP (VB have )(NP (NP (NN electricity ))(CC or )(NP (DT a )(NN telephone )))(, , )(PP (IN in )(NP (location (NNP Vermont ))))(SBAR (WHADVP (WRB when ))(S (NP (PRP he ))(VP (VBD received )(NP (NP (NN word ))(PP (IN of )(NP (NP (NNP Harding )(POS 's ))(NN death ))))))))))))))(. . )))	NULL	S08/data/set3/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 See the main article, Warren Harding#Death in office for a full description Vice President Coolidge was visiting his family home, which did not have electricity or a telephone, in Vermont when he received word of Harding's death.
 
 What unrelated water birds are ducks sometimes confused with?	loons or divers, grebes, gallinules, and coots	S08/data/set1/a10
@@ -546,7 +525,7 @@ Ducks are sometimes confused with several types of unrelated water birds with si
 
 Which defense mechanism uses colour or shape to deceive potential enemies?	Mimicry	S08/data/set1/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Another defence that often uses colour or shape to deceive potential enemies is mimicry.
 
 Who sits at Osu Castle ?	NULL	S08/data/set2/a5
@@ -561,7 +540,6 @@ In fact, African elephants rarely lie down unless they are sick or wounded.
 
 What happened from 1730 to 1744?	He was professor of astronomy at Uppsala University	S08/data/set4/a5
 
-ENTITY QUESTION: [[u'Anders Celsius', u'ORG'], [u'Anders Celsius', u'GPE']]
 Anders_Celsius Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 What is the world population of Asian elephants?	The world population of Asian elephants â also called Indian Elephants or Elephas maximus â is estimated to be around 60,000	S08/data/set1/a5
@@ -584,7 +562,6 @@ Finland  Finland, officially the Republic of Finland "Republic of Finland", or "
 
 What happened in these positions in english?	These allophones cannot occur there.	S08/data/set2/a3
 
-ENTITY QUESTION: [[u'Qatar', u'GPE'], [u'Qatar', u'GPE'], [u' The', u'WORK_OF_ART'], [u'Qatar', u'GPE'], [u'English', u'LANGUAGE']]
 Qatar  Qatar ( ;  The pronunciation of Qatar in English varies; see List of words of disputed pronunciation for details.
 
 What is the biggest city in Finland?	the cities of the Greater Helsinki metropolitan area	S08/data/set2/a4
@@ -594,7 +571,7 @@ Finland  Finland, officially the Republic of Finland "Republic of Finland", or "
 
 Have kangaroos fared well since European settlement?	Yes	S08/data/set1/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Unlike many of the smaller macropods, kangaroos have fared well since European settlement.
 
 What situated in Northern?	NULL	S08/data/set2/a4
@@ -604,7 +581,7 @@ Finland  Finland, officially the Republic of Finland "Republic of Finland", or "
 
 The Savings and Loans Bank was founded, as was the first cotton-weaving mill in what year?	1861	S08/data/set2/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In 1861, the Savings and Loans Bank was founded, as was the first cotton-weaving mill.
 
 Who did Sir Thomas Stamford Raffles work for?	British East India Company	S08/data/set2/a2
@@ -619,7 +596,7 @@ On August 20 Ford nominated former New York Governor Nelson Rockefeller to fill 
 
 If a turtle egg was kept warm, what would likely hatch?	A female turtle	S08/data/set1/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 It was found that the liver, lungs and kidneys of a centenarian turtle are virtually indistinguishable from those of its immature counterpart.
 
 What was against William?	NULL	S08/data/set4/a1
@@ -643,12 +620,11 @@ Soon after, he was elected as the twenty-ninth Vice President in 1920 and succee
 
 What happens when mothers lose a chick?	They sometimes attempt to "steal" another chick.	S08/data/set1/a3
 
-ENTITY QUESTION: []
 When mothers lose a chick, they sometimes attempt to "steal" another mother's chick, usually unsuccessfully as other females in the vicinity assist the defending mother in keeping her chick.
 
 To what genus does the gray wolf belong?	Canis	S08/data/set1/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 While wolf predation on livestock does happen, loss of livestock by wolves makes up only a small percentage of total losses in North America.
 
 What is The Remarkable Millard Fillmore?	In 2007, George Pendle wrote The Remarkable Millard Fillmore, a fake biography based on real events that happened in Fillmore's life	S08/data/set3/a3
@@ -675,12 +651,12 @@ yes
 
 Can larger penguins dive deep in case of need ?	Yes	S08/data/set1/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Larger penguins can dive deep in case of need.
 
 Volta became professor of physics in the Como high school in what year?	NULL	S08/data/set4/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Alessandro_Volta  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
 
 What is the MRT?	Mass Rapid Transit system	S08/data/set2/a2
@@ -708,7 +684,7 @@ Isaac Newton  Sir Isaac Newton FRS ( ) (4 January 1643 â March 31 1727)   O
 
 Will oil and gas probably remain the backbone of Qatar 's economy for some time to come ?	Yes	S08/data/set2/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 While oil and gas will probably remain the backbone of Qatar's economy for some time to come, the country seeks to stimulate the private sector and develop a "knowledge economy".
 
 Is the most read newspaper in Finland Taloussanomat?	No	S08/data/set2/a4
@@ -770,7 +746,6 @@ Theodore Roosevelt at age 11 Theodore Roosevelt was born in a four-story brownst
 
 How do qatar and the wider region relate?	Qatar is aiming to become a role model for economic and social transformation in the region. Large scale investment in all social and economic sectors will also lead to the development of a strong financial market.	S08/data/set2/a3
 
-QUESTION TYPE: 2
 Qatar  Qatar ( ;  The pronunciation of Qatar in English varies; see List of words of disputed pronunciation for details.
 
 Where do sea otters live?	The sea otter lives actually in the sea. 	S08/data/set1/a7
@@ -807,7 +782,7 @@ Romania  Romania ( , ) is a country in Southeastern Europe.
 
 Felis pardus was what?	One of the many species described in Linnaeus's 18th-century work, Systema Naturae	S08/data/set1/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Felis pardus was one of the many species described in Linnaeus's 18th-century work, Systema Naturae.
 
 What is Canada's national unemployment rate?	In October 2007, Canada's national unemployment rate is 5.9%.	S08/data/set2/a8
@@ -855,7 +830,6 @@ yes
 
 How do elephants communicate over long distances?	By producing and receiving low-frequency sound (infrasound)	S08/data/set1/a5
 
-QUESTION TYPE: 2
 Bruce Bagemihl, Biological Exuberance: Animal Homosexuality and Natural Diversity, St. Martin's Press, 1999; pp.427-430  Elephants communicate over long distances by producing and receiving low-frequency sound (infrasound), a sub-sonic rumbling, which can travel through the ground farther than sound travels through the air.
 
 Is Adams' birthplace part of a national park?	Yes	S08/data/set3/a1
@@ -885,7 +859,7 @@ yes
 
 Different species of kangaroos eat what?	different diets	S08/data/set1/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Different species of kangaroos eat different diets.
 
 When did John Adams serve as Vice President?	1789-1797	S08/data/set3/a1
@@ -895,7 +869,7 @@ He also served as America's first Vice President (1789 1797).
 
 Four years after opening his shop , Watt began what?	Watt began to experiment with steam after his friend, Professor John Robison, called his attention to it.	S08/data/set4/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Four years after opening his shop, Watt began to experiment with steam after his friend, Professor John Robison, called his attention to it.
 
 How many living species of African Elephants are there?	The African Elephant genus contains two (or, arguably, three) living species.	S08/data/set1/a5
@@ -905,7 +879,7 @@ ENTITY QUESTION: []
 
 During what period was Akhenaten a Pharaoh?	The New Kingdom	S08/data/set2/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The Thirtieth Dynasty was the last native ruling dynasty during the Pharaonic epoch.
 
 Where is Qatar's telecommunication system centered?	Doha	S08/data/set2/a3
@@ -920,7 +894,7 @@ Liechtenstein  The Principality of Liechtenstein ( ( , ( ) is a tiny, doubly lan
 
 Has this inspired genetic researchers to begin examining the turtle genome for longevity genes ?	yes	S08/data/set1/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 This has inspired genetic researchers to begin examining the turtle genome for longevity genes.
 
 What land animal has the largest brain?	The elephant	S08/data/set1/a5
@@ -930,7 +904,7 @@ The largest areas in elephant brain are those responsible for hearing, smell and
 
 Name four related articles for the article on turtles.	Triassic, Ernst Haeckel, Kunstformen der Natur, Animal	S08/data/set1/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 turtle  Turtles are reptilians of the Order Testudines (all living turtles belong to the crown group Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
 
 Who did President Lincoln promote of major general in the regular army, effective July 4?	Grant	S08/data/set3/a5
@@ -964,12 +938,12 @@ The smallest wolves come from the Arabian Wolf subspecies, the females of which 
 
 Name an animal that is growing in number due to recent conservation efforts	Golden Eagle	S08/data/set2/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Tourism is an expanding industry in Finland and in recent years has become a significant aspect of its economy.
 
 The unification of Italy did what?	NULL	S08/data/set4/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The unification of Italy did not happen during the life time of Avogadro.
 
 What is the life expectancy for men in Finland?	75 years	S08/data/set2/a4
@@ -993,7 +967,7 @@ This traps a layer of air, and keeps them dry and warm under water.
 
 Adams ' opponents were what?	Democratic Republicans	S08/data/set3/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The rift between Adams and the High Federalists (as Adams's opponents were called) grew wider.
 
 Are kangaroos and wallabies adept swimmers?	yes	S08/data/set1/a1
@@ -1002,7 +976,6 @@ no
 
 What happened in 1811?	Monroe returned to the Virginia House of Delegates and was elected to another term as governor of Virginia	S08/data/set3/a2
 
-ENTITY QUESTION: [[u'James Monroe', u'PERSON'], [u'April 28, 1758 \xe2\x80\x93 July 4, 1831', u'DATE'], [u'fifth', u'ORDINAL'], [u'the United States', u'GPE'], [u'1817-1825', u'DATE']]
 James_Monroe  James Monroe (April 28, 1758 â July 4, 1831) was the fifth President of the United States (1817-1825).
 
 What dwindled and eventually died out, starting with the Hartford Convention?	The Federalist Party	S08/data/set3/a2
@@ -1036,7 +1009,6 @@ Singapore maintains diplomatic relations with 175 countries   although it does n
 
 What happened with $ its invention?	NULL	S08/data/set4/a10
 
-ENTITY QUESTION: [[u'Count Alessandro', u'PERSON'], [u'February 18, 1745 - March 5, 1827', u'DATE'], [u'Italian', u'NORP'], [u'first', u'ORDINAL'], [u'1800', u'DATE']]
 Alessandro_Volta  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
 
 What allows a duck to filter water out of the side of their beaks and keep food inside?	tiny rows of plates called lamellae like a whale's baleen	S08/data/set1/a10
@@ -1063,7 +1035,6 @@ no
 
 Why did Grant think that war was unjust?	He accepted the theory that it was designed to gain land open to slavery.	S08/data/set3/a5
 
-QUESTION TYPE: 2
 Some contestants thought it was a trick question.
 
 Was Monroe anticlerical?	no	S08/data/set3/a2
@@ -1072,7 +1043,7 @@ yes
 
 He later what?	NULL	S08/data/set3/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Calvin Coolidge  John Calvin Coolidge, Jr. (July 4 1872  January 5 1933), more commonly known as Calvin Coolidge, was the thirtieth President of the United States (1923â1929).
 
 What is the estimated population of Egypt?	78 million	S08/data/set2/a6
@@ -1125,7 +1096,7 @@ no
 
 Have a number of live theatrical plays based on Tesla 's life been produced and staged worldwide ?	yes.	S08/data/set4/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 A number of live theatrical plays based on Tesla's life have been produced and staged worldwide. *
 
 Who helped to fund Roosevelt's African safari?	Andrew Carnegie	S08/data/set3/a7
@@ -1135,7 +1106,7 @@ Theodore Roosevelt  Theodore Roosevelt, Jr. ( ; October 27 1858  January 6 1919)
 
 Has it been created with a long term perspective to support the development of Qatar and the wider region , develop local and regional markets , and strengthen the links between the energy based economies and global financial markets ?	Yes	S08/data/set2/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 It has been created with a long term perspective to support the development of Qatar and the wider region, develop local and regional markets, and strengthen the links between the energy based economies and global financial markets.
 
 Who was born precisely at midnight during an electrical storm , to a Serbian family in the village of Smiljan near GospiÄ , in the Lika region of the Croatian Krajina in Military Frontier ( part of the Austrian Empire ) , in the present-day Croatia . ?	Nikola Tesla	S08/data/set4/a3
@@ -1145,7 +1116,7 @@ According to legend, Tesla was born precisely at midnight during an electrical s
 
 In what year were the "Games of the XV Olympiad" held?	1952	S08/data/set2/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The 1952 Summer Olympics, officially known as the Games of the XV Olympiad, were held in 1952 in Helsinki, Finland.
 
 What suborder of turtles is extinct?	Paracryptodira	S08/data/set1/a9
@@ -1155,7 +1126,7 @@ Aquatic respiration in Australian freshwater turtles is currently being studied.
 
 HWhat happened at the electromotive force -LRB- emf -RRB- of a galvanic cell?	NULL	S08/data/set4/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 That is, if the electrodes have emfs \mathcal{E}_{1,2} , then the net emf is \mathcal{E}_{2}-\mathcal{E}_{1} .
 
 What is the smallest suborder of turtles?	Pleurodira	S08/data/set1/a9
@@ -1235,7 +1206,7 @@ Qatar  Qatar ( ;  The pronunciation of Qatar in English varies; see List of word
 
 Had his thermometer 100 for the freezing point of water and 0 for the boiling point ?	Yes it had	S08/data/set4/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 His thermometer had 100 for the freezing point of water and 0 for the boiling point.
 
 Is Uruguay the smallest soverign nation in South America?	No	S08/data/set2/a9
@@ -1244,7 +1215,6 @@ yes
 
 Why polar bear is a special species?	The World Conservation Union listed polar bears as a vulnerable species, one of three sub-categories of threatened status, in May 2006. Their latest estimate is that 7 out of 19 subpopulations are declining or already severely reduced.	S08/data/set1/a4
 
-QUESTION TYPE: 2
 The polar bear is a vulnerable species at high risk of extinction.
 
 What became one of the most important commercial and military centres of the British Empire?	Singapore	S08/data/set2/a2
@@ -1268,12 +1238,10 @@ Several hundred indigenous Orang Laut people also lived around the coast, rivers
 
 How do india and latin america relate?	Uruguay exports architectural services to India and Latin America	S08/data/set2/a9
 
-QUESTION TYPE: 2
 Uruguay  Uruguay (official full name in ; pron.
 
 What happened from tuberculosis?	NULL	S08/data/set3/a9
 
-ENTITY QUESTION: [[u'Calvin Coolidge', u'PERSON'], [u'John Calvin Coolidge', u'PERSON'], [u'July 4 1872', u'DATE'], [u'January 5 1933', u'DATE'], [u'Calvin Coolidge', u'PERSON'], [u'the United States', u'GPE'], [u'1923\xe2\x80\x931929', u'PERSON']]
 Calvin Coolidge  John Calvin Coolidge, Jr. (July 4 1872  January 5 1933), more commonly known as Calvin Coolidge, was the thirtieth President of the United States (1923â1929).
 
 What is the largest country in the world?	Russia.	S08/data/set2/a8
@@ -1311,7 +1279,6 @@ Thomas Woodrow Wilson was born in Staunton, Virginia in 1856 as the third of fou
 
 Why did Coolidge not attend law school?	cost	S08/data/set3/a9
 
-QUESTION TYPE: 2
 The Vice Presidency did not carry many official duties, but Coolidge was invited by President Harding to attend cabinet meetings, making him the first Vice President to do so.
 
 Who is the autonomous Ãland Islands , where Finnish is not compulsory due to Swedish being the sole official language of the province . ?	NULL	S08/data/set2/a4
@@ -1326,12 +1293,11 @@ Indonesia  The Republic of Indonesia ( ) ( ), is a nation in Southeast Asia.
 
 What happened in 1833?	blah blah blah	S08/data/set4/a8
 
-ENTITY QUESTION: [[u'Amedeo Avogadro Lorenzo Romano', u'ORG'], [u'Carlo Avogadro', u'PERSON'], [u'Count', u'PERSON'], [u'Quaregna', u'GPE'], [u'Cerreto', u'PERSON'], [u'August 9, 1776', u'DATE'], [u'1856', u'DATE'], [u'Italian', u'NORP']]
 Amedeo Avogadro  Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
 
 The coastline is what?	NULL	S08/data/set2/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The climate is tropical.
 
 How much time to penguins spend on land?	They spend half of their life on land.	S08/data/set1/a3
@@ -1364,7 +1330,6 @@ The main sport in Uruguay is football.
 
 How did newspapers respond to Roosevelt inviting Brooker T. Washington to dinner at the White House?	They outraged.	S08/data/set3/a7
 
-QUESTION TYPE: 2
 Roosevelt pondered with his wife, Edith, how best to respond, not wanting to show up in Buffalo and wait on McKinley's death.
 
 Was Grant's father-in-law a Democrat?	yup	S08/data/set3/a5
@@ -1397,7 +1362,6 @@ By about 6000 BC, organized agriculture and large building construction had appe
 
 What happened in moravia , lower austria , silesia , and styria , though in all cases , these territories were held in fief under other more senior feudal lords?	The Liechtenstein Dynasty acquired vast swaths of land	S08/data/set2/a1
 
-ENTITY QUESTION: [[u'the centuries', u'DATE'], [u'Moravia', u'GPE'], [u'Lower Austria, Silesia', u'GPE'], [u'Styria', u'PERSON'], [u'Habsburg', u'PERSON'], [u'Liechtenstein', u'GPE']]
 Through the centuries, the dynasty acquired vast swathes of land, predominantly in Moravia, Lower Austria, Silesia, and Styria, though in all cases, these territories were held in fief under other more senior feudal lords, particularly under various lines of the Habsburg family, to whom several Liechtenstein princes served as close advisors.
 
 When did James Monroe graduate from William and Mary?	1776	S08/data/set3/a2
@@ -1412,7 +1376,7 @@ Canada  Canada ( ) is a country occupying most of northern North America, extend
 
 These projections , called papillae , have what?	a rich blood supply	S08/data/set1/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 These projections, called "papillae", have a rich blood supply, and serve to increase the surface area of the cloaca.
 
 What is the official language of Liechtenstein?	German	S08/data/set2/a1
@@ -1427,12 +1391,12 @@ The Uruguayan constitution allows citizens to challenge laws approved by Parliam
 
 Of what state was Coolidge governor?	Massachusetts	S08/data/set3/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In 1897, Coolidge was admitted to the bar.
 
 Which nation invaded Singapore during World War II?	During World War II, the Imperial Japanese Army invaded Malaya, culminating in the Battle of Singapore.	S08/data/set2/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 During World War II, the Imperial Japanese Army invaded Malaya, culminating in the Battle of Singapore.
 
 What are prey of various animals including birds and mammals?	Beetles.	S08/data/set1/a8
@@ -1442,7 +1406,7 @@ Some species are prey of various animals including birds and mammals.
 
 Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah Nature Reserve ?	Yes	S08/data/set2/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Urbanization has eliminated many areas of former primary rainforest, with the only remaining area of primary rainforest being Bukit Timah Nature Reserve.
 
 What was Adams' political party?	Federalist	S08/data/set3/a1
@@ -1477,7 +1441,6 @@ Ricklefs (1991), pages 3 to 14 Other Indonesia areas gradually adopted Islam whi
 
 What happened in 1745?	The scale was reversed	S08/data/set4/a5
 
-ENTITY QUESTION: [[u'Anders Celsius', u'ORG'], [u'Anders Celsius', u'GPE']]
 Anders_Celsius Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 What is used to protect a vehicale from a Kangaroo?	roo bars	S08/data/set1/a1
@@ -1491,7 +1454,7 @@ no
 
 Which election did Grover Cleveland win?	1884 and 1892 presidential elections	S08/data/set3/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Cleveland was elected again in 1892, thus becoming the only President in U.S. history to be elected to a second term which did not run in succession to the first.  
 
 Was Lee Kuan Yew a successful leader of Singapore?	Yes.	S08/data/set2/a2
@@ -1524,7 +1487,6 @@ They grow to 1 m (3 to 4 feet) in length and weigh from 5 to 15 kg (10 to 30 pou
 
 How old was Lincoln in 1816?	seven	S08/data/set3/a4
 
-QUESTION TYPE: 2
 Life of Abraham Lincoln, Colonel Ward H. Lamon, 1872 - portions reprinted in Chapter VIII: Abraham Lincoln, Deist, and Admirer of Thomas Paine, From the book Religious Beliefs of Our Presidents by Franklin Steiner (1936) Lincoln was just seven years old when, in 1816, the family was forced to make a new start in Perry County (now in Spencer County), Indiana.
 
 What shape are a leopard's black rosettes in East Africa?	circular	S08/data/set1/a2
@@ -1583,7 +1545,7 @@ kangaroo  A kangaroo is a marsupial from the family Macropodidae (macropods, mea
 
 Can polar bears be seen under infrared photography?	Only their breath and muzzles can be easily seen	S08/data/set1/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The thick undercoat does, however, insulate the bears: they overheat at temperatures above 10 Â°C (50 Â°F), and are nearly invisible under infrared photography; only their breath and muzzles can be easily seen.
 
 Where did Wilson attend law school?	University of Virginia	S08/data/set3/a8
@@ -1653,7 +1615,7 @@ The expression is part of a conceptual framework for testing (see Duck test) of 
 
 Which Russian army general conquered Finland in 1809?	Alexander I	S08/data/set2/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 On March 29 1809, after being conquered by the armies of Alexander I of Russia in the Finnish War, Finland became an autonomous Grand Duchy in the Russian Empire until the end of 1917.
 
 What is a hybrid animal resulting from a union between a leopard and a puma?	A pumapard	S08/data/set1/a2
@@ -1677,7 +1639,6 @@ Canada adopted its current Maple Leaf Flag in 1965.
 
 What happened in 1764?	Adams married Abigail Smith	S08/data/set3/a1
 
-ENTITY QUESTION: [[u'John Adams', u'PERSON'], [u'October 30,1735', u'DATE'], [u'July 4, 1826', u'DATE'], [u'second', u'ORDINAL'], [u'the United States', u'GPE'], [u'1797 1801', u'DATE']]
 John_Adams  John Adams, Jr. (October 30,1735  July 4, 1826) was the second President of the United States (1797 1801).
 
 Who was first apprenticed to a fuller to learn the cloth-making trade?	millard fillmore	S08/data/set3/a3
@@ -1692,7 +1653,7 @@ turtle  Turtles are reptilians of the Order Testudines (all living turtles belon
 
 Sea otters eat what?	Shellfish and other invertebrates	S08/data/set1/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 For example Eurasian otters must eat 15% of their body-weight a day, and sea otters, 20 to 25%, depending on the temperature.
 
 What is one of the challenges of re-establishing a population of Eurasian otters in the UK?	Roadkill deaths have become one of the significant threats to the success of their re-establishment. 	S08/data/set1/a7
@@ -1703,11 +1664,6 @@ otter  Otters are amphibious (or in one case aquatic) carnivorous mammals.
 Is it true that he married louise dÃ©sirÃ©e lorieux in 1890?	yes	S08/data/set4/a9
 
 no
-
-How did Fillmore ascend to the presidency?	Official White House portrait of Millard FillmoreFillmore ascended to the presidency upon the sudden and unexpected death of President Taylor in July 1850.	S08/data/set3/a3
-
-QUESTION TYPE: 2
-Official White House portrait of Millard FillmoreFillmore ascended to the presidency upon the sudden and unexpected death of President Taylor in July 1850.
 
 What is Jakarta?	Indonesia's special capital region	S08/data/set2/a10
 
@@ -1736,12 +1692,12 @@ In some Native American cultures, otters are considered totem animals.
 
 Oxygen is what?	One kind of gas obtained via a tracheal system.	S08/data/set1/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 beetle  Beetles are a group of insects which have the largest number of species.
 
 A semi-aquatic marine mammal , the polar bear has what?	It has adapted for life on a combination of land, sea, and ice.	S08/data/set1/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 A semi-aquatic marine mammal, the polar bear has adapted for life on a combination of land, sea, and ice, and is the apex predator within its range.
 
 Did James Monroe attend the College of William and Mary?	Yes	S08/data/set3/a2
@@ -1777,12 +1733,11 @@ Ghana  The Republic of Ghana is a country in West Africa.
 
 Have coleopterists formed organisations to facilitate the study of beetles ?	Yes.	S08/data/set1/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Coleopterists have formed organisations to facilitate the study of beetles.
 
 Why are side-necked turtles called side-necked turtles?	The way they withdraw their heads into their shells.	S08/data/set1/a9
 
-QUESTION TYPE: 2
 The Pleurodira are sometimes known as the side-necked turtles, a reference to the way they withdraw their heads into their shells.
 
 When did Lincoln begin his political career?	1832.	S08/data/set3/a4
@@ -1796,7 +1751,6 @@ yes
 
 How has Canada helped UN peacekeeping efforts?	Canada has played a leading role in UN peacekeeping efforts. During the Suez Crisis of 1956, Lester B. Pearson eased tensions by proposing the inception of the United Nations Peacekeeping Force. Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989	S08/data/set2/a8
 
-QUESTION TYPE: 2
 In February 2007, Canada, Italy, Britain, Norway, and Russia announced their funding commitments to launch a $1.5 billion project to help develop vaccines they said could save millions of lives in poor nations, and called on others to join them. "
 
 How much is the average income of an African woman compared to a European man?	African women earns 0.65 * 0.718  = 46.67% of a European man earns in average	S08/data/set2/a9
@@ -1839,7 +1793,7 @@ otter  Otters are amphibious (or in one case aquatic) carnivorous mammals.
 
 Lunch is what?	NULL	S08/data/set2/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Finland  Finland, officially the Republic of Finland "Republic of Finland", or "Suomen tasavalta" in Finnish and "Republiken Finland" in Swedish, is the long protocol name, which is not defined by the law.
 
 How long may elephants live?	As long as 70 years, sometimes longer.	S08/data/set1/a5
@@ -1854,12 +1808,11 @@ James_Monroe  James Monroe (April 28, 1758 â July 4, 1831) was the fifth Pr
 
 NOTTTT  FOUND	NULL	S08/data/set4/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Alessandro_Volta  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
 
 Why wasn't Romania neutral during World War II?	The Soviets threatened invasion.	S08/data/set2/a7
 
-QUESTION TYPE: 2
 Romania  Romania ( , ) is a country in Southeastern Europe.
 
 What quartered on March?	NULL	S08/data/set4/a1
@@ -1886,7 +1839,6 @@ yes
 
 How does the distribution size of the leopard compare to the distribution of other wild cats?	the leopard had the largest distribution of any wild cat.	S08/data/set1/a2
 
-QUESTION TYPE: 2
 leopard  The leopard (Panthera pardus) is an Old World mammal of the Felidae family and the smallest of the four 'big cats' of the genus Panthera, along with the tiger, lion, and jaguar.
 
 Who or what placed as high as sixth in the voting?	NULL	S08/data/set3/a9
@@ -1904,7 +1856,7 @@ yes
 
 The Historical Society of the Principality of Liechtenstein plays what?	a role in preserving the culture and history of the country.	S08/data/set2/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The Historical Society of the Principality of Liechtenstein plays a role in preserving the culture and history of the country.
 
 What lived in Columbia?	Wilson	S08/data/set3/a8
@@ -1918,7 +1870,6 @@ yes
 
 What happens when the srivijaya kingdom formed trade links?	The indonesian archipelago became an important trade region	S08/data/set2/a10
 
-ENTITY QUESTION: [[u'Indonesian', u'NORP'], [u'at least the seventh century', u'DATE'], [u'the Srivijaya Kingdom', u'ORG'], [u'China', u'GPE']]
 The Indonesian archipelago has been an important trade region since at least the seventh century, when the Srivijaya Kingdom formed trade links with China.
 
 What are deposited in holes dug into mud or sand?	eggs	S08/data/set1/a9
@@ -2020,7 +1971,7 @@ Finland  Finland, officially the Republic of Finland "Republic of Finland", or "
 
 Have elephants been used as working animals?	Yes	S08/data/set1/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Elephants have been working animals used in various capacities by humans.
 
 What did Tourism in Romania attract in 2005?	investments worth 400 million euros	S08/data/set2/a7
@@ -2035,7 +1986,6 @@ Canada has the longest coastline in the world: 243,000 kilometres.
 
 Why is it beneficial for alpha males and females to forcefully prevent other wolves from mating?	The pack tension rises as each mature wolf feels urged to mate	S08/data/set1/a6
 
-QUESTION TYPE: 2
 During this time, in fact, the alpha male and alpha female may be forced to prevent other wolves from mating with one another.   
 
 Are kangaroos farmed to any extent?	No.	S08/data/set1/a1
@@ -2049,7 +1999,6 @@ Singapore  Singapore ( ; ; , ), officially the Republic of Singapore ( ; ; , ), 
 
 How can beetle larvae be differentiated from other insect larvae?	By their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body	S08/data/set1/a8
 
-QUESTION TYPE: 2
 Beetle larvae can be differentiated from other insect larvae by their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body.
 
 What is cause of polar bear's skin diseases?	Mites or other parasites	S08/data/set1/a4
@@ -2059,7 +2008,7 @@ polar bear  The polar bear (Ursus maritimus) is a bear native to the Arctic.
 
 Can turtles take many years to reach breeding age ?	yes	S08/data/set1/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Turtles can take many years to reach breeding age.
 
 What do fossil and DNA evidence tell us?	The polar bear diverged from the brown bear roughly 200 thousand years ago.	S08/data/set1/a4
@@ -2069,12 +2018,10 @@ Tell the Bush Administration to protect polar bears and their critical habitat  
 
 Why did Indonesia break off relations with the People's Republic of China?	anti-communist purges early in the Suharto era	S08/data/set2/a10
 
-QUESTION TYPE: 2
 Indonesia  The Republic of Indonesia ( ) ( ), is a nation in Southeast Asia.
 
 Why did Cleveland want to hide his cancer surgery from the public?	because of the financial depression of the country	S08/data/set3/a6
 
-QUESTION TYPE: 2
 Grover Cleveland  Stephen Grover Cleveland (March 18 1837  June 24 1908), the twenty-second and twenty-fourth President of the United States, was the only President to serve non-consecutive terms (1885 1889 and 1893 1897).
 
 Was Cleveland 's portrait on the U.S. $ 1000 bill from 1928 to 1946 ?	yes	S08/data/set3/a6
@@ -2083,7 +2030,7 @@ no
 
 Sibiu, a large city in Transylvania, was chosen as European Capital of Culture in what year?	2007	S08/data/set2/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In 2007, Sibiu, a large city in Transylvania, was chosen as European Capital of Culture.  
 
 Is it true that he acquired a circle of admirers?	NULL	S08/data/set4/a1
@@ -2092,7 +2039,6 @@ yes
 
 What happened in 1865?	he accepted the surrender of Robert E. Lee	S08/data/set3/a5
 
-ENTITY QUESTION: [[u'Ulysses S. Grant', u'PERSON'], [u'Ulysses S. Grant', u'PERSON'], [u'Grant', u'PERSON'], [u'Hiram Ulysses Grant', u'ORG'], [u'April 27, 1822', u'DATE'], [u'July 23, 1885', u'DATE'], [u'American', u'NORP'], [u'the United States', u'GPE'], [u'1869 1877', u'DATE']]
 Ulysses S. Grant  Ulysses S. Grant, See military career for a discussion of Grant's middle initial. born Hiram Ulysses Grant (April 27, 1822  July 23, 1885), was an American general and the eighteenth President of the United States (1869 1877).
 
 What kinds of changes have larger kangaroos adapted much better to?	Changes wrought to the Australian landscape by humans.	S08/data/set1/a1
@@ -2131,7 +2077,7 @@ no
 
 In addition to Port Royal, where else did Samuel de Champlain establish a settlement?	Quebec City	S08/data/set2/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 While the Green Party of Canada and other smaller parties do not have current representation in Parliament, the list of historical parties with elected representation is substantial.   
 
 What did James Monroe make in 1817?	two long tours	S08/data/set3/a2
@@ -2141,7 +2087,7 @@ To build good will, he made two long tours in 1817.
 
 The bears sometimes what?	They sometimes have problems with various skin diseases with dermatitis caused sometimes by mites or other parasites.	S08/data/set1/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 polar bear  The polar bear (Ursus maritimus) is a bear native to the Arctic.
 
 What used Singapore as a strategic trading post along the spice route?	British	S08/data/set2/a2
@@ -2159,7 +2105,6 @@ yes
 
 Why do penguins "tobaggan"?	Conserves energy while moving quickly	S08/data/set1/a3
 
-QUESTION TYPE: 2
 penguin  A penguin encounters a human during Antarctic summer. Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds living almost exclusively in the Southern Hemisphere.
 
 What body of water lies to the south of Finland?	Archipelago Sea	S08/data/set2/a4
@@ -2169,12 +2114,12 @@ It has borders with Sweden to the west, Russia to the east, and Norway to the no
 
 Which property did James Monroe sell in 1817?	Monroe Hill on the grounds of the University of Virginia.	S08/data/set3/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Nor did his friends, family or associates write about his beliefs.
 
 Had Ford's wife married before?	No	S08/data/set3/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The Fords on their wedding day, October 15, 1948 On October 15, 1948, at Grace Episcopal Church in Grand Rapids, Ford married Elizabeth Bloomer Warren, a department store fashion consultant.
 
 Does this not make the zinc rod the negative electrode and the copper rod the positive electrode ?	NULL	S08/data/set4/a10
@@ -2192,18 +2137,16 @@ The first verifiable written documents appeared in the twelfth century.
 
 Why doesn't Romania have a state religion?  	Romania is a secular state	S08/data/set2/a7
 
-QUESTION TYPE: 2
 Romania is a secular state, thus having no national religion.
 
 In what year did East Timor secede from Indonesia?	1999	S08/data/set2/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Ricklefs (1991), page 24 For most of the colonial period, Dutch control over these territories was tenuous; only in the early 20th century did Dutch dominance extend to what was to become Indonesia's current boundaries.
 
 What happened in 1800?	NULL	S08/data/set4/a10
 
-ENTITY QUESTION: [[u'Count Alessandro', u'PERSON'], [u'February 18, 1745 - March 5, 1827', u'DATE'], [u'Italian', u'NORP'], [u'first', u'ORDINAL'], [u'1800', u'DATE']]
-Alessandro_Volta  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+was an Italian physicist known especially for the development of the first known electric battery
 
 How many long was Lincoln's formal education?	18 months.	S08/data/set3/a4
 
@@ -2241,7 +2184,6 @@ Canada  Canada ( ) is a country occupying most of northern North America, extend
 
 How do sea otters insulate themselves?	As with other species of otter, they rely on a layer of air trapped in their fur, which they keep topped up by blowing into the fur from their mouths.	S08/data/set1/a7
 
-QUESTION TYPE: 2
 Unlike most marine mammals such as (seals or whales), sea otters do not have a layer of insulating blubber.
 
 When was he elected sheriff of Erire County, New York?	1870	S08/data/set3/a6
@@ -2251,7 +2193,7 @@ Grover Cleveland  Stephen Grover Cleveland (March 18 1837  June 24 1908), the tw
 
 Ghana 's spending on education has what?	NULL	S08/data/set2/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Ghana's spending on education has varied between 28 and 40 percent of its annual budget in the past decade.
 
 Did Monroe' wedding happen at the Trinity Church in New York?	Yes	S08/data/set3/a2
@@ -2307,12 +2249,10 @@ In 2002, psychologist Richard Wiseman and colleagues at the University of Hertfo
 
 What happened from school?	NULL	S08/data/set4/a1
 
-ENTITY QUESTION: [[u'Isaac Newton', u'PERSON'], [u'Isaac Newton', u'PERSON'], [u'4', u'CARDINAL'], [u'January 1643 \xe2\x80\x93', u'DATE'], [u'March 31 1727', u'DATE'], [u'December 25 1642 \xe2\x80\x93 March 20 1727', u'DATE'], [u'English', u'NORP']]
 Isaac Newton  Sir Isaac Newton FRS ( ) (4 January 1643 â March 31 1727)   OS: December 25 1642 â March 20 1727   was an English physicist, mathematician, astronomer, natural philosopher, and alchemist.
 
 What happened at the time of newton 's birth?	NULL	S08/data/set4/a1
 
-ENTITY QUESTION: [[u'Newton', u'ORG'], [u'England', u'GPE'], [u'Christmas Day', u'DATE'], [u'December 25, 1642', u'DATE']]
 At the time of Newton's birth, England had not adopted the latest papal calendar and therefore his date of birth was recorded as Christmas Day, December 25, 1642.
 
 Was Grover Cleveland the twenty-seventh president of the United States?	No.	S08/data/set3/a6
@@ -2334,7 +2274,7 @@ yes
 
 Has another US President been an Eagle Scout?	no	S08/data/set3/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 He is the only US president who was an Eagle Scout.  
 
 What graduated from Black?	NULL	S08/data/set3/a9
@@ -2348,7 +2288,7 @@ yes
 
 Grant was elected president as a Republican in what year?	1868	S08/data/set3/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Ulysses S. Grant  Ulysses S. Grant, See military career for a discussion of Grant's middle initial. born Hiram Ulysses Grant (April 27, 1822  July 23, 1885), was an American general and the eighteenth President of the United States (1869 1877).
 
 Are ducks in the Arctic Northern Hemisphere migratory?	yes	S08/data/set1/a10
@@ -2357,7 +2297,7 @@ no
 
 Can beetles be found in almost all habitats?	Yes.	S08/data/set1/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Beetles can be found in almost all habitats, but are not known to occur in the sea or in the polar regions.
 
 Did Newton not entertain `` a passion '' for Storer while he lodged at the Clarke house ?	NULL	S08/data/set4/a1
@@ -2390,7 +2330,7 @@ Leopards that are melanistic, either all-black or very dark in coloration, are k
 
 Today, are there more cell phone subscriptions than people in Finland?	Yes	S08/data/set2/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Finland  Finland, officially the Republic of Finland "Republic of Finland", or "Suomen tasavalta" in Finnish and "Republiken Finland" in Swedish, is the long protocol name, which is not defined by the law.
 
 What is the highest mountain in Romania?	Moldoveanu Peak	S08/data/set2/a7
@@ -2401,11 +2341,6 @@ Romania  Romania ( , ) is a country in Southeastern Europe.
 Do 79 percent of the population not use the Internet ?	NULL	S08/data/set2/a4
 
 yes
-
-How is Singapore's climate characterized?	Its climate is characterized by uniform temperature and pressure, high humidity, and abundant rainfall	S08/data/set2/a2
-
-QUESTION TYPE: 2
-Its climate is characterized by uniform temperature and pressure, high humidity, and abundant rainfall.
 
 Did Lincoln's Wife's Family support slavery?	Yes	S08/data/set3/a4
 
@@ -2422,7 +2357,7 @@ polar bear  The polar bear (Ursus maritimus) is a bear native to the Arctic.
 
 Which countries established colonies in Canada?	Fance and Britain	S08/data/set2/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Canada  Canada ( ) is a country occupying most of northern North America, extending from the Atlantic Ocean in the east to the Pacific Ocean in the west and northward into the Arctic Ocean.
 
 What are vehicles that frequent isolated roads often fitted with?	"roo bars"	S08/data/set1/a1
@@ -2499,7 +2434,6 @@ At the close of the conflict, Czechoslovakia and Poland, acting to seize what th
 
 Why are ducklings particularly vulnerable?	their inability to fly makes them easy prey	S08/data/set1/a10
 
-QUESTION TYPE: 2
 Ducklings are particularly vulnerable, since their inability to fly makes them easy prey not only for avian hunters but also large fish like pike, crocodilians, and other aquatic hunters, including fish-eating birds such as herons.
 
 Who got Seward elected to the senate?	Weed ultimately got Seward elected to the senate	S08/data/set3/a3
@@ -2518,12 +2452,12 @@ James_Monroe  James Monroe (April 28, 1758 â July 4, 1831) was the fifth Pr
 
 Which type of beetle is a pest of potato plants?	Colorado potato beetle	S08/data/set1/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 These include the following: * The Colorado potato beetle, Leptinotarsa decemlineata, is a notorious pest of potato plants.
 
 The State Court rules what?	on the conformity of laws with the constitution	S08/data/set2/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Liechtenstein  The Principality of Liechtenstein ( ( , ( ) is a tiny, doubly landlocked alpine country in Western Europe, bordered by Switzerland to its west and by Austria to its east.
 
 Where was James Monroe shot?	The Battle of Trenton	S08/data/set3/a2
@@ -2543,12 +2477,12 @@ Ford said little about the Watergate scandal, although he privately expressed hi
 
 The Celsius crater on the Moon is what?	named after him	S08/data/set4/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The Celsius crater on the Moon is named after him.
 
 Which future Heisman Trophy winner did Ford tackle?	Jay Berwanger	S08/data/set3/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Ford did not intervene in Vietamese affairs, but did help extract friends of the U.S.
 
 Where is Uruguay's oldest church?	San Carlos, Maldonado	S08/data/set2/a9
@@ -2581,12 +2515,11 @@ Taylor and Fillmore disagreed on the slavery issue in the new western territorie
 
 Why are relations with Malaysia and Indonesia important?	Due to obvious geographical reasons, relations with Malaysia and Indonesia are most important.	S08/data/set2/a2
 
-QUESTION TYPE: 2
 Singapore  Singapore ( ; ; , ), officially the Republic of Singapore ( ; ; , ), is an island nation located at the southern tip of the Malay Peninsula.
 
 Had he smoked only sporadically ?	yes	S08/data/set3/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Ulysses S. Grant  Ulysses S. Grant, See military career for a discussion of Grant's middle initial. born Hiram Ulysses Grant (April 27, 1822  July 23, 1885), was an American general and the eighteenth President of the United States (1869 1877).
 
 Did Horace Greenley lose in the presidential elections of 1872?	si	S08/data/set3/a5
@@ -2604,7 +2537,6 @@ yes
 
 Why did Grant say "Damn, I had nothing to do with this batte."?	Because the generals under him acted on their own.	S08/data/set3/a5
 
-QUESTION TYPE: 2
 Grant reportedly said afterward, "Damn, I had nothing to do with this battle," according to Hooker.
 
 What fraternity was Coolidge a member of?	phi gamma delta	S08/data/set3/a9
@@ -2614,12 +2546,11 @@ In 1897, Coolidge was admitted to the bar.
 
 May a single female lay from several dozen to several thousand eggs during her lifetime ?	Yes.	S08/data/set1/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 A single female may lay from several dozen to several thousand eggs during her lifetime.
 
 What happened in 1896?	 Becquerel accidentally discovered radioactivity.	S08/data/set4/a9
 
-ENTITY QUESTION: [[u'Antoine Henri Becquerel', u'PERSON'], [u'December 15, 1852', u'DATE'], [u'August 25, 1908', u'DATE'], [u'French', u'NORP'], [u'Nobel', u'WORK_OF_ART'], [u'one', u'CARDINAL']]
 Henri_Becquerel  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
 
 Does the giant otter inhabit South Africa?	No	S08/data/set1/a7
@@ -2662,7 +2593,6 @@ In 1890 he married Louise DÃ©sirÃ©e Lorieux.
 
 What happened in a log cabin in summerhill , new york?	Fillmore was born	S08/data/set3/a3
 
-ENTITY QUESTION: [[u'Fillmore', u'PERSON'], [u'Summerhill', u'GPE'], [u'New York', u'GPE'], [u'Nathaniel', u'PERSON'], [u'Phoebe Millard Fillmore', u'PERSON'], [u'second', u'ORDINAL'], [u'nine', u'CARDINAL']]
 Fillmore was born in a log cabin in Summerhill, New York, to Nathaniel and Phoebe Millard Fillmore, as the second of nine children and the eldest son.  
 
 What was Scots-Irish and Scottish?	His ancestry	S08/data/set3/a8
@@ -2672,7 +2602,7 @@ His ancestry was Scots-Irish and Scottish.
 
 Which spice originally attracted Europeans to Indonesia?	nutmeg, cloves, and cubeb pepper	S08/data/set2/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Schwarz (1994), pages 52â57 Following President Sukarno's downfall in the mid-1960s, the New Order administration brought a degree of discipline to economic policy that quickly brought inflation down, stabilized the currency, rescheduled foreign debt, and attracted foreign aid and investment.
 
 Did Ulysses win the Battle of Champion Hill?	you betcha	S08/data/set3/a5
@@ -2681,7 +2611,7 @@ yes
 
 Have kangaroos large , powerful hind legs , large feet adapted for leaping , a long muscular tail for balance , and a small head ?	yes	S08/data/set1/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Kangaroos have large, powerful hind legs, large feet adapted for leaping, a long muscular tail for balance, and a small head.
 
 What was from Pennsylvania?	His father	S08/data/set3/a5
@@ -2699,17 +2629,16 @@ no
 
 The eggs of the largest species are what?	spherical	S08/data/set1/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The eggs of the largest species are spherical, while the eggs of the rest are elongated.
 
 Why are sea otters nearly extinct?	Sea otters have some 200,000 hairs per square cm of skin, a rich fur for which humans hunted them	S08/data/set1/a7
 
-QUESTION TYPE: 2
 otter  Otters are amphibious (or in one case aquatic) carnivorous mammals.
 
 In 1905 Coolidge met and married whom?	Grace Anna Goodhue	S08/data/set3/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In 1905 Coolidge met and married Grace Anna Goodhue, a local schoolteacher and fellow Vermonter.
 
 How many regions is Ghana divided into?	10	S08/data/set2/a5
@@ -2729,7 +2658,6 @@ Duck headcount in 2004 In many areas, wild ducks of various species (including d
 
 Why was the capital of Uruguay founded?	Uruguay's capital, Montevideo, was founded by the Spanish in the early 18th century as a military stronghold.	S08/data/set2/a9
 
-QUESTION TYPE: 2
 Montevideo was founded by the Spanish in the early 18th century as a military stronghold.
 
 Did Wilson support the committee system?	No.	S08/data/set3/a8
@@ -2738,7 +2666,7 @@ yes
 
 They were what?	NULL	S08/data/set3/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Calvin Coolidge  John Calvin Coolidge, Jr. (July 4 1872  January 5 1933), more commonly known as Calvin Coolidge, was the thirtieth President of the United States (1923â1929).
 
 What religions are found in Uruguay?	Roman Catholic, Protestant, Jewish	S08/data/set2/a9
@@ -2748,7 +2676,7 @@ Several lagoons are found along the Atlantic coast.
 
 Qatar became an independent sovereign state in what year?	On September 3, 1971.	S08/data/set2/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Qatar  Qatar ( ;  The pronunciation of Qatar in English varies; see List of words of disputed pronunciation for details.
 
 Who was defeated for re-election in the`` Revolution of 1800'' by Thomas Jefferson?	John Adams	S08/data/set3/a1
@@ -2763,7 +2691,7 @@ Calvin Coolidge  John Calvin Coolidge, Jr. (July 4 1872  January 5 1933), more c
 
 The John Adams Library , housed at the Boston Public Library , contains what?	Adams's personal collection of more than 3,500 volumes	S08/data/set3/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 * The John Adams Library, housed at the Boston Public Library, contains Adams's personal collection of more than 3,500 volumes in eight languages, many of which are extensively annotated by Adams.  
 
 Is uruguay's landscape mountainous?	not really?	S08/data/set2/a9
@@ -2776,7 +2704,7 @@ yes
 
 Has tusklessness become a rare abnormality?	No, tusklessness has become a widespread hereditary trait. 	S08/data/set1/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Tusklessness, once a very rare genetic abnormality, has become a widespread hereditary trait.
 
 Do women live longer than men?	Yes	S08/data/set2/a4
@@ -2809,7 +2737,7 @@ penguin  A penguin encounters a human during Antarctic summer. Penguins (order S
 
 Had the tax regime which started in 1998 a single rate but since September 2007 entered into a multiple rate regime ?	NULL	S08/data/set2/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The tax regime which started in 1998 had a single rate but since September 2007 entered into a multiple rate regime.
 
 What do jari litmanen and sami hyypiÃ¤ have in common?	NULL	S08/data/set2/a4
@@ -2824,7 +2752,7 @@ There are four species that are commonly referred to as kangaroos: * The Red Kan
 
 Has Leichtenstein worked to promote the county's image by prosecuting international money-laundering?	Yes	S08/data/set2/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Recently, Liechtenstein has shown strong determination to prosecute any international money-laundering and worked to promote the country's image as a legitimate financing center.
 
 What order do penguins belong to?	Sphenisciformes	S08/data/set1/a3
@@ -2848,12 +2776,10 @@ During pairing sperm cells are transferred to the female to fertilise the egg.
 
 Why do wolves howl?	To pack members keep in touch, allowing them to communicate effectively in thickly forested areas or over great distances	S08/data/set1/a6
 
-QUESTION TYPE: 2
 Howling helps pack members keep in touch, allowing them to communicate effectively in thickly forested areas or over great distances.
 
 How did early naturalists distinguish between leopards and panthers?	By the length of the tail, panthers having longer tails than leopards	S08/data/set1/a2
 
-QUESTION TYPE: 2
 Early naturalists distinguished between leopards and panthers not by colour (a common misconception), but by the length of the tail panthers having longer tails than leopards.
 
 Does Uruguay have cold summers?	no	S08/data/set2/a9
@@ -2892,7 +2818,7 @@ leopard  The leopard (Panthera pardus) is an Old World mammal of the Felidae fam
 
 Can these allophones not occur in these positions in english?	yes	S08/data/set2/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 However, since these allophones cannot occur in these positions in English, in this context they will sound more like English g and d. So the closest pronunciation, according to English phonemics, to the original Arabic might be  or . ), officially the State of Qatar (Arabic: Ø¯ÙÙØ© ÙØ·Ø±  transliterated as Dawlat Qatar), is an Arab emirate in Southwest Asia, occupying the small Qatar Peninsula on the northeasterly coast of the larger Arabian Peninsula.
 
 Who won the 1903 Nobel Prize in Physics for discovering radioactivity ?	Henri Becquerel	S08/data/set4/a9
@@ -2960,12 +2886,11 @@ He took a hard line that reduced violence by groups like the Ku Klux Klan.
 
 Have thumbpolar bears been made both controversial and famous for their distinctive white fur and their habitat ?	yes	S08/data/set1/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 thumbPolar bears have been made both controversial and famous for their distinctive white fur and their habitat.
 
 How do otters keep themselves warm without blubber?	a layer of air trapped in their fur	S08/data/set1/a7
 
-QUESTION TYPE: 2
 This traps a layer of air, and keeps them dry and warm under water.   
 
 Did Coolidge not publish his autobiography in 1929 and write a syndicated newspaper column , `` Calvin Coolidge Says , '' from 1930 -- 1931 ?	NULL	S08/data/set3/a9
@@ -3001,7 +2926,6 @@ yes
 
 What happened on those of aristotle?	NULL	S08/data/set4/a1
 
-ENTITY QUESTION: [[u'Isaac Newton', u'PERSON'], [u'Isaac Newton', u'PERSON'], [u'4', u'CARDINAL'], [u'January 1643 \xe2\x80\x93', u'DATE'], [u'March 31 1727', u'DATE'], [u'December 25 1642 \xe2\x80\x93 March 20 1727', u'DATE'], [u'English', u'NORP']]
 Isaac Newton  Sir Isaac Newton FRS ( ) (4 January 1643 â March 31 1727)   OS: December 25 1642 â March 20 1727   was an English physicist, mathematician, astronomer, natural philosopher, and alchemist.
 
 Are ducks an accepted presence in some populated areas?	Yes	S08/data/set1/a10
@@ -3028,7 +2952,6 @@ Alice Roosevelt died of an undiagnosed case of Bright's Disease two days after A
 
 How tall were the tallest prehistoric penguins?	as tall as an adult human	S08/data/set1/a3
 
-QUESTION TYPE: 2
 penguin  A penguin encounters a human during Antarctic summer. Penguins (order Sphenisciformes, family Spheniscidae) are a group of aquatic, flightless birds living almost exclusively in the Southern Hemisphere.
 
 Who did James Monroe live with in New York City?	His daughter Maria Hester Monroe Gouverneur	S08/data/set3/a2
@@ -3067,7 +2990,6 @@ turtle  Turtles are reptilians of the Order Testudines (all living turtles belon
 
 What happened in 1917?	raised billions through Liberty loans, imposed an income tax, set up the War Industries Board, promoted labor union growth, supervised agriculture and food production through the Lever Act, took over control of the railroads, and suppressed anti-war movements	S08/data/set3/a8
 
-ENTITY QUESTION: [[u'Woodrow Wilson', u'PERSON'], [u'Thomas Woodrow Wilson', u'PERSON'], [u'December 28,', u'DATE'], [u'3', u'CARDINAL'], [u'1924', u'DATE'], [u'twenty-eighth', u'DATE'], [u'the United States', u'GPE']]
 Woodrow Wilson  Thomas Woodrow Wilson (December 28, 1856âFebruary 3, 1924), was the twenty-eighth President of the United States.
 
 Does the native pronunciation of Qatar sound like 'cutter'?	no	S08/data/set2/a3
@@ -3085,7 +3007,7 @@ Their wings have become flippers, useless for flight in the air.
 
 European books and maps began referring to this region as Canada in what year?	1545	S08/data/set2/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 By 1545, European books and maps began referring to this region as Canada.
 
 Does Liechtenstein have an army?	No	S08/data/set2/a1
@@ -3098,7 +3020,6 @@ yes
 
 What happened in a region not quite 2000 km south of the equator 35 mya?	At least one giant penguin.	S08/data/set1/a3
 
-ENTITY QUESTION: [[u'Antarctic', u'ORG'], [u'at least one', u'CARDINAL'], [u'2000 km', u'QUANTITY'], [u'35 mya', u'QUANTITY'], [u'today', u'DATE']]
 These were not restricted to Antarctic regions; on the contrary, subantarctic regions harboured high diversity, and at least one giant penguin occurred in a region not quite 2000 km south of the Equator 35 mya , in a climate decidedy warmer than today.
 
 When was the first factory opened?	1836	S08/data/set2/a1
@@ -3117,7 +3038,6 @@ no
 
 How often do turtles breed?	Every few years or more	S08/data/set1/a9
 
-QUESTION TYPE: 2
 Often turtles only breed every few years or more.
 
 Are otters herbivores?	No	S08/data/set1/a7
@@ -3139,17 +3059,17 @@ yes
 
 Have penguins an average sense of hearing for birds ?	Yes	S08/data/set1/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Penguins have an average sense of hearing for birds (Wever et al 1969); this is used by parents and chicks to locate one another in crowded colonies (Jouventin et al 1999).
 
 Can an elephant kill a rhinoceros?	yes	S08/data/set1/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In Judeo-Christian accounts, including Midrash on the sixth chapter of the apocryphal book of 1 Maccabees, the youngest of the Hasmonean brothers, Eleazar the Maccabee stuck a spear under the foot of an elephant carrying an important Greek-Assyrian general, killing the elephant, the general, and Eleazar.  
 
 An otter 's den is what?	A holt	S08/data/set1/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 An otter's den is called a holt.
 
 What is the first word on the page?	James_Monroe	S08/data/set3/a2
@@ -3164,7 +3084,7 @@ He refused to announce his political affiliation until 1868, when he finally dec
 
 Garbage is what?	Garbage is now recycled or transported to Thompson, Manitoba.	S08/data/set1/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 polar bear  The polar bear (Ursus maritimus) is a bear native to the Arctic.
 
 When did Goh Chok Tong succeed Lee as Prime Minister?	In 1990, Goh Chok Tong succeeded Lee as Prime Minister.	S08/data/set2/a2
@@ -3220,7 +3140,7 @@ The word "Ghana" means "Warrior King", Jackson, John G. Introduction to African 
 
 Can beetles be found in polar regions?	No	S08/data/set1/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Beetles can be found in almost all habitats, but are not known to occur in the sea or in the polar regions.
 
 What is also the distance that Antarctic tourists are told to keep from penguins?	3 meters	S08/data/set1/a3
@@ -3259,7 +3179,7 @@ Uruguay  Uruguay (official full name in ; pron.
 
 Has Sang Nila Utama visited Singapore?	Yes.	S08/data/set2/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 About 9.7 million tourists visited Singapore in 2006.  
 
 Is all teaching done in English , Ghana 's official language ?	NULL	S08/data/set2/a5
@@ -3277,7 +3197,7 @@ Anders_Celsius Anders Celsius The observatory of Anders Celsius, from a contempo
 
 Name a turtle popularly kept as a pet.	Russian Tortoises	S08/data/set1/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Different animals are called turtles, tortoises, or terrapins in different varieties of English   Turtles, particularly small terrestrial and freshwater turtles, are commonly kept as pets.
 
 Who is depicted holding the flag in the famous painting of Washington Crossing the Delaware?	Monroe	S08/data/set3/a2
@@ -3287,7 +3207,6 @@ He is depicted holding the flag in the famous painting of Washington Crossing th
 
 What happened in recent years?	his reputation as president has improved	S08/data/set3/a5
 
-ENTITY QUESTION: [[u'Ulysses S. Grant', u'PERSON'], [u'Ulysses S. Grant', u'PERSON'], [u'Grant', u'PERSON'], [u'Hiram Ulysses Grant', u'ORG'], [u'April 27, 1822', u'DATE'], [u'July 23, 1885', u'DATE'], [u'American', u'NORP'], [u'the United States', u'GPE'], [u'1869 1877', u'DATE']]
 Ulysses S. Grant  Ulysses S. Grant, See military career for a discussion of Grant's middle initial. born Hiram Ulysses Grant (April 27, 1822  July 23, 1885), was an American general and the eighteenth President of the United States (1869 1877).
 
 What is one significant non-official language?	Chinese	S08/data/set2/a8
@@ -3302,7 +3221,7 @@ Uruguay  Uruguay (official full name in ; pron.
 
 Since when has Egypt been a republic?	June 18 1953	S08/data/set2/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 These views and sources for collective identification in the Egyptian state are captured in the words of a linguistic anthropologist who conducted fieldwork in Cairo:  Egypt has been a republic since June 18 1953.
 
 Did Fillmore not turn down the honor , explaining that he had neither the `` literary nor scientific attainment '' to justify the degree ?	no	S08/data/set3/a3
@@ -3320,7 +3239,6 @@ yes
 
 Why do kangaroos have a wide bite?	Because of grazing	S08/data/set1/a1
 
-QUESTION TYPE: 2
 Kangaroos have few natural predators.
 
 What connected the Akans to this Empire?	NULL	S08/data/set2/a5
@@ -3330,7 +3248,7 @@ Anecdotal evidence connected the Akans to this Empire.
 
 Can a panther be any of several species of large felid?	Yes	S08/data/set1/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 A panther can be any of several species of large felid; in North America, the term refers to cougars, in South America, jaguars, and elsewhere, leopards.
 
 Is it approximately 6.0221415 10 23 ?	NULL	S08/data/set4/a8
@@ -3349,12 +3267,11 @@ Education City is also home to a fully accredited International Baccalaureate sc
 
 Which county was Lincoln born in?	Southeast Hardin County, Kentucky	S08/data/set3/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Robert Todd Lincoln was born in Springfield, Illinois on 1 August, 1843.
 
 What happened in french?		S08/data/set4/a8
 
-ENTITY QUESTION: [[u'Amedeo Avogadro Lorenzo Romano', u'ORG'], [u'Carlo Avogadro', u'PERSON'], [u'Count', u'PERSON'], [u'Quaregna', u'GPE'], [u'Cerreto', u'PERSON'], [u'August 9, 1776', u'DATE'], [u'1856', u'DATE'], [u'Italian', u'NORP']]
 Amedeo Avogadro  Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avogadro, Count of Quaregna and Cerreto (August 9, 1776 July 9, 1856) was an Italian savant.
 
 When did the first official report of kangaroo blindness take place?	1994	S08/data/set1/a1
@@ -3364,7 +3281,6 @@ The first official report of kangaroo blindness took place in 1994, in central N
 
 How do kwajalein and eniwetok relate?	The Monterey supported landings at both locations.	S08/data/set3/a10
 
-QUESTION TYPE: 2
 Gerald Ford  Gerald Rudolph Ford, Jr. (July 14, 1913  December 26, 2006) was the thirty-eighth President of the United States, serving from 1974 to 1977, and the fortieth Vice President of the United States serving from 1973 to 1974.
 
 What are some common predators of ducks?	pike, crocodilians, and other aquatic hunters	S08/data/set1/a10
@@ -3374,7 +3290,7 @@ duck  Duck is the common name for a number of species in the Anatidae family of 
 
 For how long was Ford a member of the House of Representatives?	Ford served for over eight years as the Republican Minority Leader of the United States House of Representatives	S08/data/set3/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Ford was a member of the House of Representatives for twenty-four years, holding the Grand Rapids congressional district seat from 1949 to 1973.
 
 Was John Calvin Coolidge Jr. was born in Las Vegas?	no	S08/data/set3/a9
@@ -3388,7 +3304,6 @@ During the Second Balkan War, Romania joined Greece, Serbia, Montenegro and Turk
 
 Why Churchill called the occupation of Singapor by Janpan during WWII "Britain's greatest defeat"?	The British were defeated in six days	S08/data/set2/a2
 
-QUESTION TYPE: 2
 Winston Churchill called it "Britain's greatest defeat" when it was occupied by the Japanese during World War II.  
 
 Does the mother care for the young?	no	S08/data/set1/a9
@@ -3397,7 +3312,7 @@ yes
 
 The Republicans retained what?	NULL	S08/data/set3/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The Republicans retained the White House in 1928 in the person of Coolidge's Secretary of Commerce, Herbert Hoover.
 
 Who was Roosevelt's presidential hero?	Lincoln was Roosevelt's presidential hero	S08/data/set3/a7
@@ -3429,7 +3344,6 @@ yes
 
 How are otters playful animals?	They slide repeatedly down snowy slopes for sheer enjoyment.	S08/data/set1/a7
 
-QUESTION TYPE: 2
 Otters are playful animals, for example sliding repeatedly down snowy slopes, apparently from sheer enjoyment.
 
 How long after the death of his first wife did Fillmore marry Caroline McIntosh?	where is the death date of his first wife?	S08/data/set3/a3
@@ -3448,7 +3362,7 @@ yes
 
 Can citizens propose changes to the Constitution?	Yes	S08/data/set2/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The Uruguayan constitution allows citizens to challenge laws approved by Parliament by use of a Referendum, or to propose changes to the Constitution by the use of a Plebiscite.
 
 What defended slavery, owned slaves and set up a Sunday school for them?	His father	S08/data/set3/a8
@@ -3463,7 +3377,7 @@ He fell in love with Abigail Powers, whom he later married on February 26, 1826.
 
 With what party did Adams run for presidency?	The Federalist Party	S08/data/set3/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In case the negotiation did not work Adams urged the Congress to augment the navy and army.  
 
 Who did Cleveland run against in 1884?	James G. Blaine	S08/data/set3/a6
@@ -3482,12 +3396,11 @@ yes
 
 Has Singapore Changi Airport a network of 81 airlines connecting Singapore to 185 cities in 58 countries ?	Yes	S08/data/set2/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Singapore Changi Airport has a network of 81 airlines connecting Singapore to 185 cities in 58 countries.
 
 How do cuba and declining participation relate?	Canada maintains full relations with both.	S08/data/set2/a8
 
-QUESTION TYPE: 2
 Canada has nevertheless maintained an independent foreign policy, most notably maintaining full relations with Cuba and declining participation in the Iraq War.
 
 Is Liechtenstein heavily urbanized?	No	S08/data/set2/a1
@@ -3510,12 +3423,12 @@ Ford received a commission as ensign in the U.S. Naval Reserve on April 13, 1942
 
 The earliest people were what?	NULL	S08/data/set2/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The earliest people were hunter-gatherers, living primarily off what the tundra and sea could offer.
 
 Has Singapore a network of reservoirs and water catchment areas ?	Yes	S08/data/set2/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Singapore has a network of reservoirs and water catchment areas.
 
 Is finland a democratic , parliamentary republic?	NULL	S08/data/set2/a4
@@ -3524,22 +3437,21 @@ yes
 
 In which years were John Monroe elected as President?	1817-1825	S08/data/set3/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Following the War of 1812, Monroe was elected president in the election of 1816, and re-elected in 1820.
 
 How do turtles reproduce?	they lay eggs	S08/data/set1/a9
 
-QUESTION TYPE: 2
 turtle  Turtles are reptilians of the Order Testudines (all living turtles belong to the crown group Chelonia), most of whose body is shielded by a special bony or cartilaginous shell developed from their ribs.
 
 Has Qatar a modern Telecommunication system centered in Doha ?	Yes	S08/data/set2/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Qatar has a modern Telecommunication system centered in Doha.
 
 He founded the private university of buffalo on what date?	1846	S08/data/set3/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Millard Fillmore  Millard Fillmore (January 7, 1800  March 8, 1874) was the thirteenth President of the United States, serving from 1850 until 1853, and the last member of the Whig Party to hold that office.
 
 Who is the most popular rock group in Finland?	CMX	S08/data/set2/a4
@@ -3559,7 +3471,7 @@ The country's railways are administered by the Austrian Federal Railways as part
 
 To whom was Millard Fillmore born to?	to Nathaniel and Phoebe Millard Fillmore	S08/data/set3/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Fillmore was born in a log cabin in Summerhill, New York, to Nathaniel and Phoebe Millard Fillmore, as the second of nine children and the eldest son.  
 
 What is a country with which Finland is involved in an international conflict?	Finland is not involved in international conflicts or border disputes. 	S08/data/set2/a4
@@ -3574,7 +3486,7 @@ Gray Wolf  The gray wolf (Canis lupus), also known as the timber wolf or, simply
 
 According to Reader's Digest, is Finland best for living?	Yes	S08/data/set2/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Finland is also a place rich in culture for history, tradition and religion.
 
 What year did Coolidge open his own law office?	1898	S08/data/set3/a9
@@ -3584,12 +3496,11 @@ Did he support these measures while president?
 
 Why otters are considered as totem animals?	The time of year associated with this is also associated with the Aquarius sign of the Zodiac, through which the sun passes January 20-February 19. 	S08/data/set1/a7
 
-QUESTION TYPE: 2
 In some Native American cultures, otters are considered totem animals.
 
 Have Kangaroos dazzled by headlights or startled by engine noise been known to leap in front of cars ?	yes	S08/data/set1/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Kangaroos dazzled by headlights or startled by engine noise have been known to leap in front of cars.
 
 When did he publish a collection?	1733	S08/data/set4/a5
@@ -3604,7 +3515,6 @@ James_Monroe  James Monroe (April 28, 1758 â July 4, 1831) was the fifth Pr
 
 Why did Lincoln issue the Emancipation Proclamation?	The goal was to weaken the rebellion, which was led and controlled by slave owners.	S08/data/set3/a4
 
-QUESTION TYPE: 2
 He introduced measures that resulted in the abolition of slavery, issuing his Emancipation Proclamation in 1863 and promoting the passage of the Thirteenth Amendment to the Constitution in 1865.
 
 What are the three sections of a beetle?	The head, the thorax, and the abdomen	S08/data/set1/a8
@@ -3624,7 +3534,7 @@ Abraham Lincoln  Abraham Lincoln (February 12, 1809 â April 15, 1865) was t
 
 Can the title of this famous 1811 paper be roughly translated into english?		S08/data/set4/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The title of this famous 1811 paper can be roughly translated into English as "Essay on Determining the Relative Masses of the Elementary Molecules of Bodies".
 
 What are approximately 42,000 years old and have been nicknamed`` John of Anina''?	the remains (the lower jaw) of the oldest modern human	S08/data/set2/a7
@@ -3638,12 +3548,12 @@ yes
 
 Which state were Coolidge born in?	Vermont	S08/data/set3/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Fuess, 7 Most of Coolidge's ancestors were farmers.
 
 Have larger kangaroos adapted much better to changes?	yes	S08/data/set1/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In general, larger kangaroos have adapted much better to changes wrought to the Australian landscape by humans and though many of their smaller cousins are endangered, they are plentiful.
 
 When was James Monroe elected president?	Monroe was elected president in the election of 1816, and re-elected in 1820.	S08/data/set3/a2

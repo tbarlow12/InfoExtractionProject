@@ -26,9 +26,32 @@ def append_spaced_words(word_list):
 
 #Text Helpers
 
-def getAnswerSet(root):
+def getAnswerSet_non_null(root):
+    question_dict = {}
     with io.open(root + '/question_answer_pairs.txt',encoding='latin-1') as f:
-        return [(u''.join(line.strip())).split('\t') for line in f.readlines()[1:]]
+        answers = [(u''.join(line.strip())).split('\t') for line in f.readlines()[1:]]
+        for item in answers:
+            if len(item) == 6:
+                question = item[1]
+                expected_answer = item[2]
+                articleFile = u''.join(root[-3:]) + u'/' + item[5]
+                if question not in question_dict or expected_answer != 'NULL':
+                    question_dict[question] = [expected_answer,articleFile]
+    return question_dict
+
+def getAnswerSet_all(root):
+    answer_set = []
+    with io.open(root + '/question_answer_pairs.txt',encoding='latin-1') as f:
+        answers = [(u''.join(line.strip())).split('\t') for line in f.readlines()[1:]]
+        for item in answers:
+            if len(item) == 6:
+                question = item[1]
+                expected_answer = item[2]
+                articleFile = u''.join(root[-3:]) + u'/' + item[5]
+                answer_set.append([question,expected_answer,articleFile])
+    return answer_set
+
+
 
 def find(s, ch):
     return [i for i, ltr in enumerate(s) if ltr == ch]
@@ -56,6 +79,8 @@ def get_decoded(string):
 #Algorithm helpers
 
 #Check for synonyms of verb????? https://github.com/explosion/spaCy/issues/276
+
+
 
 def contains_verb(tokens,verb):
     for token in tokens:
@@ -109,6 +134,11 @@ def index_of(tokens,lemmatized_word):
             return i
     return -1
 
+def get_entities(doc):
+    entities = []
+    for ent in doc.ents:
+        entities.append([ent.text, ent.label_])
+    return entities
 
 def get_subjects(doc):
     verbs = set()
@@ -116,7 +146,6 @@ def get_subjects(doc):
         if possible_subject.dep == nsubj and possible_subject.head.pos == VERB:
             verbs.add(possible_subject.lemma_)
     return verbs
-
 
 def get_subject_verbs(doc):
     subjects = set()
@@ -292,9 +321,10 @@ def get_answer_type(question):
             return [1,{},{'DATE'}]
         if t2 == 'do':
             return [1,{pobj,dobj},{'NORP','FACILITY','ORG','GPE','PRODUCT','EVENT','WORK_OF_ART','LANGUAGE'}]
+        if t2 == 'happen':
+            return [3,question[2:-1]]
         else:
             return [1,{},{'NORP','FACILITY','ORG','GPE','PRODUCT','EVENT','WORK_OF_ART','LANGUAGE'}]
-
     if t1 == 'where':
         #location
         return [1,{},{'LOC'}]
@@ -303,7 +333,7 @@ def get_answer_type(question):
         return [1,{},{'DATE'}]
     if t1 == 'why':
         #reason
-        return [2]
+        return [2,question[2:-1]]
     if t1 == 'how':
         if t2 == 'many':
             return [1,{'QUANTITY'}]
@@ -311,11 +341,27 @@ def get_answer_type(question):
                 return [1,{'CARDINAL'}]
         if t2 == 'much':
             return [1,{'QUANTITY','PERCENT','MONEY'}]
-
         if t2 == 'long':
             return [1,{'CARDINAL'}]
-        return [2]
-    return [3]
+        return [2,question[2:-1]]
+    return [4]
+
+
+
+def index_of(doc,sub):
+    tokens = list(doc)
+    for i in range(0,len(tokens)):
+        token = tokens[i]
+        if token.lemma_ == sub[0].lemma_:
+            start_index = i
+            j = 0
+            while j < len(sub) and i < len(tokens) and tokens[i].lemma_ == sub[j].lemma_:
+                if j == (len(sub) - 1):
+                    return [start_index,i]
+                j += 1
+                i += 1
+    return [-1,-1]
+
 
 
 

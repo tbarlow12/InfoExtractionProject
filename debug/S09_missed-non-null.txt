@@ -15,12 +15,12 @@ ENTITY QUESTION: [[u'Nassau', u'GPE'], [u'Princeton', u'GPE'], [u'New Jersey', u
 
 Pasan en consecuencia , las palabras que comienzan por estas dos letras , o que las contienen , a alfabetizarse en los lugares que les corresponden dentro de la c y de la l , respectivamente ?	NULL	S09/data/set5/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 En consecuencia, las palabras que comienzan por estas dos letras, o que las contienen, pasan a alfabetizarse en los lugares que les corresponden dentro de la c y de la l, respectivamente.
 
 In what country is Chinese language located?	NULL	S09/data/set5/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 BBC NEWS | UK | Magazine | How hard is it to learn Chinese?
 
 How many years ago was it when Volta married the daughter of Count Ludovico Peregrini , Teresa , with whom he raised three sons?	215	S09/data/set4/a10
@@ -30,12 +30,11 @@ He was in correspondence with scientists in Austria, which ruled Lombardy in his
 
 How old was Anders Celsius when he died?	42	S09/data/set4/a5
 
-QUESTION TYPE: 2
 In 1744 he died of tuberculosis in Uppsala, and was buried in the Old Uppsala Church.
 
 From what did Pascal suffer throughout his life?	poor health	S09/data/set4/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 But that didn't stop all of educated France from reading them.
 
 How many years ago was it when he discovered that the optical properties of gold colloids differed from those of the corresponding bulk metal?	162	S09/data/set4/a7
@@ -57,14 +56,9 @@ Is arabic source of vocabulary?	NULL	S09/data/set5/a3
 
 yes
 
-How do turtles chew food?	Turtles use their jaws to cut and chew food	S09/data/set1/a4
-
-QUESTION TYPE: 2
-Turtles use their jaws to cut and chew food.
-
 Copenhagen is ranked number one worldwide for which things?	Most Livable City, Location Ranking Survey	S09/data/set3/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Copenhagen  Copenhagen ( ;  ) is the capital and largest city of Denmark, with a population of 1,161,063.  
 
 What part of the cymbal gets the best "crash"?	edge or rim	S09/data/set2/a6
@@ -88,12 +82,11 @@ no
 
 Why is Copenhagen a regional hub?	Its strategic location and excellent infrastructure with the largest airport in Scandinavia[6] located 14 minutes by train from the city centre	S09/data/set3/a8
 
-QUESTION TYPE: 2
 Its strategic location and excellent infrastructure with the largest airport in Scandinavia  located 14 minutes by train from the city centre, has made it a regional hub and a popular location for regional headquarters  as well as conventions.
 
 Loschmidt calculated first the value of what?	Avogadro's number	S09/data/set4/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 During his stay in Vercelli he wrote a concise note (memoria) in which he declared the hypothesis of what we now call Avogadro's law: This memoria he sent to De Lamétherie's Journal de Physique, de Chimie et d'Histoire naturelle and it was published in the edition of July 14, 1811 with the title Essai d'une manière de déterminer les masses relatives des molecules élémentaires des corps, et les proportions selon lesquelles elles entrent dans ces combinaisons .
 
 Where are the circumstances complicated?	NULL	S09/data/set5/a6
@@ -117,12 +110,12 @@ The Odawa are an Algonquin people who called the river the Kichi Sibi or Kichiss
 
 In what year did Avogadro stop teaching at Turin University?	1823	S09/data/set4/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The unification of Italy did not happen during the life time of Avogadro.
 
 Refer most chinese and chinese linguists to chinese as a single language and Chinese language`s subdivisions dialects , while others call chinese a language family ?	NULL	S09/data/set5/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Most Chinese and Chinese linguists refer to Chinese as a single language and its subdivisions dialects, while others call Chinese a language family.
 
 Is lyre played in mordern Greece?	No	S09/data/set2/a10
@@ -158,7 +151,6 @@ Italian_language  Italian ( , or lingua italiana) is a Romance language spoken b
 
 Why is there purling on a cello?	to stop cracks from forming ****misspelled****	S09/data/set2/a9
 
-QUESTION TYPE: 2
 Cello  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
 
 Where do bees live?	in colonies	S09/data/set1/a8
@@ -183,7 +175,7 @@ Joseph Henry likely discovered self-induction a few months earlier and both may 
 
 Could Blaise Pascal move without crutches?	no	S09/data/set4/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In 1647, a paralytic attack so disabled him that he could not move without crutches.
 
 What principles did Newton explain for mechanics?	In mechanics, Newton enunciated the principles of conservation of momentum and angular momentum	S09/data/set4/a1
@@ -206,7 +198,7 @@ no
 
 James Watt ranked first among how many people in Charles Murray's survey of historiometry?	229	S09/data/set4/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Watt was ranked first, tying with Edison, among 229 significant figures in the history of technology by Charles Murray's survey of historiometry presented in his book Human Accomplishments.
 
 Is the name of the upper shell of a turtle called the plastron?	No.	S09/data/set1/a4
@@ -215,7 +207,7 @@ yes
 
 In Switzerland, is Ã used at all?	no	S09/data/set5/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In Switzerland, Ã is not used at all.
 
 What is the Polish word for swan?	ÅabÄdÅº	S09/data/set1/a10
@@ -225,7 +217,7 @@ ENTITY QUESTION: [[u'Webster', u'PERSON'], [u'New World Dictionary', u'ORG'], [u
 
 Give dictionaries the latter as an alternative pronunciation ?	NULL	S09/data/set5/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Dictionaries give the latter as an alternative pronunciation.  
 
 Are there also large populations of German ancestry In Mexico?	yes	S09/data/set5/a2
@@ -244,7 +236,7 @@ The sound can be obtained by rubbing their edges together in a sliding movement 
 
 The deeper  the blue  is, is the more  predominant?	NULL	S09/data/set5/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Spanish_language  Spanish ( ) or Castilian (castellano) is a Romance language that originated in northern Spain, and gradually spread in the Kingdom of Castile and evolved into the principal language of government and trade.
 
 Who is the mayor of Ottawa?	Larry O'Brien	S09/data/set3/a5
@@ -268,12 +260,11 @@ Turtle  Turtle Turtles are reptiles of the order Testudines (the crown group of 
 
 In fact, was Avogadro `s  famous  1811  paper written in French . )	Yes	S09/data/set4/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In fact, Avogadro's famous 1811 paper was written in French.)
 
 How do giraffes defend themselves?	With powerful kicks	S09/data/set1/a5
 
-QUESTION TYPE: 2
 Giraffe  The giraffe (Giraffa camelopardalis) is an African even-toed ungulate mammal, the tallest of all land-living animal species, and the largest ruminant.
 
 Are there between 7 and 13 main regional groups of Chinese , of which the most spoken , by far , is about 850 million , followed by 90 million , 70 million and 70 million ?	NULL	S09/data/set5/a7
@@ -286,7 +277,7 @@ yes
 
 Before 1796, was Lombardy ruled by Austria?	yes	S09/data/set4/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Before 1796, Lombardy was ruled by Austria.
 
 What is someone who makes violins called?	a luthier	S09/data/set2/a2
@@ -318,7 +309,7 @@ Swan  Swans are birds of the family Anatidae, which also includes geese and duck
 
 Approximately how many species of Testudines are alive today?	300	S09/data/set1/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 About 300 species are alive today, and some are highly endangered.
 
 Is Copenhagen completely surrounded with water? 	No	S09/data/set3/a8
@@ -370,7 +361,7 @@ The shape of the hand should resemble that of its relaxed state, with all finger
 
 Whate is the usual pitch range of a violin?	from G3 to C8	S09/data/set2/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Violin  The violin is a bowed string instrument with four strings usually tuned in perfect fifths.
 
 How many laws of motion did Netwon have?	Three	S09/data/set4/a1
@@ -421,27 +412,26 @@ Faraday was the first to report what later came to be called metallic nanopartic
 
 How did vespoid wasps evolve?	from predatory ancestors	S09/data/set1/a8
 
-QUESTION TYPE: 2
 This same evolutionary scenario has also occurred within the vespoid wasps, where the group known as "pollen wasps" also evolved from predatory ancestors.
 
 The sociolinguistic situation of Arabic provides a prime example of what?	the linguistic phenomenon of diglossia	S09/data/set5/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The sociolinguistic situation of Arabic in modern times provides a prime example of the linguistic phenomenon of diglossia, which is the normal use of two separate varieties of the same language, usually in different social situations.
 
 Italian retained the contrast between what?	NULL	S09/data/set5/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Italian_language  Italian ( , or lingua italiana) is a Romance language spoken by about 70 million people as a first language, and by about 50 million more as a second or studied language, making the total number of speakers up to 120 million.
 
 The pronunciation of the phoneme / u / stands between what?	NULL	S09/data/set5/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The pronunciation of the phoneme /u/ stands between International Phonetic Alphabet u and oâ ~Éµ (as found in Italian, for example).
 
 Will a japanese person use vocabulary and inflections of the honorific register to refer to the in-group superior and Japanese language`s or Japanese language`s speech and actions ?	NULL	S09/data/set5/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 When speaking directly to one's superior in one's company or when speaking with other employees within one's company about a superior, a Japanese person will use vocabulary and inflections of the honorific register to refer to the in-group superior and his or her speech and actions.
 
 Do sea otters have a layer of fat like whales?	no	S09/data/set1/a7
@@ -454,7 +444,7 @@ yes
 
 Which ballet by Pyotr Tchaikovsky is partially based on an Ancient German legend about a princess who was turned into a swan?	Swan Lake	S09/data/set1/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 It is partially based on an ancient German legend, which tells the story of Odette, a princess turned into a swan by an evil sorcerer's curse - to which were added similar elements from Russian Russian folk tales such as The White Duck collected by Alexander Nikolayevich Afanasyev in Narodnye russkie skazki .
 
 What are the most common Cymbals?	Hi-Hats, Crash, Splash, Ride, and China	S09/data/set2/a6
@@ -464,7 +454,7 @@ Cymbal  Cymbals are a modern percussion instrument.
 
 However , are non-human plural nouns grammatically considered to be feminine singular ?	yes	S09/data/set5/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 However, non-human plural nouns are grammatically considered to be feminine singular.
 
 Are fennec foxes endangered?	No	S09/data/set1/a6
@@ -473,7 +463,7 @@ yes
 
 Which part of the strings does the left hand touch?	The lower strings	S09/data/set2/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 They also agree that neither the overall size of the instrument nor the number of strings on it have anything to do with its classification.
 
 What is the Sanskrit word for swan?	Hamsa or hansa	S09/data/set1/a10
@@ -511,17 +501,16 @@ Cleptoparasitic bees, commonly called "cuckoo bees" because their behavior is si
 
 Copenhagen is the capital of what country?	Denmark	S09/data/set3/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Copenhagen  Copenhagen ( ;  ) is the capital and largest city of Denmark, with a population of 1,161,063.  
 
 How old was Henri Becquerel when he died?	53	S09/data/set4/a9
 
-QUESTION TYPE: 2
 He died at the age of 55 in Le Croisic.
 
 Can the title of this famous 1811 paper be roughly translated into English as "essay on determining the Relative Masses of the Elementary Molecules of Bodies" ?	Yes.	S09/data/set4/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The title of this famous 1811 paper can be roughly translated into English as "Essay on Determining the Relative Masses of the Elementary Molecules of Bodies".
 
 What was Anders Celsius`s profession?	professor of astronomy	S09/data/set4/a5
@@ -562,12 +551,12 @@ no
 
 Can a xylophone be 3 octaves?	yes	S09/data/set2/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Some xylophones can be as small as 2 1/2 octaves but concert xylophones are typically 3 1/2 or 4 octaves.
 
 Can syllables begin with a vowel?	no	S09/data/set5/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Syllables cannot begin with a vowel.
 
 Where did Tesla study electrical engineering?	Austrian Polytechnic in Graz	S09/data/set4/a3
@@ -577,7 +566,6 @@ Tesla then studied electrical engineering at the Austrian Polytechnic in Graz (1
 
 How old was Alessandro Volta when he died?	 82	S09/data/set4/a10
 
-QUESTION TYPE: 2
 Alessandro_Volta  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
 
 Did Henri Becquerel live to be 80 years old?	no	S09/data/set4/a9
@@ -591,17 +579,17 @@ Fox  A fox is an animal belonging to any one of about 27 species (of which only 
 
 Will , the vowel sounds be pronounced separately) ?	NULL	S09/data/set5/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Italian has few diphthongs, so most unfamiliar diphthongs that are heard in foreign words (in particular, those beginning with vowel "a", "e", or "o") will be assimilated as the corresponding diaeresis (i.e., the vowel sounds will be pronounced separately).  
 
 Can the origins of cymbals be traced back to prehistoric times?	Yes	S09/data/set2/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The origins of cymbals can be traced back to prehistoric times.
 
 Would BundeslÃ¤nder not accept North Rhine Westphalia and Bavaria ?	yes	S09/data/set5/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Some state parliaments (BundeslÃ¤nder) would not accept it (North Rhine Westphalia and Bavaria).
 
 Does the   form indicate a perfect tense?	NULL	S09/data/set5/a6
@@ -615,12 +603,12 @@ At the time of Newton's birth, England had not adopted the latest papal calendar
 
 Has the San Lorenzo Megaport Project been completed?	No.	S09/data/set3/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 >  The Lima Metro, a above ground mass transit system, is under construction and  one line has been completed while another six are scheduled for construction.
 
 He discovered an inverse relationship of what?	distance and electric force	S09/data/set4/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Charles-Augustin_de_Coulomb  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
 
 What is Japanese language`s first name?	NULL	S09/data/set5/a6
@@ -640,7 +628,7 @@ When young female tigers first establish a territory, they tend to do so fairly 
 
 In what year did Henri Becquerel win the Nobel Prize in Physics?	1903	S09/data/set4/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Henri_Becquerel  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
 
 What is Italian language`s first name?	NULL	S09/data/set5/a9
@@ -650,12 +638,12 @@ J in Italian is an old-fashioned orthographic variant of I, appearing in the fir
 
 The Spanish Crown named Pizarro governor of what?	Hemming.	S09/data/set3/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 As the Spanish Crown had named Pizarro governor of the lands he conquered, Hemming, The conquest, p. 28.
 
 Which harmonics can produce any notes above middle C? 	Artificial harmonics	S09/data/set2/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Artificial harmonics (also called False harmonics), in which the player depresses the string fully with one finger while touching the same string lightly with another finger, can produce any notes above middle C. They usually appear with the touching note a perfect fourth above the stopped note, which produces a sound two octaves above the stopped note, although other intervals are available.
 
 Where does swahili grammar arrange nouns?	NULL	S09/data/set5/a4
@@ -665,12 +653,11 @@ Swahili l and r are confounded by many speakers (the extent to which this is dem
 
 How does a trumpet produce sound?	By blowing air through closed lips.	S09/data/set2/a3
 
-QUESTION TYPE: 2
 It is also possible to produce pedal tones below the low F , although this technique is more often encountered as a sound-production exercise than as a written trumpet part.
 
 Has swahili no diphthongs?	No	S09/data/set5/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Swahili has no diphthongs; in vowel combinations, each vowel is pronounced separately.
 
 What fictional stories include a main character named Santiago?	Interview with the Vampire, The Alchemist, and others	S09/data/set3/a6
@@ -707,7 +694,7 @@ Dhaka  Dhaka (formerly spelled as Dacca) (Bangla: à¦¢à¦¾à¦à¦¾, ) is
 
 Can the origins of cymbals be traced to prehistoric times?	Yes	S09/data/set2/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The origins of cymbals can be traced back to prehistoric times.
 
 What do tigers' powerfully built legs and shoulders allow tigers to do?	have the ability to pull down prey substantially heavier than themselves	S09/data/set1/a3
@@ -726,7 +713,7 @@ On magnetism" (1789) Coulomb explained the laws of attraction and repulsion betw
 
 Aside from the Provincial Letters' religious influence, were they popular as a literary work?	yes	S09/data/set4/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Aside from their religious influence, the Provincial Letters were popular as a literary work.
 
 Are the most active in Damascus and Cairo?	(bad question)	S09/data/set5/a3
@@ -739,7 +726,7 @@ yes
 
 For how many years did Alessandro Volta live?	53	S09/data/set4/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Alessandro_Volta  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
 
 What is the battery made by Volta credited to be?	the first cell	S09/data/set4/a10
@@ -758,12 +745,12 @@ yes
 
 Hence , can relative molecular masses be calculated from the masses of gas samples ?	yes	S09/data/set4/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Hence, relative molecular masses can be calculated from the masses of gas samples.
 
 However, is English the official  language?	NULL	S09/data/set5/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Spanish_language  Spanish ( ) or Castilian (castellano) is a Romance language that originated in northern Spain, and gradually spread in the Kingdom of Castile and evolved into the principal language of government and trade.
 
 What is the best physician?	Time	S09/data/set4/a4
@@ -773,7 +760,7 @@ Blaise_Pascal  Blaise Pascal ( ), (June 19 1623  August 19 1662) was a French ma
 
 For how many years did Henri Becquerel live?	56	S09/data/set4/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Describing his method to the French Academy of Sciences on January 24, 1896, he said, One wraps a LumiÃ¨re photographic plate with a bromide emulsion in two sheets of very thick black paper, such that the plate does not become clouded upon being exposed to the sun for a day.
 
 Is it true that the sociolinguistic situation of Arabic provides a prime example of the linguistic phenomenon?	NULL	S09/data/set5/a3
@@ -796,7 +783,6 @@ In 1534 the Luther Bible by Martin Luther was printed.
 
 How old was Charles-Augustin de Coulomb when he died?	1806	S09/data/set4/a6
 
-QUESTION TYPE: 2
 Charles-Augustin_de_Coulomb  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
 
 Where do sea otters live?	Pacific coast of North America	S09/data/set1/a7
@@ -842,12 +828,12 @@ Nassau  __NOTOC__ Nassau may mean the following:  Nassau, Germany: a town in Rhi
 
 Have adverbs of time to appear in the third place in the sentence , just after the predicate ?	Yes	S09/data/set5/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Except for emphasis, adverbs of time have to appear in the third place in the sentence, just after the predicate.
 
 Can turtles spend all their time underwater?	No	S09/data/set1/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Although many turtles spend large amounts of their lives underwater, all turtles and tortoises breathe air, and must surface at regular intervals to refill their lungs.
 
 What is Ottawa's major league hockey team?	the Ottawa Senators	S09/data/set3/a5
@@ -870,7 +856,7 @@ yes
 
 In 1908, the year  of his death, was Becquerel elected Permanent Secretary  of the AcadÃ©mie  des  Sciences?	Yes	S09/data/set4/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In 1908, the year of his death, Becquerel was elected Permanent Secretary of the AcadÃ©mie des Sciences.
 
 What was Michael Faraday`s profession?	chemist and physicist	S09/data/set4/a7
@@ -880,7 +866,7 @@ Michael_Faraday  Michael Faraday, FRS (September 22, 1791 â August 25, 1867
 
 Institution formed the foundation of what?	modern electromagnetic technology	S09/data/set4/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 He invented an early form of what was to become the Bunsen burner, which is used almost universally in science laboratories as a convenient source of heat.  
 
 What was Japanese language`s profession?	NULL	S09/data/set5/a6
@@ -977,7 +963,7 @@ no
 
 Can the palatal nasal occur in word initial position ( e.g ?	NULL	S09/data/set5/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The palatal nasal can occur in word initial position (e.g. gnon), but it is most frequently found in intervocalic, onset position or word-finally (e.g. montagne). *
 
 What position is used to play the cello?	seated	S09/data/set2/a9
@@ -991,17 +977,16 @@ yes
 
 May the idea of Chinese as a language family suggest that the chinese identity is much more fragmentary and disunified than Chinese language actually is and as such is often looked upon as culturally and politically provocative ?	NULL	S09/data/set5/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 To Chinese nationalists, the idea of Chinese as a language family may suggest that the Chinese identity is much more fragmentary and disunified than it actually is and as such is often looked upon as culturally and politically provocative.
 
 How did civil wars affect England during the Middle Ages?	London remained relatively untouched	S09/data/set3/a1
 
-QUESTION TYPE: 2
 London  London ( ; ) is the capital of both England and the United Kingdom, and the largest urban area in the European Union. {{cite web|url= title=Largest EU City  An important settlement for two millennia, London's history goes back to its founding by the Romans.  
 
 From what type of Cymbals can a expert player obtain an enormous dynamic range?	Crash cymbals	S09/data/set2/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 A skilled player can obtain an enormous dynamic range from such a pair of cymbals.
 
 What are Ottawa's primary industries?	Logging and lumber	S09/data/set3/a5
@@ -1011,12 +996,12 @@ Ottawa  Ottawa ( or sometimes ) is the capital of Canada and the country's fourt
 
 Have cymbals been used historically to suggest bacchanal?	Yes	S09/data/set2/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Clash cymbals have traditionally been accompanied by the bass drum playing an identical part.
 
 Can Regional differences be recognized by various factors : the openness of vowels , the length of the consonants , and influence of the local dialect ?	NULL	S09/data/set5/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Regional differences can be recognized by various factors: the openness of vowels, the length of the consonants, and influence of the local dialect (for example, annÃ  replaces andare in the area of Rome for the infinitive "to go").  
 
 What is the boiling point of water dependent on?	atmospheric pressure	S09/data/set4/a5
@@ -1031,7 +1016,7 @@ In 1820 he became a professor of physics at the University of Turin.
 
 Can black swans swim with only one leg?	Yes	S09/data/set1/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Swan  Swans are birds of the family Anatidae, which also includes geese and ducks.
 
 Are japanese personal pronouns generally used only in situations requiring special emphasis as to who is doing what to whom ?	NULL	S09/data/set5/a6
@@ -1049,7 +1034,7 @@ yes
 
 If Henri Becquerel was alive today, how old would he have been?	157	S09/data/set4/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Becquerel was born in Paris into a family which, including he and his son Jean, produced four generations of scientists.
 
 When is the end of the independence war of Bangladesh?	December 16, 1971	S09/data/set3/a3
@@ -1069,22 +1054,22 @@ Turtle  Turtle Turtles are reptiles of the order Testudines (the crown group of 
 
 Thus , can polite korean speech sound very presumptuous when translated verbatim into Japanese , as in korean Japanese language is acceptable and normal to say things like "our Mr ?	NULL	S09/data/set5/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Thus, polite Korean speech can sound very presumptuous when translated verbatim into Japanese, as in Korean it is acceptable and normal to say things like "Our Mr. Company-President..." when communicating with a member of an out-group, which would be very inappropriate in a Japanese social context.
 
 For how many years of James Watt's life was his mother alive?	17 years	S09/data/set4/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Watt attended school irregularly but instead he was mostly schooled at home by his mother.
 
 In what year did James travel to Lodon to study instrument-making?	1753	S09/data/set4/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Watt, with his partner Matthew Boulton, battled against rival engineers such as Jonathan Hornblower who tried to develop engines which did not fall foul of his patents.
 
 Becquerel wrapped a fluorescent substance in what?	photographic plates and black material	S09/data/set4/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Henri_Becquerel  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
 
 Was Newton admitted into Havard College?	Maybe, but it doesn't say so in the article	S09/data/set4/a1
@@ -1093,22 +1078,21 @@ yes
 
 Can you meet someone through attending a church?	yes	S09/data/set4/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 They met through attending the Sandemanian church.
 
 The most  widespread is the Palladius  system?	NULL	S09/data/set5/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Chinese_language  Chinese or the Sinitic language(s) is a language family consisting of languages mutually unintelligible to varying degrees. *
 
 In North Korea, has Hanja been discontinued?	NULL	S09/data/set5/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In North Korea, Hanja has been discontinued.
 
 Why are otters vulnerable to prey depletion?	prey-dependency	S09/data/set1/a7
 
-QUESTION TYPE: 2
 Prey-dependence leaves otters very vulnerable to prey depletion.
 
 What important electrical unit was named in honor of Volta?	volt	S09/data/set4/a10
@@ -1132,7 +1116,6 @@ yes
 
 What happened to Copenhagen between 1251 and 1255?	a bunch of things	S09/data/set3/a8
 
-ENTITY QUESTION: [[u'Copenhagen', u'GPE'], [u'Copenhagen', u'GPE'], [u' ', u'CARDINAL'], [u'Denmark', u'GPE'], [u'1,161,063', u'CARDINAL']]
 Copenhagen  Copenhagen ( ;  ) is the capital and largest city of Denmark, with a population of 1,161,063.  
 
 Where is Henri Becquerel from?	Paris	S09/data/set4/a9
@@ -1157,7 +1140,7 @@ Violinists and collectors particularly prize the instruments made by the Stradiv
 
 Can a short bar follow a long bar?	no	S09/data/set2/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Xylophone  The xylophone (from the Greek words Î¾ÏÎ»Î¿Î½ - xylon, "wood" + ÏÏÎ½Î® - phone, "voice", meaning "wooden sound") is a musical instrument in the percussion family which probably originated in Indonesia.
 
 What notable people have been named Santiago?	Benito, Hugo, and others	S09/data/set3/a6
@@ -1186,7 +1169,7 @@ Typical tiger country has three main features: It will always have good cover, i
 
 If Charles-Augustin de Coulomb was alive today, how old would he have been?	273	S09/data/set4/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Charles-Augustin_de_Coulomb  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
 
 What city in the UK has been subjected to bouts of terrorism?	London	S09/data/set3/a1
@@ -1196,12 +1179,12 @@ London has been commended as the city with the best public transport.
 
 Must â¦ One conclude from these experiments that the phosphorescent substance in question emits rays which pass through the opaque paper and reduces silver salts ?	Yes	S09/data/set4/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 â¦ One must conclude from these experiments that the phosphorescent substance in question emits rays which pass through the opaque paper and reduces silver salts.  
 
 About how many square kilometers would be needed to house 3 female tigers?	60	S09/data/set1/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The stripe pattern is found on a tiger's skin and if shaved, its distinctive camouflage pattern would be preserved.
 
 What was Michael Faraday`s birthplace?	Newington Butts	S09/data/set4/a7
@@ -1245,7 +1228,7 @@ Bee  Bees are flying insects closely related to wasps and ants.
 
 As of August 1st, 2006, how many trains stop daily at the Beijing Railway Station or the Beijing West Railway Station?	167	S09/data/set3/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 As of 1 August 2006, Beijing Railway Station has 167 trains stopping daily, while Beijing West Railway Station has 176 trains.
 
 What is the definition of the electrostatic force of attraction and repulsion? 	Coulomb's Law	S09/data/set4/a6
@@ -1269,12 +1252,11 @@ Anders_Celsius Anders Celsius The observatory of Anders Celsius, from a contempo
 
 Have managed populations of European honey bees experienced substantial declines?	yes	S09/data/set1/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Recently, managed populations of European honey bees have experienced substantial declines.
 
 Why do honey bee queens continue to lay eggs during the foraging season?	to replace daily casualties	S09/data/set1/a8
 
-QUESTION TYPE: 2
 Bee  Bees are flying insects closely related to wasps and ants.
 
 What was Italian language`s profession?	NULL	S09/data/set5/a9
@@ -1293,12 +1275,12 @@ Watt, with his partner Matthew Boulton, battled against rival engineers such as 
 
 Interaction with what man stirred up Newton's interest in alchemy?	The contact with the theosophist Henry More, revived his interest in alchemy	S09/data/set4/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Isaac Newton  Sir Isaac Newton FRS ( ) (4 January 1643 â March 31 1727)   OS: December 25 1642 â March 20 1727   was an English physicist, mathematician, astronomer, natural philosopher, and alchemist.
 
 The ideas of the Enlightenment shaped the development of what?	the city, Lima	S09/data/set3/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In the later half of the 18th century, the ideas of the Enlightenment on public health and social control shaped the development of the city.
 
 How many children did Avogadro have?	six	S09/data/set4/a8
@@ -1308,7 +1290,7 @@ The unification of Italy did not happen during the life time of Avogadro.
 
 : give "please Japanese language to Mr ?	NULL	S09/data/set5/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 For example, the  suffix ("Mr" "Mrs." or "Miss") is an example of honorific language.
 
 What musical styles is the trumpet used in?	Ska, ska punk, classical, jazz, Rock, Blues, pop, polka, cuban music, mariachi and funk.	S09/data/set2/a3
@@ -1323,7 +1305,7 @@ Many international students from Japan, Korea, North America, Europe, Southeast 
 
 So can Italian language hear "istÃ nbul " or "Ãstanbul" ?	NULL	S09/data/set5/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 So we can hear "IstÃ nbul" or "Ãstanbul".
 
 Where did Swahili language die?	NULL	S09/data/set5/a4
@@ -1333,12 +1315,12 @@ A 'little bit' of a verb would be an instance of an action, and such instantiati
 
 In Belgium, however, is quatre-vingts universally used?	Yes	S09/data/set5/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In Belgium, however, quatre-vingts is universally used.
 
 Allow the common features of the writing systems of the Romance languages for a greater amount of interlingual reading comprehension than oral communication would ?	NULL	S09/data/set5/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The common features of the writing systems of the Romance languages allow for a greater amount of interlingual reading comprehension than oral communication would
 
 Where did Volta enter retirement?	Spain	S09/data/set4/a10
@@ -1412,7 +1394,7 @@ Amedeo Avogadro  Caricature of Amedeo Avogadro Lorenzo Romano Amedeo Carlo Avoga
 
 I.e "yamato words ") , which in scholarly contexts is sometimes referred to as ( or rarely , i.e "yamato words " -rrb- , which in scholarly contexts is sometimes referred to as -lrb- or rarely , vp ? ?	NULL	S09/data/set5/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The original language of Japan, or at least the original language of a certain population that was ancestral to a significant portion of the historical and present Japanese nation, was the so-called  ( or infrequently , i.e. "Yamato words"), which in scholarly contexts is sometimes referred to as  ( or rarely , i.e. the  words").
 
 What is cello an abbreviation of?	violoncello	S09/data/set2/a9
@@ -1422,7 +1404,7 @@ The name Cello is an abbreviation of the Italian violoncello, which means "littl
 
 In 1949, where did Communist forces enter without a fight?	Beiping	S09/data/set3/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Mao Zedong proclaiming the establishment of the People's Republic of China in 1949 A man stands before a column of tanks which were sent to Tiananmen Square earlier to suppress the Tiananmen Square protests of 1989 On 31 January 1949, during the Chinese Civil War, Communist forces entered Beiping without a fight.
 
 When was a three-holed flute made from a mammoth tusk discovered?	In 2004	S09/data/set2/a5
@@ -1446,7 +1428,7 @@ In 1845, he discovered the phenomenon that he named diamagnetism, and what is no
 
 Has the name Pascal been given to the SI unit of pressure?	yes	S09/data/set4/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In honor of his scientific contributions, the name Pascal has been given to the SI unit of pressure, to a programming language, and Pascal's law (an important principle of hydrostatics), and as mentioned above, Pascal's triangle and Pascal's wager still bear his name.
 
 What is Chinese language`s first name?	NULL	S09/data/set5/a7
@@ -1498,12 +1480,12 @@ yes
 
 In Old French, was the plural  for animal animals?	Yes	S09/data/set5/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 In Old French, the plural for animal was animals.
 
 Here , are all syllables unstressed , except the syllables/words best and done , which are stressed ?	yes	S09/data/set5/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Here, all syllables are unstressed, except the syllables/words best and done, which are stressed.
 
 What is Nassau Coliseum?	an arena in Uniondale, New York, USA	S09/data/set3/a2
@@ -1518,7 +1500,7 @@ At Nuremberg in 1733 he published a collection of 316 observations of the aurora
 
 In what country did fox hunting originate?	in the United Kingdom	S09/data/set1/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Other fox species do not reproduce as readily as the red fox, and are endangered in their native environments.
 
 What did Faraday invent that is used almost universally in science laboratories?	Bunsen burner	S09/data/set4/a7
@@ -1533,7 +1515,7 @@ Chinese_language  Chinese or the Sinitic language(s) is a language family consis
 
 Would it be common for tigers to mate in January?	Yes	S09/data/set1/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Tiger  The tiger (Panthera tigris) is a member of the Felidae family; the largest of the four "big cats" in the genus Panthera.  
 
 Did the language lose its official status?	NULL	S09/data/set5/a8
@@ -1562,7 +1544,7 @@ Beijing  ( or  in English; Chinese: ; pinyin: BÄijÄ«ng; ; Wade-Giles: Peich
 
 He published a collection of what?	observations	S09/data/set4/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Anders_Celsius Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 Where did Italian language die?	NULL	S09/data/set5/a9
@@ -1591,7 +1573,7 @@ yes
 
 The Mandarin dialects in which location have experienced a dramatic decrease in sounds and so have far more multisyllabic words than most other spoken varieties?	NULL	S09/data/set5/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The Mandarin dialects in particular have experienced a dramatic decrease in sounds and so have far more multisyllabic words than most other spoken varieties.
 
 Is the lexical similarity with Italian estimated at 82%?	NULL	S09/data/set5/a8
@@ -1626,7 +1608,6 @@ no
 
 Why did German troops occupy Copenhagen?	Because it was WW2	S09/data/set3/a8
 
-QUESTION TYPE: 2
 During World War II, Copenhagen was occupied by German troops along with the rest of the country from 9 April 1940 until 4 May 1945.
 
 What is an effective way to accentuate a note?	The combination of a clash cymbol being accompanied by a bass drum playing an identical part, played loudly	S09/data/set2/a6
@@ -1668,12 +1649,11 @@ A person who plays a cello is called a cellist.
 
 How old was Celsius when he died?	42	S09/data/set4/a5
 
-QUESTION TYPE: 2
 In 1744 he died of tuberculosis in Uppsala, and was buried in the Old Uppsala Church.
 
 One-fifth of world population speak some form of what?	Chinese	S09/data/set5/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 About one-fifth of the worldâs population, or over one billion people, speak some form of Chinese as their native language.
 
 When was Michael Faraday born?	September 22, 1791	S09/data/set4/a7
@@ -1688,7 +1668,7 @@ Michael Faraday from a photograph by John Watkins, British Library Michael Farad
 
 Whad did Celsius report in his paper "Observations of two persistent degrees on a thermometer"?	the freezing point is independent of latitude	S09/data/set4/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Anders_Celsius Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 What is the name of young swans?	Cygnets	S09/data/set1/a10
@@ -1698,7 +1678,7 @@ ENTITY QUESTION: [[u'Webster', u'PERSON'], [u'New World Dictionary', u'ORG'], [u
 
 Over how many languages are spoken in London?	Over 300	S09/data/set3/a1
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 London's population draws from a wide range of peoples, cultures, and religions, and over 300 languages are spoken within the city.  
 
 Are geminate plosives and affricates realised as lengthened closures?	NULL	S09/data/set5/a9
@@ -1707,7 +1687,7 @@ yes
 
 Based on the average, in what year will the next small tremor occur in Ottawa?	2009	S09/data/set3/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Ottawa  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
 
 Where were immigrants from in the 1800s?	Ireland	S09/data/set3/a5
@@ -1717,7 +1697,7 @@ Ottawa  Ottawa ( or sometimes ) is the capital of Canada and the country's fourt
 
 France signed the European Charter for what?	NULL	S09/data/set5/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 French_language  French (franÃ§ais, ) is a Romance language spoken around the world by around 90 million people as first language, by 190 million as second language, and by about another 200 million people as an acquired tongue, with significant speakers in 54 countries.
 
 What is caching food?	burying it for later consumption	S09/data/set1/a6
@@ -1749,17 +1729,17 @@ An otter's den is called a holt.
 
 Have many European languages borrowed numerous words from it?	yes	S09/data/set5/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 As a result, many European languages have also borrowed numerous words from it.
 
 For how many years did Charles-Augustin de Coulomb live?	70	S09/data/set4/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 On magnetism" (1789) Coulomb explained the laws of attraction and repulsion between electric charges and magnetic poles, although he did not find any relationship between the two phenomena.
 
 Mexico contains the largest population of what?	NULL	S09/data/set5/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 When it was presented to Isabel de Castilla, she asked, "What do I want a work like this for, if I already know the language?", to which he replied, "Your highness, the language is the instrument of the Empire."
 
 Is english a de  jure  official  language  of Israel?	no	S09/data/set5/a1
@@ -1777,7 +1757,7 @@ Flute  A picture of a Western concert flute The flute is a musical instrument of
 
 May a native of Guangzhou speak Standard Cantonese and putonghua , a resident of Taiwan , both taiwanese and putonghua/guoyu ?	NULL	S09/data/set5/a7
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 A native of Guangzhou may speak Standard Cantonese and putonghua, a resident of Taiwan, both Taiwanese and putonghua/guoyu.
 
 What is James Watt most famous for?	Steam engine.	S09/data/set4/a2
@@ -1797,12 +1777,12 @@ Blaise_Pascal  Blaise Pascal ( ), (June 19 1623  August 19 1662) was a French ma
 
 Which temperature scale did Celsius propose?	 the Celsius temperature scale 	S09/data/set4/a5
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Anders_Celsius Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
 His passion been always the study of what?	Electricity	S09/data/set4/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 His passion had always been the study of electricity, and while still a young student he had even written a poem in Latin on this fascinating new discovery.
 
 When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?	1789	S09/data/set4/a6
@@ -1812,7 +1792,6 @@ On the outbreak of the Revolution in 1789, he resigned his appointment as intend
 
 How are western-style xylophones characterised?	by a bright, sharp tone and high register	S09/data/set2/a8
 
-QUESTION TYPE: 2
 Western-style xylophones are characterised by a bright, sharp tone and high register.
 
 How many offspring did Italian language have?	NULL	S09/data/set5/a9
@@ -1826,7 +1805,7 @@ no
 
 Pronouns in which location are marked for person , number and gender?	NULL	S09/data/set5/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Pronouns in Literary Arabic are marked for person, number and gender.
 
 Where did he publish his invention of the Voltaic pile battery?	the Philosophical Transactions of the Royal Society	S09/data/set4/a10
@@ -1869,7 +1848,7 @@ yes
 
 Which album was the song "The Bonny Swans" from?	The Mask and Mirror	S09/data/set1/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 "The Bonny Swans" is a song from Loreena McKennitt's 1994 album The Mask and Mirror.
 
 What is the best known story about a swan?	The Ugly Duckling	S09/data/set1/a10
@@ -1891,12 +1870,11 @@ no
 
 What happens when the center of a Cymbal is hit?	It causes a sound which is in a higher register than the rest of the cymbal	S09/data/set2/a6
 
-ENTITY QUESTION: []
 When hit with the side or shoulder of a drum stick, it causes a sound which is in a higher register than the rest of the cymbal. *
 
 Japanese borrowed a considerable number of what?	NULL	S09/data/set5/a6
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Japanese personal pronouns are generally used only in situations requiring special emphasis as to who is doing what to whom.
 
 What type of current did Tesla invent?	AC	S09/data/set4/a3
@@ -1906,7 +1884,7 @@ Did Tesla really invent the loudspeaker?".
 
 Swahili unusual?	NULL	S09/data/set5/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Swahili_language  Swahili (Kiswahili) is the first language of the Swahili people (Waswahili), who inhabit several large stretches of the Indian Ocean coastline from southern Somalia to northern Mozambique, including the Comoros Islands.
 
 What did Anders Celsius determine about the boiling of water?	dependence with atmospheric pressure	S09/data/set4/a5
@@ -1916,12 +1894,12 @@ He determined the dependence of the boiling of water with atmospheric pressure (
 
 In what year did Henri Becquerel die?	August 24, 1908	S09/data/set4/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Henri_Becquerel  Antoine Henri Becquerel (December 15, 1852 ; August 25, 1908) was a French physicist, Nobel laureate, and one of the discoverers of radioactivity.
 
 James Watt's improvements of what were fundamental to the changes wrought by the Industrial Revolution?	steam engine	S09/data/set4/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 James_Watt  James Watt (January 19 1736  August 19 1819) was a Scottish inventor and engineer whose improvements to the steam engine were fundamental to the changes wrought by the Industrial Revolution.   
 
 Where do about 400 million people speak Spanish?	NULL	S09/data/set5/a8
@@ -1935,12 +1913,12 @@ yes
 
 Hence, can relative molecular  masses be calculated from the masses  of gas samples?	Yes	S09/data/set4/a8
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Hence, relative molecular masses can be calculated from the masses of gas samples.
 
 In which place is lyre still played?	North-eastern parts of Africa	S09/data/set2/a10
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The instrument is still played in north-eastern parts of Africa.
 
 Are the speakers who use italian as a second or cultural language estimated at around 110-120 million ?	NULL	S09/data/set5/a9
@@ -1964,7 +1942,7 @@ Cymbal  Cymbals are a modern percussion instrument.
 
 Would a tiger be likely to feedon smaller animals, such as mice?	Yes	S09/data/set1/a3
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 The stripe pattern is found on a tiger's skin and if shaved, its distinctive camouflage pattern would be preserved.
 
 Are there any cities named Santiago in the United States?	Yes	S09/data/set3/a6
@@ -1999,7 +1977,7 @@ yes
 
 Of whose continual poor health was the cause never precisely determined?	Blaise Pascal	S09/data/set4/a4
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Despite the autopsy, the cause of his continual poor health was never precisely determined, though speculation focuses on tuberculosis, stomach cancer, or a combination of the two.
 
 Is the word cymbal derived from a Germanic word?	No	S09/data/set2/a6
@@ -2008,7 +1986,7 @@ yes
 
 Legge sulle fonti del diritto of what?	NULL	S09/data/set5/a9
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 Each of these foreign letters has an Italian equivalent spelling: gi for j, c or ch for k, u or v for w (depending on what sound it makes), s, ss, or cs for x, and i for y. Italian uses the acute accent over the letter E (as in perchÃ©, why/because) to indicate a front mid-closed vowel, and the grave accent (as in tÃ¨, tea) to indicate a front mid-open vowel.
 
 Is japanese language in the island?	NULL	S09/data/set5/a6
@@ -2037,12 +2015,11 @@ Male giraffe making a cough-like mating call at the Roger Williams Park Zoo, Pro
 
 James Watt was born where?	Greenock, a seaport on the Firth of Clyde	S09/data/set4/a2
 
-QUESTION TYPE: 3
+QUESTION TYPE: 4
 James Watt was born on 19th of January, 1736 in Greenock, a seaport on the Firth of Clyde.
 
 How do trumpets compensate for wolf tones?	Somce trumpetes have a slide mechanism built in to compensate.	S09/data/set2/a3
 
-QUESTION TYPE: 2
 Trumpet  The trumpet is a musical instrument with the highest register in the brass family.  /ref
 
 How long do most foxes live?	2 to 3 years	S09/data/set1/a6

@@ -32,32 +32,50 @@ def normalize(s):
     return s
 
 
-
-def testAnswerer(answerer, setRoot, debug):
-    answerSet = h.getAnswerSet(setRoot)
-    correct = 0
-    asked = 0
-    missed_questions = []
-    right_questions = []
-    for item in answerSet:
-        if len(item) == 6:
+def testAnswerer(answerer, setRoot, debug, non_null):
+    if non_null:
+        answerSet = h.getAnswerSet_non_null(setRoot)
+        correct = 0
+        asked = 0
+        missed_questions = []
+        right_questions = []
+        for question in answerSet:
             asked += 1
-            title = item[0]
-            question = item[1]
-            expected_answer = item[2]
-            questionDiff = item[3]
-            answerDiff = item[4]
-            articleFile = u''.join(setRoot[-3:]) + u'/' + item[5]
+            expected_answer = answerSet[question][0]
+            articleFile = answerSet[question][1]
             actual_answer = answerer.answerQuestion(question,articleFile)
             if normalize(actual_answer) == normalize(expected_answer):
                 correct += 1
                 right_questions.append([question,expected_answer,articleFile,actual_answer])
             else:
                 missed_questions.append([question,expected_answer,articleFile,actual_answer])
-    if debug:
-        write_answer_set(setRoot[-3:], missed_questions,'missed')
-        write_answer_set(setRoot[-3:], right_questions, 'correct')
-    return float(correct) / float(asked)
+        if debug:
+            write_answer_set(setRoot[-3:], missed_questions,'missed-non-null')
+            write_answer_set(setRoot[-3:], right_questions, 'correct-non-null')
+        return float(correct) / float(asked)
+    else:
+        answerSet = h.getAnswerSet_all(setRoot)
+        correct = 0
+        asked = 0
+        missed_questions = []
+        right_questions = []
+        for item in answerSet:
+            asked += 1
+            question = item[0]
+            expected_answer = item[1]
+            articleFile = item[2]
+            actual_answer = answerer.answerQuestion(question,articleFile)
+            if normalize(actual_answer) == normalize(expected_answer):
+                correct += 1
+                right_questions.append([question,expected_answer,articleFile,actual_answer])
+            else:
+                missed_questions.append([question,expected_answer,articleFile,actual_answer])
+        if debug:
+            write_answer_set(setRoot[-3:], missed_questions,'missed-all')
+            write_answer_set(setRoot[-3:], right_questions, 'correct-all')
+        return float(correct) / float(asked)
+
+
 
 def test_missed():
     correct = 0
@@ -98,15 +116,15 @@ def test_training_data():
     print 'Initializing Answerer'
     answerer = qa.answerer(trainRoot)
     print 'Answerer Initialized'
-    print testAnswerer(answerer,trainRoot + 'S08',True)
-    print testAnswerer(answerer,trainRoot + 'S09',True)
+    print testAnswerer(answerer,trainRoot + 'S08',True,True)
+    print testAnswerer(answerer,trainRoot + 'S09',True,True)
 
 def test_data():
     print 'Testing Final Data'
     print 'Initializing Answerer'
     answerer = qa.answerer(testRoot)
     print 'Answerer Initialized'
-    print testAnswerer(answerer,testRoot + 'S10',False)
+    print testAnswerer(answerer,testRoot + 'S10',False,False)
 
 def main():
     if len(sys.argv) > 1:

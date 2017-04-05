@@ -26,6 +26,10 @@ Is it true that he published his invention of the Voltaic pile battery?	Yes	S09/
 
 yes
 
+How do turtles chew food?	Turtles use their jaws to cut and chew food	S09/data/set1/a4
+
+Turtles use their jaws to cut and chew food.
+
 Is the National University of San Marcos in Lima?	Yes.	S09/data/set3/a4
 
 yes

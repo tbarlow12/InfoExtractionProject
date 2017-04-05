@@ -1,3 +1,7 @@
+What happened in the election of 1816?	Monroe was elected president	S08/data/set3/a2
+
+Monroe was elected president
+
 Do singaporeans enjoy squid?	yes	S08/data/set2/a2
 
 yes
@@ -446,6 +450,10 @@ Did Gerald Ford serve as the Republican Minority Leader of the House of Represen
 
 yes
 
+How did Fillmore ascend to the presidency?	Official White House portrait of Millard FillmoreFillmore ascended to the presidency upon the sudden and unexpected death of President Taylor in July 1850.	S08/data/set3/a3
+
+Official White House portrait of Millard FillmoreFillmore ascended to the presidency upon the sudden and unexpected death of President Taylor in July 1850.
+
 Are beetles endopterygotes with complete metamorphosis?	Yes.	S08/data/set1/a8
 
 yes
@@ -681,6 +689,10 @@ yes
 Does Egypt receive the least rainfall in the world?	Yes	S08/data/set2/a6
 
 yes
+
+How is Singapore's climate characterized?	Its climate is characterized by uniform temperature and pressure, high humidity, and abundant rainfall	S08/data/set2/a2
+
+Its climate is characterized by uniform temperature and pressure, high humidity, and abundant rainfall.
 
 Was Wilson , a staunch opponent of antisemitism , sympathetic to the plight of Jews , especially in Poland and in France ?	Yes	S08/data/set3/a8
 
