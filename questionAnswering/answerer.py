@@ -33,6 +33,9 @@ def most_similar_sentence(question, transformed, sentences, answer_type):
 
 
 def find_answer(question, sentences):
+    substitution = h.find_substitution(question, sentences)
+    if substitution is not None:
+        return substitution.text
     answer_type = h.get_answer_type(question)
     transformed = h.transform_question(question)
 
@@ -52,24 +55,31 @@ def find_answer(question, sentences):
             return 'no'
 
     if answer_type[0] == 1:
-        '''print question
-        print answer_type
-        print h.get_subjects(question)
-        print h.get_subject_verbs(question)
-        print h.get_objects(question)
-        print sentence
-        print h.get_subjects(sentence)
-        print h.get_subject_verbs(sentence)
-        print h.get_objects(sentence)'''
+        search_phrase = question[1:-1]
+        search_phrase_index = h.index_of_range(sentence,search_phrase)
+        if search_phrase_index[0] > 0:
+            candidate = sentence[0:search_phrase_index[0]]
+            if len(candidate) == 1 and candidate[0].lemma_ == '-PRON-':
+                sentence_index = h.index_of_sentence(sentences, sentence)
+                while sentence_index > 1:
+                    prev = sentences[sentence_index-1]
+                    person = h.get_first_entity_with_label_in_sentence(prev,'PERSON')
+                    if person is not None:
+                        return person.text
+                    sentence_index -= 1
+            else:
+                return candidate.text
         entities = h.get_entities(sentence)
+        #print entities
         return 'ENTITY QUESTION: ' + str(entities) + '\n' + sentence.text
     elif answer_type[0] == 2:
         search = answer_type[1]
         tokens = list(sentence)
-        s_index = h.index_of(sentence,search)
+        s_index = h.index_of_range(sentence,search)
         if s_index[0] > 0:
-            print sentence
-            print question
+            pass
+            #print sentence
+            #print question
             #pdb.set_trace()
 
 

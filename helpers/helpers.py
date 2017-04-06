@@ -134,6 +134,12 @@ def index_of(tokens,lemmatized_word):
             return i
     return -1
 
+def get_noun_chunks(doc):
+    chunks = []
+    for np in doc.noun_chunks:
+        chunks.append(np)
+    return chunks
+
 def get_entities(doc):
     entities = []
     for ent in doc.ents:
@@ -146,6 +152,12 @@ def get_subjects(doc):
         if possible_subject.dep == nsubj and possible_subject.head.pos == VERB:
             verbs.add(possible_subject.lemma_)
     return verbs
+
+def index_of_sentence(sentences,sentence):
+    for i in range(0,len(sentences)):
+        if sentences[i].text == sentence.text:
+            return i
+    return -1
 
 def get_subject_verbs(doc):
     subjects = set()
@@ -212,7 +224,24 @@ def get_first_entity_with_label(items,label):
                 return ent
     return None
 
+def get_first_entity_with_label_in_sentence(sentence,label):
+    for ent in sentence.ents:
+        if ent.label_ == label:
+            return ent
+    return None
 
+def get_last_entity_with_label_in_sentence(sentence,label):
+    result = None
+    for ent in sentence.ents:
+        if ent.label_ == label:
+            result = ent
+    return result
+
+def get_last_entity_in_sentence(sentence):
+    result = None
+    for ent in sentence.ents:
+        result = ent
+    return result
 
 def get_head_noun_indices(tokens):
     head_noun_indices = []
@@ -246,6 +275,37 @@ def get_pos_indices(tokens,tags):
 
 def lemmatize(tokens):
     return [t.lemma_ for t in tokens if t.lower_ not in stop_words]
+
+exclude_words = {'who','what','happened','?'}
+def get_sub_phrase(question):
+    return [t for t in question if t.lower_ not in exclude_words]
+
+cutoff_tags = {'PUNCT','SPACE'}
+
+def clean_substitution(substitution,sentences):
+    start_index = 0
+    for i in range(0,len(substitution)):
+        if (substitution[i].pos_ in cutoff_tags) and i < (len(substitution) - 2):
+            start_index = i + 1
+    s = substitution[start_index:]
+    if len(s) > 0 and s[0].lemma_ == '-PRON-':
+        for ent in sentences[0].ents:
+            return ent
+    return s
+
+def find_substitution(question, sentences):
+    sub_phrase = get_sub_phrase(question)
+    for i in range(0,len(sentences)):
+        sentence = sentences[i]
+        index_range = index_of_range(sentence,sub_phrase)
+        if index_range[0] == 0:
+            s = clean_substitution(sentence[index_range[1]+1:],sentences)
+            return s
+        elif index_range[0] > 0:
+            s = clean_substitution(sentence[0:index_range[0]],sentences)
+            return s
+    return None
+
 
 
 def exact_match(left, question_phrase, right, s_lemmas):
@@ -301,6 +361,9 @@ def get_answer_type(question):
     else:
         t4 = ''
 
+    if t1 == 'have':
+        return [0]
+
     if t1 == 'be':
         #true-false
         return [0]
@@ -336,23 +399,23 @@ def get_answer_type(question):
         return [2,question[2:-1]]
     if t1 == 'how':
         if t2 == 'many':
-            return [1,{'QUANTITY'}]
+            return [1,{},{'QUANTITY'}]
             if t3 == 'long':
-                return [1,{'CARDINAL'}]
+                return [1,{},{'CARDINAL'}]
         if t2 == 'much':
-            return [1,{'QUANTITY','PERCENT','MONEY'}]
+            return [1,{},{'QUANTITY','PERCENT','MONEY'}]
         if t2 == 'long':
-            return [1,{'CARDINAL'}]
+            return [1,{},{'CARDINAL'}]
         return [2,question[2:-1]]
     return [4]
 
 
 
-def index_of(doc,sub):
+def index_of_range(doc,sub):
     tokens = list(doc)
     for i in range(0,len(tokens)):
         token = tokens[i]
-        if token.lemma_ == sub[0].lemma_:
+        if len(sub) > 0 and token.lemma_ == sub[0].lemma_:
             start_index = i
             j = 0
             while j < len(sub) and i < len(tokens) and tokens[i].lemma_ == sub[j].lemma_:

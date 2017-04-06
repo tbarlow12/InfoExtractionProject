@@ -26,10 +26,6 @@ Is it true that he published his invention of the Voltaic pile battery?	Yes	S09/
 
 yes
 
-How do turtles chew food?	Turtles use their jaws to cut and chew food	S09/data/set1/a4
-
-Turtles use their jaws to cut and chew food.
-
 Is the National University of San Marcos in Lima?	Yes.	S09/data/set3/a4
 
 yes
@@ -141,6 +137,10 @@ yes
 Was Newton a English physicist?	Yes	S09/data/set4/a1
 
 yes
+
+What is widely used by the Lebanese, especially for administrative purposes?	French	S09/data/set5/a5
+
+French
 
 Did he become professor of experimental physics at the University of Pavia?	Yes	S09/data/set4/a10
 
@@ -298,6 +298,10 @@ Are cymbals used in moden orchestras?	Yes	S09/data/set2/a6
 
 yes
 
+Have adverbs of time to appear in the third place in the sentence , just after the predicate ?	Yes	S09/data/set5/a2
+
+yes
+
 Was Charles-Augustin de Coulomb's father's family in Montpellier? 	Yes	S09/data/set4/a6
 
 yes
@@ -351,6 +355,10 @@ Is it true that coulomb leaves a legacy as a hero?	yes	S09/data/set4/a6
 yes
 
 Is a third  prefix the object  prefix?	Yes	S09/data/set5/a4
+
+yes
+
+Have cymbals been used historically to suggest bacchanal?	Yes	S09/data/set2/a6
 
 yes
 
@@ -434,6 +442,10 @@ Is Dhaka the capital of Bangladesh?	Yes	S09/data/set3/a3
 
 yes
 
+Have managed populations of European honey bees experienced substantial declines?	yes	S09/data/set1/a8
+
+yes
+
 Is english an intonation  language?	Yes	S09/data/set5/a1
 
 yes
@@ -467,6 +479,10 @@ Was his father inspector of the Royal Fields?	yes	S09/data/set4/a6
 yes
 
 Is it possible to open flutes at one or both ends?	Yes	S09/data/set2/a5
+
+yes
+
+Has the name Pascal been given to the SI unit of pressure?	yes	S09/data/set4/a4
 
 yes
 
@@ -578,6 +594,10 @@ Is there cello in performances by Rihanna?	Yes	S09/data/set2/a9
 
 yes
 
+Have many European languages borrowed numerous words from it?	yes	S09/data/set5/a3
+
+yes
+
 Was The SI  unit  of charge , the  coulomb , named after him?	yes	S09/data/set4/a6
 
 yes
@@ -589,6 +609,10 @@ yes
 Is Dhaka located on the eastern banks of the Buriganga River?	Yes	S09/data/set3/a3
 
 yes
+
+What is the smallest species of fox?	the Fennec Fox	S09/data/set1/a6
+
+The Fennec Fox
 
 Was Faraday a devout Christian?	yes	S09/data/set4/a7
 

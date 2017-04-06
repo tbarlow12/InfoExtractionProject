@@ -30,7 +30,7 @@ He was in correspondence with scientists in Austria, which ruled Lombardy in his
 
 How old was Anders Celsius when he died?	42	S09/data/set4/a5
 
-In 1744 he died of tuberculosis in Uppsala, and was buried in the Old Uppsala Church.
+NULL
 
 From what did Pascal suffer throughout his life?	poor health	S09/data/set4/a4
 
@@ -55,6 +55,10 @@ Harvesting wild turtles is legal in Florida, and a single seafood company in For
 Is arabic source of vocabulary?	NULL	S09/data/set5/a3
 
 yes
+
+How do turtles chew food?	Turtles use their jaws to cut and chew food	S09/data/set1/a4
+
+NULL
 
 Copenhagen is ranked number one worldwide for which things?	Most Livable City, Location Ranking Survey	S09/data/set3/a8
 
@@ -82,7 +86,7 @@ no
 
 Why is Copenhagen a regional hub?	Its strategic location and excellent infrastructure with the largest airport in Scandinavia[6] located 14 minutes by train from the city centre	S09/data/set3/a8
 
-Its strategic location and excellent infrastructure with the largest airport in Scandinavia  located 14 minutes by train from the city centre, has made it a regional hub and a popular location for regional headquarters  as well as conventions.
+NULL
 
 Loschmidt calculated first the value of what?	Avogadro's number	S09/data/set4/a8
 
@@ -151,7 +155,7 @@ Italian_language  Italian ( , or lingua italiana) is a Romance language spoken b
 
 Why is there purling on a cello?	to stop cracks from forming ****misspelled****	S09/data/set2/a9
 
-Cello  The violoncello (abbreviated to cello, or 'cello, plural cellos or celliâthe c is , as in the ch in "check", thus "chel-lo") is a bowed string instrument.
+NULL
 
 Where do bees live?	in colonies	S09/data/set1/a8
 
@@ -265,7 +269,7 @@ In fact, Avogadro's famous 1811 paper was written in French.)
 
 How do giraffes defend themselves?	With powerful kicks	S09/data/set1/a5
 
-Giraffe  The giraffe (Giraffa camelopardalis) is an African even-toed ungulate mammal, the tallest of all land-living animal species, and the largest ruminant.
+NULL
 
 Are there between 7 and 13 main regional groups of Chinese , of which the most spoken , by far , is about 850 million , followed by 90 million , 70 million and 70 million ?	NULL	S09/data/set5/a7
 
@@ -333,8 +337,7 @@ In June of 1832, the University of Oxford granted Faraday a Doctor of Civil Law 
 
 Who was a member of the Sandemanian sect of Christianity?	Faraday	S09/data/set4/a7
 
-ENTITY QUESTION: [[u'James', u'PERSON'], [u'Sandemanian', u'NORP'], [u'Christianity', u'GPE']]
-His father, James, was a member of the Sandemanian sect of Christianity.
+James,
 
 Does the production of chemical weapons raise an ethical issue?	yes	S09/data/set4/a7
 
@@ -400,11 +403,6 @@ How many groups are turtles broken down into?	two	S09/data/set1/a4
 ENTITY QUESTION: [[u'two', u'CARDINAL'], [u'Proganochelys', u'LOC'], [u'Cryptodira', u'PRODUCT'], [u'Pleurodira', u'GPE']]
 Turtles are broken down into two groups, according to how they evolved a solution to the problem of withdrawing their neck into their shell (something the ancestral Proganochelys could not do): the Cryptodira, which can draw their neck in while contracting it under their spine; and the Pleurodira, which contract their neck to the side.  
 
-What is widely used by the Lebanese, especially for administrative purposes?	French	S09/data/set5/a5
-
-ENTITY QUESTION: [[u'French', u'NORP'], [u'Lebanese', u'NORP'], [u'Arabic', u'PERSON']]
-French is widely used by the Lebanese, especially for administrative purposes, and is taught in many schools as a primary language along with Arabic.  
-
 What was the Faraday effect first called?	diamagnetism	S09/data/set4/a7
 
 ENTITY QUESTION: [[u'Faraday', u'ORG'], [u'first', u'ORDINAL']]
@@ -412,7 +410,7 @@ Faraday was the first to report what later came to be called metallic nanopartic
 
 How did vespoid wasps evolve?	from predatory ancestors	S09/data/set1/a8
 
-This same evolutionary scenario has also occurred within the vespoid wasps, where the group known as "pollen wasps" also evolved from predatory ancestors.
+NULL
 
 The sociolinguistic situation of Arabic provides a prime example of what?	the linguistic phenomenon of diglossia	S09/data/set5/a3
 
@@ -506,7 +504,7 @@ Copenhagen  Copenhagen ( ;  ) is the capital and largest city of Denmark, with a
 
 How old was Henri Becquerel when he died?	53	S09/data/set4/a9
 
-He died at the age of 55 in Le Croisic.
+NULL
 
 Can the title of this famous 1811 paper be roughly translated into English as "essay on determining the Relative Masses of the Elementary Molecules of Bodies" ?	Yes.	S09/data/set4/a8
 
@@ -566,7 +564,7 @@ Tesla then studied electrical engineering at the Austrian Polytechnic in Graz (1
 
 How old was Alessandro Volta when he died?	 82	S09/data/set4/a10
 
-Alessandro_Volta  Count Alessandro Giuseppe Antonio Anastasio Volta (February 18, 1745 - March 5, 1827) was an Italian physicist known especially for the development of the first known electric battery in 1800.   
+NULL
 
 Did Henri Becquerel live to be 80 years old?	no	S09/data/set4/a9
 
@@ -603,13 +601,11 @@ At the time of Newton's birth, England had not adopted the latest papal calendar
 
 Has the San Lorenzo Megaport Project been completed?	No.	S09/data/set3/a4
 
-QUESTION TYPE: 4
->  The Lima Metro, a above ground mass transit system, is under construction and  one line has been completed while another six are scheduled for construction.
+yes
 
 He discovered an inverse relationship of what?	distance and electric force	S09/data/set4/a6
 
-QUESTION TYPE: 4
-Charles-Augustin_de_Coulomb  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+later named after him as Coulomb's law.
 
 What is Japanese language`s first name?	NULL	S09/data/set5/a6
 
@@ -653,12 +649,11 @@ Swahili l and r are confounded by many speakers (the extent to which this is dem
 
 How does a trumpet produce sound?	By blowing air through closed lips.	S09/data/set2/a3
 
-It is also possible to produce pedal tones below the low F , although this technique is more often encountered as a sound-production exercise than as a written trumpet part.
+NULL
 
 Has swahili no diphthongs?	No	S09/data/set5/a4
 
-QUESTION TYPE: 4
-Swahili has no diphthongs; in vowel combinations, each vowel is pronounced separately.
+yes
 
 What fictional stories include a main character named Santiago?	Interview with the Vampire, The Alchemist, and others	S09/data/set3/a6
 
@@ -755,8 +750,7 @@ Spanish_language  Spanish ( ) or Castilian (castellano) is a Romance language th
 
 What is the best physician?	Time	S09/data/set4/a4
 
-ENTITY QUESTION: [[u'Blaise Pascal', u'PERSON'], [u'June 19 1623', u'DATE'], [u'August 19 1662', u'DATE'], [u'French', u'NORP']]
-Blaise_Pascal  Blaise Pascal ( ), (June 19 1623  August 19 1662) was a French mathematician, physicist, and religious philosopher.
+But Time
 
 For how many years did Henri Becquerel live?	56	S09/data/set4/a9
 
@@ -783,7 +777,7 @@ In 1534 the Luther Bible by Martin Luther was printed.
 
 How old was Charles-Augustin de Coulomb when he died?	1806	S09/data/set4/a6
 
-Charles-Augustin_de_Coulomb  Charles Augustin de Coulomb (born June 14, 1736, AngoulÃªme, France - died August 23, 1806, Paris, France) was a French physicist.
+NULL
 
 Where do sea otters live?	Pacific coast of North America	S09/data/set1/a7
 
@@ -825,11 +819,6 @@ What was the Dead or Alive 4 fighting arena modeled after?	a Magnetic Accelerato
 
 ENTITY QUESTION: [[u'Nassau', u'GPE'], [u'Nassau', u'GPE'], [u' ', u'GPE'], [u'Nassau', u'GPE'], [u'Germany', u'GPE'], [u'Rhineland-Palatinate', u'GPE'], [u'AD 915', u'DATE'], [u'Nassau', u'GPE'], [u'the House of', u'ORG'], [u'Nassau', u'GPE'], [u'Duchy', u'GPE'], [u'Nassau', u'GPE'], [u'German', u'NORP'], [u'Hesse-Nassau', u'PERSON'], [u'Prussian', u'NORP'], [u'Baarle-', u'GPE'], [u'Netherlands', u'GPE'], [u'Nassau', u'GPE'], [u'Germany', u'GPE'], [u'Nassau', u'GPE'], [u'Bahamas', u'GPE'], [u'Bahamas', u'GPE'], [u'New Providence', u'GPE']]
 Nassau  __NOTOC__ Nassau may mean the following:  Nassau, Germany: a town in Rhineland-Palatinate founded in AD 915, after which all the following are named, directly or indirectly: *Nassau Castle, ancestral seat of the House of Nassau *Duchy of Nassau: an extinct German duchy *Hesse-Nassau: the Prussian province formed by annexation of that duchy *Baarle-Nassau: a town in the southern Netherlands *Nassau-Siegen: a historical territory in Germany *Nassau, Bahamas: capital city of The Bahamas, on the island of New Providence. *
-
-Have adverbs of time to appear in the third place in the sentence , just after the predicate ?	Yes	S09/data/set5/a2
-
-QUESTION TYPE: 4
-Except for emphasis, adverbs of time have to appear in the third place in the sentence, just after the predicate.
 
 Can turtles spend all their time underwater?	No	S09/data/set1/a9
 
@@ -982,7 +971,7 @@ To Chinese nationalists, the idea of Chinese as a language family may suggest th
 
 How did civil wars affect England during the Middle Ages?	London remained relatively untouched	S09/data/set3/a1
 
-London  London ( ; ) is the capital of both England and the United Kingdom, and the largest urban area in the European Union. {{cite web|url= title=Largest EU City  An important settlement for two millennia, London's history goes back to its founding by the Romans.  
+NULL
 
 From what type of Cymbals can a expert player obtain an enormous dynamic range?	Crash cymbals	S09/data/set2/a6
 
@@ -993,11 +982,6 @@ What are Ottawa's primary industries?	Logging and lumber	S09/data/set3/a5
 
 ENTITY QUESTION: [[u'Ottawa', u'GPE'], [u'Ottawa', u'GPE'], [u'Canada', u'GPE'], [u'fourth', u'ORDINAL']]
 Ottawa  Ottawa ( or sometimes ) is the capital of Canada and the country's fourth largest municipality.
-
-Have cymbals been used historically to suggest bacchanal?	Yes	S09/data/set2/a6
-
-QUESTION TYPE: 4
-Clash cymbals have traditionally been accompanied by the bass drum playing an identical part.
 
 Can Regional differences be recognized by various factors : the openness of vowels , the length of the consonants , and influence of the local dialect ?	NULL	S09/data/set5/a9
 
@@ -1093,7 +1077,7 @@ In North Korea, Hanja has been discontinued.
 
 Why are otters vulnerable to prey depletion?	prey-dependency	S09/data/set1/a7
 
-Prey-dependence leaves otters very vulnerable to prey depletion.
+NULL
 
 What important electrical unit was named in honor of Volta?	volt	S09/data/set4/a10
 
@@ -1107,8 +1091,7 @@ At his exit from the school in 1761, he initially took part in the survey for th
 
 What is given for the number of native speakers?	No figure is given for the number of native speakers.	S09/data/set5/a1
 
-ENTITY QUESTION: [[u'English', u'LANGUAGE'], [u'third', u'ORDINAL'], [u'Mandarin Chinese', u'LOC'], [u'Spanish', u'NORP']]
-English today is probably the third largest language by number of native speakers, after Mandarin Chinese and Spanish.
+No figure
 
 Is the Tiger a member of the Felidar family?	No	S09/data/set1/a3
 
@@ -1116,7 +1099,7 @@ yes
 
 What happened to Copenhagen between 1251 and 1255?	a bunch of things	S09/data/set3/a8
 
-Copenhagen  Copenhagen ( ;  ) is the capital and largest city of Denmark, with a population of 1,161,063.  
+NULL
 
 Where is Henri Becquerel from?	Paris	S09/data/set4/a9
 
@@ -1130,8 +1113,7 @@ The unification of Italy did not happen during the life time of Avogadro.
 
 What was the only good candidate in these two colonies?	NULL	S09/data/set5/a4
 
-ENTITY QUESTION: [[u'Swahili', u'GPE'], [u'two', u'CARDINAL']]
-Swahili was the only good candidate in these two colonies.
+Swahili
 
 What are violins made of?	maple, ebony, sheep gut	S09/data/set2/a2
 
@@ -1250,14 +1232,9 @@ What is temperature would water have to be to be halfway between its standard bo
 ENTITY QUESTION: [[u'Anders Celsius', u'ORG'], [u'Anders Celsius', u'GPE']]
 Anders_Celsius Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
 
-Have managed populations of European honey bees experienced substantial declines?	yes	S09/data/set1/a8
-
-QUESTION TYPE: 4
-Recently, managed populations of European honey bees have experienced substantial declines.
-
 Why do honey bee queens continue to lay eggs during the foraging season?	to replace daily casualties	S09/data/set1/a8
 
-Bee  Bees are flying insects closely related to wasps and ants.
+NULL
 
 What was Italian language`s profession?	NULL	S09/data/set5/a9
 
@@ -1426,11 +1403,6 @@ How many years ago was it when he discovered the phenomenon that he named diamag
 ENTITY QUESTION: [[u'1845', u'DATE'], [u'Faraday', u'ORG']]
 In 1845, he discovered the phenomenon that he named diamagnetism, and what is now called the Faraday effect: The plane of polarization of linearly polarized light propagated through a material medium can be rotated by the application of an external magnetic field aligned in the propagation direction.
 
-Has the name Pascal been given to the SI unit of pressure?	yes	S09/data/set4/a4
-
-QUESTION TYPE: 4
-In honor of his scientific contributions, the name Pascal has been given to the SI unit of pressure, to a programming language, and Pascal's law (an important principle of hydrostatics), and as mentioned above, Pascal's triangle and Pascal's wager still bear his name.
-
 What is Chinese language`s first name?	NULL	S09/data/set5/a7
 
 ENTITY QUESTION: [[u'Chinese', u'NORP'], [u'the Sinitic language(s', u'LOC']]
@@ -1544,8 +1516,7 @@ Beijing  ( or  in English; Chinese: ; pinyin: BÄijÄ«ng; ; Wade-Giles: Peich
 
 He published a collection of what?	observations	S09/data/set4/a5
 
-QUESTION TYPE: 4
-Anders_Celsius Anders Celsius The observatory of Anders Celsius, from a contemporary engraving.
+At Nuremberg in 1733
 
 Where did Italian language die?	NULL	S09/data/set5/a9
 
@@ -1608,12 +1579,11 @@ no
 
 Why did German troops occupy Copenhagen?	Because it was WW2	S09/data/set3/a8
 
-During World War II, Copenhagen was occupied by German troops along with the rest of the country from 9 April 1940 until 4 May 1945.
+NULL
 
 What is an effective way to accentuate a note?	The combination of a clash cymbol being accompanied by a bass drum playing an identical part, played loudly	S09/data/set2/a6
 
-ENTITY QUESTION: [[u'two', u'CARDINAL']]
-This combination, played loudly, is an effective way to accentuate a note since the two instruments together contribute to both very low and very high frequency ranges and provide a satisfying "crash-bang-wallop".
+played loudly,
 
 How long have people been making instruments like violins?	since 1555	S09/data/set2/a2
 
@@ -1649,7 +1619,7 @@ A person who plays a cello is called a cellist.
 
 How old was Celsius when he died?	42	S09/data/set4/a5
 
-In 1744 he died of tuberculosis in Uppsala, and was buried in the Old Uppsala Church.
+NULL
 
 One-fifth of world population speak some form of what?	Chinese	S09/data/set5/a7
 
@@ -1663,8 +1633,7 @@ Michael Faraday from a photograph by John Watkins, British Library Michael Farad
 
 Who was born in Newington Butts, near present-day South London, England?	Michael Faraday	S09/data/set4/a7
 
-ENTITY QUESTION: [[u'Michael Faraday', u'PERSON'], [u'John Watkins', u'PERSON'], [u'British Library', u'ORG'], [u'Michael Faraday', u'PERSON'], [u'Newington Butts', u'PERSON'], [u'South London', u'PERSON'], [u'England', u'GPE']]
-Michael Faraday from a photograph by John Watkins, British Library Michael Faraday was born in Newington Butts, near present-day South London, England.
+British Library Michael Faraday
 
 Whad did Celsius report in his paper "Observations of two persistent degrees on a thermometer"?	the freezing point is independent of latitude	S09/data/set4/a5
 
@@ -1727,11 +1696,6 @@ What is an otter's den called?	holt	S09/data/set1/a7
 ENTITY QUESTION: []
 An otter's den is called a holt.
 
-Have many European languages borrowed numerous words from it?	yes	S09/data/set5/a3
-
-QUESTION TYPE: 4
-As a result, many European languages have also borrowed numerous words from it.
-
 For how many years did Charles-Augustin de Coulomb live?	70	S09/data/set4/a6
 
 QUESTION TYPE: 4
@@ -1739,8 +1703,7 @@ On magnetism" (1789) Coulomb explained the laws of attraction and repulsion betw
 
 Mexico contains the largest population of what?	NULL	S09/data/set5/a8
 
-QUESTION TYPE: 4
-When it was presented to Isabel de Castilla, she asked, "What do I want a work like this for, if I already know the language?", to which he replied, "Your highness, the language is the instrument of the Empire."
+Spanish speakers.
 
 Is english a de  jure  official  language  of Israel?	no	S09/data/set5/a1
 
@@ -1792,7 +1755,7 @@ On the outbreak of the Revolution in 1789, he resigned his appointment as intend
 
 How are western-style xylophones characterised?	by a bright, sharp tone and high register	S09/data/set2/a8
 
-Western-style xylophones are characterised by a bright, sharp tone and high register.
+NULL
 
 How many offspring did Italian language have?	NULL	S09/data/set5/a9
 
@@ -1813,15 +1776,9 @@ Where did he publish his invention of the Voltaic pile battery?	the Philosophica
 ENTITY QUESTION: [[u'Voltaic', u'ORG'], [u'1800', u'DATE'], [u'Philosophical Transactions of the Royal Society', u'WORK_OF_ART']]
 He published his invention of the Voltaic pile battery in 1800 in the Philosophical Transactions of the Royal Society.
 
-What is the smallest species of fox?	the Fennec Fox	S09/data/set1/a6
-
-ENTITY QUESTION: [[u'Fox', u'PERSON'], [u'one', u'CARDINAL'], [u'about 27', u'CARDINAL'], [u'only 12', u'CARDINAL'], [u'Vulpes', u'GPE']]
-Fox  A fox is an animal belonging to any one of about 27 species (of which only 12 actually belong to the Vulpes genus, or 'true foxes') of small to medium-sized canids, characterized by possessing a long, narrow snout, and a bushy tail, or brush.
-
 What is an official language of the European Union?	NULL	S09/data/set5/a8
 
-ENTITY QUESTION: [[u'Spanish', u'NORP'], [u'one', u'CARDINAL'], [u'the United Nations', u'ORG'], [u'the European Union', u'ORG'], [u'the Organization of American States', u'ORG'], [u'the Organization of Ibero-American States', u'ORG'], [u'the African Union', u'ORG'], [u'the Union of South American Nations', u'ORG'], [u'the Latin Union', u'ORG'], [u'Caricom', u'ORG'], [u'the North American Free Trade Agreement', u'ORG'], [u'the Antarctic Treaty', u'ORG']]
-Spanish is one of the official languages of the United Nations, the European Union, the Organization of American States, the Organization of Ibero-American States, the African Union, the Union of South American Nations, the Latin Union, the Caricom, the North American Free Trade Agreement, the Antarctic Treaty.   
+Spanish
 
 When did the first educational works appear for the cello?	18th century	S09/data/set2/a9
 
@@ -1870,7 +1827,7 @@ no
 
 What happens when the center of a Cymbal is hit?	It causes a sound which is in a higher register than the rest of the cymbal	S09/data/set2/a6
 
-When hit with the side or shoulder of a drum stick, it causes a sound which is in a higher register than the rest of the cymbal. *
+NULL
 
 Japanese borrowed a considerable number of what?	NULL	S09/data/set5/a6
 
@@ -1955,8 +1912,7 @@ yes
 
 Who died at his house at Hampton Court on August 25, 1867?	Faraday	S09/data/set4/a7
 
-ENTITY QUESTION: [[u'Twickenham Museum', u'ORG'], [u'Faraday', u'DATE'], [u'Faraday House', u'ORG'], [u'June 2006', u'DATE'], [u'Faraday', u'ORG'], [u'Hampton Court', u'ORG'], [u'August 25, 1867', u'DATE']]
-Twickenham Museum on Faraday and Faraday House, Accessed June 2006 Faraday died at his house at Hampton Court on August 25, 1867.
+Accessed June 2006 Faraday
 
 Where does the word "violin" come from?	the Middle Latin word vitula	S09/data/set2/a2
 
@@ -1986,8 +1942,7 @@ yes
 
 Legge sulle fonti del diritto of what?	NULL	S09/data/set5/a9
 
-QUESTION TYPE: 4
-Each of these foreign letters has an Italian equivalent spelling: gi for j, c or ch for k, u or v for w (depending on what sound it makes), s, ss, or cs for x, and i for y. Italian uses the acute accent over the letter E (as in perchÃ©, why/because) to indicate a front mid-closed vowel, and the grave accent (as in tÃ¨, tea) to indicate a front mid-open vowel.
+del Vaticano attached to the Acta Apostolicae Sedis.
 
 Is japanese language in the island?	NULL	S09/data/set5/a6
 
@@ -2020,7 +1975,7 @@ James Watt was born on 19th of January, 1736 in Greenock, a seaport on the Firth
 
 How do trumpets compensate for wolf tones?	Somce trumpetes have a slide mechanism built in to compensate.	S09/data/set2/a3
 
-Trumpet  The trumpet is a musical instrument with the highest register in the brass family.  /ref
+NULL
 
 How long do most foxes live?	2 to 3 years	S09/data/set1/a6
 
