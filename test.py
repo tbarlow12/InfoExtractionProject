@@ -124,7 +124,7 @@ def test_data():
     print 'Initializing Answerer'
     answerer = qa.answerer(testRoot)
     print 'Answerer Initialized'
-    print testAnswerer(answerer,testRoot + 'S10',False,False)
+    print testAnswerer(answerer,testRoot + 'S10',False,True)
 
 def main():
     if len(sys.argv) > 1:
