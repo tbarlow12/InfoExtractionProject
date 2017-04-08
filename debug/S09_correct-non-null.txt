@@ -14,6 +14,14 @@ Is there a Becquerel crater on the Moon for radioactivity?	Yes	S09/data/set4/a9
 
 yes
 
+Pasan en consecuencia , las palabras que comienzan por estas dos letras , o que las contienen , a alfabetizarse en los lugares que les corresponden dentro de la c y de la l , respectivamente ?	NULL	S09/data/set5/a8
+
+NULL
+
+In what country is Chinese language located?	NULL	S09/data/set5/a7
+
+NULL
+
 Is turtle soup considered a delicacy?	yes	S09/data/set1/a4
 
 yes
@@ -22,6 +30,10 @@ Was Anders Celsius  ( November 27 ,  1701  April 25 ,  1744  ) a Swedish  astron
 
 yes
 
+How many offspring did Chinese language have?	NULL	S09/data/set5/a7
+
+NULL
+
 Is it true that he published his invention of the Voltaic pile battery?	Yes	S09/data/set4/a10
 
 yes
@@ -29,6 +41,10 @@ yes
 Is the National University of San Marcos in Lima?	Yes.	S09/data/set3/a4
 
 yes
+
+Where are the circumstances complicated?	NULL	S09/data/set5/a6
+
+NULL
 
 Do otters enjoy playing?	yes	S09/data/set1/a7
 
@@ -42,13 +58,25 @@ Are local variations in the formal written version of the language quite limited
 
 yes
 
+Refer most chinese and chinese linguists to chinese as a single language and Chinese language`s subdivisions dialects , while others call chinese a language family ?	NULL	S09/data/set5/a7
+
+NULL
+
 Are books, magazines, and newspapers written in English available?	yes	S09/data/set5/a1
 
 yes
 
+What is Italian language`s last name?	NULL	S09/data/set5/a9
+
+NULL
+
 Do both sexes of giraffe have horns?	yes	S09/data/set1/a5
 
 yes
+
+How many years ago was an interterritorial conference held at Mombasa ?	NULL	S09/data/set5/a4
+
+NULL
 
 Was Henri Becquerel a French physicist?	Yes	S09/data/set4/a9
 
@@ -69,6 +97,14 @@ yes
 Is a bee an insect?	yes	S09/data/set1/a8
 
 yes
+
+Give dictionaries the latter as an alternative pronunciation ?	NULL	S09/data/set5/a9
+
+NULL
+
+The deeper  the blue  is, is the more  predominant?	NULL	S09/data/set5/a8
+
+NULL
 
 Are swan birds of the family Anatidae?	Yes	S09/data/set1/a10
 
@@ -150,6 +186,18 @@ Did old English develop into Middle English?	Yes	S09/data/set5/a1
 
 yes
 
+Italian retained the contrast between what?	NULL	S09/data/set5/a9
+
+NULL
+
+The pronunciation of the phoneme / u / stands between what?	NULL	S09/data/set5/a4
+
+NULL
+
+Will a japanese person use vocabulary and inflections of the honorific register to refer to the in-group superior and Japanese language`s or Japanese language`s speech and actions ?	NULL	S09/data/set5/a6
+
+NULL
+
 Did the modern hi-hat evolve from clash cymbals?	Yes	S09/data/set2/a6
 
 yes
@@ -190,6 +238,10 @@ Is french descendant of the Latin language?	Yes	S09/data/set5/a5
 
 yes
 
+Can the title of this famous 1811 paper be roughly translated into English as "essay on determining the Relative Masses of the Elementary Molecules of Bodies" ?	Yes.	S09/data/set4/a8
+
+yes
+
 Was Michael Faraday an English chemist?	yes	S09/data/set4/a7
 
 yes
@@ -197,6 +249,10 @@ yes
 Does the giant otter live in South America?	yes	S09/data/set1/a7
 
 yes
+
+What is Swahili language`s last name?	NULL	S09/data/set5/a4
+
+NULL
 
 Do foxes damage fruit on farms?	No	S09/data/set1/a6
 
@@ -206,6 +262,14 @@ Is London the capital of the United Kingdom?	Yes	S09/data/set3/a1
 
 yes
 
+Can a xylophone be 3 octaves?	yes	S09/data/set2/a8
+
+yes
+
+Will , the vowel sounds be pronounced separately) ?	NULL	S09/data/set5/a9
+
+NULL
+
 Was celsius born in Uppsala  in Sweden?	yes	S09/data/set4/a5
 
 yes
@@ -214,9 +278,21 @@ Does english grammar have minimal inflection?	Yes	S09/data/set5/a1
 
 yes
 
+Can the origins of cymbals be traced back to prehistoric times?	Yes	S09/data/set2/a6
+
+yes
+
+What is Japanese language`s first name?	NULL	S09/data/set5/a6
+
+NULL
+
 Are tortoises land based?	yes	S09/data/set1/a4
 
 yes
+
+What is Italian language`s first name?	NULL	S09/data/set5/a9
+
+NULL
 
 Was the Italian 10.000 lira banknote created before the euro?	yes	S09/data/set4/a10
 
@@ -226,6 +302,10 @@ Do swans feature strongly in mythology?	Yes	S09/data/set1/a10
 
 yes
 
+Where does swahili grammar arrange nouns?	NULL	S09/data/set5/a4
+
+NULL
+
 Is the stressed  syllable called the nuclear  syllable?	yes	S09/data/set5/a1
 
 yes
@@ -234,7 +314,15 @@ Are bees related to ants?	yes	S09/data/set1/a8
 
 yes
 
+When is /ref>	NULL	S09/data/set5/a4
+
+NULL
+
 Do Terrestrial tortoises have short feet?	yes	S09/data/set1/a4
+
+yes
+
+Can the origins of cymbals be traced to prehistoric times?	Yes	S09/data/set2/a6
 
 yes
 
@@ -282,6 +370,10 @@ Was Faraday born in England?	yes	S09/data/set4/a7
 
 yes
 
+However, is English the official  language?	NULL	S09/data/set5/a8
+
+NULL
+
 Is the electrolyte sulphuric acid?	Yes	S09/data/set4/a10
 
 yes
@@ -318,6 +410,14 @@ Do most Japanese people employ politeness?	yes	S09/data/set5/a6
 
 yes
 
+What was Japanese language`s profession?	NULL	S09/data/set5/a6
+
+NULL
+
+What was Swahili language`s profession?	NULL	S09/data/set5/a4
+
+NULL
+
 Is it a disadvantage for something to be unsafe to handle?	yes	S09/data/set4/a10
 
 yes
@@ -329,6 +429,10 @@ yes
 Is The Celsius  crater  on the Moon named after him?	yes	S09/data/set4/a5
 
 yes
+
+What is the population of Chinese language?	NULL	S09/data/set5/a7
+
+NULL
 
 Is University of Dhaka the largest public university in Dhaka?	Yes	S09/data/set3/a3
 
@@ -357,6 +461,10 @@ yes
 Is a third  prefix the object  prefix?	Yes	S09/data/set5/a4
 
 yes
+
+May the idea of Chinese as a language family suggest that the chinese identity is much more fragmentary and disunified than Chinese language actually is and as such is often looked upon as culturally and politically provocative ?	NULL	S09/data/set5/a7
+
+NULL
 
 Have cymbals been used historically to suggest bacchanal?	Yes	S09/data/set2/a6
 
@@ -406,6 +514,10 @@ Does the diet of foxes include reptiles?	Yes	S09/data/set1/a6
 
 yes
 
+Thus , can polite korean speech sound very presumptuous when translated verbatim into Japanese , as in korean Japanese language is acceptable and normal to say things like "our Mr ?	NULL	S09/data/set5/a6
+
+NULL
+
 Did Volta have a passion for the study of electricity?	yes	S09/data/set4/a10
 
 yes
@@ -413,6 +525,18 @@ yes
 Is the violin cello a bowed string instrument?	yes	S09/data/set2/a9
 
 yes
+
+Can you meet someone through attending a church?	yes	S09/data/set4/a7
+
+yes
+
+The most  widespread is the Palladius  system?	NULL	S09/data/set5/a7
+
+NULL
+
+In North Korea, has Hanja been discontinued?	NULL	S09/data/set5/a7
+
+NULL
 
 Was his father member of the Sandemanian sect?	yes	S09/data/set4/a7
 
@@ -426,6 +550,22 @@ Do male giraffes weigh more than female giraffes?	yes	S09/data/set1/a5
 
 yes
 
+Can a short bar follow a long bar?	no	S09/data/set2/a8
+
+no
+
+What is Swahili language`s first name?	NULL	S09/data/set5/a4
+
+NULL
+
+What was Chinese language`s profession?	NULL	S09/data/set5/a7
+
+NULL
+
+What kind of instrument is the spanish language?	NULL	S09/data/set5/a8
+
+NULL
+
 Is volta buried in the city  of Como?	Yes	S09/data/set4/a10
 
 yes
@@ -433,6 +573,10 @@ yes
 Is it true that his passion been always the study of electricity?	Yes	S09/data/set4/a10
 
 yes
+
+When are most of these groups mutually unintelligible?	NULL	S09/data/set5/a7
+
+NULL
 
 Are panthers a type of tiger?	No	S09/data/set1/a3
 
@@ -446,6 +590,14 @@ Have managed populations of European honey bees experienced substantial declines
 
 yes
 
+What was Italian language`s profession?	NULL	S09/data/set5/a9
+
+NULL
+
+: give "please Japanese language to Mr ?	NULL	S09/data/set5/a6
+
+NULL
+
 Is english an intonation  language?	Yes	S09/data/set5/a1
 
 yes
@@ -453,6 +605,18 @@ yes
 Are violins a single size?	No	S09/data/set2/a2
 
 no
+
+So can Italian language hear "istÃ nbul " or "Ãstanbul" ?	NULL	S09/data/set5/a9
+
+NULL
+
+Where did Swahili language die?	NULL	S09/data/set5/a4
+
+NULL
+
+Allow the common features of the writing systems of the Romance languages for a greater amount of interlingual reading comprehension than oral communication would ?	NULL	S09/data/set5/a8
+
+NULL
 
 Is it true that one-fifth of world population speak some form of Chinese?	yes	S09/data/set5/a7
 
@@ -482,6 +646,10 @@ Is it possible to open flutes at one or both ends?	Yes	S09/data/set2/a5
 
 yes
 
+I.e "yamato words ") , which in scholarly contexts is sometimes referred to as ( or rarely , i.e "yamato words " -rrb- , which in scholarly contexts is sometimes referred to as -lrb- or rarely , vp ? ?	NULL	S09/data/set5/a6
+
+NULL
+
 Has the name Pascal been given to the SI unit of pressure?	yes	S09/data/set4/a4
 
 yes
@@ -490,9 +658,25 @@ Was his 1800  paper written in French?	Yes	S09/data/set4/a10
 
 yes
 
+What is Chinese language`s first name?	NULL	S09/data/set5/a7
+
+NULL
+
 Are vowels never reduced , regardless of stress ?	Yes	S09/data/set5/a4
 
 yes
+
+Where is this letter silent?	NULL	S09/data/set5/a9
+
+NULL
+
+What is Chinese language`s last name?	NULL	S09/data/set5/a7
+
+NULL
+
+Where is it an official language?	NULL	S09/data/set5/a5
+
+NULL
 
 Is it true that Volta married the daughter of Count Ludovico Peregrini?	Yes	S09/data/set4/a10
 
@@ -502,9 +686,17 @@ Does Beijing mean "northern capital"?	yes	S09/data/set3/a7
 
 yes
 
+Where did Italian language die?	NULL	S09/data/set5/a9
+
+NULL
+
 Is Lima the capital of Peru?	Yes.	S09/data/set3/a4
 
 yes
+
+The Mandarin dialects in which location have experienced a dramatic decrease in sounds and so have far more multisyllabic words than most other spoken varieties?	NULL	S09/data/set5/a7
+
+NULL
 
 Did Faraday discover the chemical substance benzene?	yes	S09/data/set4/a7
 
@@ -578,6 +770,10 @@ Is Santiago the national capital of a country?	Yes	S09/data/set3/a6
 
 yes
 
+France signed the European Charter for what?	NULL	S09/data/set5/a5
+
+NULL
+
 Is Ottawa on a river?	yes	S09/data/set3/a5
 
 yes
@@ -606,9 +802,21 @@ Was Tesla hired by Edison?	yes	S09/data/set4/a3
 
 yes
 
+May a native of Guangzhou speak Standard Cantonese and putonghua , a resident of Taiwan , both taiwanese and putonghua/guoyu ?	NULL	S09/data/set5/a7
+
+NULL
+
 Is Dhaka located on the eastern banks of the Buriganga River?	Yes	S09/data/set3/a3
 
 yes
+
+How many offspring did Italian language have?	NULL	S09/data/set5/a9
+
+NULL
+
+Pronouns in which location are marked for person , number and gender?	NULL	S09/data/set5/a3
+
+NULL
 
 What is the smallest species of fox?	the Fennec Fox	S09/data/set1/a6
 
@@ -630,9 +838,17 @@ Did Faraday construct the ancestor of modern power generators?	yes	S09/data/set4
 
 yes
 
+Japanese borrowed a considerable number of what?	NULL	S09/data/set5/a6
+
+NULL
+
 Was Lombardy under Napoleon's rule in 1800?	yes	S09/data/set4/a10
 
 yes
+
+Swahili unusual?	NULL	S09/data/set5/a4
+
+NULL
 
 Was Tesla regarded as a mad scientist?	yes	S09/data/set4/a3
 
@@ -641,6 +857,10 @@ yes
 Does a classical lyre have a fingerboard?	Yes	S09/data/set2/a10
 
 yes
+
+Where do about 400 million people speak Spanish?	NULL	S09/data/set5/a8
+
+NULL
 
 Was the Luther Bible by Martin Luther printed?	Yes	S09/data/set5/a2
 
@@ -665,6 +885,10 @@ yes
 Was there a cholera outbreak in 1832?	yes	S09/data/set3/a5
 
 yes
+
+How many years ago was it when the rulers of Zanzibar organized trading expeditions into the interior of the mainland , up to the various lakes in the continent `s Great Rift Valley?	NULL	S09/data/set5/a4
+
+NULL
 
 Are cellos constructed with glue?	yes	S09/data/set2/a9
 

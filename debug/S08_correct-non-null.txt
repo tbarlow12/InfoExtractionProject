@@ -1,3 +1,7 @@
+	NULL	S08/data/set4/a10
+
+NULL
+
 What happened in the election of 1816?	Monroe was elected president	S08/data/set3/a2
 
 Monroe was elected president
@@ -11,6 +15,10 @@ Do singaporeans enjoy squid?	yes	S08/data/set2/a2
 yes
 
 Did Coolidge meet and marry Grace Anna Goodhue?	yes	S08/data/set3/a9
+
+yes
+
+Can women legally drive in Qatar?	yes	S08/data/set2/a3
 
 yes
 
@@ -33,6 +41,10 @@ yes
 Is it true that romania has a population of 21,698,181?	Yes	S08/data/set2/a7
 
 yes
+
+Who did James Monroe marry?	Elizabeth Kortright	S08/data/set3/a2
+
+Elizabeth Kortright
 
 Who lost control of his party to the agrarians and silverites in 1896?	Grover Cleveland	S08/data/set3/a6
 
@@ -114,6 +126,14 @@ Was Celsius born in Uppsala in Sweden ?	Yes	S08/data/set4/a5
 
 yes
 
+Can otters survive in cold water?	Yes	S08/data/set1/a7
+
+yes
+
+(NNP Harding #)(NNP Death )))(PP (IN in )(NP (NP (NN office ))(PP (IN for )(NP (DT a )(JJ full )(NN description )(NNP Vice )(NNP President )(person (NNP Coolidge ))))))))(VP (VP (VBD was )(VP (VBG visiting )(NP (PRP$ his )(NN family )(NN home ))))(, , )(SBAR (WHNP (WDT which ))(S (VP (VBD did )(RB not )(VP (VB have )(NP (NP (NN electricity ))(CC or )(NP (DT a )(NN telephone )))(, , )(PP (IN in )(NP (location (NNP Vermont ))))(SBAR (WHADVP (WRB when ))(S (NP (PRP he ))(VP (VBD received )(NP (NP (NN word ))(PP (IN of )(NP (NP (NNP Harding )(POS 's ))(NN death ))))))))))))))(. . )))	NULL	S08/data/set3/a9
+
+NULL
+
 Are turtles ectothermic?	yes	S08/data/set1/a9
 
 yes
@@ -170,6 +190,14 @@ Did he die at 11:10 p.m. on March 8, 1874, of the after-effects of a stroke?	yes
 
 yes
 
+Can larger penguins dive deep in case of need ?	Yes	S08/data/set1/a3
+
+yes
+
+Volta became professor of physics in the Como high school in what year?	NULL	S08/data/set4/a10
+
+NULL
+
 Is the Polar Bear the mascot of Bowdoin college ?	yes	S08/data/set1/a4
 
 yes
@@ -178,6 +206,10 @@ Was James Cook the first to record the name "Kangooroo?"	Yes	S08/data/set1/a1
 
 yes
 
+What Eves?	NULL	S08/data/set4/a1
+
+NULL
+
 Are turtles being examined for longevity genes?	yes	S08/data/set1/a9
 
 yes
@@ -185,6 +217,10 @@ yes
 Is -RRB- , officially the state of qatar -LRB- arabic (: : transliterated as dawlat qatar -RRB- , an arab emirate in southwest asia?	Yes	S08/data/set2/a3
 
 yes
+
+Who suggested Lincoln grow a beard?	Grace Bedell.	S08/data/set3/a4
+
+Grace Bedell
 
 Who has its own political legislature and governor ?	each province	S08/data/set2/a10
 
@@ -354,6 +390,14 @@ Are the Pleurodira sometimes known as the side-necked turtles , a reference to t
 
 yes
 
+HWhat happened at the electromotive force -LRB- emf -RRB- of a galvanic cell?	NULL	S08/data/set4/a10
+
+NULL
+
+What are a rumors that he remained a virgin?	NULL	S08/data/set4/a1
+
+NULL
+
 Is it true that he shared the nobel prize in physics?	yes	S08/data/set4/a9
 
 yes
@@ -490,6 +534,10 @@ Did Romania declare neutrality during World War I?	Yes	S08/data/set2/a7
 
 yes
 
+What did Isaac Newton place at 3 April, AD 33, which agrees with one traditionally accepted date?	NULL	S08/data/set4/a1
+
+NULL
+
 Is Ghana's head of state John Agyekum Kufuor?	Yes	S08/data/set2/a5
 
 yes
@@ -598,6 +646,10 @@ Is Ford one of only four former Presidents to live to 90 or more years of age ?	
 
 yes
 
+NOTTTT  FOUND	NULL	S08/data/set4/a10
+
+NULL
+
 The Historical Society of the Principality of Liechtenstein plays what?	a role in preserving the culture and history of the country.	S08/data/set2/a1
 
 a role in preserving the culture and history of the country.
@@ -642,6 +694,10 @@ Who represented the Continental Congress in Europe?	John Adams	S08/data/set3/a1
 
 John Adams
 
+Who was the first gymnast to score a perfect "ten"?	Nadia ComÄneci	S08/data/set2/a7
+
+Nadia ComÄneci
+
 Was the game of Marn grook played using a ball made from kangaroo by the Kurnai people ?	yes	S08/data/set1/a1
 
 yes
@@ -683,6 +739,10 @@ Is Egypt bordered by the Gaza Strip?	Yes	S08/data/set2/a6
 yes
 
 Is Fillmore the first of two presidents to have been an indentured servant ?	yes	S08/data/set3/a3
+
+yes
+
+Can turtles take many years to reach breeding age ?	yes	S08/data/set1/a9
 
 yes
 
@@ -767,6 +827,10 @@ Did the Japanese invasion and subsequent occupation during WWII end Dutch rule?	
 yes
 
 Is it the world 's largest archipelagic state?	yes	S08/data/set2/a10
+
+yes
+
+Can beetles be found in almost all habitats?	Yes.	S08/data/set1/a8
 
 yes
 
@@ -858,6 +922,10 @@ Is it true that thermometer had 100 for the freezing point?	Yes	S08/data/set4/a5
 
 yes
 
+What did Coolidge address in 1924?	NULL	S08/data/set3/a9
+
+NULL
+
 Are wolves built for stamina?	Yes	S08/data/set1/a6
 
 yes
@@ -897,6 +965,14 @@ yes
 Is Romania a secular state?	Yes	S08/data/set2/a7
 
 yes
+
+Who was defeated for re-election in the`` Revolution of 1800'' by Thomas Jefferson?	John Adams	S08/data/set3/a1
+
+John Adams
+
+Who appointed Harlan Fiske Stone to the Supreme Court?	Coolidge	S08/data/set3/a9
+
+Coolidge
 
 Did Ford need to do extra work to pay for college?	yes	S08/data/set3/a10
 
@@ -951,6 +1027,10 @@ Are leopards circular?	No	S08/data/set1/a2
 no
 
 Are there at least two films describing Tesla 's life ?	Yes.	S08/data/set4/a3
+
+yes
+
+Can these allophones not occur in these positions in english?	yes	S08/data/set2/a3
 
 yes
 
@@ -1058,6 +1138,10 @@ Have penguins an average sense of hearing for birds ?	Yes	S08/data/set1/a3
 
 yes
 
+Can an elephant kill a rhinoceros?	yes	S08/data/set1/a5
+
+yes
+
 Are all penguins countershaded?	Yes	S08/data/set1/a3
 
 yes
@@ -1077,6 +1161,10 @@ yes
 Did Uruguay host the first ever World Cup?	Yes	S08/data/set2/a9
 
 yes
+
+When did he become professor?	NULL	S08/data/set4/a10
+
+NULL
 
 Did Theodore Roosevelt go to Harvard?	Yes	S08/data/set3/a7
 
@@ -1150,6 +1238,10 @@ Is Uruguay located in South America?	Yes	S08/data/set2/a9
 
 yes
 
+Can a panther be any of several species of large felid?	Yes	S08/data/set1/a2
+
+yes
+
 Did Wilson have any siblings?	yes	S08/data/set3/a8
 
 yes
@@ -1189,6 +1281,14 @@ yes
 Is the capital city Oslo?	No	S08/data/set2/a4
 
 no
+
+Can citizens propose changes to the Constitution?	Yes	S08/data/set2/a9
+
+yes
+
+Who did Millard Fillmore fall in love with?	Abigail Powers	S08/data/set3/a3
+
+Abigail Powers
 
 Was Grover Cleveland elected Sheriff of Erie County, New York?	yes	S08/data/set3/a6
 

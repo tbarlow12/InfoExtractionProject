@@ -153,6 +153,13 @@ def get_subjects(doc):
             verbs.add(possible_subject.lemma_)
     return verbs
 
+def get_subjects_list(doc):
+    verbs = []
+    for possible_subject in doc:
+        if possible_subject.dep == nsubj and possible_subject.head.pos == VERB:
+            verbs.append(possible_subject)
+    return verbs
+
 def index_of_sentence(sentences,sentence):
     for i in range(0,len(sentences)):
         if sentences[i].text == sentence.text:
@@ -171,6 +178,14 @@ def get_objects(doc):
     for possible_object in doc:
         if (possible_object.dep == dobj or possible_object.dep == pobj) and possible_object.head.pos == VERB:
             objects.add(possible_object.lemma_)
+    return objects
+
+
+def get_objects_list(doc):
+    objects = []
+    for possible_object in doc:
+        if (possible_object.dep == dobj or possible_object.dep == pobj) and possible_object.head.pos == VERB:
+            objects.append(possible_object)
     return objects
 
 def is_semi_match(question,sentence):
@@ -223,6 +238,32 @@ def get_first_entity_with_label(items,label):
             if ent.label_ == label:
                 return ent
     return None
+
+def get_first_entity_in_label_set(sentence,label_set):
+    for ent in sentence.ents:
+        if ent.label_ in label_set:
+            return ent
+    return None
+
+def get_subj_obj(type_set,sentence):
+    if nsubj in type_set:
+        subjects = get_subjects_list(sentence)
+        if subjects is not None and len(subjects) > 0:
+            return subjects[0]
+    elif dobj in type_set:
+        objects - get_objects_list(sentence)
+        if objects is not None and len(objects) > 0:
+            return objects[0]
+    return None
+
+
+
+def get_last_entity_in_label_set(sentence,label_set):
+    entity = None
+    for ent in sentence.ents:
+        if ent.label_ in label_set:
+            entity = ent
+    return entity
 
 def get_first_entity_with_label_in_sentence(sentence,label):
     for ent in sentence.ents:
@@ -369,6 +410,8 @@ def get_answer_type(question):
         return [0]
     if t1 == 'do':
         #true-false
+        return [0]
+    if t1 == 'can':
         return [0]
     if t1 == 'who':
         #person

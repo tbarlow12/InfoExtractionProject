@@ -36,7 +36,11 @@ def find_answer(question, sentences):
     substitution = h.find_substitution(question, sentences)
     if substitution is not None:
         return substitution.text
+
     answer_type = h.get_answer_type(question)
+
+
+
     transformed = h.transform_question(question)
 
     #if 'theory of molarity' in question.text.lower():
@@ -69,9 +73,27 @@ def find_answer(question, sentences):
                     sentence_index -= 1
             else:
                 return candidate.text
+        else:
+            '''
+            subj_obj = h.get_subj_obj(answer_type[1],sentence)
+            if subj_obj is not None:
+                return subj_obj.text
+            '''
+
+            if nsubj in answer_type[1]:
+                ent = h.get_first_entity_in_label_set(sentence,answer_type[2])
+                if ent is not None:
+                    return ent.text
+
+            if pobj in answer_type[1]:
+                ent = h.get_last_entity_in_label_set(sentence,answer_type[2])
+                if ent is not None:
+                    return ent.text
+
+
         entities = h.get_entities(sentence)
         #print entities
-        return 'ENTITY QUESTION: ' + str(entities) + '\n' + sentence.text
+        #return 'ENTITY QUESTION: ' + str(entities) + '\n' + sentence.text
     elif answer_type[0] == 2:
         search = answer_type[1]
         tokens = list(sentence)
@@ -94,8 +116,8 @@ def find_answer(question, sentences):
             if len(answers2) > 0:
                 return answers[0].strip()
             return answers[0].strip()
-    else:
-        return 'QUESTION TYPE: ' + str(answer_type[0]) + '\n' + sentence.text
+    #else:
+        #return 'QUESTION TYPE: ' + str(answer_type[0]) + '\n' + sentence.text
 
     #return sentence.text
     return 'NULL'
