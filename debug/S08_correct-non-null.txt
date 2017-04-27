@@ -22,6 +22,10 @@ Can women legally drive in Qatar?	yes	S08/data/set2/a3
 
 yes
 
+Why did Roosevelt start Boxing lessons?	To deal with bullies	S08/data/set3/a7
+
+To deal with bullies
+
 Had Monroe racked up many debts during his years of public life ?	yes	S08/data/set3/a2
 
 yes

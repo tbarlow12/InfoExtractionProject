@@ -98,10 +98,6 @@ What did Jefferson call John Adams?	Colossus of Independence	S08/data/set3/a1
 
 Massachusetts
 
-Why did Roosevelt start Boxing lessons?	To deal with bullies	S08/data/set3/a7
-
-NULL
-
 How does a Mallard's tongue work?	It uses short spikes to push struggling prey and other food down its throat	S08/data/set1/a10
 
 NULL
@@ -640,7 +636,7 @@ yes
 
 How do elephants communicate over long distances?	By producing and receiving low-frequency sound (infrasound)	S08/data/set1/a5
 
-NULL
+Bruce Bagemihl, Biological Exuberance: Animal Homosexuality and Natural Diversity, St. Martin's Press, 1999; pp.427-430
 
 Is Adams' birthplace part of a national park?	Yes	S08/data/set3/a1
 

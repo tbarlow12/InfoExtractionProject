@@ -19,8 +19,12 @@ This folder contains the source code that I wrote, as well as the datasets I use
 --RUNNING THE PROGRAM--
 
 At runtime, the script fetches those libraries and uses them in the algorithm
-To run, type the following command into a CADE lab Linux terminal:
+To run the program with the development sets, type the following command into a CADE lab Linux terminal:
 
 sh qa.sh
+
+To run the program with the test set, type the following command into a CADE lab Linux terminal:
+
+sh full.sh
 
 I have tested to be sure that permissions are open for the necessary folders.

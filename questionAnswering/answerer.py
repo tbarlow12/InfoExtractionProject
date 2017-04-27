@@ -41,6 +41,7 @@ def find_answer(question, sentences):
 
 
 
+
     transformed = h.transform_question(question)
 
     #if 'theory of molarity' in question.text.lower():
@@ -48,6 +49,7 @@ def find_answer(question, sentences):
     sentence = h.find_exact_match(transformed, sentences)
 
     if sentence is not None:
+
         if answer_type[0] == 0:
             return 'yes'
     else:
@@ -90,20 +92,14 @@ def find_answer(question, sentences):
                 if ent is not None:
                     return ent.text
 
-
-        entities = h.get_entities(sentence)
-        #print entities
-        #return 'ENTITY QUESTION: ' + str(entities) + '\n' + sentence.text
     elif answer_type[0] == 2:
+        if 'boxing' in question.text.lower():
+            pdb.set_trace()
         search = answer_type[1]
         tokens = list(sentence)
         s_index = h.index_of_range(sentence,search)
         if s_index[0] > 0:
-            pass
-            #print sentence
-            #print question
-            #pdb.set_trace()
-
+            return sentence[0:s_index[0]-1].text
 
     elif answer_type[0] == 3:
         text = sentence.text
@@ -114,6 +110,7 @@ def find_answer(question, sentences):
             r2 = re.compile('(the [^,.;:!?]+)' + search,re.IGNORECASE)
             answers2 = r2.findall(text)
             if len(answers2) > 0:
+                pdb.set_trace()
                 return answers[0].strip()
             return answers[0].strip()
     #else:
